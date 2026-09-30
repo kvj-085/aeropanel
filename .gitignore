@@ -3,3 +3,4 @@
 __pycache__/
 .env.example
 .venv/
+data/sam_snapshots/SAM_active_2026-09-30_v1.csv
