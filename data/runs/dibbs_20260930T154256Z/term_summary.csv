@@ -1,0 +1,53 @@
+first_solicitation,earliest_issued_seen,latest_issued_seen,term,records_reported,pages_fetched,solicitations_retrieved,lines_parsed,sort,complete,stop_reason,status
+SPE8E526T4503,2018-01-17,2026-09-30,PANEL,1084,11,1084,1186,unchanged (Best Match) (options: Best Match | Newly Posted to Oldest | Oldest Posted to Newest),True,all pages retrieved,SUCCESS
+SPE7M426T443W,2026-06-02,2026-09-25,CONTROL HEAD,3,1,3,3,unchanged (Best Match) (options: Best Match | Newly Posted to Oldest | Oldest Posted to Newest),True,all pages retrieved,SUCCESS
+,,,LIGHTPLATE,0,1,0,0,unchanged (Best Match) (options: Best Match | Newly Posted to Oldest | Oldest Posted to Newest),True,all pages retrieved,SUCCESS
+SPE7M425U0344,2025-08-29,2025-08-29,LIGHT PLATE,1,1,1,1,unchanged (Best Match) (options: Best Match | Newly Posted to Oldest | Oldest Posted to Newest),True,all pages retrieved,SUCCESS
+,,,HIDDEN UNTIL LIT,0,1,0,0,unchanged (Best Match) (options: Best Match | Newly Posted to Oldest | Oldest Posted to Newest),True,all pages retrieved,SUCCESS
+SPE4A726U0002,2026-06-09,2026-06-09,MIL-DTL-7788,1,1,1,1,unchanged (Best Match) (options: Best Match | Newly Posted to Oldest | Oldest Posted to Newest),True,all pages retrieved,SUCCESS
+SPE4A526T416U,2025-10-24,2026-09-10,BEZEL,17,1,17,19,unchanged (Best Match) (options: Best Match | Newly Posted to Oldest | Oldest Posted to Newest),True,all pages retrieved,SUCCESS
+SPE8E626T3417,2026-05-01,2026-09-11,FACEPLATE,3,1,3,3,unchanged (Best Match) (options: Best Match | Newly Posted to Oldest | Oldest Posted to Newest),True,all pages retrieved,SUCCESS
+SPE1C126T1677,2026-08-06,2026-09-30,FACE PLATE,4,1,4,7,unchanged (Best Match) (options: Best Match | Newly Posted to Oldest | Oldest Posted to Newest),True,all pages retrieved,SUCCESS
+SPE7M326T7997,2026-05-28,2026-08-07,ESCUTCHEON,2,1,2,2,unchanged (Best Match) (options: Best Match | Newly Posted to Oldest | Oldest Posted to Newest),True,all pages retrieved,SUCCESS
+SPE8E526T4422,2025-10-30,2026-09-30,OVERLAY,5000,20,2000,2054,unchanged (Best Match) (options: Best Match | Newly Posted to Oldest | Oldest Posted to Newest),False,stopped at --max-pages 20,SUCCESS
+SPE4A726T663L,2024-06-07,2026-09-30,DIAL,364,4,364,444,unchanged (Best Match) (options: Best Match | Newly Posted to Oldest | Oldest Posted to Newest),True,all pages retrieved,SUCCESS
+SPE8E626Q0691,2024-09-18,2026-09-30,LENS,287,3,287,302,unchanged (Best Match) (options: Best Match | Newly Posted to Oldest | Oldest Posted to Newest),True,all pages retrieved,SUCCESS
+SPE7L326T295J,2022-09-23,2026-09-30,WINDOW,292,3,292,340,unchanged (Best Match) (options: Best Match | Newly Posted to Oldest | Oldest Posted to Newest),True,all pages retrieved,SUCCESS
+SPE4A726T651B,2026-01-26,2026-09-29,NVIS,6,1,6,6,unchanged (Best Match) (options: Best Match | Newly Posted to Oldest | Oldest Posted to Newest),True,all pages retrieved,SUCCESS
+SPE4A626T21MQ,2019-03-27,2026-09-30,LAMP,310,4,310,319,unchanged (Best Match) (options: Best Match | Newly Posted to Oldest | Oldest Posted to Newest),True,all pages retrieved,SUCCESS
+SPE7M126T7970,2018-09-19,2026-09-30,HOUSING,696,7,696,797,unchanged (Best Match) (options: Best Match | Newly Posted to Oldest | Oldest Posted to Newest),True,all pages retrieved,SUCCESS
+SPE7L526Q0085,2020-01-31,2026-09-30,INDICATOR,1373,14,1373,1535,unchanged (Best Match) (options: Best Match | Newly Posted to Oldest | Oldest Posted to Newest),True,all pages retrieved,SUCCESS
+SPE4A626T30BK,2025-08-11,2026-09-16,ANNUNCIATOR,12,1,12,13,unchanged (Best Match) (options: Best Match | Newly Posted to Oldest | Oldest Posted to Newest),True,all pages retrieved,SUCCESS
+SPE8E726T3827,2026-01-23,2026-09-14,WARNING LIGHT,12,1,12,12,unchanged (Best Match) (options: Best Match | Newly Posted to Oldest | Oldest Posted to Newest),True,all pages retrieved,SUCCESS
+SPE8E726T3693,2014-10-15,2026-09-30,LIGHTING,494,5,494,611,unchanged (Best Match) (options: Best Match | Newly Posted to Oldest | Oldest Posted to Newest),True,all pages retrieved,SUCCESS
+SPE4A626T37WA,2025-04-07,2026-09-30,COCKPIT,19,1,19,20,unchanged (Best Match) (options: Best Match | Newly Posted to Oldest | Oldest Posted to Newest),True,all pages retrieved,SUCCESS
+,,,FORMATION LIGHT,0,1,0,0,unchanged (Best Match) (options: Best Match | Newly Posted to Oldest | Oldest Posted to Newest),True,all pages retrieved,SUCCESS
+,,,NAVIGATION LIGHT,0,1,0,0,unchanged (Best Match) (options: Best Match | Newly Posted to Oldest | Oldest Posted to Newest),True,all pages retrieved,SUCCESS
+SPE8E726T4031,2025-08-13,2026-09-30,NAVIGATIONAL,88,1,88,99,unchanged (Best Match) (options: Best Match | Newly Posted to Oldest | Oldest Posted to Newest),True,all pages retrieved,SUCCESS
+,,,POSITION LIGHT,0,1,0,0,unchanged (Best Match) (options: Best Match | Newly Posted to Oldest | Oldest Posted to Newest),True,all pages retrieved,SUCCESS
+,,,ANTI-COLLISION,0,1,0,0,unchanged (Best Match) (options: Best Match | Newly Posted to Oldest | Oldest Posted to Newest),True,all pages retrieved,SUCCESS
+,,,EXTERIOR LIGHT,0,1,0,0,unchanged (Best Match) (options: Best Match | Newly Posted to Oldest | Oldest Posted to Newest),True,all pages retrieved,SUCCESS
+SPE8E626T4766,2026-04-03,2026-09-30,BLACKOUT,7,1,7,7,unchanged (Best Match) (options: Best Match | Newly Posted to Oldest | Oldest Posted to Newest),True,all pages retrieved,SUCCESS
+,,,VEHICLE LIGHT,0,1,0,0,unchanged (Best Match) (options: Best Match | Newly Posted to Oldest | Oldest Posted to Newest),True,all pages retrieved,SUCCESS
+,,,WINGTIP,0,1,0,0,unchanged (Best Match) (options: Best Match | Newly Posted to Oldest | Oldest Posted to Newest),True,all pages retrieved,SUCCESS
+SPE4A526T386M,2026-02-12,2026-09-11,DROGUE,6,1,6,9,unchanged (Best Match) (options: Best Match | Newly Posted to Oldest | Oldest Posted to Newest),True,all pages retrieved,SUCCESS
+SPE7M826T6896,2024-02-07,2026-09-30,SWITCH,1522,16,1522,1600,unchanged (Best Match) (options: Best Match | Newly Posted to Oldest | Oldest Posted to Newest),True,all pages retrieved,SUCCESS
+SPE7M226T6802,2026-08-18,2026-09-16,PUSHBUTTON,3,1,3,3,unchanged (Best Match) (options: Best Match | Newly Posted to Oldest | Oldest Posted to Newest),True,all pages retrieved,SUCCESS
+SPE7M026T108A,2025-03-28,2026-09-30,PUSH BUTTON,66,1,66,68,unchanged (Best Match) (options: Best Match | Newly Posted to Oldest | Oldest Posted to Newest),True,all pages retrieved,SUCCESS
+SPE8EN26T1705,2025-06-06,2026-09-30,KEYBOARD,48,1,48,48,unchanged (Best Match) (options: Best Match | Newly Posted to Oldest | Oldest Posted to Newest),True,all pages retrieved,SUCCESS
+SPE4A526T457M,2026-08-27,2026-09-21,KEYPAD,4,1,4,4,unchanged (Best Match) (options: Best Match | Newly Posted to Oldest | Oldest Posted to Newest),True,all pages retrieved,SUCCESS
+SPE4A626Q0912,2023-08-23,2026-09-30,ACTUATOR,499,5,499,528,unchanged (Best Match) (options: Best Match | Newly Posted to Oldest | Oldest Posted to Newest),True,all pages retrieved,SUCCESS
+SPE4A626T00WT,2026-06-25,2026-06-25,DIMMER,1,1,1,1,unchanged (Best Match) (options: Best Match | Newly Posted to Oldest | Oldest Posted to Newest),True,all pages retrieved,SUCCESS
+SPE8ED26Q0666,2014-03-27,2026-09-30,PLATE,2534,20,2000,2147,unchanged (Best Match) (options: Best Match | Newly Posted to Oldest | Oldest Posted to Newest),False,stopped at --max-pages 20,SUCCESS
+SPE8E926T3163,2025-08-11,2026-08-06,NAMEPLATE,4,1,4,5,unchanged (Best Match) (options: Best Match | Newly Posted to Oldest | Oldest Posted to Newest),True,all pages retrieved,SUCCESS
+SPE7L126Q1695,2014-03-27,2026-09-29,LEGEND,176,2,176,243,unchanged (Best Match) (options: Best Match | Newly Posted to Oldest | Oldest Posted to Newest),True,all pages retrieved,SUCCESS
+SPE2DP26T5363,2018-01-17,2026-09-30,MARKING,5000,20,2000,2263,unchanged (Best Match) (options: Best Match | Newly Posted to Oldest | Oldest Posted to Newest),False,stopped at --max-pages 20,SUCCESS
+SPE2DS26T442B,2026-05-14,2026-09-16,ILLUMINATED,10,1,10,10,unchanged (Best Match) (options: Best Match | Newly Posted to Oldest | Oldest Posted to Newest),True,all pages retrieved,SUCCESS
+SPE4A526T259B,2024-08-16,2026-09-28,TACHOMETER,48,1,48,52,unchanged (Best Match) (options: Best Match | Newly Posted to Oldest | Oldest Posted to Newest),True,all pages retrieved,SUCCESS
+SPE4A526T465C,2026-07-17,2026-09-23,TORQUEMETER,3,1,3,3,unchanged (Best Match) (options: Best Match | Newly Posted to Oldest | Oldest Posted to Newest),True,all pages retrieved,SUCCESS
+SPE4A725Q0226,2024-03-01,2026-09-30,FUEL,3679,20,2000,2334,unchanged (Best Match) (options: Best Match | Newly Posted to Oldest | Oldest Posted to Newest),False,stopped at --max-pages 20,SUCCESS
+SPE2DH26T6074,2024-05-03,2026-09-30,TRANSDUCER,178,2,178,183,unchanged (Best Match) (options: Best Match | Newly Posted to Oldest | Oldest Posted to Newest),True,all pages retrieved,SUCCESS
+SPE4A526T481J,2024-03-11,2026-09-29,THERMOCOUPLE,28,1,28,28,unchanged (Best Match) (options: Best Match | Newly Posted to Oldest | Oldest Posted to Newest),True,all pages retrieved,SUCCESS
+SPE4A626T58R5,2024-05-07,2026-09-30,HARNESS,604,7,604,758,unchanged (Best Match) (options: Best Match | Newly Posted to Oldest | Oldest Posted to Newest),True,all pages retrieved,SUCCESS
+SPE4A626Q1468,2023-05-31,2026-09-30,CABLE ASSEMBLY,2390,20,2000,2315,unchanged (Best Match) (options: Best Match | Newly Posted to Oldest | Oldest Posted to Newest),False,stopped at --max-pages 20,SUCCESS
+SPE8E926Q0754,2014-06-04,2026-09-30,BOX,5000,20,2000,2524,unchanged (Best Match) (options: Best Match | Newly Posted to Oldest | Oldest Posted to Newest),False,stopped at --max-pages 20,SUCCESS

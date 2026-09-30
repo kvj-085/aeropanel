@@ -1,0 +1,368 @@
+FAQ/Help · Refs · My Account · Log In
+
+
+   Home       Solicitations       RFQs       RFP/IFB/Other RFQs       Tech Data       Downloads        Awards   
+
+
+Navigation: 
+Navigation/Documents - - - - - -
+Accessibility
+Awards Area
+- Awards by Award DT
+- Awards by Post DT
+- Market Ready Orders ®
+- Post Award Request (PAR)®
+Batch Quoting ®
+Batch Quoting File Format
+BidSets
+Contracts
+Delivery Orders
+FAQs
+Feedback
+Forecast ®
+FSC ~ DLA Managed
+Global Search
+Home Page
+Invitation For Bid (IFB) Area
+Log In Screen
+Master Solicitation (PAC)
+Notices/Message Board
+Post Award Request (PAR)®
+Quoting Help
+Quote Search ®
+Request For Proposal (RFP)Area
+Request For Quote (RFQ) Area
+- RFQs by Issue Date
+- RFQs by Return By Date
+- RFQs Recent
+References
+Registration
+Solicitations
+SRVA ®
+User(s) Profile Update ®
+Vendor Profile Update ®
+Welcome Page ®
+Regs / Supplement Extracts ---
+DFARS 225.502
+DFARS 252.211-7005
+DFARS 252.211-7006
+DFARS 252.223-7001
+DFARS 252.225-7001
+DFARS 252.225-7035
+DFARS 252.225-7036
+DLAD 52.211-9000
+DLAD 52.213-9000
+DLAD 52.217-9002
+DLAD 52.219-9015
+DLAD 52.223-9000
+DLAD 52.233-9001
+FAR 52.209-1
+FAR 52.211-5
+FAR 52.212-3
+FAR 52.219-1
+FAR 52.222-18
+FAR 52.222-22
+FAR 52.222-25
+FAR 52.222-26
+FAR 52.223-3
+ 
+
+Database Search: 
+Choose Search
+RFQs - NSN
+RFQs - Solicitation
+RFQs - PR
+-----------------------
+Awards - Awardee CAGE
+Awards - Award/Basic Number
+Awards - Delivery Order #
+Awards - NSN
+Awards - PR
+-----------------------
+RFP/IFB/Other RFQs - Solicitation
+RFP/IFB/Other RFQs - NSN
+-----------------------
+CAGE Search
+  Value: 
+
+
+Notice:   · Suspension of CMMC Phase II » Read Notice
+
+  Please read notices posted on the Notices page.
+
+
+  Location: Home » Solicitations » RFQs » RFQ Text Search
+[
+RFQ Search
+-
+Recent RFQs
+-
+RFQs by Issue Date
+-
+RFQs by Return By Date
+-
+RFQs by FSC
+]
+[ 273 ] 9/30/2026 12:11:42 PM
+
+
+
+Documents Indexed: 161,967
+
+Additional RFQ Text Search Help
+
+Found 4 records for this search query string.
+Modified: Any time
+
+
+
+1
+Solicitation Information	Product Data
+
+SPE4A526T457M.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	09-21-2026
+Return By:	09-28-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-09-21 12:15:48
+ 
+
+Purchase Request:	7018413605
+
+	
+
+NSN: 7025-01-658-7686   Nomenclature: KEYPAD,ALTERED
+
+
+   AMSC: R     	NAICS: 334610     	Quantity: 2     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+52088	N128717-1	LOCKHEED MARTIN CORPORATION
+52088	PL N122800-1 FIND NO 0003	LOCKHEED MARTIN CORPORATION
+
+
+
+
+
+SPE8E826T5340.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	08-28-2026
+Return By:	09-08-2026
+ 
+
+FOB Point:	Destination
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-27 08:49:08
+ 
+
+Purchase Request:	7017978185
+
+	
+
+NSN: 6350-01-738-5145   Nomenclature: KEYPAD,CONTROL-COMMUNI
+
+
+   AMSC: C     	NAICS: 000000     	Quantity: 20     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+1PNR4	14051-1000-64	L3HARRIS TECHNOLOGIES, INC.
+
+
+
+
+
+SPE8E826T5327.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	08-27-2026
+Return By:	09-08-2026
+ 
+
+FOB Point:	Destination
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-26 05:09:28
+ 
+
+Purchase Request:	7018038032, 7018038033
+
+	
+
+NSN: 6350-01-633-9168   Nomenclature: KEYPAD,CONTROL-COMM
+
+
+   AMSC: D     	NAICS: 335311     	Quantity: 2     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+12763	61200-230	DYNALEC CORPORATION
+
+
+
+
+
+SPE4A726T766S.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	09-18-2026
+Return By:	09-25-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-09-17 07:15:21
+ 
+
+Purchase Request:	7018379938
+
+	
+
+NSN: 5895-01-684-1351   Nomenclature: KIT DISPLAY UNIT AND K
+
+
+   AMSC: D     	NAICS: 334290     	Quantity: 13     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+7QAK7	11400-3070-01	L3HARRIS GLOBAL COMMUNICATIONS, INC
+
+
+
+
+1
+
+
+· RFQ Text Search
+Query String:
+
+
+
+Modified: 
+Any time
+last hour
+last day
+last 7 days
+last 30 days
+last 60 days
+last 90 days
+last 365 days
+	Sort: 
+Best Match
+Newly Posted to Oldest
+Oldest Posted to Newest
+
+Filter:
+  
+Automated Indefinite Delivery Contract (AIDC)
+
+
+  
+Items with Technical Documents
+
+
+  
+Fast Award Candidates
+
+
+  
+Small Business Set-Asides
+
+
+  
+HUBZone Set-Asides
+
+	
+  
+Service Disabled Veteran Owned
+      Small Business Set-Asides
+
+
+Woman Owned Small Business Set-Asides
+
+
+Economically Disadvantaged Women Owned Small Business Set-Asides
+
+
+Unrestricted/Not Set-Asides
+
+
+ 
+
+
+
+
+ 
+Policy Statements · Feedback
+   EOXD8AUZtkHO8wt7m812jA==
+   Ver.6.3.2
+

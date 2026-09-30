@@ -1,0 +1,741 @@
+FAQ/Help · Refs · My Account · Log In
+
+
+   Home       Solicitations       RFQs       RFP/IFB/Other RFQs       Tech Data       Downloads        Awards   
+
+
+Navigation: 
+Navigation/Documents - - - - - -
+Accessibility
+Awards Area
+- Awards by Award DT
+- Awards by Post DT
+- Market Ready Orders ®
+- Post Award Request (PAR)®
+Batch Quoting ®
+Batch Quoting File Format
+BidSets
+Contracts
+Delivery Orders
+FAQs
+Feedback
+Forecast ®
+FSC ~ DLA Managed
+Global Search
+Home Page
+Invitation For Bid (IFB) Area
+Log In Screen
+Master Solicitation (PAC)
+Notices/Message Board
+Post Award Request (PAR)®
+Quoting Help
+Quote Search ®
+Request For Proposal (RFP)Area
+Request For Quote (RFQ) Area
+- RFQs by Issue Date
+- RFQs by Return By Date
+- RFQs Recent
+References
+Registration
+Solicitations
+SRVA ®
+User(s) Profile Update ®
+Vendor Profile Update ®
+Welcome Page ®
+Regs / Supplement Extracts ---
+DFARS 225.502
+DFARS 252.211-7005
+DFARS 252.211-7006
+DFARS 252.223-7001
+DFARS 252.225-7001
+DFARS 252.225-7035
+DFARS 252.225-7036
+DLAD 52.211-9000
+DLAD 52.213-9000
+DLAD 52.217-9002
+DLAD 52.219-9015
+DLAD 52.223-9000
+DLAD 52.233-9001
+FAR 52.209-1
+FAR 52.211-5
+FAR 52.212-3
+FAR 52.219-1
+FAR 52.222-18
+FAR 52.222-22
+FAR 52.222-25
+FAR 52.222-26
+FAR 52.223-3
+ 
+
+Database Search: 
+Choose Search
+RFQs - NSN
+RFQs - Solicitation
+RFQs - PR
+-----------------------
+Awards - Awardee CAGE
+Awards - Award/Basic Number
+Awards - Delivery Order #
+Awards - NSN
+Awards - PR
+-----------------------
+RFP/IFB/Other RFQs - Solicitation
+RFP/IFB/Other RFQs - NSN
+-----------------------
+CAGE Search
+  Value: 
+
+
+Notice:   · Suspension of CMMC Phase II » Read Notice
+
+  Please read notices posted on the Notices page.
+
+
+  Location: Home » Solicitations » RFQs » RFQ Text Search
+[
+RFQ Search
+-
+Recent RFQs
+-
+RFQs by Issue Date
+-
+RFQs by Return By Date
+-
+RFQs by FSC
+]
+[ 273 ] 9/30/2026 12:03:33 PM
+
+
+
+Documents Indexed: 161,967
+
+Additional RFQ Text Search Help
+
+Found 12 records for this search query string.
+Modified: Any time
+
+
+
+1
+Solicitation Information	Product Data
+
+SPE8E726T3827.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	09-09-2026
+Return By:	09-24-2026
+ 
+
+FOB Point:	Destination
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-09-21 09:10:01
+ 
+
+Purchase Request:	7018205496
+
+	
+
+NSN: 6210-01-630-5206   Nomenclature: LIGHT,WARNING
+
+
+   AMSC: Z     	NAICS: 335132     	Quantity: 1     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+95405	ZP-24173WG	
+
+
+
+
+
+SPE4A626T28ZJ.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	09-14-2026
+Return By:	09-21-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-09-13 03:47:13
+ 
+
+Purchase Request:	7018220639
+
+	
+
+NSN: 6220-01-722-1245   Nomenclature: LIGHT,WARNING
+
+
+   AMSC: Q     	NAICS: 335999     	Quantity: 1     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+4Z5A9	152574	HII UNMANNED SYSTEMS, INC
+
+
+
+
+
+SPE4A626T40S9.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	05-04-2026
+Return By:	05-11-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7016129501
+
+	
+
+NSN: 6210-01-689-3403   Nomenclature: LIGHT,WARNING
+
+
+   AMSC: D     	NAICS: 332321     	Quantity: 1     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+24930	288351-4	L3HARRIS TECHNOLOGIES, INC
+
+
+
+
+
+SPE8E726T3652.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	08-20-2026
+Return By:	08-31-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7017964402
+
+	
+
+NSN: 6210-01-621-4819   Nomenclature: LIGHT,WARNING
+
+
+   AMSC: Z     	NAICS: 335132     	Quantity: 219     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+42AQ2	HS-640-01	CORE SURVIVAL INC
+
+
+
+
+
+SPE8E726T2875.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	06-04-2026
+Return By:	06-18-2026
+ 
+
+FOB Point:	Destination
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7017014730
+
+	
+
+NSN: 6210-01-630-5206   Nomenclature: LIGHT,WARNING
+
+
+   AMSC: Z     	NAICS: 335132     	Quantity: 1     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+95405	ZP-24173WG	
+
+
+
+
+
+SPE4A626T05HL.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	07-10-2026
+Return By:	07-17-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7017380765
+
+	
+
+NSN: 6220-01-722-1245   Nomenclature: LIGHT,WARNING
+
+
+   AMSC: Q     	NAICS: 335999     	Quantity: 1     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+4Z5A9	152574	HII UNMANNED SYSTEMS, INC
+
+
+
+
+
+SPE4A626T10NE.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	07-31-2026
+Return By:	08-07-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Origin
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7011574382
+
+	
+
+NSN: 6210-01-454-4024   Nomenclature: LIGHT,WARNING
+
+
+   AMSC: C     	NAICS: 333414     	Quantity: 16     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+55438	GE18001-4	GOODRICH LIGHTING SYSTEMS INC
+
+
+
+
+
+SPE4A626T10MP.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	07-31-2026
+Return By:	08-12-2026
+ 
+
+FOB Point:	Destination
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7017639036
+
+	
+
+NSN: 6210-01-633-4320   Nomenclature: LIGHT,WARNING
+
+
+   AMSC: Z     	NAICS: 335132     	Quantity: 1     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+02929	48F3805	
+19557	105HISTA-N5	
+65063	105HISTA-N5	FEDERAL SIGNAL CORPORATION
+
+
+
+
+
+SPE4A626U2892.PDF
+  » Package View
+
+
+
+uote  	 
+
+
+
+Issued:	04-24-2026
+Return By:	05-08-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	Tech Docs
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	1000229519
+
+	
+
+NSN: 6220-01-651-9939   Nomenclature: LIGHT,WARNING
+
+
+   AMSC: C     	NAICS: 336320     	Quantity: 19     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+98905	LP3M-120B	
+
+
+
+
+
+SPE4A626T563N.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	01-23-2026
+Return By:	01-30-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	Tech Docs
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7015247845
+
+	
+
+NSN: 6220-01-651-9939   Nomenclature: LIGHT,WARNING
+
+
+   AMSC: C     	NAICS: 336320     	Quantity: 9     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+98905	LP3M-120B	
+
+
+
+
+
+SPE4A626U2526.PDF
+  » Package View
+
+
+
+uote  	 
+
+
+
+Issued:	04-09-2026
+Return By:	04-28-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	1000229505
+
+	
+
+NSN: 6220-01-485-4233   Nomenclature: LIGHT,WARNING
+
+
+   AMSC: D     	NAICS: 336320     	Quantity: 874     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+10402	01-0682848LAM	WHELEN ENGINEERING COMPANY, INC.
+10402	L10LAM	WHELEN ENGINEERING COMPANY, INC.
+
+
+
+
+
+SPE8E726T2008.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	04-03-2026
+Return By:	04-13-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	Tech Docs
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7016178914
+
+	
+
+NSN: 6210-01-610-5688   Nomenclature: LIGHT,WARNING
+
+
+   AMSC: B     	NAICS: 333414     	Quantity: 6     
+
+
+Specification, Drawing and Standard Data
+Amend No.: C DTD: 06-12-2020
+I/A/W DRW: 80020 628800 (BASIC)   DTD: 09-08-2023
+
+
+   Type #: 628800-3
+
+
+
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+5HPW4	RCH-5HPW41B	RCH MANUFACTURING, LLC
+
+
+
+
+1
+
+
+· RFQ Text Search
+Query String:
+
+
+
+Modified: 
+Any time
+last hour
+last day
+last 7 days
+last 30 days
+last 60 days
+last 90 days
+last 365 days
+	Sort: 
+Best Match
+Newly Posted to Oldest
+Oldest Posted to Newest
+
+Filter:
+  
+Automated Indefinite Delivery Contract (AIDC)
+
+
+  
+Items with Technical Documents
+
+
+  
+Fast Award Candidates
+
+
+  
+Small Business Set-Asides
+
+
+  
+HUBZone Set-Asides
+
+	
+  
+Service Disabled Veteran Owned
+      Small Business Set-Asides
+
+
+Woman Owned Small Business Set-Asides
+
+
+Economically Disadvantaged Women Owned Small Business Set-Asides
+
+
+Unrestricted/Not Set-Asides
+
+
+ 
+
+
+
+
+ 
+Policy Statements · Feedback
+   EOXD8AUZtkHO8wt7m812jA==
+   Ver.6.3.2
+

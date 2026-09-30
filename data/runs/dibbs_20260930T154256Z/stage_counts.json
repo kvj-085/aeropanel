@@ -1,0 +1,39 @@
+{
+  "run_id": "dibbs_20260930T154256Z",
+  "source": "DIBBS",
+  "cutoff_provisional": "2026-10-01 12:00",
+  "mode": "live",
+  "terms": 52,
+  "max_pages": 20,
+  "raw_pages": "data\\dibbs_raw\\dibbs_20260930T154256Z",
+  "search_page_url": "https://www.dibbs.bsm.dla.mil/RFQ/",
+  "rows_parsed_all_terms": 22907,
+  "parse_issues": 2,
+  "unique_solicitation_nsn_lines": 18902,
+  "g_main_2026": 1172,
+  "g_pre2026_open": 0,
+  "g_date_unresolved": 0,
+  "review_amsc": 0,
+  "non_g": 5096,
+  "excluded": 374,
+  "fat": 1655,
+  "no_nomenclature_match": 9837,
+  "pre2026_closed": 74,
+  "broad_context": 694,
+  "database": {
+    "inserted": 1172,
+    "updated": 0,
+    "unchanged": 0,
+    "total_rows_in_db": 1172
+  },
+  "terms_failed": [],
+  "terms_incomplete": [
+    "OVERLAY",
+    "PLATE",
+    "MARKING",
+    "FUEL",
+    "CABLE ASSEMBLY",
+    "BOX"
+  ],
+  "status": "SUCCESS"
+}

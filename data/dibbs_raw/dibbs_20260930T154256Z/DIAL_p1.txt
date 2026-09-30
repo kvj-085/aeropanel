@@ -1,0 +1,5080 @@
+FAQ/Help · Refs · My Account · Log In
+
+
+   Home       Solicitations       RFQs       RFP/IFB/Other RFQs       Tech Data       Downloads        Awards   
+
+
+Navigation: 
+Navigation/Documents - - - - - -
+Accessibility
+Awards Area
+- Awards by Award DT
+- Awards by Post DT
+- Market Ready Orders ®
+- Post Award Request (PAR)®
+Batch Quoting ®
+Batch Quoting File Format
+BidSets
+Contracts
+Delivery Orders
+FAQs
+Feedback
+Forecast ®
+FSC ~ DLA Managed
+Global Search
+Home Page
+Invitation For Bid (IFB) Area
+Log In Screen
+Master Solicitation (PAC)
+Notices/Message Board
+Post Award Request (PAR)®
+Quoting Help
+Quote Search ®
+Request For Proposal (RFP)Area
+Request For Quote (RFQ) Area
+- RFQs by Issue Date
+- RFQs by Return By Date
+- RFQs Recent
+References
+Registration
+Solicitations
+SRVA ®
+User(s) Profile Update ®
+Vendor Profile Update ®
+Welcome Page ®
+Regs / Supplement Extracts ---
+DFARS 225.502
+DFARS 252.211-7005
+DFARS 252.211-7006
+DFARS 252.223-7001
+DFARS 252.225-7001
+DFARS 252.225-7035
+DFARS 252.225-7036
+DLAD 52.211-9000
+DLAD 52.213-9000
+DLAD 52.217-9002
+DLAD 52.219-9015
+DLAD 52.223-9000
+DLAD 52.233-9001
+FAR 52.209-1
+FAR 52.211-5
+FAR 52.212-3
+FAR 52.219-1
+FAR 52.222-18
+FAR 52.222-22
+FAR 52.222-25
+FAR 52.222-26
+FAR 52.223-3
+ 
+
+Database Search: 
+Choose Search
+RFQs - NSN
+RFQs - Solicitation
+RFQs - PR
+-----------------------
+Awards - Awardee CAGE
+Awards - Award/Basic Number
+Awards - Delivery Order #
+Awards - NSN
+Awards - PR
+-----------------------
+RFP/IFB/Other RFQs - Solicitation
+RFP/IFB/Other RFQs - NSN
+-----------------------
+CAGE Search
+  Value: 
+
+
+Notice:   · Suspension of CMMC Phase II » Read Notice
+
+  Please read notices posted on the Notices page.
+
+
+  Location: Home » Solicitations » RFQs » RFQ Text Search
+[
+RFQ Search
+-
+Recent RFQs
+-
+RFQs by Issue Date
+-
+RFQs by Return By Date
+-
+RFQs by FSC
+]
+[ 273 ] 9/30/2026 11:53:52 AM
+
+
+
+Documents Indexed: 161,967
+
+Additional RFQ Text Search Help
+
+Found 364 records for this search query string.
+Modified: Any time
+
+
+
+1 2 3 4
+Solicitation Information	Product Data
+
+SPE4A726T663L.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	08-17-2026
+Return By:	08-28-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-26 11:54:47
+ 
+
+Purchase Request:	7017912436
+
+	
+
+NSN: 6685-01-229-8889   Nomenclature: GAGE,PRESSURE,DIAL IND
+
+
+   AMSC: D     	NAICS: 334519     	Quantity: 4     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+049X3	EA24-3PJ4-LWB0	ASHCROFT INC
+
+
+
+
+
+SPE4A526T482X.PDF
+  » Package View
+
+
+
+uote  	 
+
+
+
+Issued:	09-30-2026
+Return By:	10-07-2026
+ 
+
+FOB Point:	Destination
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-09-29 09:03:11
+ 
+
+Purchase Request:	7018395723, 7018395724
+
+	
+
+NSN: 6685-01-261-0076   Nomenclature: GAGE,PRESSURE,DIAL IND
+
+
+   AMSC: Z     	NAICS: 334519     	Quantity: 16     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+38056	45-1279SSL-AML-0/600PSI	ASHCROFT INC
+
+
+
+
+
+SPE7L526T5688.PDF
+  » Package View
+
+
+
+uote  	 
+
+
+
+Issued:	09-30-2026
+Return By:	10-07-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-09-29 09:03:10
+ 
+
+Purchase Request:	7017528239
+
+	
+
+NSN: 6685-01-696-6384   Nomenclature: GAGE,PRESSURE,DIAL
+
+
+   AMSC: Q     	NAICS: 334512     	Quantity: 6     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+7PZX0	K06.96300-0867	FAIRBANKS MORSE, LLC
+
+
+
+
+
+SPE4A526T483E.PDF
+  » Package View
+
+
+
+uote  	 
+
+
+
+Issued:	09-30-2026
+Return By:	10-07-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Origin
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-09-29 09:03:10
+ 
+
+Purchase Request:	7018129471
+
+	
+
+NSN: 6685-01-707-8330   Nomenclature: GAGE,PRESSURE,DIAL IND
+
+
+   AMSC: Z     	NAICS: 334512     	Quantity: 2     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+1CE49	DPI104-2-1000PSIA	DRUCK, LLC
+
+
+
+
+
+SPE4A526T438R.PDF
+  » Package View
+
+
+
+uote  	 
+
+
+
+Issued:	09-17-2026
+Return By:	10-02-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-09-29 09:01:51
+ 
+
+Purchase Request:	7018378314
+
+	
+
+NSN: 6685-01-725-1316   Nomenclature: GAGE,PRESSURE,DIAL IND
+
+
+   AMSC: Q     	NAICS: 334512     	Quantity: 2     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+7PZX0	170-050-D-007-005	FAIRBANKS MORSE, LLC
+
+
+
+
+
+SPE4A626T34FR.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	09-21-2026
+Return By:	10-01-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-09-28 08:05:59
+ 
+
+Purchase Request:	7018412818
+
+	
+
+NSN: 6685-01-137-7985   Nomenclature: GAGE,PRESSURE,DIAL IND
+
+
+   AMSC: C     	NAICS: 334511     	Quantity: 24     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+049X3	EA23-3-PE-PRWB0	ASHCROFT INC
+
+
+
+
+
+SPE4A526T453B.PDF
+  » Package View
+
+
+
+uote  	 
+
+
+
+Issued:	09-21-2026
+Return By:	10-01-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-09-28 08:05:08
+ 
+
+Purchase Request:	7018412466
+
+	
+
+NSN: 6685-01-151-9360   Nomenclature: GAGE,PRESSURE,DIAL IND
+
+
+   AMSC: D     	NAICS: 334519     	Quantity: 90     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+54905	3523	AMEREX CORPORATION
+
+
+
+
+
+SPE4A526T451J.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	09-21-2026
+Return By:	10-01-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-09-28 08:04:34
+ 
+
+Purchase Request:	7018413585
+
+	
+
+NSN: 6685-00-397-3629   Nomenclature: GAGE,DIFFERENTIAL,DIAL
+
+
+   AMSC: C     	NAICS: 334519     	Quantity: 9     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+05991	19BCXXX0300A1BXAXX04	CAMERON ENERGY SERVICES CORP.
+
+
+
+
+
+SPE7L126T12P3.PDF
+  » Package View
+
+
+
+uote  	 
+
+
+
+Issued:	09-16-2026
+Return By:	10-01-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Origin
+ 
+
+Tech Data:	Tech Docs
+ 
+
+Document Post/Updated:	2026-09-28 08:04:08
+ 
+
+Purchase Request:	7017900269
+
+	
+
+NSN: 5355-00-706-8064   Nomenclature: WINDOW,DIAL
+
+
+   AMSC: G     	NAICS: 327999     	Quantity: 100     
+
+
+Specification, Drawing and Standard Data
+Amend No.: F DTD: 05-03-1993
+I/A/W DRW: 19200 7068064 (BASIC)   DTD: 06-18-2026
+
+
+   Type #: 7068064
+
+
+
+
+
+
+
+
+
+
+SPE4A526T481E.PDF
+  » Package View
+
+
+
+uote  	 
+
+
+
+Issued:	09-29-2026
+Return By:	10-06-2026
+ 
+
+FOB Point:	Destination
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-09-28 05:05:10
+ 
+
+Purchase Request:	7018487361, 7018502857
+
+	
+
+NSN: 6685-01-641-4100   Nomenclature: GAGE,PRESSURE,DIAL IND
+
+
+   AMSC: D     	NAICS: 334512     	Quantity: 4     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+57328	GAG-0007W	BAUER COMPRESSORS, INC.
+
+
+
+
+
+SPE4A526T481A.PDF
+  » Package View
+
+
+
+uote  	 
+
+
+
+Issued:	09-29-2026
+Return By:	10-06-2026
+ 
+
+FOB Point:	Destination
+ 
+
+Inspection Point:	Origin
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-09-28 05:05:10
+ 
+
+Purchase Request:	7018487332
+
+	
+
+NSN: 0001S00000053   Nomenclature: CONTRACTOR FIRST ARTIC
+
+
+   AMSC: G     	NAICS: ______     	Quantity: 1     
+
+
+
+
+
+NSN: 6685-01-450-3302   Nomenclature: GAGE,COMPOUND PRESSURE
+
+
+   AMSC: G     	NAICS: 334512     	Quantity: 1     
+
+
+Specification, Drawing and Standard Data Mil-Spec
+Amend No.: E DTD: 02-26-2021
+I/A/W CID: MIL-G-18997E (BASIC)   DTD: 06-18-2026
+
+
+   Type #: SC4MC6HCWCCNA
+
+
+
+
+
+
+
+
+
+
+SPE8E526T4484.PDF
+  » Package View
+
+
+
+uote  	 
+
+
+
+Issued:	09-29-2026
+Return By:	10-09-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Origin
+ 
+
+Tech Data:	Tech Docs
+ 
+
+Document Post/Updated:	2026-09-28 02:46:49
+ 
+
+Purchase Request:	7018560676
+
+	
+
+NSN: 5210-01-266-1205   Nomenclature: GAGE,DEPTH,DIAL IND
+
+
+   AMSC: G     	NAICS: 334513     	Quantity: 4     
+
+
+Specification, Drawing and Standard Data
+Amend No.: DTD: 08-11-1986
+I/A/W DRW: 19207 12345408 (BASIC)   DTD: 06-18-2026
+
+
+   Type #: P/N 12345408
+
+
+
+
+
+
+
+
+
+
+SPE4A526T480J.PDF
+  » Package View
+
+
+
+uote  	 
+
+
+
+Issued:	09-29-2026
+Return By:	10-06-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Origin
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-09-28 02:04:55
+ 
+
+Purchase Request:	7018517423
+
+	
+
+NSN: 6685-01-306-7812   Nomenclature: GAGE,DIFFERENTIAL,DIAL
+
+
+   AMSC: L     	NAICS: 334512     	Quantity: 2     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+05991	19HCXXX0XX5E5BXAXX02	CAMERON ENERGY SERVICES CORP.
+
+
+
+
+
+SPE4A526T480G.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	09-29-2026
+Return By:	10-06-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Origin
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-09-28 01:34:01
+ 
+
+Purchase Request:	7018517421
+
+	
+
+NSN: 6685-01-375-8908   Nomenclature: GAGE,DIFFERENTIAL,DIAL
+
+
+   AMSC: Q     	NAICS: 334519     	Quantity: 6     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+05991	17PCXXX1X25A5BXXXX01	CAMERON ENERGY SERVICES CORP.
+
+
+
+
+
+SPE4A526T480F.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	09-29-2026
+Return By:	10-06-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Origin
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-09-28 12:26:00
+ 
+
+Purchase Request:	7018517426
+
+	
+
+NSN: 6685-01-241-5824   Nomenclature: GAGE,DIFFERENTIAL,DIAL
+
+
+   AMSC: Q     	NAICS: 334512     	Quantity: 6     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+05991	20HCXXX0X20E1BAAXX05	CAMERON ENERGY SERVICES CORP.
+
+
+
+
+
+SPE4A526T478Y.PDF
+  » Package View
+
+
+
+uote  	 
+
+
+
+Issued:	09-28-2026
+Return By:	10-05-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-09-27 06:21:44
+ 
+
+Purchase Request:	7018378075
+
+	
+
+NSN: 0001-01-624-0267   Nomenclature: GAGE,PRESSURE,DIAL IND
+
+
+   AMSC: D     	NAICS: 334513     	Quantity: 3     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+05646	1408105	
+05646	79-865	
+
+
+
+
+
+SPE4A626T36YP.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	09-28-2026
+Return By:	10-05-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Origin
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-09-27 06:21:43
+ 
+
+Purchase Request:	7018517427
+
+	
+
+NSN: 6685-01-169-3981   Nomenclature: GAGE,DIFFERENTIAL,DIAL
+
+
+   AMSC: D     	NAICS: 334519     	Quantity: 5     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+05991	190CXXX0X20E1AXAXX03	CAMERON ENERGY SERVICES CORP.
+
+
+
+
+
+SPE4A526T477F.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	09-28-2026
+Return By:	10-05-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Origin
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-09-27 06:21:43
+ 
+
+Purchase Request:	7018517424
+
+	
+
+NSN: 6685-01-314-4147   Nomenclature: GAGE,DIFFERENTIAL,DIAL
+
+
+   AMSC: R     	NAICS: 334519     	Quantity: 4     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+05991	20HCXXX0XX5E5BAAXX04	CAMERON ENERGY SERVICES CORP.
+
+
+
+
+
+SPE4A626T36YG.PDF
+  » Package View
+
+
+
+uote  	 
+
+
+
+Issued:	09-28-2026
+Return By:	10-05-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-09-27 06:21:43
+ 
+
+Purchase Request:	7018518612
+
+	
+
+NSN: 6685-00-956-1383   Nomenclature: GAGE,DIFFERENTIAL,DIAL
+
+
+   AMSC: C     	NAICS: 334519     	Quantity: 12     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+85274	2001D AF	
+85274	2001D-ASF	
+
+
+
+
+
+SPE4A526T443J.PDF
+  » Package View
+
+
+
+uote  	 
+
+
+
+Issued:	09-18-2026
+Return By:	09-30-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-09-25 06:33:54
+ 
+
+Purchase Request:	7018392035
+
+	
+
+NSN: 6685-01-122-3793   Nomenclature: GAGE,PRESSURE,DIAL IND
+
+
+   AMSC: C     	NAICS: 334519     	Quantity: 11     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+049X3	EA243PJFEWB0	ASHCROFT INC
+
+
+
+
+
+SPE4A526T443W.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	09-18-2026
+Return By:	09-30-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-09-25 06:33:15
+ 
+
+Purchase Request:	7018391980
+
+	
+
+NSN: 6685-01-132-0171   Nomenclature: GAGE,PRESSURE,DIAL IND
+
+
+   AMSC: R     	NAICS: 334519     	Quantity: 63     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+049X3	EA24-3PJP-EWB0	ASHCROFT INC
+76526	SGF4M3Y-6	MOELLER INSTRUMENT COMPANY, INC.
+
+
+
+
+
+SPE4A526T443Y.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	09-18-2026
+Return By:	09-30-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-09-25 06:33:08
+ 
+
+Purchase Request:	7018391981
+
+	
+
+NSN: 6685-01-132-0172   Nomenclature: GAGE,PRESSURE,DIAL IND
+
+
+   AMSC: C     	NAICS: 334519     	Quantity: 41     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+049X3	EA24-3PJP-EBB0	ASHCROFT INC
+64467	SA24-3PJP-EBB0	
+
+
+
+
+
+SPE4A526T448Q.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	09-18-2026
+Return By:	09-30-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-09-25 06:32:29
+ 
+
+Purchase Request:	7018391451
+
+	
+
+NSN: 6685-01-004-8958   Nomenclature: GAGE,PRESSURE,DIAL IND
+
+
+   AMSC: L     	NAICS: 334519     	Quantity: 25     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+049X3	EA24-3PRF-RWBX	ASHCROFT INC
+76526	SGK4I10Y-G-D	MOELLER INSTRUMENT COMPANY, INC.
+
+
+
+
+
+SPE4A726T795H.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	09-25-2026
+Return By:	10-02-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Origin
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-09-24 06:52:53
+ 
+
+Purchase Request:	7018458687
+
+	
+
+NSN: 0001S00000053   Nomenclature: CONTRACTOR FIRST ARTIC
+
+
+   AMSC: G     	NAICS: ______     	Quantity: 1     
+
+
+
+
+
+NSN: 6685-01-298-3789   Nomenclature: GAGE,PRESSURE,DIAL IND
+
+
+   AMSC: G     	NAICS: 334519     	Quantity: 130     
+
+
+Specification, Drawing and Standard Data Mil-Spec
+Amend No.: E DTD: 02-26-2021
+I/A/W CID: MIL-G-18997E (BASIC)   DTD: 06-18-2026
+
+
+
+
+
+
+
+
+
+
+
+
+SPE4A526T475G.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	09-25-2026
+Return By:	10-02-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Origin
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-09-24 12:30:29
+ 
+
+Purchase Request:	7018458878
+
+	
+
+NSN: 0001S00000053   Nomenclature: CONTRACTOR FIRST ARTIC
+
+
+   AMSC: G     	NAICS: ______     	Quantity: 1     
+
+
+
+
+
+NSN: 6685-01-295-2378   Nomenclature: GAGE,PRESSURE,DIAL IND
+
+
+   AMSC: G     	NAICS: 334512     	Quantity: 45     
+
+
+Specification, Drawing and Standard Data Mil-Spec
+Amend No.: E DTD: 02-26-2021
+I/A/W CID: MIL-G-18997E (BASIC)   DTD: 06-18-2026
+
+
+   Type #: SG4ND2HPWRANA
+
+
+
+
+
+
+
+
+
+
+SPE7L526T5609.PDF
+  » Package View
+
+
+
+uote  	 
+
+
+
+Issued:	09-24-2026
+Return By:	10-01-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-09-23 04:54:57
+ 
+
+Purchase Request:	7010047125
+
+	
+
+NSN: 6685-01-189-7953   Nomenclature: GAGE,PRESSURE,DIAL
+
+
+   AMSC: D     	NAICS: 333310     	Quantity: 3     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+7PZX0	23421868-1	FAIRBANKS MORSE, LLC
+
+
+
+
+
+SPE7L526T5608.PDF
+  » Package View
+
+
+
+uote  	 
+
+
+
+Issued:	09-24-2026
+Return By:	10-01-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-09-23 04:54:57
+ 
+
+Purchase Request:	7012343552
+
+	
+
+NSN: 6685-01-189-7953   Nomenclature: GAGE,PRESSURE,DIAL
+
+
+   AMSC: D     	NAICS: 333310     	Quantity: 5     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+7PZX0	23421868-1	FAIRBANKS MORSE, LLC
+
+
+
+
+
+SPE4A526T471M.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	09-24-2026
+Return By:	10-01-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-09-23 03:22:18
+ 
+
+Purchase Request:	7018412524
+
+	
+
+NSN: 6685-01-131-8112   Nomenclature: GAGE,PRESSURE,DIAL IND
+
+
+   AMSC: L     	NAICS: 334519     	Quantity: 89     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+049X3	EA24-3PFP-EWB0	ASHCROFT INC
+76526	SGD4M3Y-G	MOELLER INSTRUMENT COMPANY, INC.
+
+
+
+
+
+SPE7L126T957U.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	08-12-2026
+Return By:	09-25-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-09-22 06:20:04
+ 
+
+Purchase Request:	7016484160
+
+	
+
+NSN: 5355-01-124-6663   Nomenclature: DIAL,SCALE
+
+
+   AMSC: R     	NAICS: 327999     	Quantity: 11     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+33583	2024-0003	AEROPANEL, LLC
+
+
+
+
+
+SPE4A526T424S.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	09-15-2026
+Return By:	09-25-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	Tech Docs
+ 
+
+Document Post/Updated:	2026-09-22 06:20:04
+ 
+
+Purchase Request:	7018318595
+
+	
+
+NSN: 6620-01-374-9934   Nomenclature: GAGE,PRESSURE,DIAL IND
+
+
+   AMSC: G     	NAICS: 333618     	Quantity: 154     
+
+
+Specification, Drawing and Standard Data
+Amend No.: B DTD: 09-24-2007
+I/A/W DRW: 19207 12378798 (BASIC)   DTD: 06-18-2026
+
+
+   Type #: 12378798-001
+
+
+
+
+
+
+
+
+
+
+SPE4A526T423Z.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	09-15-2026
+Return By:	09-25-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	Tech Docs
+ 
+
+Document Post/Updated:	2026-09-22 06:19:47
+ 
+
+Purchase Request:	7018227188
+
+	
+
+NSN: 6685-01-696-5075   Nomenclature: GAGE,PRESSURE,DIAL IND
+
+
+   AMSC: G     	NAICS: 334512     	Quantity: 1     
+
+
+Specification, Drawing and Standard Data
+Amend No.: DTD: 09-15-2021
+I/A/W DRW: 5B5M3 11B4600319 (BASIC)   DTD: 06-18-2026
+
+
+
+
+
+
+
+
+
+
+
+
+SPE4A526T469W.PDF
+  » Package View
+
+
+
+uote  	 
+
+
+
+Issued:	09-23-2026
+Return By:	09-30-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Origin
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-09-22 11:42:51
+ 
+
+Purchase Request:	7018458567
+
+	
+
+NSN: 0001S00000053   Nomenclature: CONTRACTOR FIRST ARTIC
+
+
+   AMSC: G     	NAICS: ______     	Quantity: 1     
+
+
+
+
+
+NSN: 6685-01-382-5696   Nomenclature: GAGE,PRESSURE,DIAL IND
+
+
+   AMSC: G     	NAICS: 334512     	Quantity: 43     
+
+
+Specification, Drawing and Standard Data Mil-Spec
+Amend No.: E DTD: 02-26-2021
+I/A/W CID: MIL-G-18997E (BASIC)   DTD: 06-18-2026
+
+
+   Type #: MIL-G-18997
+
+
+
+
+
+
+
+
+
+
+SPE4A526T469L.PDF
+  » Package View
+
+
+
+uote  	 
+
+
+
+Issued:	09-23-2026
+Return By:	09-30-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Origin
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-09-22 11:04:21
+ 
+
+Purchase Request:	7018469263
+
+	
+
+NSN: 6685-01-144-0343   Nomenclature: GAGE,PRESSURE,DIAL IND
+
+
+   AMSC: D     	NAICS: 334512     	Quantity: 5     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+0WE82	100511-2	AMERICAN TURBO SYSTEMS INC
+
+
+
+
+
+SPE4A526T468W.PDF
+  » Package View
+
+
+
+uote  	 
+
+
+
+Issued:	09-23-2026
+Return By:	09-30-2026
+ 
+
+FOB Point:	Destination
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-09-22 06:34:55
+ 
+
+Purchase Request:	7018395784, 7018395785, 7018395786
+
+	
+
+NSN: 6685-01-662-1133   Nomenclature: GAGE,PRESSURE,DIAL IND
+
+
+   AMSC: Z     	NAICS: 334513     	Quantity: 3     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+049X3	EA243LFPRWBX	ASHCROFT INC
+53986	EA243LFPRWBX	MMC METROLOGY LAB, INC.
+
+
+
+
+
+SPE4A526T465Y.PDF
+  » Package View
+
+
+
+uote  	 
+
+
+
+Issued:	09-23-2026
+Return By:	09-30-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-09-22 03:47:56
+ 
+
+Purchase Request:	7018458682
+
+	
+
+NSN: 6685-01-305-5076   Nomenclature: GAGE,PRESSURE,DIAL IND
+
+
+   AMSC: Q     	NAICS: 333310     	Quantity: 4     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+18964	2203-HP	
+
+
+
+
+
+SPE4A626T35HA.PDF
+  » Package View
+
+
+
+uote  	 
+
+
+
+Issued:	09-23-2026
+Return By:	09-30-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Origin
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-09-22 03:47:56
+ 
+
+Purchase Request:	7018458125
+
+	
+
+NSN: 6685-01-656-1979   Nomenclature: GAGE,PRESSURE,DIAL IND
+
+
+   AMSC: D     	NAICS: 334512     	Quantity: 3     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+9Y805	PGI-40M-PG5000-CANX	
+
+
+
+
+
+SPE4A626T35HB.PDF
+  » Package View
+
+
+
+uote  	 
+
+
+
+Issued:	09-23-2026
+Return By:	09-30-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Origin
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-09-22 03:47:56
+ 
+
+Purchase Request:	7018458793
+
+	
+
+NSN: 0001S00000052   Nomenclature: GOVERNMENT FIRST ARTIC
+
+
+   AMSC: G     	NAICS: ______     	Quantity: 1     
+
+
+
+
+
+NSN: 6685-01-327-7380   Nomenclature: GAGE,PRESSURE,DIAL IND
+
+
+   AMSC: G     	NAICS: 334512     	Quantity: 7     
+
+
+Specification, Drawing and Standard Data Mil-Spec
+Amend No.: E DTD: 02-26-2021
+I/A/W CID: MIL-G-18997E (BASIC)   DTD: 06-18-2026
+
+
+   Type #: SG4MC4HPWRANA
+
+
+
+
+
+
+
+
+
+
+SPE4A526T468K.PDF
+  » Package View
+
+
+
+uote  	 
+
+
+
+Issued:	09-23-2026
+Return By:	09-30-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	Tech Docs
+ 
+
+Document Post/Updated:	2026-09-22 03:47:56
+ 
+
+Purchase Request:	7018457610
+
+	
+
+NSN: 6685-01-705-9196   Nomenclature: GAGE,PRESSURE,DIAL IND
+
+
+   AMSC: B     	NAICS: 334512     	Quantity: 22     
+
+
+Specification, Drawing and Standard Data
+Amend No.: B DTD: 11-18-2021
+I/A/W DRW: 19207 12674476 (BASIC)   DTD: 06-18-2026
+
+
+
+
+
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+1ST83	4215066	THUEMLING INSTRUMENT GROUP, INC.
+
+
+
+
+
+SPE4A526T467Y.PDF
+  » Package View
+
+
+
+uote  	 
+
+
+
+Issued:	09-23-2026
+Return By:	09-30-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-09-22 03:47:56
+ 
+
+Purchase Request:	7018457944
+
+	
+
+NSN: 6685-01-588-8295   Nomenclature: GAGE,PRESSURE,DIAL IND
+
+
+   AMSC: R     	NAICS: 334513     	Quantity: 9     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+049X3	EA233PMPRWBX	ASHCROFT INC
+98523	196540	JERED LLC
+
+
+
+
+
+SPE4A726T784H.PDF
+  » Package View
+
+
+
+uote  	 
+
+
+
+Issued:	09-23-2026
+Return By:	09-30-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Origin
+ 
+
+Tech Data:	Tech Docs
+ 
+
+Document Post/Updated:	2026-09-22 03:47:56
+ 
+
+Purchase Request:	7018458081
+
+	
+
+NSN: 0001S00000053   Nomenclature: CONTRACTOR FIRST ARTIC
+
+
+   AMSC: G     	NAICS: ______     	Quantity: 1     
+
+
+
+
+
+NSN: 6685-01-543-9088   Nomenclature: GAGE,PRESSURE,DIAL IND
+
+
+   AMSC: G     	NAICS: 334513     	Quantity: 8     
+
+
+Specification, Drawing and Standard Data Mil-Spec
+Amend No.: E DTD: 02-26-2021
+I/A/W CID: MIL-G-18997E (BASIC)   DTD: 06-18-2026
+
+
+   Type #: SG3MC1HPWR0NAG
+
+
+
+
+
+
+
+
+
+
+SPE4A626T35BJ.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	09-23-2026
+Return By:	09-30-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-09-22 03:47:56
+ 
+
+Purchase Request:	7018457757
+
+	
+
+NSN: 6685-01-134-8185   Nomenclature: GAGE,DIFFERENTIAL,DIAL
+
+
+   AMSC: C     	NAICS: 334519     	Quantity: 5     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+05991	19NCXXX0X15E1BXAXX03	CAMERON ENERGY SERVICES CORP.
+
+
+
+
+
+SPE4A526T466F.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	09-23-2026
+Return By:	09-30-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Origin
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-09-22 03:47:56
+ 
+
+Purchase Request:	7018458879
+
+	
+
+NSN: 0001S00000053   Nomenclature: CONTRACTOR FIRST ARTIC
+
+
+   AMSC: G     	NAICS: ______     	Quantity: 1     
+
+
+
+
+
+NSN: 6685-01-295-2377   Nomenclature: GAGE,PRESSURE,DIAL IND
+
+
+   AMSC: G     	NAICS: 334519     	Quantity: 120     
+
+
+Specification, Drawing and Standard Data Mil-Spec
+Amend No.: E DTD: 02-26-2021
+I/A/W CID: MIL-G-18997E (BASIC)   DTD: 06-18-2026
+
+
+   Type #: SG4NN60PWRANA
+
+
+
+
+
+
+
+
+
+
+SPE4A626T34YU.PDF
+  » Package View
+
+
+
+uote  	 
+
+
+
+Issued:	09-23-2026
+Return By:	09-30-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Origin
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-09-22 03:06:59
+ 
+
+Purchase Request:	7018458230
+
+	
+
+NSN: 0001S00000053   Nomenclature: CONTRACTOR FIRST ARTIC
+
+
+   AMSC: G     	NAICS: ______     	Quantity: 1     
+
+
+
+
+
+NSN: 6685-00-432-7584   Nomenclature: GAGE,PRESSURE,DIAL IND
+
+
+   AMSC: G     	NAICS: 334419     	Quantity: 5     
+
+
+Specification, Drawing and Standard Data Mil-Spec
+Amend No.: E DTD: 02-26-2021
+I/A/W CID: MIL-G-18997E (BASIC)   DTD: 06-18-2026
+
+
+   Type #: DG4MC2HPWRONAG
+
+
+
+
+
+
+
+
+
+
+SPE4A626T34UU.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	09-22-2026
+Return By:	09-29-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-09-21 03:26:38
+ 
+
+Purchase Request:	0092093701
+
+	
+
+NSN: 6685-00-315-5195   Nomenclature: GAGE,PRESSURE,DIAL
+
+
+   AMSC: R     	NAICS: 334512     	Quantity: 118     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+01170	1AAB03100AAA	BELLOFRAM CORPORATION
+38056	UA20N4L15PSL	ASHCROFT INC
+61349	047615	AMETEK, INC.
+
+
+
+
+
+SPE4A526T461G.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	09-22-2026
+Return By:	09-29-2026
+ 
+
+FOB Point:	Destination
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-09-21 12:15:49
+ 
+
+Purchase Request:	7018368417, 7018368418
+
+	
+
+NSN: 6685-01-583-4919   Nomenclature: GAGE,PRESSURE,DIAL IND
+
+
+   AMSC: Q     	NAICS: 334513     	Quantity: 2     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+47484	0800-00025	SAFETY STORAGE, INC
+
+
+
+
+
+SPE4A626T33MV.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	09-21-2026
+Return By:	09-28-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	Tech Docs
+ 
+
+Document Post/Updated:	2026-09-21 12:15:48
+ 
+
+Purchase Request:	7018414571
+
+	
+
+NSN: 6685-01-103-6583   Nomenclature: GAGE,PRESSURE,DIAL IND
+
+
+   AMSC: C     	NAICS: 334519     	Quantity: 61     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+44114	3269882-2	BAE SYSTEMS LAND & ARMAMENTS L.P.
+78763	800B2502LA3000	
+
+
+
+
+
+SPE8E526T4410.PDF
+  » Package View
+
+
+
+uote  	 
+
+
+
+Issued:	09-21-2026
+Return By:	10-01-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-09-21 12:15:48
+ 
+
+Purchase Request:	7018395633
+
+	
+
+NSN: 5210-00-004-5654   Nomenclature: INDICATOR,DIAL
+
+
+   AMSC: D     	NAICS: 334513     	Quantity: 1     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+07482	1C6202P13	GENERAL ELECTRIC COMPANY
+21938	B3QBK1600PT233SM148	MAHR INC
+
+
+
+
+
+SPE4A626T34DT.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	09-21-2026
+Return By:	09-28-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-09-21 12:15:48
+ 
+
+Purchase Request:	7018413120
+
+	
+
+NSN: 6685-01-421-3528   Nomenclature: GAGE,PRESSURE,DIAL IND
+
+
+   AMSC: Q     	NAICS: 334519     	Quantity: 92     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+94861	482-025	MALABAR
+
+
+
+
+
+SPE4A626T34BH.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	09-21-2026
+Return By:	09-28-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Origin
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-09-21 12:15:48
+ 
+
+Purchase Request:	7018414060
+
+	
+
+NSN: 6685-00-854-9140   Nomenclature: GAGE,PRESSURE,DIAL IND
+
+
+   AMSC: P     	NAICS: 334519     	Quantity: 75     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+38056	451377-SS02B5000	ASHCROFT INC
+
+
+
+
+
+SPE4A626T33SD.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	09-21-2026
+Return By:	09-28-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-09-21 12:15:48
+ 
+
+Purchase Request:	7018412745
+
+	
+
+NSN: 6685-01-454-8639   Nomenclature: GAGE,DIFFERENTIAL,DIAL
+
+
+   AMSC: D     	NAICS: 334519     	Quantity: 5     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+05991	20NCXXX0X60E1BAAXX02	CAMERON ENERGY SERVICES CORP.
+
+
+
+
+
+SPE4A526T453M.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	09-21-2026
+Return By:	09-28-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-09-21 12:15:48
+ 
+
+Purchase Request:	7018412525
+
+	
+
+NSN: 6685-01-131-8105   Nomenclature: GAGE,COMPOUND PRESSURE
+
+
+   AMSC: L     	NAICS: 334519     	Quantity: 52     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+049X3	EA24-3CGP-EWB0	ASHCROFT INC
+76526	SCX4M3Y-G	MOELLER INSTRUMENT COMPANY, INC.
+
+
+
+
+
+SPE4A726T768N.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	09-21-2026
+Return By:	09-28-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-09-21 12:15:48
+ 
+
+Purchase Request:	7018413304
+
+	
+
+NSN: 6685-00-627-0991   Nomenclature: GAGE,PRESSURE,DIAL IND
+
+
+   AMSC: C     	NAICS: 334519     	Quantity: 7     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+049X3	EA24-3PHF-RWBX	ASHCROFT INC
+76526	SGE4M10N-G	MOELLER INSTRUMENT COMPANY, INC.
+
+
+
+
+
+SPE8E526T4404.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	09-18-2026
+Return By:	09-28-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-09-17 05:01:43
+ 
+
+Purchase Request:	7018368324
+
+	
+
+NSN: 5210-01-112-5144   Nomenclature: INDICATOR,DIAL
+
+
+   AMSC: D     	NAICS: 333515     	Quantity: 1     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+09058	599-7033-2	
+
+
+
+
+
+SPE8E526T4401.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	09-18-2026
+Return By:	09-28-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-09-17 10:40:21
+ 
+
+Purchase Request:	7018368327, 7018395631
+
+	
+
+NSN: 5210-00-006-2841   Nomenclature: INDICATOR,DIAL
+
+
+   AMSC: D     	NAICS: 334513     	Quantity: 2     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+21938	B6KBK1660PT233SM147	MAHR INC
+
+
+
+
+
+SPE8E526T4400.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	09-18-2026
+Return By:	09-28-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-09-17 09:56:56
+ 
+
+Purchase Request:	7018368326, 7018395630, 7018395632
+
+	
+
+NSN: 5210-00-004-5653   Nomenclature: INDICATOR,DIAL
+
+
+   AMSC: C     	NAICS: 334513     	Quantity: 3     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+07482	1C6202P07	GENERAL ELECTRIC COMPANY
+21938	B3QBK1600PT233SM147	MAHR INC
+
+
+
+
+
+SPE7L126T14E5.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	09-18-2026
+Return By:	09-28-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-09-17 07:02:06
+ 
+
+Purchase Request:	7018368337, 7018368338, 7018368339, 7018368340, 7018368341, 7018368342
+
+	
+
+NSN: 5355-01-686-6662   Nomenclature: DIAL,CONTROL
+
+
+   AMSC: Z     	NAICS: 332119     	Quantity: 6     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+1SLF0	S389A2E-1	LIGHTFORCE USA, INCORPORATED
+
+
+
+
+
+SPE8E526T4398.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	09-18-2026
+Return By:	09-28-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-09-17 06:26:46
+ 
+
+Purchase Request:	7018368325
+
+	
+
+NSN: 5210-00-410-3809   Nomenclature: INDICATOR,DIAL
+
+
+   AMSC: L     	NAICS: 334513     	Quantity: 2     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+21938	2015322	MAHR INC
+
+
+
+
+
+SPE4A526T447B.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	09-18-2026
+Return By:	09-25-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Origin
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-09-17 05:13:23
+ 
+
+Purchase Request:	7018323989
+
+	
+
+NSN: 6685-01-721-9569   Nomenclature: GAGE,PRESSURE,DIAL IND
+
+
+   AMSC: Z     	NAICS: 334512     	Quantity: 1     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+38056	451379SSL04L100	ASHCROFT INC
+
+
+
+
+
+SPE4A526T443V.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	09-18-2026
+Return By:	09-25-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-09-17 04:43:22
+ 
+
+Purchase Request:	7018391979
+
+	
+
+NSN: 6685-01-120-7957   Nomenclature: GAGE,DIFFERENTIAL,DIAL
+
+
+   AMSC: Q     	NAICS: 334512     	Quantity: 13     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+14818	909-146	
+
+
+
+
+
+SPE4A726T760J.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	09-18-2026
+Return By:	09-25-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	Tech Docs
+ 
+
+Document Post/Updated:	2026-09-17 04:43:22
+ 
+
+Purchase Request:	7018391168
+
+	
+
+NSN: 6685-01-400-4190   Nomenclature: GAGE,PRESSURE,DIAL IND
+
+
+   AMSC: C     	NAICS: 334519     	Quantity: 13     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+049X3	45-1377SS-02B-XPDTS-6000LB	ASHCROFT INC
+38056	45-1377SS-02B-XPDTS-6000LB	ASHCROFT INC
+39428	9455K125	MCMASTER-CARR SUPPLY CO
+
+
+
+
+
+SPE4A526T441T.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	09-18-2026
+Return By:	09-25-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-09-17 04:24:21
+ 
+
+Purchase Request:	7018389967
+
+	
+
+NSN: 6685-01-602-8977   Nomenclature: GAGE,PRESSURE,DIAL IND
+
+
+   AMSC: D     	NAICS: 334513     	Quantity: 16     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+14487	263052	PROVISION, INC.
+
+
+
+
+
+SPE4A526T440Z.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	09-18-2026
+Return By:	09-25-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	Tech Docs
+ 
+
+Document Post/Updated:	2026-09-17 03:11:11
+ 
+
+Purchase Request:	7018388991
+
+	
+
+NSN: 6685-01-462-4650   Nomenclature: GAGE,PRESSURE,DIAL IND
+
+
+   AMSC: C     	NAICS: 334512     	Quantity: 11     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+049X3	EA23-3PGP-RWB0	ASHCROFT INC
+76526	SGAA3M2Y-G	MOELLER INSTRUMENT COMPANY, INC.
+
+
+
+
+
+SPE4A626T31BG.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	09-17-2026
+Return By:	09-24-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Origin
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-09-16 09:49:21
+ 
+
+Purchase Request:	7018380355
+
+	
+
+NSN: 0001S00000053   Nomenclature: CONTRACTOR FIRST ARTIC
+
+
+   AMSC: G     	NAICS: ______     	Quantity: 1     
+
+
+
+
+
+NSN: 6685-01-327-7383   Nomenclature: GAGE,PRESSURE,DIAL IND
+
+
+   AMSC: G     	NAICS: 334512     	Quantity: 7     
+
+
+Specification, Drawing and Standard Data Mil-Spec
+Amend No.: E DTD: 02-26-2021
+I/A/W CID: MIL-G-18997E (BASIC)   DTD: 06-18-2026
+
+
+   Type #: SG4ND3KPBRANA
+
+
+
+
+
+
+
+
+
+
+SPE4A626T31CF.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	09-17-2026
+Return By:	09-24-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Origin
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-09-16 09:49:21
+ 
+
+Purchase Request:	7018378046
+
+	
+
+NSN: 0001S00000053   Nomenclature: CONTRACTOR FIRST ARTIC
+
+
+   AMSC: G     	NAICS: ______     	Quantity: 1     
+
+
+
+
+
+NSN: 6685-01-295-4384   Nomenclature: GAGE,COMPOUND PRESSURE
+
+
+   AMSC: G     	NAICS: 334512     	Quantity: 2     
+
+
+Specification, Drawing and Standard Data Mil-Spec
+Amend No.: E DTD: 02-26-2021
+I/A/W CID: MIL-G-18997E (BASIC)   DTD: 06-18-2026
+
+
+   Type #: SC4ND15CWRONA
+
+
+
+
+
+
+
+
+
+
+SPE4A626T30XY.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	09-17-2026
+Return By:	09-24-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Origin
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-09-16 05:29:45
+ 
+
+Purchase Request:	7018378873
+
+	
+
+NSN: 0001S00000053   Nomenclature: CONTRACTOR FIRST ARTIC
+
+
+   AMSC: G     	NAICS: ______     	Quantity: 1     
+
+
+
+
+
+NSN: 6685-01-047-5081   Nomenclature: GAGE,COMPOUND PRESSURE
+
+
+   AMSC: G     	NAICS: 334512     	Quantity: 3     
+
+
+Specification, Drawing and Standard Data Mil-Spec
+Amend No.: E DTD: 02-26-2021
+I/A/W CID: MIL-G-18997E (BASIC)   DTD: 06-18-2026
+
+
+   Type #: SC4NN150CWCANA
+
+
+
+
+
+
+
+
+
+
+SPE4A526T434K.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	09-17-2026
+Return By:	09-24-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Origin
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-09-16 05:29:45
+ 
+
+Purchase Request:	7018378288
+
+	
+
+NSN: 6685-00-988-0744   Nomenclature: GAGE,COMPOUND PRESSURE
+
+
+   AMSC: G     	NAICS: 334512     	Quantity: 2     
+
+
+Specification, Drawing and Standard Data Mil-Spec
+Amend No.: E DTD: 02-26-2021
+I/A/W CID: MIL-G-18997E (BASIC)   DTD: 06-18-2026
+
+
+   Type #: EA243CKFEWBX
+
+
+
+
+
+
+
+
+
+
+SPE7L126T12R5.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	09-17-2026
+Return By:	09-28-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-09-16 04:30:17
+ 
+
+Purchase Request:	7018345973
+
+	
+
+NSN: 5355-01-686-6662   Nomenclature: DIAL,CONTROL
+
+
+   AMSC: Z     	NAICS: 332119     	Quantity: 1     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+1SLF0	S389A2E-1	LIGHTFORCE USA, INCORPORATED
+
+
+
+
+
+SPE8EE26T2476.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	09-03-2026
+Return By:	09-18-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-09-15 05:42:14
+ 
+
+Purchase Request:	7018160999
+
+	
+
+NSN: 3950-01-198-2960   Nomenclature: INDICATOR,DIAL,CRANE
+
+
+   AMSC: D     	NAICS: 333923     	Quantity: 6     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+38589	GA104-108	
+
+
+
+
+
+SPE7L326T254Q.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	09-16-2026
+Return By:	09-28-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Origin
+ 
+
+Tech Data:	Tech Docs
+ 
+
+Document Post/Updated:	2026-09-15 02:20:23
+ 
+
+Purchase Request:	7018068861
+
+	
+
+NSN: 0001S00000053   Nomenclature: CONTRACTOR FIRST ARTIC
+
+
+   AMSC: G     	NAICS: ______     	Quantity: 1     
+
+
+
+
+
+NSN: 5355-01-343-1793   Nomenclature: DIAL,SCALE
+
+
+   AMSC: G     	NAICS: 332722     	Quantity: 4     
+
+
+Specification, Drawing and Standard Data
+Amend No.: G DTD: 06-18-2020
+I/A/W DRW: 19200 9356168 (BASIC)   DTD: 06-18-2026
+
+
+   Type #: 9356168
+
+
+
+
+
+
+
+
+
+
+SPE4A526T428D.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	09-16-2026
+Return By:	09-23-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Origin
+ 
+
+Tech Data:	Tech Docs
+ 
+
+Document Post/Updated:	2026-09-15 03:50:49
+ 
+
+Purchase Request:	7018342191
+
+	
+
+NSN: 0001S00000061   Nomenclature: PRODUCTION LOT TESTING
+
+
+   AMSC: C     	NAICS: ______     	Quantity: 1     
+
+
+
+
+
+NSN: 6685-01-530-2754   Nomenclature: GAGE,PRESSURE,DIAL IND
+
+
+   AMSC: C     	NAICS: 334513     	Quantity: 288     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+1V4T7	164422	DREAMFIND, INC.
+65048	164422	AMETEK, INC.
+
+
+
+
+
+SPE4A526T428B.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	09-16-2026
+Return By:	09-23-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Origin
+ 
+
+Tech Data:	Tech Docs
+ 
+
+Document Post/Updated:	2026-09-15 03:50:49
+ 
+
+Purchase Request:	7018342172
+
+	
+
+NSN: 0001S00000053   Nomenclature: CONTRACTOR FIRST ARTIC
+
+
+   AMSC: G     	NAICS: ______     	Quantity: 1     
+
+
+
+
+
+NSN: 6685-01-506-1860   Nomenclature: GAGE,PRESSURE,DIAL IND
+
+
+   AMSC: G     	NAICS: 334519     	Quantity: 58     
+
+
+Specification, Drawing and Standard Data Mil-Spec
+Amend No.: E DTD: 02-26-2021
+I/A/W CID: MIL-G-18997E (BASIC)   DTD: 06-18-2026
+
+
+   Type #: SG4MC3HPWRANA
+
+
+
+
+
+
+
+
+
+
+SPE4A726T739W.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	09-16-2026
+Return By:	09-23-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Origin
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-09-15 03:13:46
+ 
+
+Purchase Request:	7018342911
+
+	
+
+NSN: 0001S00000053   Nomenclature: CONTRACTOR FIRST ARTIC
+
+
+   AMSC: G     	NAICS: ______     	Quantity: 1     
+
+
+
+
+
+NSN: 6685-00-527-6156   Nomenclature: GAGE,PRESSURE,DIAL IND
+
+
+   AMSC: G     	NAICS: 334512     	Quantity: 370     
+
+
+Specification, Drawing and Standard Data Mil-Spec
+Amend No.: F DTD: 03-29-2021
+I/A/W SPEC: MIL-DTL-6019F (BASIC)   DTD: 06-18-2026
+
+
+   Type #: AN6026-1B
+
+
+
+
+
+
+
+
+
+
+SPE4A526T425K.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	09-15-2026
+Return By:	09-22-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Origin
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-09-14 07:06:57
+ 
+
+Purchase Request:	7018336022
+
+	
+
+NSN: 0001S00000053   Nomenclature: CONTRACTOR FIRST ARTIC
+
+
+   AMSC: G     	NAICS: ______     	Quantity: 1     
+
+
+
+
+
+NSN: 6685-01-453-5149   Nomenclature: GAGE,PRESSURE,DIAL IND
+
+
+   AMSC: G     	NAICS: 334512     	Quantity: 7     
+
+
+Specification, Drawing and Standard Data Mil-Spec
+Amend No.: E DTD: 02-26-2021
+I/A/W CID: MIL-G-18997E (BASIC)   DTD: 06-18-2026
+
+
+   Type #: SG4MC3HPWRCNA
+
+
+
+
+
+
+
+
+
+
+SPE8EE26T2571.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	09-15-2026
+Return By:	09-25-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-09-14 07:06:57
+ 
+
+Purchase Request:	7018161026
+
+	
+
+NSN: 3950-01-194-6871   Nomenclature: INDICATOR,DIAL,CRANE
+
+
+   AMSC: D     	NAICS: 333923     	Quantity: 8     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+38589	10728825-001	
+
+
+
+
+
+SPE4A626T29MM.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	09-15-2026
+Return By:	09-22-2026
+ 
+
+FOB Point:	Destination
+ 
+
+Inspection Point:	Origin
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-09-14 03:36:17
+ 
+
+Purchase Request:	7018121780
+
+	
+
+NSN: 0001S00000053   Nomenclature: CONTRACTOR FIRST ARTIC
+
+
+   AMSC: G     	NAICS: ______     	Quantity: 1     
+
+
+
+
+
+NSN: 6685-00-974-6538   Nomenclature: GAGE,PRESSURE,DIAL IND
+
+
+   AMSC: G     	NAICS: 334512     	Quantity: 4     
+
+
+Specification, Drawing and Standard Data Mil-Spec
+Amend No.: E DTD: 02-26-2021
+I/A/W CID: MIL-G-18997E (BASIC)   DTD: 06-18-2026
+
+
+   Type #: SG4ND15HPBRONAG
+
+
+
+
+
+
+
+
+
+
+SPE4A526T424X.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	09-15-2026
+Return By:	09-22-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-09-14 02:34:36
+ 
+
+Purchase Request:	7017915832
+
+	
+
+NSN: 6685-01-249-2445   Nomenclature: GAGE,PRESSURE,DIAL IND
+
+
+   AMSC: D     	NAICS: 334519     	Quantity: 14     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+38056	60-1377RS-00B 0-6000	ASHCROFT INC
+
+
+
+
+
+SPE4A726T734T.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	09-14-2026
+Return By:	09-21-2026
+ 
+
+FOB Point:	Destination
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-09-13 03:47:14
+ 
+
+Purchase Request:	7018220742
+
+	
+
+NSN: 6685-01-237-7491   Nomenclature: GAGE,COMPOUND PRESSURE
+
+
+   AMSC: D     	NAICS: 334512     	Quantity: 1     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+049X3	EA24-3CKP-EWB0	ASHCROFT INC
+
+
+
+
+
+SPE7M126T351L.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	09-14-2026
+Return By:	09-24-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-09-13 03:47:14
+ 
+
+Purchase Request:	7014415516
+
+	
+
+NSN: 5355-00-954-2815   Nomenclature: DIAL,SCALE
+
+
+   AMSC: D     	NAICS: 327999     	Quantity: 16     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+98810	P21000	AEROSONIC LLC
+
+
+
+
+
+SPE4A526T423N.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	09-14-2026
+Return By:	09-21-2026
+ 
+
+FOB Point:	Destination
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-09-13 03:47:14
+ 
+
+Purchase Request:	7018216222
+
+	
+
+NSN: 6685-01-528-6205   Nomenclature: GAGE,PRESSURE,DIAL IND
+
+
+   AMSC: Q     	NAICS: 334519     	Quantity: 1     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+049X3	ED243PG4RWBX	ASHCROFT INC
+
+
+
+
+
+SPE7L526T5453.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	09-11-2026
+Return By:	09-18-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-09-10 08:10:05
+ 
+
+Purchase Request:	7017010551
+
+	
+
+NSN: 6685-01-189-7953   Nomenclature: GAGE,PRESSURE,DIAL
+
+
+   AMSC: D     	NAICS: 333310     	Quantity: 5     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+7PZX0	23421868-1	FAIRBANKS MORSE, LLC
+
+
+
+
+
+SPE4A526T420V.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	09-11-2026
+Return By:	09-18-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-09-10 08:10:05
+ 
+
+Purchase Request:	7018248120
+
+	
+
+NSN: 6685-01-550-2930   Nomenclature: GAGE,PRESSURE,DIAL IND
+
+
+   AMSC: Q     	NAICS: 334513     	Quantity: 4     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+049X3	ED24-3PE4-LWB0	ASHCROFT INC
+
+
+
+
+
+SPE7M226T6791.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	09-11-2026
+Return By:	09-21-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	Tech Docs
+ 
+
+Document Post/Updated:	2026-09-10 03:06:59
+ 
+
+Purchase Request:	7018269956
+
+	
+
+NSN: 5355-01-230-1623   Nomenclature: WINDOW,DIAL
+
+
+   AMSC: G     	NAICS: 336412     	Quantity: 3     
+
+
+Specification, Drawing and Standard Data
+Amend No.: C DTD: 06-08-1994
+I/A/W DRW: 80020 212679 (BASIC)   DTD: 06-18-2026
+
+
+   Type #: 212679
+
+
+
+
+
+
+
+
+
+
+SPE7L126T070W.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	02-06-2026
+Return By:	09-14-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-09-09 06:14:57
+ 
+
+Purchase Request:	7015419501
+
+	
+
+NSN: 5355-00-436-6016   Nomenclature: DIAL,OUTER
+
+
+   AMSC: D     	NAICS: 327999     	Quantity: 5     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+28199	AX-667	L3 TECHNOLOGIES, INC.
+
+
+
+
+
+SPE1C126Q0496.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	09-10-2026
+Return By:	09-25-2026
+ 
+
+FOB Point:	Destination
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	Tech Docs
+ 
+
+Document Post/Updated:	2026-09-09 03:14:57
+ 
+
+Purchase Request:	7017750298
+
+	
+
+NSN: 8345-00-682-6804   Nomenclature: FLAG,NATIONAL
+
+
+   AMSC: G     	NAICS: 314999     	Quantity: 150     
+
+
+Specification, Drawing and Standard Data Mil-Spec
+Amend No.: K DTD: 07-12-2024
+I/A/W SPEC: MIL-DTL-2692K (BASIC)   DTD: 06-18-2026
+
+
+
+
+
+
+
+
+
+
+
+
+SPE7LX26U9947.PDF
+  » Package View
+
+
+
+uote  	 
+
+
+
+Issued:	09-10-2026
+Return By:	09-24-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Origin
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-09-09 12:07:58
+ 
+
+Purchase Request:	1000243077
+
+	
+
+NSN: 5355-01-081-8857   Nomenclature: POINTER,DIAL
+
+
+   AMSC: L     	NAICS: 327999     	Quantity: 16     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+89305	1000662	SIMMONDS PRECISION PRODUCTS INC
+U0J60	1000662	ONTIC ENGINEERING & MANUFACTURING U
+
+
+
+
+
+SPE7LX26U9940.PDF
+  » Package View
+
+
+
+uote  	 
+
+
+
+Issued:	09-10-2026
+Return By:	09-24-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-09-09 12:07:58
+ 
+
+Purchase Request:	1000243075
+
+	
+
+NSN: 5355-01-068-8804   Nomenclature: WINDOW,DIAL
+
+
+   AMSC: L     	NAICS: 327999     	Quantity: 22     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+89305	484592	SIMMONDS PRECISION PRODUCTS INC
+
+
+
+
+
+SPE4A526T417E.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	09-10-2026
+Return By:	09-17-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Origin
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-09-09 12:07:58
+ 
+
+Purchase Request:	7018247810
+
+	
+
+NSN: 0001S00000053   Nomenclature: CONTRACTOR FIRST ARTIC
+
+
+   AMSC: G     	NAICS: ______     	Quantity: 1     
+
+
+
+
+
+NSN: 6685-01-441-0843   Nomenclature: GAGE,PRESSURE,DIAL IND
+
+
+   AMSC: G     	NAICS: 334512     	Quantity: 28     
+
+
+Specification, Drawing and Standard Data Mil-Spec
+Amend No.: E DTD: 02-26-2021
+I/A/W CID: MIL-G-18997E (BASIC)   DTD: 06-18-2026
+
+
+   Type #: SG3NN1HPWRONA
+
+
+
+
+
+
+
+
+
+
+SPE4A526T413S.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	09-10-2026
+Return By:	09-17-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-09-09 05:18:39
+ 
+
+Purchase Request:	7018248036
+
+	
+
+NSN: 6685-01-519-0232   Nomenclature: GAGE,PRESSURE,DIAL IND
+
+
+   AMSC: P     	NAICS: 334519     	Quantity: 1     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+66935	026-31928-000	JOHNSON CONTROLS NAVY SYSTEMS, LLC
+66935	026-31928005	JOHNSON CONTROLS NAVY SYSTEMS, LLC
+66935	376-88422-000 ITEM 7	JOHNSON CONTROLS NAVY SYSTEMS, LLC
+
+
+
+
+
+SPE4A626T27LG.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	09-10-2026
+Return By:	09-17-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Origin
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-09-09 03:19:40
+ 
+
+Purchase Request:	7018248690
+
+	
+
+NSN: 0001S00000053   Nomenclature: CONTRACTOR FIRST ARTIC
+
+
+   AMSC: G     	NAICS: ______     	Quantity: 1     
+
+
+
+
+
+NSN: 6685-00-974-6538   Nomenclature: GAGE,PRESSURE,DIAL IND
+
+
+   AMSC: G     	NAICS: 334512     	Quantity: 5     
+
+
+Specification, Drawing and Standard Data Mil-Spec
+Amend No.: E DTD: 02-26-2021
+I/A/W CID: MIL-G-18997E (BASIC)   DTD: 06-18-2026
+
+
+   Type #: SG4ND15HPBRONAG
+
+
+
+
+
+
+
+
+
+
+SPE4A626T27GX.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	09-09-2026
+Return By:	09-16-2026
+ 
+
+FOB Point:	Destination
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-09-09 12:18:55
+ 
+
+Purchase Request:	7017918923
+
+	
+
+NSN: 6685-01-677-9686   Nomenclature: GAGE,PRESSURE,DIAL
+
+
+   AMSC: D     	NAICS: 334512     	Quantity: 1     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+22501	2840-G509	HOWELL LABORATORIES INC
+
+
+
+
+
+SPE7LX26U9920.PDF
+  » Package View
+
+
+
+uote  	 
+
+
+
+Issued:	09-08-2026
+Return By:	09-22-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-09-07 09:26:04
+ 
+
+Purchase Request:	1000242631
+
+	
+
+NSN: 6620-01-576-3717   Nomenclature: GAGE,PRESSURE,DIAL IND
+
+
+   AMSC: Q     	NAICS: 334519     	Quantity: 5     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+64678	ENP 168501 00225	DAIMLER TRUCK NORTH AMERICA LLC
+
+
+
+
+
+SPE7M226T6718.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	09-08-2026
+Return By:	09-18-2026
+ 
+
+FOB Point:	Destination
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	Tech Docs
+ 
+
+Document Post/Updated:	2026-09-07 04:26:58
+ 
+
+Purchase Request:	7017799992
+
+	
+
+NSN: 5355-01-230-1623   Nomenclature: WINDOW,DIAL
+
+
+   AMSC: G     	NAICS: 336412     	Quantity: 1     
+
+
+Specification, Drawing and Standard Data
+Amend No.: C DTD: 06-08-1994
+I/A/W DRW: 80020 212679 (BASIC)   DTD: 06-18-2026
+
+
+   Type #: 212679
+
+
+
+
+
+
+
+
+
+
+SPE4A026T4664.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	09-04-2026
+Return By:	09-11-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Origin
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-09-03 08:32:45
+ 
+
+Purchase Request:	7017727153, 7017800024
+
+	
+
+NSN: 0001S00000053   Nomenclature: CONTRACTOR FIRST ARTIC
+
+
+   AMSC: G     	NAICS: ______     	Quantity: 1     
+
+
+
+
+
+NSN: 6685-01-450-3479   Nomenclature: GAGE,PRESSURE,DIAL
+
+
+   AMSC: G     	NAICS: 334512     	Quantity: 3     
+
+
+Specification, Drawing and Standard Data Mil-Spec
+Amend No.: E DTD: 02-26-2021
+I/A/W CID: MIL-G-18997E (BASIC)   DTD: 06-18-2026
+
+
+   Type #: SG4MC30PBCCNA
+
+
+
+
+
+
+
+
+
+
+SPE4A526T381D.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	08-21-2026
+Return By:	09-08-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-09-02 06:43:48
+ 
+
+Purchase Request:	7017919211
+
+	
+
+NSN: 6685-01-714-8429   Nomenclature: GAGE,PRESSURE,DIAL
+
+
+   AMSC: D     	NAICS: 334512     	Quantity: 2     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+59PE0	MG-2000-A-9V-R	AMPHENOL CORPORATION
+
+
+
+
+
+SPE4A526T388Y.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	08-26-2026
+Return By:	09-08-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-09-02 06:42:48
+ 
+
+Purchase Request:	7017914629
+
+	
+
+NSN: 6685-01-185-7699   Nomenclature: GAGE,DIFFERENTIAL,DIAL
+
+
+   AMSC: C     	NAICS: 334519     	Quantity: 6     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+05991	20JCXXX0X10E1BBXXX02	CAMERON ENERGY SERVICES CORP.
+
+
+
+
+
+SPE4A526T403V.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	09-03-2026
+Return By:	09-10-2026
+ 
+
+FOB Point:	Destination
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-09-02 03:54:28
+ 
+
+Purchase Request:	7018016010
+
+	
+
+NSN: 6685-00-072-7322   Nomenclature: DIAL AND LIGHTING ASSE
+
+
+   AMSC: P     	NAICS: 334512     	Quantity: 1     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+35918	S4004-2	
+
+
+
+
+
+SPE8E526T4248.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	09-03-2026
+Return By:	09-14-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-09-02 09:29:57
+ 
+
+Purchase Request:	7018087028
+
+	
+
+NSN: 5210-14-351-3623   Nomenclature: INDICATOR,DIAL
+
+
+   AMSC: D     	NAICS: 332216     	Quantity: 1     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+F3742	1687233011	
+Z0666	1 687 233 011	
+
+
+
+
+
+SPE1C126Q0483.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	09-02-2026
+Return By:	09-16-2026
+ 
+
+FOB Point:	Destination
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	Tech Docs
+ 
+
+Document Post/Updated:	2026-09-02 09:29:48
+ 
+
+Purchase Request:	7017720986
+
+	
+
+NSN: 8345-00-926-5991   Nomenclature: PENNANT, SIGNAL, TYPE
+
+
+   AMSC: G     	NAICS: 314999     	Quantity: 2000     
+
+
+Specification, Drawing and Standard Data Mil-Spec
+Amend No.: K DTD: 07-12-2024
+I/A/W SPEC: MIL-DTL-2692K (BASIC)   DTD: 06-18-2026
+
+
+
+
+
+
+
+
+
+
+
+
+SPE8E526T4231.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	09-03-2026
+Return By:	09-14-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-09-02 03:38:06
+ 
+
+Purchase Request:	7018160175
+
+	
+
+NSN: 5210-99-135-7649   Nomenclature: INDICATOR,DIAL
+
+
+   AMSC: D     	NAICS: 333515     	Quantity: 15     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+K0378	1011479	ROLLS-ROYCE PLC
+KCU89	03-0516	
+
+
+
+
+
+SPE4A626T24ZK.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	09-01-2026
+Return By:	09-08-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Origin
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-31 08:42:30
+ 
+
+Purchase Request:	7018067850
+
+	
+
+NSN: 0001S00000053   Nomenclature: CONTRACTOR FIRST ARTIC
+
+
+   AMSC: G     	NAICS: ______     	Quantity: 1     
+
+
+
+
+
+NSN: 6685-01-047-5081   Nomenclature: GAGE,COMPOUND PRESSURE
+
+
+   AMSC: G     	NAICS: 334512     	Quantity: 3     
+
+
+Specification, Drawing and Standard Data Mil-Spec
+Amend No.: E DTD: 02-26-2021
+I/A/W CID: MIL-G-18997E (BASIC)   DTD: 06-18-2026
+
+
+   Type #: SC4NN150CWCANA
+
+
+
+
+
+
+
+
+
+1 2 3 4
+
+
+· RFQ Text Search
+Query String:
+
+
+
+Modified: 
+Any time
+last hour
+last day
+last 7 days
+last 30 days
+last 60 days
+last 90 days
+last 365 days
+	Sort: 
+Best Match
+Newly Posted to Oldest
+Oldest Posted to Newest
+
+Filter:
+  
+Automated Indefinite Delivery Contract (AIDC)
+
+
+  
+Items with Technical Documents
+
+
+  
+Fast Award Candidates
+
+
+  
+Small Business Set-Asides
+
+
+  
+HUBZone Set-Asides
+
+	
+  
+Service Disabled Veteran Owned
+      Small Business Set-Asides
+
+
+Woman Owned Small Business Set-Asides
+
+
+Economically Disadvantaged Women Owned Small Business Set-Asides
+
+
+Unrestricted/Not Set-Asides
+
+
+ 
+
+
+
+
+ 
+Policy Statements · Feedback
+   EOXD8AUZtkHO8wt7m812jA==
+   Ver.6.3.2
+

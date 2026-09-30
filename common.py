@@ -53,6 +53,16 @@ CATEGORY_NAMES = {
 }
 GROUP = {"C08": "core-adjacent", "C09": "INSCO", "C10": "adjacent"}      # others = core
 BROAD = {"PANEL", "SWITCH", "PLATE", "WINDOW", "LENS", "ACTUATOR", "MARKING", "LEGEND"}
+# Federal Supply Classes whose "panels" are structural/shelter/body parts, not control/HMI panels.
+STRUCTURAL_FSC = {
+    "1560": "Airframe structural components",
+    "2510": "Vehicular cab, body and frame structural components",
+    "5410": "Prefabricated and portable buildings",
+    "5411": "Rigid wall shelters",
+    "5419": "Collective modular support system",
+    "5670": "Building components, prefabricated",
+    "5680": "Miscellaneous construction materials",
+}
 STRUCTURAL = ["STRUCTURAL", "SKIN", "AIRFRAME", "FUSELAGE", "WING", "BODY", "ARMOR", "FLOOR", "SHELTER"]
 NSN_RE = re.compile(r"(?<!\d)(\d{4})[- ]?(\d{2})[- ]?(\d{3})[- ]?(\d{4})(?!\d)")
 
@@ -85,14 +95,18 @@ def match(text_norm: str):
             "group": GROUP.get(cat, "core")}
 
 
-def exclusion(title_norm: str, m) -> str | None:
-    """Brief's exclusion rules, applied to the item description/title."""
+def exclusion(title_norm: str, m, fsc: str = "") -> str | None:
+    """Brief's exclusion rules, applied to the item description/title.
+    fsc = first 4 digits of the NSN (DIBBS) or the PSC/ClassificationCode (SAM.gov)."""
     if kw_pattern("SKIRT").search(title_norm):
         return "Excluded: SKIRT"
     if kw_pattern("COVER").search(title_norm) and not kw_pattern("SWITCH").search(title_norm):
         return "Excluded: COVER without SWITCH"
     if "PANEL" in m["keyword_tags"] and any(kw_pattern(w).search(title_norm) for w in STRUCTURAL):
         return "Excluded: structural/airframe panel"
+    fsc = str(fsc or "").strip()[:4]
+    if "PANEL" in m["keyword_tags"] and fsc in STRUCTURAL_FSC:
+        return f"Excluded: structural/shelter/body panel (FSC {fsc} = {STRUCTURAL_FSC[fsc]})"
     return None
 
 

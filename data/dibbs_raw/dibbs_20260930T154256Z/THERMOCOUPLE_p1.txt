@@ -1,0 +1,1474 @@
+FAQ/Help · Refs · My Account · Log In
+
+
+   Home       Solicitations       RFQs       RFP/IFB/Other RFQs       Tech Data       Downloads        Awards   
+
+
+Navigation: 
+Navigation/Documents - - - - - -
+Accessibility
+Awards Area
+- Awards by Award DT
+- Awards by Post DT
+- Market Ready Orders ®
+- Post Award Request (PAR)®
+Batch Quoting ®
+Batch Quoting File Format
+BidSets
+Contracts
+Delivery Orders
+FAQs
+Feedback
+Forecast ®
+FSC ~ DLA Managed
+Global Search
+Home Page
+Invitation For Bid (IFB) Area
+Log In Screen
+Master Solicitation (PAC)
+Notices/Message Board
+Post Award Request (PAR)®
+Quoting Help
+Quote Search ®
+Request For Proposal (RFP)Area
+Request For Quote (RFQ) Area
+- RFQs by Issue Date
+- RFQs by Return By Date
+- RFQs Recent
+References
+Registration
+Solicitations
+SRVA ®
+User(s) Profile Update ®
+Vendor Profile Update ®
+Welcome Page ®
+Regs / Supplement Extracts ---
+DFARS 225.502
+DFARS 252.211-7005
+DFARS 252.211-7006
+DFARS 252.223-7001
+DFARS 252.225-7001
+DFARS 252.225-7035
+DFARS 252.225-7036
+DLAD 52.211-9000
+DLAD 52.213-9000
+DLAD 52.217-9002
+DLAD 52.219-9015
+DLAD 52.223-9000
+DLAD 52.233-9001
+FAR 52.209-1
+FAR 52.211-5
+FAR 52.212-3
+FAR 52.219-1
+FAR 52.222-18
+FAR 52.222-22
+FAR 52.222-25
+FAR 52.222-26
+FAR 52.223-3
+ 
+
+Database Search: 
+Choose Search
+RFQs - NSN
+RFQs - Solicitation
+RFQs - PR
+-----------------------
+Awards - Awardee CAGE
+Awards - Award/Basic Number
+Awards - Delivery Order #
+Awards - NSN
+Awards - PR
+-----------------------
+RFP/IFB/Other RFQs - Solicitation
+RFP/IFB/Other RFQs - NSN
+-----------------------
+CAGE Search
+  Value: 
+
+
+Notice:   · Suspension of CMMC Phase II » Read Notice
+
+  Please read notices posted on the Notices page.
+
+
+  Location: Home » Solicitations » RFQs » RFQ Text Search
+[
+RFQ Search
+-
+Recent RFQs
+-
+RFQs by Issue Date
+-
+RFQs by Return By Date
+-
+RFQs by FSC
+]
+[ 273 ] 9/30/2026 12:33:05 PM
+
+
+
+Documents Indexed: 161,967
+
+Additional RFQ Text Search Help
+
+Found 28 records for this search query string.
+Modified: Any time
+
+
+
+1
+Solicitation Information	Product Data
+
+SPE4A526T481J.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	09-29-2026
+Return By:	10-06-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-09-28 08:07:01
+ 
+
+Purchase Request:	7018412162
+
+	
+
+NSN: 6685-01-320-0175   Nomenclature: INDICATOR,TEMPERATURE,
+
+
+   AMSC: P     	NAICS: 334512     	Quantity: 10     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+02009	27700-2	RDF CORPORATION
+
+
+
+
+
+SPE4A726T768H.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	09-21-2026
+Return By:	10-01-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-09-28 08:04:47
+ 
+
+Purchase Request:	7018413744
+
+	
+
+NSN: 6685-00-530-3614   Nomenclature: INDICATOR,TEMPERATURE,
+
+
+   AMSC: T     	NAICS: 334519     	Quantity: 13     
+
+
+Specification, Drawing and Standard Data Mil-Spec
+Amend No.: C DTD: 01-15-2025
+I/A/W CID: MIL-I-9343C (BASIC)   DTD: 06-18-2026
+
+
+   Type #: MJ1
+
+
+
+
+
+
+
+
+
+
+SPE4A626T35ZM.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	09-24-2026
+Return By:	10-01-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	Tech Docs
+ 
+
+Document Post/Updated:	2026-09-23 04:54:57
+ 
+
+Purchase Request:	7018414552
+
+	
+
+NSN: 6685-01-064-5525   Nomenclature: THERMOCOUPLE ASSEMBLY
+
+
+   AMSC: T     	NAICS: 334519     	Quantity: 14     
+
+
+Specification, Drawing and Standard Data
+Amend No.: B DTD: 04-26-1979
+I/A/W: MIL-T-24388B (BASIC)   DTD: 06-18-2026
+
+
+
+
+
+
+
+
+
+
+
+
+SPE4A626T35NN.PDF
+  » Package View
+
+
+
+uote  	 
+
+
+
+Issued:	09-23-2026
+Return By:	09-30-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-09-22 03:47:56
+ 
+
+Purchase Request:	7018459399
+
+	
+
+NSN: 6685-15-200-7779   Nomenclature: THERMOCOUPLE,IMMERSION
+
+
+   AMSC: Q     	NAICS: 334513     	Quantity: 10     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+A0106	1Q 345174 C	
+
+
+
+
+
+SPE4A626T35NA.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	09-23-2026
+Return By:	09-30-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-09-22 03:47:56
+ 
+
+Purchase Request:	7018457450
+
+	
+
+NSN: 2995-14-567-6780   Nomenclature: THERMOCOUPLE HARNESS A
+
+
+   AMSC: D     	NAICS: 336412     	Quantity: 1     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+F2276	TC296-03	
+
+
+
+
+
+SPE4A626T33PD.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	09-21-2026
+Return By:	09-28-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-09-21 12:15:48
+ 
+
+Purchase Request:	7018413615
+
+	
+
+NSN: 6685-01-240-0086   Nomenclature: THERMOCOUPLE,IMMERSION
+
+
+   AMSC: Q     	NAICS: 334512     	Quantity: 13     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+55820	163099-100	RTX CORPORATION
+
+
+
+
+
+SPE4A526T455B.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	09-21-2026
+Return By:	09-28-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-09-21 12:15:48
+ 
+
+Purchase Request:	7018413597
+
+	
+
+NSN: 6685-01-243-7733   Nomenclature: HARNESS ASSEMBLY,THERM
+
+
+   AMSC: R     	NAICS: 334512     	Quantity: 12     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+55820	163099-200	RTX CORPORATION
+99167	163099-200	HAMILTON SUNDSTRAND CORPORATION
+
+
+
+
+
+SPE4A526T453F.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	09-21-2026
+Return By:	09-28-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-09-21 12:15:48
+ 
+
+Purchase Request:	7018414497
+
+	
+
+NSN: 6685-01-073-3416   Nomenclature: THERMOCOUPLE,HEATING E
+
+
+   AMSC: D     	NAICS: 334519     	Quantity: 3     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+99447	10278-5 ITEM 12	COOPER INTERCONNECT, INC.
+
+
+
+
+
+SPE4A526T419L.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	09-11-2026
+Return By:	09-23-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-09-18 06:26:46
+ 
+
+Purchase Request:	7010654640
+
+	
+
+NSN: 6685-01-451-2603   Nomenclature: THERMOCOUPLE,IMMERS
+
+
+   AMSC: P     	NAICS: 334513     	Quantity: 49     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+00060	HAD21624-00	HARCOSEMCO LLC
+99193	2-310-088-02	HONEYWELL INTERNATIONAL INC.
+
+
+
+
+
+SPE4A126T2830.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	09-18-2026
+Return By:	09-25-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-09-17 04:24:21
+ 
+
+Purchase Request:	7018389296
+
+	
+
+NSN: 6685-01-462-1674   Nomenclature: THERMOCOUPLE,IMMERSION
+
+
+   AMSC: R     	NAICS: 334512     	Quantity: 7     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+99193	304461-2	HONEYWELL INTERNATIONAL INC.
+
+
+
+
+
+SPE4A526T435H.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	09-17-2026
+Return By:	09-24-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-09-16 09:12:12
+ 
+
+Purchase Request:	7018379755
+
+	
+
+NSN: 6685-01-258-6195   Nomenclature: THERMOCOUPLE,HEATING E
+
+
+   AMSC: L     	NAICS: 334519     	Quantity: 11     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+07131	309-027347-028	CHROMALOX INC
+
+
+
+
+
+SPE4A526T409L.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	09-09-2026
+Return By:	09-16-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Origin
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-09-08 12:45:03
+ 
+
+Purchase Request:	7017741135
+
+	
+
+NSN: 6685-01-738-9247   Nomenclature: THERMOCOUPLE,HEATING E
+
+
+   AMSC: R     	NAICS: 000000     	Quantity: 25     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+01121	1756-CJC	ROCKWELL AUTOMATION, INC.
+L0Q42	1756-CJC	
+
+
+
+
+
+SPE4A724T108R.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	03-11-2024
+Return By:	03-18-2024
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7006299231
+
+	
+
+NSN: 6685-01-352-6551   Nomenclature: THERMOCOUPLE,IMMERS
+
+
+   AMSC: R     	NAICS: 334512     	Quantity: 4     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+0SML3	3876146-3	AERO INTERNATIONAL, LLC
+99193	3876146-3	HONEYWELL INTERNATIONAL INC.
+
+
+
+
+
+SPE4A625T07QV.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	06-27-2025
+Return By:	07-07-2025
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7012708254
+
+	
+
+NSN: 6685-00-023-1799   Nomenclature: THERMOCOUPLE VACUUM
+
+
+   AMSC: P     	NAICS: 334512     	Quantity: 5     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+11243	2200902-1	COSMODYNE, LLC
+
+
+
+
+
+SPE4A526T225S.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	06-12-2026
+Return By:	06-22-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7016849458
+
+	
+
+NSN: 6685-01-014-8140   Nomenclature: THERMOCOUPLE,IMMERS
+
+
+   AMSC: C     	NAICS: 334512     	Quantity: 8     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+59885	56B3R	ROSEMOUNT AEROSPACE INC
+60678	56B3R	
+
+
+
+
+
+SPE4A526T362V.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	08-17-2026
+Return By:	08-24-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7017917712
+
+	
+
+NSN: 6685-01-212-8046   Nomenclature: THERMOCOUPLE ASSEMB
+
+
+   AMSC: T     	NAICS: 334519     	Quantity: 3     
+
+
+Specification, Drawing and Standard Data Mil-Spec
+Amend No.: C DTD: 03-30-1990
+I/A/W CID: MIL-T-24388C (BASIC)   DTD: 06-18-2026
+
+
+   Type #: PRT-TW-9
+
+
+
+
+
+
+
+
+
+
+SPE4A526T285R.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	07-14-2026
+Return By:	07-21-2026
+ 
+
+FOB Point:	Destination
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7017417499
+
+	
+
+NSN: 6685-01-668-0505   Nomenclature: THERMOCOUPLE,CONTAC
+
+
+   AMSC: C     	NAICS: 334512     	Quantity: 1     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+62330	015911-180-5-1-5/6 OYGENCLEANCP	
+
+
+
+
+
+SPE4A525T138Q.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	03-14-2025
+Return By:	03-27-2025
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Origin
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7011054731
+
+	
+
+NSN: 6685-01-665-0955   Nomenclature: THERMOCOUPLE,CONTAC
+
+
+   AMSC: D     	NAICS: 334512     	Quantity: 1     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+02009	26391-E-U-84	RDF CORPORATION
+
+
+
+
+
+SPE4A525T373B.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	05-16-2025
+Return By:	05-23-2025
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7011761838
+
+	
+
+NSN: 6685-01-355-3539   Nomenclature: THERMOCOUPLE,IMMERS
+
+
+   AMSC: R     	NAICS: 334512     	Quantity: 3     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+50413	81310-4	
+99193	3876146-4	HONEYWELL INTERNATIONAL INC.
+
+
+
+
+
+SPE4A526T150S.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	05-15-2026
+Return By:	05-22-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7016785166
+
+	
+
+NSN: 6685-01-291-4375   Nomenclature: THERMOCOUPLE,HEATIN
+
+
+   AMSC: C     	NAICS: 336412     	Quantity: 302     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+38ZC7	23006614	ROLLS-ROYCE MARINE NORTH AMERICA IN
+
+
+
+
+
+SPE4A525T700X.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	08-25-2025
+Return By:	09-30-2025
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7013431449
+
+	
+
+NSN: 6685-01-439-4122   Nomenclature: THERMOCOUPLE,HEATIN
+
+
+   AMSC: R     	NAICS: 334519     	Quantity: 4     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+3BNF6	90-9350-01200	CINCINNATI GEARING SYSTEMS INC
+
+
+
+
+
+SPE4A526T116E.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	05-06-2026
+Return By:	05-13-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Origin
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7016636299
+
+	
+
+NSN: 6685-01-526-0536   Nomenclature: THERMOCOUPLE,IMMERS
+
+
+   AMSC: Q     	NAICS: 334513     	Quantity: 1     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+06906	316-J-1G-86-05-SL-6+1010J+1080	MARLIN MFG. CORP
+65586	8645-35001	CHROMALOX INC
+65586	PI-34622	CHROMALOX INC
+
+
+
+
+
+SPE4A526T258Q.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	06-24-2026
+Return By:	07-01-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7017271796
+
+	
+
+NSN: 6685-01-646-8033   Nomenclature: THERMOCOUPLE,CONTAC
+
+
+   AMSC: C     	NAICS: 334513     	Quantity: 2     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+16505	6116-408	ENGINE SYSTEMS, INC.
+
+
+
+
+
+SPE4A526T455K.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	09-21-2026
+Return By:	10-01-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-09-28 08:03:57
+ 
+
+Purchase Request:	7018412245
+
+	
+
+NSN: 6685-01-482-9836   Nomenclature: INDICATOR,TEMPERATURE,
+
+
+   AMSC: R     	NAICS: 334512     	Quantity: 116     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+97424	8TC34BAG1	AMETEK INC
+
+
+
+
+
+SPE4A626T31FB.PDF
+  » Package View
+
+
+
+uote  	 
+
+
+
+Issued:	09-17-2026
+Return By:	10-01-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-09-28 07:25:47
+ 
+
+Purchase Request:	7018379999
+
+	
+
+NSN: 6685-01-506-4979   Nomenclature: INDICATOR,TEMPERATURE,
+
+
+   AMSC: P     	NAICS: 334513     	Quantity: 2     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+00365	1050178	TLD ACE CORP
+
+
+
+
+
+SPE4A526T422Q.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	09-14-2026
+Return By:	09-21-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Origin
+ 
+
+Tech Data:	Tech Docs
+ 
+
+Document Post/Updated:	2026-09-13 03:47:14
+ 
+
+Purchase Request:	7018247919
+
+	
+
+NSN: 4935-01-578-0034   Nomenclature: HARNESS THERMOCOUPL
+
+
+   AMSC: C     	NAICS: 332721     	Quantity: 2     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+63005	23084466	ROLLS-ROYCE CORPORATION
+
+
+
+
+
+SPE4A526T415A.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	09-10-2026
+Return By:	09-17-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-09-09 05:18:39
+ 
+
+Purchase Request:	7018247514
+
+	
+
+NSN: 6685-01-652-3534   Nomenclature: INDICATOR,TEMPERATURE,
+
+
+   AMSC: Z     	NAICS: 334512     	Quantity: 3     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+0FHT6	2132I/AL/VH/ENG/AC/HA/K/32/1000/	
+95368	124502	AERCO INTERNATIONAL, INC.
+95368	25035 ITEM NO 21	AERCO INTERNATIONAL, INC.
+
+
+
+
+
+SPE4A626T034V.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	11-14-2025
+Return By:	11-21-2025
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Origin
+ 
+
+Tech Data:	Tech Docs
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7014488599
+
+	
+
+NSN: 6150-01-303-9962   Nomenclature: WIRING HARNESS,BRAN
+
+
+   AMSC: C     	NAICS: 336413     	Quantity: 6     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+82918	458-58422-595	THE BOEING COMPANY
+
+
+
+
+1
+
+
+· RFQ Text Search
+Query String:
+
+
+
+Modified: 
+Any time
+last hour
+last day
+last 7 days
+last 30 days
+last 60 days
+last 90 days
+last 365 days
+	Sort: 
+Best Match
+Newly Posted to Oldest
+Oldest Posted to Newest
+
+Filter:
+  
+Automated Indefinite Delivery Contract (AIDC)
+
+
+  
+Items with Technical Documents
+
+
+  
+Fast Award Candidates
+
+
+  
+Small Business Set-Asides
+
+
+  
+HUBZone Set-Asides
+
+	
+  
+Service Disabled Veteran Owned
+      Small Business Set-Asides
+
+
+Woman Owned Small Business Set-Asides
+
+
+Economically Disadvantaged Women Owned Small Business Set-Asides
+
+
+Unrestricted/Not Set-Asides
+
+
+ 
+
+
+
+
+ 
+Policy Statements · Feedback
+   EOXD8AUZtkHO8wt7m812jA==
+   Ver.6.3.2
+

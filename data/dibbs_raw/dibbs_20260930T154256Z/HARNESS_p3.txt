@@ -1,0 +1,5172 @@
+FAQ/Help · Refs · My Account · Log In
+
+
+   Home       Solicitations       RFQs       RFP/IFB/Other RFQs       Tech Data       Downloads        Awards   
+
+
+Navigation: 
+Navigation/Documents - - - - - -
+Accessibility
+Awards Area
+- Awards by Award DT
+- Awards by Post DT
+- Market Ready Orders ®
+- Post Award Request (PAR)®
+Batch Quoting ®
+Batch Quoting File Format
+BidSets
+Contracts
+Delivery Orders
+FAQs
+Feedback
+Forecast ®
+FSC ~ DLA Managed
+Global Search
+Home Page
+Invitation For Bid (IFB) Area
+Log In Screen
+Master Solicitation (PAC)
+Notices/Message Board
+Post Award Request (PAR)®
+Quoting Help
+Quote Search ®
+Request For Proposal (RFP)Area
+Request For Quote (RFQ) Area
+- RFQs by Issue Date
+- RFQs by Return By Date
+- RFQs Recent
+References
+Registration
+Solicitations
+SRVA ®
+User(s) Profile Update ®
+Vendor Profile Update ®
+Welcome Page ®
+Regs / Supplement Extracts ---
+DFARS 225.502
+DFARS 252.211-7005
+DFARS 252.211-7006
+DFARS 252.223-7001
+DFARS 252.225-7001
+DFARS 252.225-7035
+DFARS 252.225-7036
+DLAD 52.211-9000
+DLAD 52.213-9000
+DLAD 52.217-9002
+DLAD 52.219-9015
+DLAD 52.223-9000
+DLAD 52.233-9001
+FAR 52.209-1
+FAR 52.211-5
+FAR 52.212-3
+FAR 52.219-1
+FAR 52.222-18
+FAR 52.222-22
+FAR 52.222-25
+FAR 52.222-26
+FAR 52.223-3
+ 
+
+Database Search: 
+Choose Search
+RFQs - NSN
+RFQs - Solicitation
+RFQs - PR
+-----------------------
+Awards - Awardee CAGE
+Awards - Award/Basic Number
+Awards - Delivery Order #
+Awards - NSN
+Awards - PR
+-----------------------
+RFP/IFB/Other RFQs - Solicitation
+RFP/IFB/Other RFQs - NSN
+-----------------------
+CAGE Search
+  Value: 
+
+
+Notice:   · Suspension of CMMC Phase II » Read Notice
+
+  Please read notices posted on the Notices page.
+
+
+  Location: Home » Solicitations » RFQs » RFQ Text Search
+[
+RFQ Search
+-
+Recent RFQs
+-
+RFQs by Issue Date
+-
+RFQs by Return By Date
+-
+RFQs by FSC
+]
+[ 273 ] 9/30/2026 12:33:41 PM
+
+
+
+Documents Indexed: 161,967
+
+Additional RFQ Text Search Help
+
+Found 604 records for this search query string.
+Modified: Any time
+
+
+
+1 2 3 4 5 6 7
+Solicitation Information	Product Data
+
+SPE7M826T5800.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	08-07-2026
+Return By:	08-17-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7017775305
+
+	
+
+NSN: 1680-01-516-4337   Nomenclature: HARNESS,CRYO CONTRO
+
+
+   AMSC: D     	NAICS: 336413     	Quantity: 5     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+4U884	6464360	RAYTHEON COMPANY
+96214	6464360	RAYTHEON COMPANY
+
+
+
+
+
+SPE7M225U0389.PDF
+  » Package View
+
+
+
+uote  	 
+
+
+
+Issued:	05-13-2025
+Return By:	05-30-2025
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	1000204062
+
+	
+
+NSN: 7045-01-705-8218   Nomenclature: HARNESS,DIGITAL COM
+
+
+   AMSC: D     	NAICS: 334610     	Quantity: 469     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+3UTC7	FZ-VSTG21U	IMPRES TECHNOLOGY SOLUTIONS, INC
+61058	FZ-VSTG21U	PANASONIC CORPORATION OF NORTH AMER
+
+
+
+
+
+SPE4A626T04WE.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	07-09-2026
+Return By:	07-16-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	Tech Docs
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7017039385
+
+	
+
+NSN: 5995-01-247-6068   Nomenclature: WIRING HARNESS,BRAN
+
+
+   AMSC: G     	NAICS: 334419     	Quantity: 110     
+
+
+Specification, Drawing and Standard Data
+Amend No.: DTD: 01-01-2039
+I/A/W DRW: 56161 10501674 (BASIC)   DTD: 06-18-2026
+
+
+   Type #: 10501674
+
+
+
+
+
+
+
+
+
+
+SPE4A726T334Y.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	05-12-2026
+Return By:	05-19-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Origin
+ 
+
+Tech Data:	Tech Docs
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7016644035
+
+	
+
+NSN: 6150-01-489-6194   Nomenclature: WIRING HARNESS,BRAN
+
+
+   AMSC: B     	NAICS: 334419     	Quantity: 2     
+
+
+Specification, Drawing and Standard Data
+Amend No.: G DTD: 03-09-2001
+I/A/W DRW: 82918 10-30754 (BASIC)   DTD: 09-18-2006
+
+
+   Type #: P/N 10-30754-46
+
+
+
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+89305	50003-0000-02	SIMMONDS PRECISION PRODUCTS INC
+
+
+
+
+
+SPE4A726T221C.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	04-08-2026
+Return By:	04-15-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Origin
+ 
+
+Tech Data:	Tech Docs
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7016227766
+
+	
+
+NSN: 5995-01-273-7421   Nomenclature: WIRING HARNESS
+
+
+   AMSC: G     	NAICS: 334419     	Quantity: 2     
+
+
+Specification, Drawing and Standard Data
+Amend No.: B DTD: 01-25-1993
+I/A/W DRW: 78286 70552-42002 (BASIC)   DTD: 05-07-2013
+
+
+   Type #: 70552-42002-043
+
+
+
+
+
+
+
+
+
+
+SPE4A726T073A.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	03-11-2026
+Return By:	03-18-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Origin
+ 
+
+Tech Data:	Tech Docs
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7015853240
+
+	
+
+NSN: 6150-01-422-7745   Nomenclature: WIRING HARNESS
+
+
+   AMSC: G     	NAICS: 334419     	Quantity: 25     
+
+
+Specification, Drawing and Standard Data
+Amend No.: C DTD: 10-26-2021
+I/A/W DRW: 19207 12366215 (BASIC)   DTD: 02-03-2026
+
+
+   Type #: 12366215
+
+
+
+
+
+
+
+
+
+
+SPE4A726T066U.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	03-11-2026
+Return By:	03-18-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Origin
+ 
+
+Tech Data:	Tech Docs
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7015853770
+
+	
+
+NSN: 0001S00000053   Nomenclature: CONTRACTOR FIRST ARTIC
+
+
+   AMSC: G     	NAICS: ______     	Quantity: 1     
+
+
+
+
+
+NSN: 5995-01-674-1042   Nomenclature: WIRING HARNESS,BRAN
+
+
+   AMSC: G     	NAICS: 335931     	Quantity: 5     
+
+
+Specification, Drawing and Standard Data
+Amend No.: E DTD: 12-13-2021
+I/A/W DRW: 19207 12546451 (BASIC)   DTD: 12-01-2023
+
+
+
+
+
+
+
+
+
+
+
+
+SPE4A726T043E.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	03-05-2026
+Return By:	03-12-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	Tech Docs
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7015689295
+
+	
+
+NSN: 5995-01-702-1349   Nomenclature: WIRING HARNESS
+
+
+   AMSC: G     	NAICS: 000000     	Quantity: 4     
+
+
+Specification, Drawing and Standard Data
+Amend No.: C DTD: 01-29-2024
+I/A/W DRW: 19207 12617732 (BASIC)   DTD: 01-29-2026
+
+
+   Type #: 12617732-14
+
+
+
+
+
+
+
+
+
+
+SPE4A526T4610.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	12-03-2025
+Return By:	12-10-2025
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7014155830
+
+	
+
+NSN: 5995-01-682-8267   Nomenclature: WIRING HARNESS,BRAN
+
+
+   AMSC: C     	NAICS: 335931     	Quantity: 1     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+81205	204-58879-3	THE BOEING COMPANY
+
+
+
+
+
+SPE4A526T3346.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	11-14-2025
+Return By:	11-21-2025
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7014493038
+
+	
+
+NSN: 6150-01-481-3473   Nomenclature: WIRING HARNESS,BRAN
+
+
+   AMSC: Q     	NAICS: 334419     	Quantity: 2     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+78286	65562-11301-042	SIKORSKY AIRCRAFT CORPORATION
+
+
+
+
+
+SPE4A626U2483.PDF
+  » Package View
+
+
+
+uote  	 
+
+
+
+Issued:	04-07-2026
+Return By:	04-24-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	1000226469
+
+	
+
+NSN: 6150-01-413-3481   Nomenclature: WIRING HARNESS,BRAN
+
+
+   AMSC: R     	NAICS: 334419     	Quantity: 202     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+01084	7536	SILVER EAGLE MANUFACTURING CO
+K0720	12388458	
+
+
+
+
+
+SPE4A626U2416.PDF
+  » Package View
+
+
+
+uote  	 
+
+
+
+Issued:	03-11-2026
+Return By:	04-20-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	1000227204
+
+	
+
+NSN: 6150-01-567-4411   Nomenclature: WIRING HARNESS,BRAN
+
+
+   AMSC: Q     	NAICS: 334419     	Quantity: 28     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+75Q65	12505709-002	OSHKOSH DEFENSE LLC
+
+
+
+
+
+SPE4A626U0652.PDF
+  » Package View
+
+
+
+uote  	 
+
+
+
+Issued:	12-02-2025
+Return By:	12-16-2025
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Origin
+ 
+
+Tech Data:	Tech Docs
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	1000217734
+
+	
+
+NSN: 6150-01-572-6184   Nomenclature: WIRING HARNESS,BRAN
+
+
+   AMSC: G     	NAICS: 334419     	Quantity: 38     
+
+
+Specification, Drawing and Standard Data
+Amend No.: D DTD: 08-27-2008
+I/A/W DRW: 19207 12490317 (BASIC)   DTD: 01-21-2021
+
+
+   Type #: 12490317-2
+
+
+
+
+
+
+
+
+
+
+SPE4A626T990M.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	03-18-2026
+Return By:	03-25-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7015854512
+
+	
+
+NSN: 6320-01-087-7434   Nomenclature: HARNESS ASSEMBLY
+
+
+   AMSC: C     	NAICS: 336611     	Quantity: 2     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+95692	19-80-1129	
+
+
+
+
+
+SPE4A626T986S.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	03-18-2026
+Return By:	03-25-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7014380604
+
+	
+
+NSN: 6150-01-659-1208   Nomenclature: WIRING HARNESS,BRAN
+
+
+   AMSC: L     	NAICS: 335311     	Quantity: 4     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+81205	25-34171-21	THE BOEING COMPANY
+
+
+
+
+
+SPE4A626T95J9.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	06-17-2026
+Return By:	06-24-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Origin
+ 
+
+Tech Data:	Tech Docs
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7017200525
+
+	
+
+NSN: 0001S00000053   Nomenclature: CONTRACTOR FIRST ARTIC
+
+
+   AMSC: G     	NAICS: ______     	Quantity: 1     
+
+
+
+
+
+NSN: 6150-01-451-2022   Nomenclature: WIRING HARNESS,BRAN
+
+
+   AMSC: G     	NAICS: 334419     	Quantity: 31     
+
+
+Specification, Drawing and Standard Data
+Amend No.: H DTD: 03-05-2013
+I/A/W DRW: 19207 12388480 (BASIC)   DTD: 06-11-2025
+
+
+   Type #: 12388480-2
+
+
+
+
+
+
+
+
+
+
+SPE4A626T94P9.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	06-17-2026
+Return By:	06-24-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Origin
+ 
+
+Tech Data:	Tech Docs
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7017199443
+
+	
+
+NSN: 0001S00000053   Nomenclature: CONTRACTOR FIRST ARTIC
+
+
+   AMSC: G     	NAICS: ______     	Quantity: 1     
+
+
+
+
+
+NSN: 5995-01-579-9917   Nomenclature: WIRING HARNESS,BRAN
+
+
+   AMSC: G     	NAICS: 334419     	Quantity: 22     
+
+
+Specification, Drawing and Standard Data
+Amend No.: B DTD: 10-10-2013
+I/A/W DRW: 19207 12496624 (BASIC)   DTD: 12-04-2018
+
+
+
+
+
+
+
+
+
+
+
+
+SPE4A626T898G.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	03-10-2026
+Return By:	03-17-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Origin
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7015322049
+
+	
+
+NSN: 5995-01-674-3455   Nomenclature: WIRING HARNESS,BRAN
+
+
+   AMSC: P     	NAICS: 335931     	Quantity: 9     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+06324	7-611B24459-005	GLENAIR, INC.
+
+
+
+
+
+SPE4A626T88Y9.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	06-12-2026
+Return By:	06-25-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7017039272
+
+	
+
+NSN: 6150-01-571-7819   Nomenclature: WIRING HARNESS,BRAN
+
+
+   AMSC: P     	NAICS: 334419     	Quantity: 18     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+1YHH8	4923550	JLG INDUSTRIES, INC.
+
+
+
+
+
+SPE4A626T88D6.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	06-12-2026
+Return By:	06-22-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Origin
+ 
+
+Tech Data:	Tech Docs
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7017011083
+
+	
+
+NSN: 0001S00000053   Nomenclature: CONTRACTOR FIRST ARTIC
+
+
+   AMSC: G     	NAICS: ______     	Quantity: 1     
+
+
+
+
+
+NSN: 5995-01-587-6864   Nomenclature: WIRING HARNESS,BRAN
+
+
+   AMSC: G     	NAICS: 334419     	Quantity: 18     
+
+
+Specification, Drawing and Standard Data
+Amend No.: C DTD: 06-21-2012
+I/A/W DRW: 19207 12521188 (BASIC)   DTD: 02-20-2015
+
+
+
+
+
+
+
+
+
+
+
+
+SPE7L526T2955.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	04-10-2026
+Return By:	04-20-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7016285584
+
+	
+
+NSN: 6150-01-540-1563   Nomenclature: WIRING HARNESS,BRAN
+
+
+   AMSC: D     	NAICS: 334419     	Quantity: 4     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+75Q65	3421218	OSHKOSH DEFENSE LLC
+
+
+
+
+
+SPE7L426T5271.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	06-25-2026
+Return By:	07-06-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7017274451
+
+	
+
+NSN: 6150-20-013-7307   Nomenclature: WIRING HARNESS
+
+
+   AMSC: D     	NAICS: 335311     	Quantity: 1     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+56161	10844747-011	GENERAL DYNAMICS LAND SYSTEMS - CAN
+
+
+
+
+
+SPE4A626T79Q6.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	06-04-2026
+Return By:	06-11-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Origin
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7017037933
+
+	
+
+NSN: 6150-01-677-4360   Nomenclature: WIRING HARNESS,BRAN
+
+
+   AMSC: R     	NAICS: 335311     	Quantity: 4     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+0JKF0	721/X1307	JCB INC.
+
+
+
+
+
+SPE7L426T4914.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	06-05-2026
+Return By:	06-15-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7017045610
+
+	
+
+NSN: 6150-01-567-9714   Nomenclature: WIRING HARNESS,BRAN
+
+
+   AMSC: Q     	NAICS: 334419     	Quantity: 31     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+076M6	12422866-002	AMZ ALABAMA INC.
+0FW39	12422866-002	BAE SYSTEMS TACTICAL VEHICLE SYSTEM
+
+
+
+
+
+SPE4A026T2912.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	05-04-2026
+Return By:	05-11-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7016489454
+
+	
+
+NSN: 6150-01-539-3981   Nomenclature: WIRING HARNESS
+
+
+   AMSC: Q     	NAICS: 335311     	Quantity: 1     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+1PWR4	106302	
+75Q65	4KP140	OSHKOSH DEFENSE LLC
+
+
+
+
+
+SPE4A626T67F1.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	05-21-2026
+Return By:	05-28-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	Tech Docs
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7016879251
+
+	
+
+NSN: 6150-01-420-6806   Nomenclature: WIRING HARNESS
+
+
+   AMSC: G     	NAICS: 334419     	Quantity: 4     
+
+
+Specification, Drawing and Standard Data
+Amend No.: DTD: 09-25-2025
+I/A/W DRW: 97403 13229E6207 (BASIC)   DTD: 10-02-2025
+
+
+   Type #: 13229E6207
+
+
+
+
+
+
+
+
+
+
+SPE4A626T637J.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	02-06-2026
+Return By:	02-13-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Origin
+ 
+
+Tech Data:	Tech Docs
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7015403560
+
+	
+
+NSN: 5995-00-111-2738   Nomenclature: WIRING HARNESS,BRAN
+
+
+   AMSC: G     	NAICS: 334419     	Quantity: 2     
+
+
+Specification, Drawing and Standard Data
+Amend No.: C DTD: 03-11-1975
+I/A/W DRW: 19204 11604819 (BASIC)   DTD: 09-18-2006
+
+
+
+
+
+
+
+
+
+
+
+
+SPE4A626T59C0.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	05-18-2026
+Return By:	05-26-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	Tech Docs
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7016799010
+
+	
+
+NSN: 5995-00-707-8794   Nomenclature: WIRING HARNESS,BRAN
+
+
+   AMSC: G     	NAICS: 334419     	Quantity: 17     
+
+
+Specification, Drawing and Standard Data
+Amend No.: F DTD: 05-03-2010
+I/A/W DRW: 19207 10866950 (BASIC)   DTD: 03-21-2014
+
+
+
+
+
+
+
+
+
+
+
+
+SPE4A626T549S.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	01-23-2026
+Return By:	01-30-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Origin
+ 
+
+Tech Data:	Tech Docs
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7014384092
+
+	
+
+NSN: 0001S00000053   Nomenclature: CONTRACTOR FIRST ARTIC
+
+
+   AMSC: G     	NAICS: ______     	Quantity: 1     
+
+
+
+
+
+NSN: 6150-01-577-4716   Nomenclature: WIRING HARNESS,BRAN
+
+
+   AMSC: G     	NAICS: 334419     	Quantity: 57     
+
+
+Specification, Drawing and Standard Data
+Amend No.: A DTD: 05-08-2009
+I/A/W DRW: 19207 12511186 (BASIC)   DTD: 01-25-2012
+
+
+
+
+
+
+
+
+
+
+
+
+SPE4A626T512F.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	01-20-2026
+Return By:	01-27-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Origin
+ 
+
+Tech Data:	Tech Docs
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7014382170
+
+	
+
+NSN: 0001S00000053   Nomenclature: CONTRACTOR FIRST ARTIC
+
+
+   AMSC: G     	NAICS: ______     	Quantity: 1     
+
+
+
+
+
+NSN: 6150-01-674-3713   Nomenclature: WIRING HARNESS,BRAN
+
+
+   AMSC: G     	NAICS: 335311     	Quantity: 2     
+
+
+Specification, Drawing and Standard Data
+Amend No.: G DTD: 02-13-2024
+I/A/W DRW: 19207 12546335 (BASIC)   DTD: 01-15-2026
+
+
+
+
+
+
+
+
+
+
+
+
+SPE4A626T473D.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	01-13-2026
+Return By:	01-20-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Origin
+ 
+
+Tech Data:	Tech Docs
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7015053246
+
+	
+
+NSN: 0001S00000053   Nomenclature: CONTRACTOR FIRST ARTIC
+
+
+   AMSC: G     	NAICS: ______     	Quantity: 1     
+
+
+
+
+
+NSN: 0001S00000062   Nomenclature: PRODUCTION LOT TESTING
+
+
+   AMSC: G     	NAICS: ______     	Quantity: 1     
+
+
+
+
+
+NSN: 6150-01-389-6169   Nomenclature: WIRING HARNESS,BRAN
+
+
+   AMSC: G     	NAICS: 334419     	Quantity: 36     
+
+
+Specification, Drawing and Standard Data
+Amend No.: H DTD: 05-18-2022
+I/A/W DRW: 53711 6289090 (BASIC)   DTD: 03-15-2023
+
+
+
+
+
+
+
+
+
+
+
+
+SPE4A626T44X9.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	05-06-2026
+Return By:	05-13-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Origin
+ 
+
+Tech Data:	Tech Docs
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7016647193
+
+	
+
+NSN: 0001S00000053   Nomenclature: CONTRACTOR FIRST ARTIC
+
+
+   AMSC: G     	NAICS: ______     	Quantity: 1     
+
+
+
+
+
+NSN: 6150-01-350-1298   Nomenclature: WIRING HARNESS
+
+
+   AMSC: G     	NAICS: 334419     	Quantity: 3     
+
+
+Specification, Drawing and Standard Data
+Amend No.: J DTD: 02-17-2010
+I/A/W DRW: 19207 12347110 (BASIC)   DTD: 10-28-2025
+
+
+   Type #: 12347110
+
+
+
+
+
+
+
+
+
+
+SPE4A626T445Q.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	01-09-2026
+Return By:	01-16-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7015048637
+
+	
+
+NSN: 1680-01-540-5965   Nomenclature: HARNESS ASSEMBLY,AI
+
+
+   AMSC: C     	NAICS: 314910     	Quantity: 1     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+78286	96602-14104-041	SIKORSKY AIRCRAFT CORPORATION
+
+
+
+
+
+SPE7M826T3216.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	04-10-2026
+Return By:	04-20-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7016269947
+
+	
+
+NSN: 1680-01-516-4165   Nomenclature: HARNESS,PITCH GIMBA
+
+
+   AMSC: C     	NAICS: 336413     	Quantity: 7     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+4U884	6464376	RAYTHEON COMPANY
+62765	6464376	CELLTRON, INC.
+96214	646376	RAYTHEON COMPANY
+
+
+
+
+
+SPE4A626T371C.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	12-22-2025
+Return By:	01-02-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7014921057
+
+	
+
+NSN: 5995-01-669-1890   Nomenclature: WIRING HARNESS
+
+
+   AMSC: C     	NAICS: 335931     	Quantity: 4     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+28953	61-30298	RIX INDUSTRIES
+
+
+
+
+
+SPE4A626T31P8.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	04-23-2026
+Return By:	04-30-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	Tech Docs
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7016471479
+
+	
+
+NSN: 5995-01-697-7766   Nomenclature: WIRING HARNESS
+
+
+   AMSC: Z     	NAICS: 335931     	Quantity: 1     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+81205	786T8706-0AC	THE BOEING COMPANY
+
+
+
+
+
+SPE4A626T26K2.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	04-20-2026
+Return By:	04-27-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7016227509
+
+	
+
+NSN: 6150-01-682-3604   Nomenclature: WIRING HARNESS
+
+
+   AMSC: D     	NAICS: 335311     	Quantity: 2     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+1W025	464-54237-1	NORTHROP GRUMMAN SYSTEMS CORP
+
+
+
+
+
+SPE4A626T224T.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	12-04-2025
+Return By:	12-16-2025
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7014696950
+
+	
+
+NSN: 6150-01-589-8277   Nomenclature: WIRING HARNESS,BRAN
+
+
+   AMSC: D     	NAICS: 334419     	Quantity: 4     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+80195	5252008	ED ETNYRE & CO
+
+
+
+
+
+SPE4A626T19HK.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	08-19-2026
+Return By:	08-26-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Origin
+ 
+
+Tech Data:	Tech Docs
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7017939806
+
+	
+
+NSN: 0001S00000053   Nomenclature: CONTRACTOR FIRST ARTIC
+
+
+   AMSC: G     	NAICS: ______     	Quantity: 1     
+
+
+
+
+
+NSN: 6150-01-350-1296   Nomenclature: WIRING HARNESS
+
+
+   AMSC: G     	NAICS: 334419     	Quantity: 12     
+
+
+Specification, Drawing and Standard Data
+Amend No.: DTD: 07-06-1995
+I/A/W DRW: 19207 12347108 (BASIC)   DTD: 06-18-2026
+
+
+
+
+
+
+
+
+
+
+
+
+SPE4A626T15ST.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	08-12-2026
+Return By:	08-19-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Origin
+ 
+
+Tech Data:	Tech Docs
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7017838324
+
+	
+
+NSN: 0001S00000053   Nomenclature: CONTRACTOR FIRST ARTIC
+
+
+   AMSC: G     	NAICS: ______     	Quantity: 1     
+
+
+
+
+
+NSN: 6150-01-107-3455   Nomenclature: WIRING HARNESS,BRAN
+
+
+   AMSC: G     	NAICS: 334419     	Quantity: 82     
+
+
+Specification, Drawing and Standard Data
+Amend No.: L DTD: 07-18-2019
+I/A/W DRW: 19207 12297656 (BASIC)   DTD: 06-18-2026
+
+
+
+
+
+
+
+
+
+
+
+
+SPE4A626T15LX.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	08-12-2026
+Return By:	08-19-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Origin
+ 
+
+Tech Data:	Tech Docs
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7017838977
+
+	
+
+NSN: 0001S00000053   Nomenclature: CONTRACTOR FIRST ARTIC
+
+
+   AMSC: G     	NAICS: ______     	Quantity: 1     
+
+
+
+
+
+NSN: 5995-01-673-9173   Nomenclature: WIRING HARNESS,BRAN
+
+
+   AMSC: G     	NAICS: 335931     	Quantity: 10     
+
+
+Specification, Drawing and Standard Data
+Amend No.: C DTD: 08-22-2019
+I/A/W DRW: 19207 12546449 (BASIC)   DTD: 06-18-2026
+
+
+
+
+
+
+
+
+
+
+
+
+SPE4A626T20QD.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	08-20-2026
+Return By:	08-27-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Origin
+ 
+
+Tech Data:	Tech Docs
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7017939619
+
+	
+
+NSN: 0001S00000053   Nomenclature: CONTRACTOR FIRST ARTIC
+
+
+   AMSC: G     	NAICS: ______     	Quantity: 1     
+
+
+
+
+
+NSN: 6150-01-506-7477   Nomenclature: WIRING HARNESS
+
+
+   AMSC: G     	NAICS: 334419     	Quantity: 14     
+
+
+Specification, Drawing and Standard Data
+Amend No.: DTD: 09-09-2010
+I/A/W DRW: 19200 12992345 (BASIC)   DTD: 06-18-2026
+
+
+
+
+
+
+
+
+
+
+
+
+SPE4A626T12SL.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	08-06-2026
+Return By:	08-13-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7017741856
+
+	
+
+NSN: 5995-01-553-4037   Nomenclature: WIRING HARNESS,BRAN
+
+
+   AMSC: D     	NAICS: 334419     	Quantity: 3     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+97424	8EH65DAA1	AMETEK INC
+
+
+
+
+
+SPE4A626T10K4.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	04-02-2026
+Return By:	04-09-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7013429128
+
+	
+
+NSN: 6150-01-571-4905   Nomenclature: WIRING HARNESS
+
+
+   AMSC: D     	NAICS: 334419     	Quantity: 10     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+3MJN0	0794-8510	TRIMBLE INC
+
+
+
+
+
+SPE4A026T4333.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	08-19-2026
+Return By:	08-26-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7017799981
+
+	
+
+NSN: 6150-01-547-9827   Nomenclature: WIRING HARNESS
+
+
+   AMSC: C     	NAICS: 334419     	Quantity: 1     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+77272	901-071-391-161	THE BOEING COMPANY
+
+
+
+
+
+SPE4A726T6699.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	12-23-2025
+Return By:	12-30-2025
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Origin
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7014382310
+
+	
+
+NSN: 1670-01-728-0912   Nomenclature: HARNESS,PERSONNEL P
+
+
+   AMSC: R     	NAICS: 314999     	Quantity: 4     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+57172	826201-2	AIRBORNE SYSTEMS NORTH AMERICA OF N
+
+
+
+
+
+SPE4A626T03LR.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	07-07-2026
+Return By:	07-14-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7017384847
+
+	
+
+NSN: 6150-01-730-8107   Nomenclature: WIRING HARNESS
+
+
+   AMSC: C     	NAICS: 335311     	Quantity: 2     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+78286	06552-00832-103	SIKORSKY AIRCRAFT CORPORATION
+
+
+
+
+
+SPE4A626T01QF.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	06-29-2026
+Return By:	07-06-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Origin
+ 
+
+Tech Data:	Tech Docs
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7017272541
+
+	
+
+NSN: 0001S00000053   Nomenclature: CONTRACTOR FIRST ARTIC
+
+
+   AMSC: G     	NAICS: ______     	Quantity: 1     
+
+
+
+
+
+NSN: 6150-01-419-9740   Nomenclature: WIRING HARNESS,BRANCHE
+
+
+   AMSC: G     	NAICS: 334419     	Quantity: 5     
+
+
+Specification, Drawing and Standard Data
+Amend No.: J DTD: 06-23-1986
+I/A/W DRW: 81205 25-66803 (BASIC)   DTD: 06-18-2026
+
+
+   Type #: 25-66803-2
+
+
+
+
+
+
+
+
+
+
+SPE4A626T00YN.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	06-26-2026
+Return By:	07-06-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Origin
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7017153477
+
+	
+
+NSN: 5995-01-535-2685   Nomenclature: WIRING HARNESS
+
+
+   AMSC: D     	NAICS: 335931     	Quantity: 1     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+78286	70602-02107-041	SIKORSKY AIRCRAFT CORPORATION
+
+
+
+
+
+SPE4A626T00WX.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	06-25-2026
+Return By:	08-18-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7017138050
+
+	
+
+NSN: 6150-01-563-3186   Nomenclature: WIRING HARNESS
+
+
+   AMSC: D     	NAICS: 334419     	Quantity: 10     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+338X5	3113349C91L	ND DEFENSE LLC
+
+
+
+
+
+SPE4A726T503V.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	06-16-2026
+Return By:	06-23-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Origin
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7017149039
+
+	
+
+NSN: 1680-01-221-2878   Nomenclature: HARNESS,AIRCRAFT SA
+
+
+   AMSC: P     	NAICS: 336413     	Quantity: 7     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+25693	0101716-03	MEGGITT SAFETY SYSTEMS INC
+
+
+
+
+
+SPE4A726T395Z.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	05-21-2026
+Return By:	05-28-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Origin
+ 
+
+Tech Data:	Tech Docs
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7016878837
+
+	
+
+NSN: 0001S00000052   Nomenclature: GOVERNMENT FIRST ARTIC
+
+
+   AMSC: P     	NAICS: ______     	Quantity: 1     
+
+
+
+
+
+NSN: 1560-01-023-6662   Nomenclature: HARNESS ASSEMBLY
+
+
+   AMSC: P     	NAICS: 336413     	Quantity: 4     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+0RMB7	962718-101	IMP GROUP LTD
+1UVW2	962718-101	GRACE AEROSPACE LLC
+7SJT8	962718-101	GRACE AEROSPACE LLC
+98247	962718-101	CANADIAN COMMERCIAL CORPORATION
+98897	962718-101	LOCKHEED MARTIN CORP
+
+
+
+
+
+SPE4A726T244U.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	04-14-2026
+Return By:	04-21-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Origin
+ 
+
+Tech Data:	Tech Docs
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7016285417
+
+	
+
+NSN: 0001S00000061   Nomenclature: PRODUCTION LOT TESTING
+
+
+   AMSC: G     	NAICS: ______     	Quantity: 1     
+
+
+
+
+
+NSN: 5995-01-162-5350   Nomenclature: WIRING HARNESS,BRAN
+
+
+   AMSC: G     	NAICS: 334419     	Quantity: 98     
+
+
+Specification, Drawing and Standard Data
+Amend No.: G DTD: 07-08-1997
+I/A/W DRW: 18876 13007601 (BASIC)   DTD: 09-24-2006
+
+
+
+
+
+
+
+
+
+
+
+
+SPE4A526T6837.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	01-14-2026
+Return By:	01-21-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7015054331
+
+	
+
+NSN: 5995-01-578-6552   Nomenclature: WIRING HARNESS,BRAN
+
+
+   AMSC: D     	NAICS: 334419     	Quantity: 2     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+03956	4803563-1	NORTHROP GRUMMAN SYSTEMS CORPORATIO
+
+
+
+
+
+SPE4A526T5443.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	12-17-2025
+Return By:	12-24-2025
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7014871347
+
+	
+
+NSN: 6150-01-677-6345   Nomenclature: WIRING HARNESS,BRAN
+
+
+   AMSC: R     	NAICS: 335311     	Quantity: 4     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+82918	458-59661-1	THE BOEING COMPANY
+
+
+
+
+
+SPE4A526T335R.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	08-07-2026
+Return By:	08-14-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7017742106
+
+	
+
+NSN: 2835-01-205-0728   Nomenclature: HARNESS ASSEMBLY
+
+
+   AMSC: Z     	NAICS: 333611     	Quantity: 14     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+63005	23007027	ROLLS-ROYCE CORPORATION
+
+
+
+
+
+SPE4A526T296D.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	07-21-2026
+Return By:	07-28-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7017527848
+
+	
+
+NSN: 5935-20-005-7155   Nomenclature: HARNESS ASSY,AIRCRA
+
+
+   AMSC: C     	NAICS: 444180     	Quantity: 2     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+07217	1033826-1	HONEYWELL AEROSPACE INTERNATIONAL I
+
+
+
+
+
+SPE4A526T292N.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	07-17-2026
+Return By:	07-24-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7017428452
+
+	
+
+NSN: 6150-01-628-8561   Nomenclature: WIRING HARNESS
+
+
+   AMSC: D     	NAICS: 335999     	Quantity: 1     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+81205	786A0415-003	THE BOEING COMPANY
+
+
+
+
+
+SPE4A626T98H1.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	06-22-2026
+Return By:	06-29-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Origin
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7017147884
+
+	
+
+NSN: 0001S00000053   Nomenclature: CONTRACTOR FIRST ARTIC
+
+
+   AMSC: G     	NAICS: ______     	Quantity: 1     
+
+
+
+
+
+NSN: 5995-01-592-8450   Nomenclature: WIRING HARNESS,BRAN
+
+
+   AMSC: G     	NAICS: 334419     	Quantity: 105     
+
+
+Specification, Drawing and Standard Data
+      No Basic drawing data available. See Solicitation.
+
+
+
+
+
+SPE7L526T3441.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	05-08-2026
+Return By:	05-18-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7016708369
+
+	
+
+NSN: 6150-01-578-1291   Nomenclature: WIRING HARNESS,BRAN
+
+
+   AMSC: D     	NAICS: 334419     	Quantity: 30     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+75Q65	4037070	OSHKOSH DEFENSE LLC
+
+
+
+
+
+SPE4A626T936F.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	03-12-2026
+Return By:	03-19-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Origin
+ 
+
+Tech Data:	Tech Docs
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	0065423215
+
+	
+
+NSN: 0001S00000052   Nomenclature: GOVERNMENT FIRST ARTIC
+
+
+   AMSC: C     	NAICS: ______     	Quantity: 1     
+
+
+
+
+
+NSN: 6150-01-606-8146   Nomenclature: WIRING HARNESS,BRAN
+
+
+   AMSC: C     	NAICS: 334419     	Quantity: 4     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+876J4	200920848-20	KIHOMAC, INC.
+
+
+
+
+
+SPE4A626T91A0.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	06-15-2026
+Return By:	06-25-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7017149015
+
+	
+
+NSN: 5995-01-669-1939   Nomenclature: WIRING HARNESS
+
+
+   AMSC: R     	NAICS: 335931     	Quantity: 5     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+28953	61-30299	RIX INDUSTRIES
+
+
+
+
+
+SPE4A626T88U0.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	06-12-2026
+Return By:	06-22-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Origin
+ 
+
+Tech Data:	Tech Docs
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7016294042
+
+	
+
+NSN: 0001S00000053   Nomenclature: CONTRACTOR FIRST ARTIC
+
+
+   AMSC: G     	NAICS: ______     	Quantity: 1     
+
+
+
+
+
+NSN: 6150-00-153-7296   Nomenclature: WIRING HARNESS
+
+
+   AMSC: G     	NAICS: 334419     	Quantity: 4     
+
+
+Specification, Drawing and Standard Data
+Amend No.: D DTD: 01-01-1999
+I/A/W DRW: 19207 11589465 (BASIC)   DTD: 09-19-2006
+
+
+   Type #: 11589465-4
+
+
+
+
+
+
+
+
+
+
+SPE4A626T84Z3.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	06-10-2026
+Return By:	06-17-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Origin
+ 
+
+Tech Data:	Tech Docs
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7017107963
+
+	
+
+NSN: 0001S00000053   Nomenclature: CONTRACTOR FIRST ARTIC
+
+
+   AMSC: G     	NAICS: ______     	Quantity: 1     
+
+
+
+
+
+NSN: 6150-01-612-1878   Nomenclature: WIRING HARNESS
+
+
+   AMSC: G     	NAICS: 334419     	Quantity: 2     
+
+
+Specification, Drawing and Standard Data
+Amend No.: DTD: 12-04-2012
+I/A/W DRW: 19207 13015246 (BASIC)   DTD: 11-24-2020
+
+
+
+
+
+
+
+
+
+
+
+
+SPE4A526T124K.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	05-08-2026
+Return By:	05-15-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	Tech Docs
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7016708359
+
+	
+
+NSN: 5995-01-722-2838   Nomenclature: WIRING HARNESS
+
+
+   AMSC: C     	NAICS: 335931     	Quantity: 2     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+81205	786T8707-0AC	THE BOEING COMPANY
+
+
+
+
+
+SPE4A526T0695.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	10-16-2025
+Return By:	10-23-2025
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7014176808
+
+	
+
+NSN: 6150-01-628-8561   Nomenclature: WIRING HARNESS
+
+
+   AMSC: D     	NAICS: 335999     	Quantity: 5     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+81205	786A0415-003	THE BOEING COMPANY
+
+
+
+
+
+SPE7L426T6097.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	08-07-2026
+Return By:	08-17-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7017775706
+
+	
+
+NSN: 1005-01-566-1834   Nomenclature: HARNESS,W3S
+
+
+   AMSC: D     	NAICS: 332994     	Quantity: 5     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+064S4	TYUHS0003A	BAE SYSTEMS LAND & ARMAMENTS L.P.
+
+
+
+
+
+SPE7L426T5366.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	07-02-2026
+Return By:	07-16-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7015992360
+
+	
+
+NSN: 6150-01-447-0757   Nomenclature: WIRING HARNESS,BRAN
+
+
+   AMSC: D     	NAICS: 334419     	Quantity: 6     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+7W356	12388931	GENERAL DYNAMICS LAND SYSTEMS INC.
+
+
+
+
+
+SPE7L426T3239.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	03-23-2026
+Return By:	04-02-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Origin
+ 
+
+Tech Data:	Tech Docs
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7015697306
+
+	
+
+NSN: 0001S00000053   Nomenclature: CONTRACTOR FIRST ARTIC
+
+
+   AMSC: G     	NAICS: ______     	Quantity: 1     
+
+
+
+
+
+NSN: 2590-01-108-5389   Nomenclature: WIRING HARNESS,BRAN
+
+
+   AMSC: G     	NAICS: 336999     	Quantity: 6     
+
+
+Specification, Drawing and Standard Data
+Amend No.: C DTD: 03-11-1993
+I/A/W DRW: 19207 12299560 (BASIC)   DTD: 04-08-2021
+
+
+
+
+
+
+
+
+
+
+
+
+SPE7L425T4470.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	04-22-2025
+Return By:	05-02-2025
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7011806996
+
+	
+
+NSN: 6150-20-013-5976   Nomenclature: WIRING HARNESS
+
+
+   AMSC: D     	NAICS: 335311     	Quantity: 23     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+56161	10840442-011	GENERAL DYNAMICS LAND SYSTEMS - CAN
+
+
+
+
+
+SPE4A626T7817.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	11-05-2025
+Return By:	11-17-2025
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	Tech Docs
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7014381944
+
+	
+
+NSN: 6150-01-478-5108   Nomenclature: WIRING HARNESS
+
+
+   AMSC: G     	NAICS: 334419     	Quantity: 6     
+
+
+Specification, Drawing and Standard Data
+Amend No.: E DTD: 02-16-2016
+I/A/W DRW: 19207 12367284 (BASIC)   DTD: 07-23-2018
+
+
+   Type #: 12367284
+
+
+
+
+
+
+
+
+
+
+SPE4A626T77X0.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	06-03-2026
+Return By:	06-10-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Origin
+ 
+
+Tech Data:	Tech Docs
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7016845006
+
+	
+
+NSN: 0001S00000062   Nomenclature: PRODUCTION LOT TESTING
+
+
+   AMSC: C     	NAICS: ______     	Quantity: 1     
+
+
+
+
+
+NSN: 6150-01-538-7706   Nomenclature: WIRING HARNESS,BRAN
+
+
+   AMSC: C     	NAICS: 335311     	Quantity: 7     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+05606	10062293	GENERAL DYNAMICS-OTS, INC.
+58078	10062293	AIRTRONICS, LLC
+97499	10062293	BELL TEXTRON INC
+
+
+
+
+
+SPE4A126T1682.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	03-18-2026
+Return By:	03-30-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Origin
+ 
+
+Tech Data:	Tech Docs
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	0080394037
+
+	
+
+NSN: 5995-01-245-7656   Nomenclature: WIRING HARNESS,BRAN
+
+
+   AMSC: G     	NAICS: 334419     	Quantity: 36     
+
+
+Specification, Drawing and Standard Data
+Amend No.: C DTD: 04-19-2000
+I/A/W DRW: 19207 11671792 (BASIC)   DTD: 09-19-2006
+
+
+   Type #: 11671792
+
+
+
+
+
+
+
+
+
+
+SPE4A626T74Q2.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	06-01-2026
+Return By:	06-08-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Origin
+ 
+
+Tech Data:	Tech Docs
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7016751753
+
+	
+
+NSN: 0001S00000053   Nomenclature: CONTRACTOR FIRST ARTIC
+
+
+   AMSC: G     	NAICS: ______     	Quantity: 1     
+
+
+
+
+
+NSN: 5995-01-112-7018   Nomenclature: WIRING HARNESS,BRAN
+
+
+   AMSC: G     	NAICS: 334419     	Quantity: 32     
+
+
+Specification, Drawing and Standard Data
+Amend No.: L DTD: 06-29-2012
+I/A/W DRW: 80064 2600897 (BASIC)   DTD: 05-17-2016
+
+
+   Type #: 2600897
+
+
+
+
+
+
+
+
+
+
+SPE4A626T69S4.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	05-22-2026
+Return By:	05-29-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Origin
+ 
+
+Tech Data:	Tech Docs
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7016878816
+
+	
+
+NSN: 0001S00000052   Nomenclature: GOVERNMENT FIRST ARTIC
+
+
+   AMSC: G     	NAICS: ______     	Quantity: 1     
+
+
+
+
+
+NSN: 6150-01-288-9983   Nomenclature: WIRING HARNESS,BRAN
+
+
+   AMSC: G     	NAICS: 334419     	Quantity: 4     
+
+
+Specification, Drawing and Standard Data
+Amend No.: DTD: 07-07-1989
+I/A/W DRW: 81755 H16DW1673-301/1 (BASIC)   DTD: 11-25-2011
+
+
+   Type #: H16DW1673-301
+
+
+
+
+
+
+
+
+
+
+SPE4A626T664F.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	02-11-2026
+Return By:	02-18-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7015474593
+
+	
+
+NSN: 6150-01-444-0553   Nomenclature: WIRING HARNESS
+
+
+   AMSC: C     	NAICS: 334419     	Quantity: 2     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+62765	C3-179	CELLTRON, INC.
+
+
+
+
+
+SPE4A026T2143.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	03-16-2026
+Return By:	03-23-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Origin
+ 
+
+Tech Data:	Tech Docs
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7015842128
+
+	
+
+NSN: 6150-01-652-3115   Nomenclature: WIRING HARNESS
+
+
+   AMSC: B     	NAICS: 335311     	Quantity: 1     
+
+
+Specification, Drawing and Standard Data
+Amend No.: A DTD: 11-29-2018
+I/A/W DRW: 19200 13055318 (BASIC)   DTD: 04-18-2024
+
+
+
+
+
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+06324	ABC60003	GLENAIR, INC.
+
+
+
+
+
+SPE7L326T038L.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	05-29-2026
+Return By:	06-08-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7016934123
+
+	
+
+NSN: 2815-01-595-7376   Nomenclature: HARNESS,POWER
+
+
+   AMSC: D     	NAICS: 333618     	Quantity: 1     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+44940	A029G941	CUMMINS POWER GENERATION INC.
+
+
+
+
+
+SPE4A626T621J.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	02-03-2026
+Return By:	02-10-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Origin
+ 
+
+Tech Data:	Tech Docs
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7015213350
+
+	
+
+NSN: 6150-01-610-6408   Nomenclature: WIRING HARNESS,BRAN
+
+
+   AMSC: G     	NAICS: 334419     	Quantity: 4     
+
+
+Specification, Drawing and Standard Data
+Amend No.: K DTD: 02-14-1976
+I/A/W DRW: 80064 4685438 (BASIC)   DTD: 09-18-2006
+
+
+   Type #: 704-4685438 ITEM NO 27
+
+
+
+
+
+
+
+
+
+
+SPE4A626T58M8.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	05-15-2026
+Return By:	05-22-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7016752613
+
+	
+
+NSN: 5995-01-700-4025   Nomenclature: WIRING HARNESS
+
+
+   AMSC: D     	NAICS: 335931     	Quantity: 5     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+06090	4370556-2	TE CONNECTIVITY CORPORATION
+07890	4370556-2	SIEMON COMPANY THE
+1L0R6	4370556-2	
+80212	4370556-2	BAE SYSTEMS LAND & ARMAMENTS L.P.
+
+
+
+
+
+SPE4A626T55A8.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	05-14-2026
+Return By:	05-21-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7016751852
+
+	
+
+NSN: 6150-01-674-3412   Nomenclature: WIRING HARNESS,BRAN
+
+
+   AMSC: C     	NAICS: 335311     	Quantity: 7     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+6RST2	01-2005	MERLIN POWER SYSTEMS LLC
+
+
+
+
+
+SPE4A626T478L.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	01-14-2026
+Return By:	01-27-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7015110875
+
+	
+
+NSN: 5995-01-471-6197   Nomenclature: WIRING HARNESS,BRAN
+
+
+   AMSC: L     	NAICS: 334419     	Quantity: 8     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+62765	3227318-1	CELLTRON, INC.
+
+
+
+
+
+SPE7L126T701J.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	06-15-2026
+Return By:	06-25-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7017138038
+
+	
+
+NSN: 6150-01-555-6201   Nomenclature: WIRING HARNESS
+
+
+   AMSC: C     	NAICS: 334419     	Quantity: 1     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+75Q65	3691868	OSHKOSH DEFENSE LLC
+
+
+
+
+
+SPE4A626T17JW.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	08-17-2026
+Return By:	08-24-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Origin
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7017383740
+
+	
+
+NSN: 5995-01-676-1516   Nomenclature: WIRING HARNESS
+
+
+   AMSC: D     	NAICS: 335931     	Quantity: 16     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+A175N	404053183	SAAB DYNAMICS AKTIEBOLAG
+
+
+
+
+
+SPE4A626T16TT.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	08-14-2026
+Return By:	08-21-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7017039230
+
+	
+
+NSN: 6150-01-727-8269   Nomenclature: WIRING HARNESS,BRAN
+
+
+   AMSC: Z     	NAICS: 335311     	Quantity: 20     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+7QAK7	12106-1565-A1	L3HARRIS GLOBAL COMMUNICATIONS, INC
+
+
+
+
+
+SPE4A626T16SP.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	08-14-2026
+Return By:	08-21-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7017837156
+
+	
+
+NSN: 6150-01-728-6265   Nomenclature: WIRING HARNESS
+
+
+   AMSC: C     	NAICS: 335311     	Quantity: 17     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+55944	FM011618BF-1	WINCHESTER INTERCONNECT CM CA, INC.
+
+
+
+
+
+SPE4A626T14UY.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	08-11-2026
+Return By:	08-18-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Origin
+ 
+
+Tech Data:	Tech Docs
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7017817382
+
+	
+
+NSN: 0001S00000052   Nomenclature: GOVERNMENT FIRST ARTIC
+
+
+   AMSC: C     	NAICS: ______     	Quantity: 1     
+
+
+
+
+
+NSN: 6150-01-527-4287   Nomenclature: WIRING HARNESS,BRAN
+
+
+   AMSC: C     	NAICS: 334419     	Quantity: 8     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+0WW63	H16DW2602-527	INTERCONNECT WIRING LLP
+67291	H16DW2602-527	RICHARD MANUFACTURING COMPANY
+81755	H16DW2602-527	LOCKHEED MARTIN CORPORATION
+
+
+
+
+
+SPE4A526T365Q.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	08-17-2026
+Return By:	08-24-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	Tech Docs
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7017915289
+
+	
+
+NSN: 5995-01-544-0985   Nomenclature: WIRING HARNESS,BRAN
+
+
+   AMSC: B     	NAICS: 334419     	Quantity: 9     
+
+
+Specification, Drawing and Standard Data
+Amend No.: C DTD: 05-28-2003
+I/A/W DRW: 8V613 7-511B24579 (BASIC)   DTD: 06-18-2026
+
+
+   Type #: 7-511B24579-001
+
+
+
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+8V613	7-511B24579-001	THE BOEING COMPANY
+
+
+
+
+
+SPE4A626T12CU.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	08-05-2026
+Return By:	08-12-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	Tech Docs
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7017741924
+
+	
+
+NSN: 6150-01-568-9945   Nomenclature: WIRING HARNESS
+
+
+   AMSC: G     	NAICS: 334419     	Quantity: 8     
+
+
+Specification, Drawing and Standard Data
+Amend No.: B DTD: 10-07-2009
+I/A/W DRW: 01365 11580874 (BASIC)   DTD: 06-18-2026
+
+
+   Type #: P/N: 11580874
+
+
+
+
+
+
+
+
+
+
+SPE4AX25Q0007.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	07-09-2025
+Return By:	07-30-2025
+ 
+
+FOB Point:	Destination
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	Tech Docs
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	1000204839
+
+	
+
+NSN: 5995-01-247-6068   Nomenclature: WIRING HARNESS,BRAN
+
+
+   AMSC: G     	NAICS: 334419     	Quantity: 38     
+
+
+Specification, Drawing and Standard Data
+Amend No.: DTD: 01-01-2039
+I/A/W DRW: 56161 10501674 (BASIC)   DTD: 04-22-2019
+
+
+   Type #: 10501674
+
+
+
+
+
+
+
+
+
+
+SPE4A626T10DZ.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	07-29-2026
+Return By:	08-05-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Origin
+ 
+
+Tech Data:	Tech Docs
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7017662722
+
+	
+
+NSN: 6150-01-315-3987   Nomenclature: WIRING HARNESS,BRANCHE
+
+
+   AMSC: G     	NAICS: 334419     	Quantity: 12     
+
+
+Specification, Drawing and Standard Data
+Amend No.: E DTD: 06-24-1999
+I/A/W DRW: 19207 12370554 (BASIC)   DTD: 06-18-2026
+
+
+   Type #: 12370554
+
+
+
+
+
+
+
+
+
+
+SPE4A626T08VN.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	07-22-2026
+Return By:	07-29-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Origin
+ 
+
+Tech Data:	Tech Docs
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7017571644
+
+	
+
+NSN: 0001S00000053   Nomenclature: CONTRACTOR FIRST ARTIC
+
+
+   AMSC: G     	NAICS: ______     	Quantity: 1     
+
+
+
+
+
+NSN: 5995-01-579-3007   Nomenclature: WIRING HARNESS
+
+
+   AMSC: G     	NAICS: 444180     	Quantity: 19     
+
+
+Specification, Drawing and Standard Data
+Amend No.: B DTD: 07-12-2008
+I/A/W DRW: 19207 12490537 (BASIC)   DTD: 06-18-2026
+
+
+
+
+
+
+
+
+
+
+
+
+SPE4A426T0146.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	06-11-2026
+Return By:	06-18-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7012345367
+
+	
+
+NSN: 1680-01-599-1074   Nomenclature: NRP,WIRING HARNESS
+
+
+   AMSC: D     	NAICS: 336413     	Quantity: 2     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+70974	123AV56546-301	NORTHROP GRUMMAN SYSTEMS CORPORATIO
+
+
+
+
+
+SPE4A626T07LH.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	07-17-2026
+Return By:	07-24-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7017529321
+
+	
+
+NSN: 6150-01-499-3148   Nomenclature: WIRING HARNESS,BRAN
+
+
+   AMSC: Q     	NAICS: 334419     	Quantity: 10     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+93346	4240332-501	CAES SYSTEMS LLC
+
+
+
+
+
+SPE4A626T0748.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	10-07-2025
+Return By:	02-10-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Origin
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7013942858
+
+	
+
+NSN: 5995-01-574-2616   Nomenclature: WIRING HARNESS
+
+
+   AMSC: R     	NAICS: 335931     	Quantity: 16     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+50601	5136L030-3	
+
+
+
+
+
+SPE4A626T05Q5.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	03-25-2026
+Return By:	04-06-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7014407737
+
+	
+
+NSN: 6150-01-528-3471   Nomenclature: WIRING HARNESS
+
+
+   AMSC: L     	NAICS: 334419     	Quantity: 6     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+7M245	LT-WI-750-300	HOLDEN INDUSTRIES, INC.
+
+
+
+
+
+SPE4A626T05FK.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	07-10-2026
+Return By:	07-22-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7015245867
+
+	
+
+NSN: 5995-01-676-5486   Nomenclature: WIRING HARNESS,BRAN
+
+
+   AMSC: D     	NAICS: 335931     	Quantity: 9     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+24581	8604398-2	PRECISION CABLE OF TENNESSEE, INC
+5D744	8604398-2	RAYTHEON COMPANY
+
+
+
+
+
+SPE7M126T288L.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	08-19-2026
+Return By:	08-31-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7017919262
+
+	
+
+NSN: 5995-01-616-5386   Nomenclature: WIRING HARNESS
+
+
+   AMSC: D     	NAICS: 334419     	Quantity: 2     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+0BR59	6052338-701	
+8FGX3	6052338-701	CURTISS-WRIGHT ELECTRO-MECHANICAL C
+
+
+
+
+
+SPE4A726T262A.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	04-17-2026
+Return By:	04-24-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Origin
+ 
+
+Tech Data:	Tech Docs
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7016337538
+
+	
+
+NSN: 0001S00000053   Nomenclature: CONTRACTOR FIRST ARTIC
+
+
+   AMSC: G     	NAICS: ______     	Quantity: 1     
+
+
+
+
+
+NSN: 6150-01-365-5548   Nomenclature: WIRING HARNESS,BRAN
+
+
+   AMSC: G     	NAICS: 334419     	Quantity: 21     
+
+
+Specification, Drawing and Standard Data
+Amend No.: C
+I/A/W DRW: 19200 12918964 (BASIC)   DTD: 03-27-2015
+
+
+
+
+
+
+
+
+
+
+
+
+SPE8E626T2568.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	04-22-2026
+Return By:	05-07-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7016434367
+
+	
+
+NSN: 4240-01-392-6079   Nomenclature: HARNESS ASSEMBLY,MA
+
+
+   AMSC: Z     	NAICS: 339113     	Quantity: 8     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+47432	460-190-457	INTERSPIRO INC
+
+
+
+
+1 2 3 4 5 6 7
+
+
+· RFQ Text Search
+Query String:
+
+
+
+Modified: 
+Any time
+last hour
+last day
+last 7 days
+last 30 days
+last 60 days
+last 90 days
+last 365 days
+	Sort: 
+Best Match
+Newly Posted to Oldest
+Oldest Posted to Newest
+
+Filter:
+  
+Automated Indefinite Delivery Contract (AIDC)
+
+
+  
+Items with Technical Documents
+
+
+  
+Fast Award Candidates
+
+
+  
+Small Business Set-Asides
+
+
+  
+HUBZone Set-Asides
+
+	
+  
+Service Disabled Veteran Owned
+      Small Business Set-Asides
+
+
+Woman Owned Small Business Set-Asides
+
+
+Economically Disadvantaged Women Owned Small Business Set-Asides
+
+
+Unrestricted/Not Set-Asides
+
+
+ 
+
+
+
+
+ 
+Policy Statements · Feedback
+   EOXD8AUZtkHO8wt7m812jA==
+   Ver.6.3.2
+

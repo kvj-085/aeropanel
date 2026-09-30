@@ -1,0 +1,2398 @@
+FAQ/Help · Refs · My Account · Log In
+
+
+   Home       Solicitations       RFQs       RFP/IFB/Other RFQs       Tech Data       Downloads        Awards   
+
+
+Navigation: 
+Navigation/Documents - - - - - -
+Accessibility
+Awards Area
+- Awards by Award DT
+- Awards by Post DT
+- Market Ready Orders ®
+- Post Award Request (PAR)®
+Batch Quoting ®
+Batch Quoting File Format
+BidSets
+Contracts
+Delivery Orders
+FAQs
+Feedback
+Forecast ®
+FSC ~ DLA Managed
+Global Search
+Home Page
+Invitation For Bid (IFB) Area
+Log In Screen
+Master Solicitation (PAC)
+Notices/Message Board
+Post Award Request (PAR)®
+Quoting Help
+Quote Search ®
+Request For Proposal (RFP)Area
+Request For Quote (RFQ) Area
+- RFQs by Issue Date
+- RFQs by Return By Date
+- RFQs Recent
+References
+Registration
+Solicitations
+SRVA ®
+User(s) Profile Update ®
+Vendor Profile Update ®
+Welcome Page ®
+Regs / Supplement Extracts ---
+DFARS 225.502
+DFARS 252.211-7005
+DFARS 252.211-7006
+DFARS 252.223-7001
+DFARS 252.225-7001
+DFARS 252.225-7035
+DFARS 252.225-7036
+DLAD 52.211-9000
+DLAD 52.213-9000
+DLAD 52.217-9002
+DLAD 52.219-9015
+DLAD 52.223-9000
+DLAD 52.233-9001
+FAR 52.209-1
+FAR 52.211-5
+FAR 52.212-3
+FAR 52.219-1
+FAR 52.222-18
+FAR 52.222-22
+FAR 52.222-25
+FAR 52.222-26
+FAR 52.223-3
+ 
+
+Database Search: 
+Choose Search
+RFQs - NSN
+RFQs - Solicitation
+RFQs - PR
+-----------------------
+Awards - Awardee CAGE
+Awards - Award/Basic Number
+Awards - Delivery Order #
+Awards - NSN
+Awards - PR
+-----------------------
+RFP/IFB/Other RFQs - Solicitation
+RFP/IFB/Other RFQs - NSN
+-----------------------
+CAGE Search
+  Value: 
+
+
+Notice:   · Suspension of CMMC Phase II » Read Notice
+
+  Please read notices posted on the Notices page.
+
+
+  Location: Home » Solicitations » RFQs » RFQ Text Search
+[
+RFQ Search
+-
+Recent RFQs
+-
+RFQs by Issue Date
+-
+RFQs by Return By Date
+-
+RFQs by FSC
+]
+[ 273 ] 9/30/2026 12:11:34 PM
+
+
+
+Documents Indexed: 161,967
+
+Additional RFQ Text Search Help
+
+Found 48 records for this search query string.
+Modified: Any time
+
+
+
+1
+Solicitation Information	Product Data
+
+SPE8EN26T1705.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	04-29-2026
+Return By:	07-07-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7016529417
+
+	
+
+NSN: 7025-01-527-8872   Nomenclature: KEYBOARD,DATA ENTRY
+
+
+   AMSC: D     	NAICS: 333310     	Quantity: 1     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+1KZ68	CKC-A3	CP NORTH AMERICA, LLC
+
+
+
+
+
+SPE8EN26T3315.PDF
+  » Package View
+
+
+
+uote  	 
+
+
+
+Issued:	09-30-2026
+Return By:	10-13-2026
+ 
+
+FOB Point:	Destination
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	Tech Docs
+ 
+
+Document Post/Updated:	2026-09-29 09:03:10
+ 
+
+Purchase Request:	7018562004
+
+	
+
+NSN: 7025-01-706-4827   Nomenclature: KEYTOP,KEYBOARD
+
+
+   AMSC: B     	NAICS: 334112     	Quantity: 2     
+
+
+Specification, Drawing and Standard Data
+Amend No.: DTD: 02-22-2021
+I/A/W DRW: 12763 60178-031-23 (BASIC)   DTD: 06-18-2026
+
+
+   Type #: 60178-031-23
+
+
+
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+12763	60178-031-23	DYNALEC CORPORATION
+
+
+
+
+
+SPE8EN26T3281.PDF
+  » Package View
+
+
+
+uote  	 
+
+
+
+Issued:	09-28-2026
+Return By:	10-08-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-09-27 06:21:43
+ 
+
+Purchase Request:	7018503038
+
+	
+
+NSN: 7025-01-543-4460   Nomenclature: KEYTOP,KEYBOARD
+
+
+   AMSC: D     	NAICS: 334118     	Quantity: 20     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+1UQL0	1991947	
+
+
+
+
+
+SPE4A526T441Q.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	09-18-2026
+Return By:	09-30-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-09-25 06:33:50
+ 
+
+Purchase Request:	7018389432
+
+	
+
+NSN: 1680-01-517-7625   Nomenclature: KEYBOARD ASSEMBLY,A
+
+
+   AMSC: C     	NAICS: 336413     	Quantity: 5     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+07187	8522102	HONEYWELL INTERNATIONAL INC.
+
+
+
+
+
+SPE4A726T795J.PDF
+  » Package View
+
+
+
+uote  	 
+
+
+
+Issued:	09-25-2026
+Return By:	10-02-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-09-24 06:52:53
+ 
+
+Purchase Request:	7018395719
+
+	
+
+NSN: 5895-01-689-3430   Nomenclature: KEYBOARD,DATA ENTRY
+
+
+   AMSC: D     	NAICS: 334290     	Quantity: 1     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+1JA77	90-750-085	GENERAL DIGITAL CORP
+
+
+
+
+
+SPE4A726T789D.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	09-24-2026
+Return By:	10-01-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Origin
+ 
+
+Tech Data:	Tech Docs
+ 
+
+Document Post/Updated:	2026-09-23 04:54:57
+ 
+
+Purchase Request:	7018412962
+
+	
+
+NSN: 5895-01-537-2510   Nomenclature: KEYBOARD,DATA ENTRY
+
+
+   AMSC: C     	NAICS: 334290     	Quantity: 12     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+6KWZ6	10080172	CHEMRING SENSORS AND ELECTRONIC
+
+
+
+
+
+SPE8EN26T3044.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	08-31-2026
+Return By:	09-24-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-09-21 09:11:36
+ 
+
+Purchase Request:	7018087025
+
+	
+
+NSN: 7025-01-691-6839   Nomenclature: KEYBOARD,DATA ENTRY
+
+
+   AMSC: C     	NAICS: 334112     	Quantity: 5     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+32865	5000-52735-0000	DRS NETWORK & IMAGING SYSTEMS LLC
+
+
+
+
+
+SPE8EN26T3231.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	09-18-2026
+Return By:	09-28-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-09-17 07:02:06
+ 
+
+Purchase Request:	7018368366
+
+	
+
+NSN: 7025-01-444-7449   Nomenclature: KEYBOARD,DATA ENTRY
+
+
+   AMSC: H     	NAICS: 334112     	Quantity: 1     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+6Z833	506-0001G	CORTRON, INC.
+
+
+
+
+
+SPE4A626T32KT.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	09-18-2026
+Return By:	09-25-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-09-17 04:43:22
+ 
+
+Purchase Request:	7018390533
+
+	
+
+NSN: 6625-01-390-9413   Nomenclature: KEYBOARD,DATA ENTRY
+
+
+   AMSC: C     	NAICS: 334290     	Quantity: 11     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+03956	1859873	NORTHROP GRUMMAN SYSTEMS CORPORATIO
+
+
+
+
+
+SPE8EN26T3157.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	09-15-2026
+Return By:	09-25-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	Tech Docs
+ 
+
+Document Post/Updated:	2026-09-14 07:06:57
+ 
+
+Purchase Request:	7018161510
+
+	
+
+NSN: 7040-01-462-8859   Nomenclature: KEYBOARD SUPPORT
+
+
+   AMSC: G     	NAICS: 336611     	Quantity: 20     
+
+
+Specification, Drawing and Standard Data Mil-Spec
+Amend No.: F DTD: 08-30-2007
+I/A/W DRW: 19200 12976441 (BASIC)   DTD: 06-18-2026
+
+
+
+
+
+
+
+
+
+
+
+
+SPE4A526T401X.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	09-02-2026
+Return By:	09-09-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-09-01 05:59:52
+ 
+
+Purchase Request:	7018154036
+
+	
+
+NSN: 7025-01-643-6926   Nomenclature: KEYBOARD,DATA ENTRY
+
+
+   AMSC: Q     	NAICS: 334610     	Quantity: 57     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+16331	63A170255G1	LOCKHEED MARTIN CORPORATION
+16331	PL 63A170254G1 REV B ITEM 5	LOCKHEED MARTIN CORPORATION
+
+
+
+
+
+SPE8EN26T2948.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	08-19-2026
+Return By:	09-03-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-31 11:28:34
+ 
+
+Purchase Request:	7017946556
+
+	
+
+NSN: 7025-01-680-4292   Nomenclature: KEYBOARD,DATA ENTRY
+
+
+   AMSC: Q     	NAICS: 334112     	Quantity: 8     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+147H7	FXTIS0120	BART & ASSOCIATES, LLC
+
+
+
+
+
+SPE8EN26T3026.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	08-27-2026
+Return By:	09-08-2026
+ 
+
+FOB Point:	Destination
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	Tech Docs
+ 
+
+Document Post/Updated:	2026-08-26 09:44:38
+ 
+
+Purchase Request:	7018038005
+
+	
+
+NSN: 7025-01-673-8432   Nomenclature: KEYBOARD,DATA ENTRY
+
+
+   AMSC: C     	NAICS: 334112     	Quantity: 1     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+1MYP5	8665788-2	MANAGEMENT SERVICES GROUP, INC.
+
+
+
+
+
+SPE8EN26T3020.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	08-27-2026
+Return By:	09-08-2026
+ 
+
+FOB Point:	Destination
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-26 09:54:52
+ 
+
+Purchase Request:	7018038004
+
+	
+
+NSN: 7025-01-690-4078   Nomenclature: KEYBOARD,DATA ENTRY
+
+
+   AMSC: Z     	NAICS: 334112     	Quantity: 1     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+6Z833	564-0241	CORTRON, INC.
+
+
+
+
+
+SPE7M526Q0937.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	08-27-2026
+Return By:	09-10-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-26 09:10:02
+ 
+
+Purchase Request:	7015892057
+
+	
+
+NSN: 5999-01-640-8771   Nomenclature: KEYBOARD,DATA ENTRY
+
+
+   AMSC: R     	NAICS: 444180     	Quantity: 3     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+49956	PL8245749-1	RAYTHEON COMPANY
+
+
+
+
+
+SPE7M526Q0938.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	08-27-2026
+Return By:	09-10-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	Tech Docs
+ 
+
+Document Post/Updated:	2026-08-26 09:10:02
+ 
+
+Purchase Request:	7017697334
+
+	
+
+NSN: 5999-01-573-3363   Nomenclature: KEYBOARD,DATA ENTRY
+
+
+   AMSC: B     	NAICS: 335999     	Quantity: 6     
+
+
+Specification, Drawing and Standard Data
+Amend No.: DTD: 10-16-2008
+I/A/W DRW: 53711 7626081 (BASIC)   DTD: 06-18-2026
+
+
+   Type #: 7626081
+
+
+
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+41WH0	6932UN	DAISY DATA DISPLAYS INC
+
+
+
+
+
+SPE8EN26T2428.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	06-30-2026
+Return By:	08-28-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-25 09:32:40
+ 
+
+Purchase Request:	7015992230
+
+	
+
+NSN: 7025-01-691-6839   Nomenclature: KEYBOARD,DATA ENTRY
+
+
+   AMSC: C     	NAICS: 334112     	Quantity: 8     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+32865	5000-52735-0000	DRS NETWORK & IMAGING SYSTEMS LLC
+
+
+
+
+
+SPE8EN26T2481.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	07-08-2026
+Return By:	08-25-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-22 11:29:00
+ 
+
+Purchase Request:	7015992231
+
+	
+
+NSN: 7025-01-691-6842   Nomenclature: KEYBOARD,DATA ENTRY
+
+
+   AMSC: C     	NAICS: 334112     	Quantity: 6     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+32865	5000-52734-0000	DRS NETWORK & IMAGING SYSTEMS LLC
+
+
+
+
+
+SPE8EN26T2584.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	07-14-2026
+Return By:	08-25-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-22 11:28:59
+ 
+
+Purchase Request:	7015573097
+
+	
+
+NSN: 7025-01-691-6842   Nomenclature: KEYBOARD,DATA ENTRY
+
+
+   AMSC: C     	NAICS: 334112     	Quantity: 5     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+32865	5000-52734-0000	DRS NETWORK & IMAGING SYSTEMS LLC
+
+
+
+
+
+SPE4A726T319Y.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	05-06-2026
+Return By:	05-13-2026
+ 
+
+FOB Point:	Destination
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7016588388
+
+	
+
+NSN: 5895-01-592-4563   Nomenclature: NRP,KEYBOARD,DATA E
+
+
+   AMSC: Z     	NAICS: 334290     	Quantity: 1     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+0NGZ4	BCI-PS2-KBM-KVM4-00	BASIC COMMERCE & INDUSTRIES INC
+
+
+
+
+
+SPE4A726T9954.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	02-23-2026
+Return By:	03-02-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Origin
+ 
+
+Tech Data:	Tech Docs
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7015601868
+
+	
+
+NSN: 5895-01-537-2510   Nomenclature: KEYBOARD,DATA ENTRY
+
+
+   AMSC: C     	NAICS: 334290     	Quantity: 5     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+6KWZ6	10080172	CHEMRING SENSORS AND ELECTRONIC
+
+
+
+
+
+SPE4A726T159R.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	03-26-2026
+Return By:	04-02-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7016081909
+
+	
+
+NSN: 5895-01-608-5928   Nomenclature: KEYBOARD,DATA ENTRY
+
+
+   AMSC: D     	NAICS: 334290     	Quantity: 1     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+14304	RF-7800I-KD200	L3HARRIS TECHNOLOGIES, INC.
+
+
+
+
+
+SPE8EN26T1940.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	05-14-2026
+Return By:	05-26-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7016768360
+
+	
+
+NSN: 7025-01-696-4511   Nomenclature: KEYBOARD,DATA ENTRY
+
+
+   AMSC: Q     	NAICS: 334112     	Quantity: 2     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+0ERB9	LT-C-0066-01	LAUREL TECHNOLOGIES PARTNERSHIP
+6Z833	821-0001A-D REV D	CORTRON, INC.
+
+
+
+
+
+SPE4A526T340H.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	08-12-2026
+Return By:	08-19-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7017837614
+
+	
+
+NSN: 5999-01-546-5257   Nomenclature: KEYBOARD,DATA ENTRY
+
+
+   AMSC: C     	NAICS: 334417     	Quantity: 1     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+07187	8524315-1	HONEYWELL INTERNATIONAL INC.
+
+
+
+
+
+SPE4A726T027D.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	02-27-2026
+Return By:	03-06-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Origin
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7015698995
+
+	
+
+NSN: 5895-01-624-6680   Nomenclature: KEYBOARD,DATA ENTRY
+
+
+   AMSC: D     	NAICS: 334290     	Quantity: 151     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+66200	8355329	PIONEER INDUSTRIES, LLC
+
+
+
+
+
+SPE8EN26T1961.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	05-14-2026
+Return By:	05-26-2026
+ 
+
+FOB Point:	Destination
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7016755424
+
+	
+
+NSN: 7025-01-724-2095   Nomenclature: KEYBOARD,DATA ENTRY
+
+
+   AMSC: D     	NAICS: 334112     	Quantity: 1     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+1GPT5	AKB-110B	
+
+
+
+
+
+SPE4A625T16WH.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	07-23-2025
+Return By:	07-30-2025
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7013064190
+
+	
+
+NSN: 5895-01-641-4135   Nomenclature: KEYBOARD,DATA ENTRY
+
+
+   AMSC: D     	NAICS: 334290     	Quantity: 7     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+0ERB9	8-27729-1	LAUREL TECHNOLOGIES PARTNERSHIP
+0ERB9	8-27729-501	LAUREL TECHNOLOGIES PARTNERSHIP
+
+
+
+
+
+SPE4A726T581F.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	07-20-2026
+Return By:	07-27-2026
+ 
+
+FOB Point:	Destination
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7016094571
+
+	
+
+NSN: 5895-01-606-3307   Nomenclature: KEYBOARD,DATA ENTRY
+
+
+   AMSC: P     	NAICS: 334511     	Quantity: 1     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+8BBQ3	967972-039K	VAREX IMAGING CORP
+
+
+
+
+
+SPE8EN26T1764.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	04-30-2026
+Return By:	05-11-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7016564719
+
+	
+
+NSN: 7025-01-700-9445   Nomenclature: KEYBOARD,DATA ENTRY
+
+
+   AMSC: Q     	NAICS: 334112     	Quantity: 3     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+0ERB9	LT-2000665-00	LAUREL TECHNOLOGIES PARTNERSHIP
+
+
+
+
+
+SPE8EN26T2489.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	07-09-2026
+Return By:	07-28-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7017422119
+
+	
+
+NSN: 7025-01-530-4085   Nomenclature: KEYBOARD,DATA ENTRY
+
+
+   AMSC: C     	NAICS: 334610     	Quantity: 1     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+52088	B1014	LOCKHEED MARTIN CORPORATION
+6Z833	516-0116	CORTRON, INC.
+90536	79C0033-02	
+90536	B1014	
+
+
+
+
+
+SPE8EN26T2935.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	08-18-2026
+Return By:	08-28-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7017757724
+
+	
+
+NSN: 7025-01-669-2279   Nomenclature: KEYBOARD,DATA ENTRY
+
+
+   AMSC: D     	NAICS: 334610     	Quantity: 13     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+39JR7	ERN-17N8-3404A	ECLIPSE RACKMOUNT INC
+
+
+
+
+
+SPE8EN26T1925.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	05-14-2026
+Return By:	05-26-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7016768389
+
+	
+
+NSN: 7025-01-629-5548   Nomenclature: KEYBOARD,DATA ENTRY
+
+
+   AMSC: D     	NAICS: 333310     	Quantity: 4     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+147H7	FFTIS0020	BART & ASSOCIATES, LLC
+66200	FFTIS0020	PIONEER INDUSTRIES, LLC
+
+
+
+
+
+SPE8EN26T2130.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	06-02-2026
+Return By:	06-12-2026
+ 
+
+FOB Point:	Destination
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7016967213
+
+	
+
+NSN: 7025-01-675-2130   Nomenclature: KEYBOARD,DATA ENTRY
+
+
+   AMSC: C     	NAICS: 334112     	Quantity: 1     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+6Z833	822-0004A	CORTRON, INC.
+
+
+
+
+
+SPE8EN26T2941.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	08-19-2026
+Return By:	08-31-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7017911033
+
+	
+
+NSN: 7025-01-687-5992   Nomenclature: KEYBOARD,DATA ENTRY
+
+
+   AMSC: Z     	NAICS: 334112     	Quantity: 1     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+3SCM0	SB-97-TP-USB	IKEY LTD
+
+
+
+
+
+SPE8EN26T2955.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	08-19-2026
+Return By:	08-31-2026
+ 
+
+FOB Point:	Destination
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7016074298
+
+	
+
+NSN: 7025-01-440-5622   Nomenclature: KEYBOARD,DATA ENTRY
+
+
+   AMSC: D     	NAICS: 333310     	Quantity: 1     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+0118B	W290683146400	
+
+
+
+
+
+SPE8EN26T2981.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	08-20-2026
+Return By:	08-31-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7017963931
+
+	
+
+NSN: 7025-01-553-0298   Nomenclature: KEYBOARD,DATA ENTRY
+
+
+   AMSC: D     	NAICS: 334118     	Quantity: 53     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+1PNR4	G2UK07289	L3HARRIS TECHNOLOGIES, INC.
+
+
+
+
+
+SPE8EN26T1416.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	04-03-2026
+Return By:	04-13-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7016180010
+
+	
+
+NSN: 7025-01-548-2827   Nomenclature: KEYBOARD,DATA ENTRY
+
+
+   AMSC: Z     	NAICS: 334118     	Quantity: 4     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+6Z833	525-0126	CORTRON, INC.
+6Z833	EMK121	CORTRON, INC.
+
+
+
+
+
+SPE8EN26T2791.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	08-06-2026
+Return By:	08-20-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7017757186
+
+	
+
+NSN: 7025-01-607-1165   Nomenclature: KEYBOARD,DATA ENTRY
+
+
+   AMSC: D     	NAICS: 334118     	Quantity: 3     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+12339	07030000 FIND 9	DRS TRAINING & CONTROL SYSTEMS, LLC
+12339	07030376-1	DRS TRAINING & CONTROL SYSTEMS, LLC
+
+
+
+
+
+SPE8EN26T2916.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	08-13-2026
+Return By:	08-24-2026
+ 
+
+FOB Point:	Destination
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	Tech Docs
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7014346274
+
+	
+
+NSN: 7025-01-609-7428   Nomenclature: KEYBOARD,DATA ENTRY
+
+
+   AMSC: G     	NAICS: 334118     	Quantity: 1     
+
+
+Specification, Drawing and Standard Data
+Amend No.: A DTD: 03-13-2013
+I/A/W DRW: 29355 73670-10 (BASIC)   DTD: 06-18-2026
+
+
+   Type #: 73670-10
+
+
+
+
+
+
+
+
+
+
+SPE8EN26T1731.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	04-30-2026
+Return By:	05-11-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7016565814
+
+	
+
+NSN: 7025-01-579-7192   Nomenclature: KEYBOARD PS2 82KEY
+
+
+   AMSC: C     	NAICS: 334610     	Quantity: 9     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+6Z833	521-0070	CORTRON, INC.
+90536	79C0723-00	
+90536	B1371	
+
+
+
+
+
+SPE7M526T1661.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	10-24-2025
+Return By:	11-03-2025
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	Tech Docs
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7014132128
+
+	
+
+NSN: 5999-01-667-2766   Nomenclature: KEYBOARD,DATA ENTRY
+
+
+   AMSC: G     	NAICS: 334419     	Quantity: 4     
+
+
+Specification, Drawing and Standard Data
+Amend No.: B DTD: 12-31-2017
+I/A/W DRW: 53711 8653197 (BASIC)   DTD: 10-16-2025
+
+
+   Type #: 8653197
+
+
+
+
+
+
+
+
+
+
+SPE4A626T26L2.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	04-20-2026
+Return By:	04-27-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7016351280
+
+	
+
+NSN: 4920-01-160-6354   Nomenclature: KEYBOARD,NUMERIC,TE
+
+
+   AMSC: C     	NAICS: 336413     	Quantity: 8     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+91929	PX2P12K10A3F-039	HONEYWELL INTERNATIONAL INC.
+
+
+
+
+
+SPE7M525T317A.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	06-06-2025
+Return By:	06-16-2025
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7012539485
+
+	
+
+NSN: 5999-01-566-0744   Nomenclature: KEYBOARD,DATA ENTRY
+
+
+   AMSC: D     	NAICS: 335999     	Quantity: 11     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+27192	KBDCORT5370085	DRS NAVAL POWER SYSTEMS INC
+
+
+
+
+
+SPE4A526T163T.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	05-20-2026
+Return By:	06-01-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7016846642
+
+	
+
+NSN: 1680-01-517-7625   Nomenclature: KEYBOARD ASSEMBLY,A
+
+
+   AMSC: C     	NAICS: 336413     	Quantity: 10     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+07187	8522102	HONEYWELL INTERNATIONAL INC.
+
+
+
+
+
+SPE7M126T030D.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	05-05-2026
+Return By:	05-15-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7010415912
+
+	
+
+NSN: 6625-01-272-4231   Nomenclature: KEYBOARD,DATA ENTRY
+
+
+   AMSC: D     	NAICS: 334290     	Quantity: 2     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+28199	10-4201	L3 TECHNOLOGIES, INC.
+
+
+
+
+
+SPE8EN26T2361.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	06-25-2026
+Return By:	07-06-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7017286938
+
+	
+
+NSN: 7025-01-583-7085   Nomenclature: KEYBOARD,DATA ENTRY
+
+
+   AMSC: D     	NAICS: 334118     	Quantity: 7     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+6Z833	573-0014	CORTRON, INC.
+6Z833	573-0014-K	CORTRON, INC.
+
+
+
+
+
+SPE8EN26T2880.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	08-10-2026
+Return By:	08-20-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Origin
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7017812487
+
+	
+
+NSN: 7025-01-368-6602   Nomenclature: KEYBOARD,DATA ENTRY
+
+
+   AMSC: D     	NAICS: 333310     	Quantity: 2     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+65685	112573-001	
+
+
+
+
+
+SPE7M526T511L.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	09-18-2026
+Return By:	09-28-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-09-17 08:36:12
+ 
+
+Purchase Request:	7018379907
+
+	
+
+NSN: 5975-01-722-7996   Nomenclature: DRAWER,ELECTRICAL EQUI
+
+
+   AMSC: D     	NAICS: 327110     	Quantity: 1     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+0LWF1	RACKMUX-D17HR-N-KCL	NETWORK TECHNOLOGIES INC
+
+
+
+
+1
+
+
+· RFQ Text Search
+Query String:
+
+
+
+Modified: 
+Any time
+last hour
+last day
+last 7 days
+last 30 days
+last 60 days
+last 90 days
+last 365 days
+	Sort: 
+Best Match
+Newly Posted to Oldest
+Oldest Posted to Newest
+
+Filter:
+  
+Automated Indefinite Delivery Contract (AIDC)
+
+
+  
+Items with Technical Documents
+
+
+  
+Fast Award Candidates
+
+
+  
+Small Business Set-Asides
+
+
+  
+HUBZone Set-Asides
+
+	
+  
+Service Disabled Veteran Owned
+      Small Business Set-Asides
+
+
+Woman Owned Small Business Set-Asides
+
+
+Economically Disadvantaged Women Owned Small Business Set-Asides
+
+
+Unrestricted/Not Set-Asides
+
+
+ 
+
+
+
+
+ 
+Policy Statements · Feedback
+   EOXD8AUZtkHO8wt7m812jA==
+   Ver.6.3.2
+

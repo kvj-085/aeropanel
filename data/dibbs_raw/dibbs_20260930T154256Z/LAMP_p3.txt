@@ -1,0 +1,4772 @@
+FAQ/Help · Refs · My Account · Log In
+
+
+   Home       Solicitations       RFQs       RFP/IFB/Other RFQs       Tech Data       Downloads        Awards   
+
+
+Navigation: 
+Navigation/Documents - - - - - -
+Accessibility
+Awards Area
+- Awards by Award DT
+- Awards by Post DT
+- Market Ready Orders ®
+- Post Award Request (PAR)®
+Batch Quoting ®
+Batch Quoting File Format
+BidSets
+Contracts
+Delivery Orders
+FAQs
+Feedback
+Forecast ®
+FSC ~ DLA Managed
+Global Search
+Home Page
+Invitation For Bid (IFB) Area
+Log In Screen
+Master Solicitation (PAC)
+Notices/Message Board
+Post Award Request (PAR)®
+Quoting Help
+Quote Search ®
+Request For Proposal (RFP)Area
+Request For Quote (RFQ) Area
+- RFQs by Issue Date
+- RFQs by Return By Date
+- RFQs Recent
+References
+Registration
+Solicitations
+SRVA ®
+User(s) Profile Update ®
+Vendor Profile Update ®
+Welcome Page ®
+Regs / Supplement Extracts ---
+DFARS 225.502
+DFARS 252.211-7005
+DFARS 252.211-7006
+DFARS 252.223-7001
+DFARS 252.225-7001
+DFARS 252.225-7035
+DFARS 252.225-7036
+DLAD 52.211-9000
+DLAD 52.213-9000
+DLAD 52.217-9002
+DLAD 52.219-9015
+DLAD 52.223-9000
+DLAD 52.233-9001
+FAR 52.209-1
+FAR 52.211-5
+FAR 52.212-3
+FAR 52.219-1
+FAR 52.222-18
+FAR 52.222-22
+FAR 52.222-25
+FAR 52.222-26
+FAR 52.223-3
+ 
+
+Database Search: 
+Choose Search
+RFQs - NSN
+RFQs - Solicitation
+RFQs - PR
+-----------------------
+Awards - Awardee CAGE
+Awards - Award/Basic Number
+Awards - Delivery Order #
+Awards - NSN
+Awards - PR
+-----------------------
+RFP/IFB/Other RFQs - Solicitation
+RFP/IFB/Other RFQs - NSN
+-----------------------
+CAGE Search
+  Value: 
+
+
+Notice:   · Suspension of CMMC Phase II » Read Notice
+
+  Please read notices posted on the Notices page.
+
+
+  Location: Home » Solicitations » RFQs » RFQ Text Search
+[
+RFQ Search
+-
+Recent RFQs
+-
+RFQs by Issue Date
+-
+RFQs by Return By Date
+-
+RFQs by FSC
+]
+[ 273 ] 9/30/2026 11:56:52 AM
+
+
+
+Documents Indexed: 161,967
+
+Additional RFQ Text Search Help
+
+Found 310 records for this search query string.
+Modified: Any time
+
+
+
+1 2 3 4
+Solicitation Information	Product Data
+
+SPE4A026T3159.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	05-18-2026
+Return By:	05-26-2026
+ 
+
+FOB Point:	Destination
+ 
+
+Inspection Point:	Origin
+ 
+
+Tech Data:	Tech Docs
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7015728676
+
+	
+
+NSN: 6250-01-305-4231   Nomenclature: BALLAST,LAMP
+
+
+   AMSC: G     	NAICS: 335311     	Quantity: 2     
+
+
+Specification, Drawing and Standard Data
+Amend No.: D DTD: 07-13-1996
+I/A/W DRW: 53711 6097525 (BASIC)   DTD: 09-21-2006
+
+
+   Type #: 6097525
+
+
+
+
+
+
+
+
+
+
+SPE4A726T9518.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	02-19-2026
+Return By:	03-09-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7015534798
+
+	
+
+NSN: 6240-01-064-2980   Nomenclature: LAMP,INCANDESCENT
+
+
+   AMSC: P     	NAICS: 335139     	Quantity: 63     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+25583	S21033-07	ACRON AVIATION, INC.
+
+
+
+
+
+SPE4A626T04X2.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	03-25-2026
+Return By:	04-09-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Origin
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7016052516
+
+	
+
+NSN: 6620-01-176-6956   Nomenclature: LAMP BOARD ASSEMBLY
+
+
+   AMSC: C     	NAICS: 334519     	Quantity: 30     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+90073	220-352779-002	CMC ELECTRONICS INC
+
+
+
+
+
+SPE4A626T00P2.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	03-20-2026
+Return By:	03-27-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7015993637
+
+	
+
+NSN: 6240-00-688-5301   Nomenclature: CASE,LAMP
+
+
+   AMSC: L     	NAICS: 335131     	Quantity: 11     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+72914	A2953	GRIMES AEROSPACE COMPANY
+
+
+
+
+
+SPE4A626Q1029.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	06-17-2026
+Return By:	06-20-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	Tech Docs
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7015601148
+
+	
+
+NSN: 6240-01-669-6595   Nomenclature: LAMP,INCANDESCENT
+
+
+   AMSC: Z     	NAICS: 335139     	Quantity: 3334     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+24446	1864	GENERAL ELECTRIC COMPANY
+
+
+
+
+
+SPE4A625T82B0.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	05-21-2025
+Return By:	05-28-2025
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	Tech Docs
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7007891076
+
+	
+
+NSN: 6620-01-136-5492   Nomenclature: LAMP BOARD ASSEMBLY
+
+
+   AMSC: D     	NAICS: 334511     	Quantity: 710     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+90073	220-419844-001	CMC ELECTRONICS INC
+
+
+
+
+
+SPE4A726T207U.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	04-07-2026
+Return By:	04-17-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7016149045
+
+	
+
+NSN: 6240-00-985-5234   Nomenclature: LAMP,INCANDESCENT
+
+
+   AMSC: G     	NAICS: 335139     	Quantity: 17     
+
+
+Specification, Drawing and Standard Data Mil-Spec
+Amend No.: A DTD: 11-21-1977
+I/A/W CID: W-L-101/63A (BASIC)   DTD: 10-03-2006
+
+
+
+
+
+
+
+
+
+
+
+
+SPE8E726T3616.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	08-19-2026
+Return By:	08-31-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Origin
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7017947416
+
+	
+
+NSN: 6240-01-243-9740   Nomenclature: LAMP,INCANDESCENT
+
+
+   AMSC: D     	NAICS: 335139     	Quantity: 100     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+0A6Z1	052300 EXL	NORMAN LAMPS INC
+18192	40737	COOPER CROUSE-HINDS LLC
+
+
+
+
+
+SPE8E726T3059.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	06-15-2026
+Return By:	06-25-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7017137861, 7017137865
+
+	
+
+NSN: 6220-01-702-8019   Nomenclature: LAMP,LIGHT EMITTING
+
+
+   AMSC: Z     	NAICS: 335999     	Quantity: 2     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+81493	CL-13LED-120-TW	PHOENIX PRODUCTS LLC
+
+
+
+
+
+SPE8E726T2987.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	06-11-2026
+Return By:	06-22-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7017122481
+
+	
+
+NSN: 6240-01-506-2059   Nomenclature: LAMP,INCANDESCENT
+
+
+   AMSC: H     	NAICS: 335139     	Quantity: 113     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+A138G	2112-44210	POLARTHERM OY
+
+
+
+
+
+SPE8E726T2871.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	06-03-2026
+Return By:	06-15-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7016999089
+
+	
+
+NSN: 6240-00-486-7512   Nomenclature: LAMP,INCANDESCENT
+
+
+   AMSC: Z     	NAICS: 335139     	Quantity: 1     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+08805	890	
+
+
+
+
+
+SPE8E726T2777.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	06-01-2026
+Return By:	06-11-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Origin
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7016966913
+
+	
+
+NSN: 6240-01-311-1121   Nomenclature: LAMP,INCANDESCENT
+
+
+   AMSC: R     	NAICS: 335139     	Quantity: 100     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+55972	2783033-11	
+879B2	351-30537-002	SAFRAN ELECTRONICS & DEFENSE, AVION
+
+
+
+
+
+SPE8E726T2725.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	05-28-2026
+Return By:	06-08-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7016937655
+
+	
+
+NSN: 6240-01-612-6113   Nomenclature: LAMP ASSEMBLY
+
+
+   AMSC: R     	NAICS: 335139     	Quantity: 22     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+32770	099-00168-00 ITEM 89	KATO ENGINEERING INC.
+32770	099-00228-04 SHT3 ITEM18 SPHTR	KATO ENGINEERING INC.
+
+
+
+
+
+SPE8E726T2487.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	05-06-2026
+Return By:	05-18-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7016627882
+
+	
+
+NSN: 6240-01-316-7703   Nomenclature: LAMP,SODIUM
+
+
+   AMSC: Z     	NAICS: 335139     	Quantity: 50     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+0AMA6	50-3085	
+
+
+
+
+
+SPE8E726T2400.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	04-30-2026
+Return By:	08-12-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7016554987
+
+	
+
+NSN: 6240-01-431-3331   Nomenclature: LAMP,FLUORESCENT
+
+
+   AMSC: Z     	NAICS: 335139     	Quantity: 1     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+62607	F34T12ADV35EWALTO	
+62607	F40/35U/RS/EW/ALTO	
+
+
+
+
+
+SPE8E726T2309.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	04-30-2026
+Return By:	05-11-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7016565215
+
+	
+
+NSN: 6240-01-432-5107   Nomenclature: LAMP,INCANDESCENT
+
+
+   AMSC: D     	NAICS: 335139     	Quantity: 38     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+0D5X4	104951H	CHAND, L.L.C.
+
+
+
+
+
+SPE8E726T2127.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	04-15-2026
+Return By:	05-11-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7016317580
+
+	
+
+NSN: 6240-01-435-7973   Nomenclature: LAMP,INCANDESCENT
+
+
+   AMSC: Z     	NAICS: 335139     	Quantity: 1     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+34637	4049S	
+
+
+
+
+
+SPE8E726T2104.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	04-13-2026
+Return By:	04-23-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7016274670
+
+	
+
+NSN: 6210-01-699-4698   Nomenclature: LAMP,LIGHT EMITTING
+
+
+   AMSC: D     	NAICS: 332321     	Quantity: 1     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+85213	L-LR36	L.C.DOANE COMPANY,THE
+
+
+
+
+
+SPE4A626U3048.PDF
+  » Package View
+
+
+
+uote  	 
+
+
+
+Issued:	05-07-2026
+Return By:	05-27-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	1000232667
+
+	
+
+NSN: 6250-01-341-7894   Nomenclature: BALLAST,LAMP
+
+
+   AMSC: L     	NAICS: 335311     	Quantity: 363     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+1VYN1	B234SR120M-A	
+
+
+
+
+
+SPE4A626T738V.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	02-20-2026
+Return By:	02-27-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7015604338
+
+	
+
+NSN: 6250-00-565-3267   Nomenclature: BALLAST,LAMP
+
+
+   AMSC: Q     	NAICS: 335311     	Quantity: 5     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+17023	03672	BRUCE AEROSPACE INC
+
+
+
+
+
+SPE4A026T1651.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	02-12-2026
+Return By:	02-19-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7015441238
+
+	
+
+NSN: 6240-01-612-8469   Nomenclature: LAMP,INCANDESCENT
+
+
+   AMSC: Z     	NAICS: 334519     	Quantity: 8     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+61204	90292-1	GLAMOX AQUA SIGNAL CORPORATION
+
+
+
+
+
+SPE4A626T63K7.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	05-20-2026
+Return By:	05-27-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	Tech Docs
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7016844745
+
+	
+
+NSN: 6240-01-622-6527   Nomenclature: LAMP,INCANDESCENT
+
+
+   AMSC: C     	NAICS: 335139     	Quantity: 313     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+71744	1317	
+71744	GE1317	
+
+
+
+
+
+SPE4A626T620K.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	02-03-2026
+Return By:	02-10-2026
+ 
+
+FOB Point:	Destination
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7015313210
+
+	
+
+NSN: 6240-01-193-8752   Nomenclature: LAMP,INCANDESCENT
+
+
+   AMSC: Z     	NAICS: 335139     	Quantity: 1     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+18056	743-625253	
+
+
+
+
+
+SPE2DH26T4127.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	05-29-2026
+Return By:	06-04-2026
+ 
+
+FOB Point:	Destination
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7016941934
+
+	
+
+NSN: 6630-01-592-2590   Nomenclature: LAMP,HEMATOLOGY ANA
+
+
+   AMSC: Z     	NAICS: 334519     	Quantity: 1     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+6Z677	6805344	BECKMAN COULTER INC
+
+
+
+
+
+SPE2DH26T3166.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	04-20-2026
+Return By:	04-27-2026
+ 
+
+FOB Point:	Destination
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7016390473
+
+	
+
+NSN: 6630-01-625-8072   Nomenclature: TEST SET,WATER TURB
+
+
+   AMSC: Z     	NAICS: 334519     	Quantity: 1     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+51826	SK2022GMV	HABCO INDUSTRIES LLC
+
+
+
+
+
+SPE4A626T19AZ.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	08-18-2026
+Return By:	08-25-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7017408255
+
+	
+
+NSN: 6240-01-688-4358   Nomenclature: LAMP,INCANDESCENT
+
+
+   AMSC: Z     	NAICS: 335139     	Quantity: 32     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+80204	4627	AMERICAN NATIONAL STANDARDS INSTITU
+
+
+
+
+
+SPE4A625T82B5.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	05-21-2025
+Return By:	05-28-2025
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	Tech Docs
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7011473723
+
+	
+
+NSN: 6620-01-136-5492   Nomenclature: LAMP BOARD ASSEMBLY
+
+
+   AMSC: D     	NAICS: 334511     	Quantity: 208     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+90073	220-419844-001	CMC ELECTRONICS INC
+
+
+
+
+
+SPE8E726T3657.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	08-20-2026
+Return By:	08-31-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7017942961
+
+	
+
+NSN: 6250-01-435-7079   Nomenclature: BALLAST,LAMP
+
+
+   AMSC: D     	NAICS: 335311     	Quantity: 2     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+0EE74	G2-IN-T8-277	
+0LG51	B232I277HP	
+0LG51	B232IUNVHP-N	
+
+
+
+
+
+SPE8E726T3529.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	08-06-2026
+Return By:	08-17-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	Tech Docs
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7017287048
+
+	
+
+NSN: 6240-01-482-8243   Nomenclature: LAMP,INCANDESCENT
+
+
+   AMSC: T     	NAICS: 335139     	Quantity: 183     
+
+
+Specification, Drawing and Standard Data Mil-Spec
+Amend No.: A DTD: 08-25-2020
+I/A/W SPEC: MIL-DTL-6363/12A (BASIC)   DTD: 06-18-2026
+
+
+   Type #: P/N M6363/12-2
+
+
+
+
+
+
+
+
+
+
+SPE8E726T3396.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	07-23-2026
+Return By:	08-03-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7017554800
+
+	
+
+NSN: 6220-01-133-5941   Nomenclature: LAMP UNIT,VEHICULAR
+
+
+   AMSC: D     	NAICS: 336320     	Quantity: 4     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+K0577	BS-40002R	
+
+
+
+
+
+SPE8E726T3227.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	07-01-2026
+Return By:	07-13-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7017122210
+
+	
+
+NSN: 6240-01-628-8525   Nomenclature: LAMP ASSEMBLY
+
+
+   AMSC: D     	NAICS: 335139     	Quantity: 7     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+01121	855L-NX3	ROCKWELL AUTOMATION, INC.
+4H047	M-10H019-J0 ITEM 20	ROCKWELL AUTOMATION INC
+
+
+
+
+
+SPE8E726T3166.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	06-25-2026
+Return By:	07-06-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7017286937
+
+	
+
+NSN: 6240-01-583-3259   Nomenclature: LAMP,INCANDESCENT
+
+
+   AMSC: Z     	NAICS: 335132     	Quantity: 14     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+46576	0070DP1CLR	
+4F861	0070DP1CLR	FISHERIES SUPPLY CO
+
+
+
+
+
+SPE8E726T3065.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	06-15-2026
+Return By:	06-25-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7016555215
+
+	
+
+NSN: 6240-01-492-8128   Nomenclature: LAMP,FLUORESCENT
+
+
+   AMSC: Z     	NAICS: 335139     	Quantity: 1     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+1GDM9	F20T12/CW/ENVIR-O-LIGHT	MORNING STAR INDUSTRIES INC
+
+
+
+
+
+SPE8E726T3023.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	06-11-2026
+Return By:	06-22-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7017122326
+
+	
+
+NSN: 6250-01-668-9334   Nomenclature: BALLAST,LAMP
+
+
+   AMSC: Z     	NAICS: 335311     	Quantity: 259     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+56714	B90	
+
+
+
+
+
+SPE4A624T04M9.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	02-23-2024
+Return By:	03-01-2024
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7006519759
+
+	
+
+NSN: 6240-01-066-0110   Nomenclature: LAMP,INCANDESCENT
+
+
+   AMSC: Z     	NAICS: 335139     	Quantity: 19     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+72914	687-13	GRIMES AEROSPACE COMPANY
+
+
+
+
+
+SPE8E726T2738.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	05-28-2026
+Return By:	06-08-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7016937553
+
+	
+
+NSN: 6240-01-622-9388   Nomenclature: LAMP,LIGHT EMITTING
+
+
+   AMSC: D     	NAICS: 314910     	Quantity: 501     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+62607	561043	
+
+
+
+
+
+SPE8E726T2655.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	05-18-2026
+Return By:	05-28-2026
+ 
+
+FOB Point:	Destination
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7016797966
+
+	
+
+NSN: 6240-01-618-0389   Nomenclature: LAMP,WHITE
+
+
+   AMSC: R     	NAICS: 335139     	Quantity: 21     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+06RP6	DC-013877	DRS NAVAL POWER SYSTEMS INC
+
+
+
+
+
+SPE8E726T2514.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	05-08-2026
+Return By:	05-18-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7016668641
+
+	
+
+NSN: 6240-00-526-0243   Nomenclature: LAMP,INCANDESCENT
+
+
+   AMSC: H     	NAICS: 335139     	Quantity: 5     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+04655	6S6W120V	GENERAL DYNAMICS MISSION SYSTEMS, I
+24446	6S6W120	GENERAL ELECTRIC COMPANY
+24446	6S6W120V	GENERAL ELECTRIC COMPANY
+62607	6S6W120V	
+79500	6S6W120V	
+79500	6S6W120W	
+
+
+
+
+
+SPE8E726T1964.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	04-03-2026
+Return By:	04-13-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7016178345
+
+	
+
+NSN: 6240-01-566-7776   Nomenclature: LAMP,INCANDESCENT
+
+
+   AMSC: Z     	NAICS: 334519     	Quantity: 30     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+10988	259702A1	CNH INDUSTRIAL AMERICA LLC
+
+
+
+
+
+SPE8E726T1784.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	03-27-2026
+Return By:	06-17-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7016074170
+
+	
+
+NSN: 6240-01-462-1488   Nomenclature: LAMP,FLUORESCENT
+
+
+   AMSC: H     	NAICS: 335139     	Quantity: 1     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+0T969	EFT28E50	
+
+
+
+
+
+SPE8E726T1663.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	03-20-2026
+Return By:	03-30-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7015994907
+
+	
+
+NSN: 6240-01-432-5107   Nomenclature: LAMP,INCANDESCENT
+
+
+   AMSC: D     	NAICS: 335139     	Quantity: 23     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+0D5X4	104951H	CHAND, L.L.C.
+
+
+
+
+
+SPE4A526T7185.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	01-23-2026
+Return By:	01-30-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7015244859
+
+	
+
+NSN: 6240-01-614-3774   Nomenclature: LAMP,FLASHTUBE
+
+
+   AMSC: D     	NAICS: 334519     	Quantity: 62     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+55438	926006-1	GOODRICH LIGHTING SYSTEMS INC
+
+
+
+
+
+SPE8E526T3000.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	05-29-2026
+Return By:	06-08-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7016923159
+
+	
+
+NSN: 9390-01-558-9136   Nomenclature: TAPE,PROTECTIVE,PLA
+
+
+   AMSC: D     	NAICS: 327999     	Quantity: 1     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+76381	5004-46320	3M COMPANY
+
+
+
+
+
+SPE4A626U3176.PDF
+  » Package View
+
+
+
+uote  	 
+
+
+
+Issued:	06-09-2026
+Return By:	06-26-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	1000179679
+
+	
+
+NSN: 6240-01-381-1072   Nomenclature: LAMP,INCANDESCENT
+
+
+   AMSC: R     	NAICS: 335139     	Quantity: 142     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+6V4L8	L3157NAE	WARFIGHTER FOCUSED LOGISTICS INC.
+
+
+
+
+
+SPE4A126T2032.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	05-06-2026
+Return By:	05-13-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Origin
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7016646114
+
+	
+
+NSN: 6240-01-192-5590   Nomenclature: LAMP ASSEMBLY,ALTIM
+
+
+   AMSC: L     	NAICS: 335139     	Quantity: 43     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+99932	85066000-01	MOOG INC.
+
+
+
+
+
+SPE4A626T66T6.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	05-21-2026
+Return By:	05-28-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7015641694
+
+	
+
+NSN: 6240-01-461-9635   Nomenclature: LAMP,INCANDESCENT
+
+
+   AMSC: Z     	NAICS: 335139     	Quantity: 3     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+10402	H35W28V	WHELEN ENGINEERING COMPANY, INC.
+
+
+
+
+
+SPE4A626T55J4.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	05-14-2026
+Return By:	05-21-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7016731837
+
+	
+
+NSN: 6240-01-341-3418   Nomenclature: LAMP ASSEMBLY
+
+
+   AMSC: R     	NAICS: 335139     	Quantity: 16     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+98810	206477	AEROSONIC LLC
+
+
+
+
+
+SPE4A626T42Y0.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	05-06-2026
+Return By:	06-15-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7016646265
+
+	
+
+NSN: 6240-01-007-3997   Nomenclature: PULSATOR AND LAMP A
+
+
+   AMSC: Q     	NAICS: 335139     	Quantity: 4     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+43689	4200-902PC329	HUNTINGTON INGALLS INC
+52115	40089 PIECE 2	BRANTNER AND ASSOCIATES, INC.
+
+
+
+
+
+SPE1C126T1456.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	06-22-2026
+Return By:	07-02-2026
+ 
+
+FOB Point:	Destination
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7012621322, 7012747983, 7013392279, 7013584328, 7014762447, 7014980431, 7014980471, 7016106082, 7016138038, 7016283969, 7016329209, 7016352005, 7016513632, 7016600552, 7016766259, 7016859251
+
+	
+
+NSN: 8470-01-729-3493   Nomenclature: REPAIR KIT,HELMET
+
+
+   AMSC: D     	NAICS: 339999     	Quantity: 57     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+3FNR9	70-ESS-PRM	TEAM WENDY LLC
+
+
+
+
+
+SPE4A626T19EE.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	08-19-2026
+Return By:	08-26-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7017939345
+
+	
+
+NSN: 6240-01-007-3997   Nomenclature: PULSATOR AND LAMP A
+
+
+   AMSC: Q     	NAICS: 335139     	Quantity: 26     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+43689	4200-902PC329	HUNTINGTON INGALLS INC
+52115	40089 PIECE 2	BRANTNER AND ASSOCIATES, INC.
+
+
+
+
+
+SPE4A626T00WT.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	06-25-2026
+Return By:	07-02-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Origin
+ 
+
+Tech Data:	Tech Docs
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7017199662
+
+	
+
+NSN: 6350-01-174-6702   Nomenclature: LAMP DIMMER MODULE
+
+
+   AMSC: G     	NAICS: 335311     	Quantity: 16     
+
+
+Specification, Drawing and Standard Data
+Amend No.: K DTD: 12-08-1981
+I/A/W DRW: 80020 212971 (BASIC)   DTD: 06-18-2026
+
+
+   Type #: 212971
+
+
+
+
+
+
+
+
+
+
+SPE4A626Q1308.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	08-12-2026
+Return By:	08-26-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	Tech Docs
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7015853797
+
+	
+
+NSN: 6240-01-670-1526   Nomenclature: LAMP,INCANDESCENT
+
+
+   AMSC: Z     	NAICS: 335139     	Quantity: 32     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+58774	F28GAMF	WAMCO, INC.
+
+
+
+
+
+SPE4A625T47LS.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	09-26-2025
+Return By:	10-03-2025
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7013833438
+
+	
+
+NSN: 6240-01-162-4086   Nomenclature: LAMP,XENON
+
+
+   AMSC: R     	NAICS: 335139     	Quantity: 19     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+10741	1000 TRC	CARLISLE & FINCH CO
+
+
+
+
+
+SPE8E726T3430.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	07-29-2026
+Return By:	08-10-2026
+ 
+
+FOB Point:	Destination
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7017645930
+
+	
+
+NSN: 6240-12-403-3569   Nomenclature: LAMP,LIGHT EMITTING
+
+
+   AMSC: D     	NAICS: 335139     	Quantity: 1     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+D6046	34000-7	
+
+
+
+
+
+SPE8E726T3397.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	07-23-2026
+Return By:	08-03-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Origin
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7017592151
+
+	
+
+NSN: 6240-01-353-9709   Nomenclature: LAMP,INCANDESCENT
+
+
+   AMSC: Z     	NAICS: 335139     	Quantity: 20     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+46576	860	
+
+
+
+
+
+SPE8E726T3351.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	07-15-2026
+Return By:	07-27-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7017473199
+
+	
+
+NSN: 6240-00-869-5079   Nomenclature: LAMP,INCANDESCENT
+
+
+   AMSC: L     	NAICS: 335139     	Quantity: 40     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+03538	77C716335P001	LOCKHEED MARTIN CORPORATION
+08805	Q20APAR56-1	
+
+
+
+
+
+SPE8E726T3115.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	06-23-2026
+Return By:	07-06-2026
+ 
+
+FOB Point:	Destination
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7017240260
+
+	
+
+NSN: 6210-01-699-4698   Nomenclature: LAMP,LIGHT EMITTING
+
+
+   AMSC: D     	NAICS: 332321     	Quantity: 25     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+85213	L-LR36	L.C.DOANE COMPANY,THE
+
+
+
+
+
+SPE8E726T3014.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	06-11-2026
+Return By:	06-22-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7017123465
+
+	
+
+NSN: 6250-01-728-2143   Nomenclature: BALLAST,LAMP
+
+
+   AMSC: Q     	NAICS: 335139     	Quantity: 7     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+95405	FX5221	
+
+
+
+
+
+SPE8E726T2846.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	06-02-2026
+Return By:	06-12-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7016966739
+
+	
+
+NSN: 6240-01-614-0559   Nomenclature: LAMP,INCANDESCENT
+
+
+   AMSC: D     	NAICS: 334519     	Quantity: 1     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+SZ177	30.13.0760342	
+SZ177	R0143410	
+
+
+
+
+
+SPE8E726T2241.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	04-24-2026
+Return By:	05-04-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7016373884
+
+	
+
+NSN: 6240-01-697-6773   Nomenclature: LAMP,INCANDESCENT
+
+
+   AMSC: D     	NAICS: 335139     	Quantity: 678     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+08805	24799	
+
+
+
+
+
+SPE8E726T2149.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	04-17-2026
+Return By:	04-27-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7016373896
+
+	
+
+NSN: 6240-01-466-9112   Nomenclature: LAMP,FLUORESCENT
+
+
+   AMSC: L     	NAICS: 335139     	Quantity: 22     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+1B7X1	32426T41K	TECHNICAL CONSUMER PRODUCTS, INC.
+62607	458273	
+62607	PL-T 26W/841/A/4P/ALTO	
+
+
+
+
+
+SPE8E726T1957.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	04-03-2026
+Return By:	04-13-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7016178870
+
+	
+
+NSN: 6240-01-391-6026   Nomenclature: LAMP,FLUORESCENT
+
+
+   AMSC: Z     	NAICS: 335139     	Quantity: 1353     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+08805	F17T8/SPX41	
+52343	F017/841	
+62607	F17T8/TL841	
+
+
+
+
+
+SPE4A726T256L.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	04-15-2026
+Return By:	04-29-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7016095560
+
+	
+
+NSN: 6240-01-733-0816   Nomenclature: LAMP,LIGHT EMITTING
+
+
+   AMSC: Q     	NAICS: 335132     	Quantity: 2     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+47750	LAM0062	PLAINVILLE ELECTRICAL PRODUCTS COMP
+
+
+
+
+
+SPE7M424T336W.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	08-07-2024
+Return By:	08-19-2024
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7008013585
+
+	
+
+NSN: 6250-01-298-4626   Nomenclature: BALLAST,LAMP
+
+
+   AMSC: Z     	NAICS: 335311     	Quantity: 145     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+02750	FX5004	EATON AEROSPACE LLC
+
+
+
+
+
+SPE4A626T99J3.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	06-22-2026
+Return By:	07-02-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Origin
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7017244934
+
+	
+
+NSN: 6240-01-051-2557   Nomenclature: LAMP,SODIUM
+
+
+   AMSC: G     	NAICS: 335139     	Quantity: 82     
+
+
+Specification, Drawing and Standard Data Mil-Spec
+Amend No.: DTD: 12-31-1981
+I/A/W CID: A-A-1757 (BASIC)   DTD: 06-18-2026
+
+
+   Type #: S52XB-1000
+
+
+
+
+
+
+
+
+
+
+SPE4A626T91U2.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	06-15-2026
+Return By:	06-22-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7017149480
+
+	
+
+NSN: 1680-01-622-5766   Nomenclature: NRP,LAMP C875
+
+
+   AMSC: D     	NAICS: 336413     	Quantity: 239     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+81205	2233	THE BOEING COMPANY
+
+
+
+
+
+SPE4A626T86S6.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	06-11-2026
+Return By:	06-18-2026
+ 
+
+FOB Point:	Destination
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7016918548
+
+	
+
+NSN: 6240-01-423-9738   Nomenclature: LAMP,FLUORESCENT
+
+
+   AMSC: L     	NAICS: 335139     	Quantity: 1     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+1WHW9	AT5004	
+
+
+
+
+
+SPE4A626T54T1.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	05-14-2026
+Return By:	07-13-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Origin
+ 
+
+Tech Data:	Tech Docs
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7016752154
+
+	
+
+NSN: 6240-01-465-7519   Nomenclature: LAMP,INCANDESCENT
+
+
+   AMSC: C     	NAICS: 335139     	Quantity: 146     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+0FSS5	13661027-2	BISCO INDUSTRIES, INC.
+
+
+
+
+
+SPE4A626T08PZ.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	07-22-2026
+Return By:	08-03-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	Tech Docs
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7017572108
+
+	
+
+NSN: 6240-01-444-0808   Nomenclature: LAMP,INCANDESCENT
+
+
+   AMSC: C     	NAICS: 335139     	Quantity: 96     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+61342	400635-0040	
+
+
+
+
+
+SPE4A526T332K.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	08-06-2026
+Return By:	08-13-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7017741875
+
+	
+
+NSN: 1680-01-551-4347   Nomenclature: LAMP ASSY,AIRCRAFT,
+
+
+   AMSC: C     	NAICS: 336413     	Quantity: 2     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+07187	8531140-901//CT	HONEYWELL INTERNATIONAL INC.
+
+
+
+
+
+SPE8E726T3588.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	08-17-2026
+Return By:	08-27-2026
+ 
+
+FOB Point:	Destination
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7016918569
+
+	
+
+NSN: 6210-01-731-2321   Nomenclature: LAMP,LIGHT EMITTING
+
+
+   AMSC: Q     	NAICS: 332321     	Quantity: 1     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+85213	M16377/76-349EMSSL	L.C.DOANE COMPANY,THE
+
+
+
+
+
+SPE8E726T3341.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	07-13-2026
+Return By:	08-21-2026
+ 
+
+FOB Point:	Destination
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7017443789
+
+	
+
+NSN: 6240-01-419-5369   Nomenclature: LAMP,FLUORESCENT
+
+
+   AMSC: Z     	NAICS: 335139     	Quantity: 27     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+08805	F18DBX/SPX41/4P	
+1B7X1	32418Q41K	TECHNICAL CONSUMER PRODUCTS, INC.
+
+
+
+
+
+SPE8E726T2959.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	06-11-2026
+Return By:	06-22-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	Tech Docs
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7017122571
+
+	
+
+NSN: 6220-01-432-5670   Nomenclature: LAMP UNIT,VEHICULAR
+
+
+   AMSC: C     	NAICS: 336320     	Quantity: 53     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+78422	4578	J. W. SPEAKER CORPORATION
+
+
+
+
+
+SPE8E726T2828.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	06-02-2026
+Return By:	06-12-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7016967358
+
+	
+
+NSN: 6240-01-481-6484   Nomenclature: LAMP,FLUORESCENT
+
+
+   AMSC: D     	NAICS: 335139     	Quantity: 20     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+1SD77	SP11SL	
+
+
+
+
+
+SPE8E726T2727.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	05-28-2026
+Return By:	06-08-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7016937580
+
+	
+
+NSN: 6240-01-628-8525   Nomenclature: LAMP ASSEMBLY
+
+
+   AMSC: D     	NAICS: 335139     	Quantity: 2     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+01121	855L-NX3	ROCKWELL AUTOMATION, INC.
+4H047	M-10H019-J0 ITEM 20	ROCKWELL AUTOMATION INC
+
+
+
+
+
+SPE8E726T2090.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	04-09-2026
+Return By:	04-20-2026
+ 
+
+FOB Point:	Destination
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7016231637
+
+	
+
+NSN: 6240-01-419-5414   Nomenclature: LAMP,FLUORESCENT
+
+
+   AMSC: Z     	NAICS: 335139     	Quantity: 1     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+08805	F26DBX/SPX30/4P	
+
+
+
+
+
+SPE8E726T1810.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	03-27-2026
+Return By:	04-06-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7016074934
+
+	
+
+NSN: 6250-01-459-8084   Nomenclature: BALLAST,LAMP
+
+
+   AMSC: D     	NAICS: 335311     	Quantity: 2     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+3D7V0	V90D7611K	
+
+
+
+
+
+SPE4A626U3323.PDF
+  » Package View
+
+
+
+uote  	 
+
+
+
+Issued:	08-18-2026
+Return By:	09-01-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Origin
+ 
+
+Tech Data:	Tech Docs
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	1000239352
+
+	
+
+NSN: 6240-00-493-3693   Nomenclature: LAMP,INCANDESCENT
+
+
+   AMSC: G     	NAICS: 335139     	Quantity: 398     
+
+
+Specification, Drawing and Standard Data
+Amend No.: C DTD: 05-09-2006
+I/A/W DRW: 80020 417697 (BASIC)   DTD: 06-18-2026
+
+
+
+
+
+
+
+
+
+
+
+
+SPE4A626U3210.PDF
+  » Package View
+
+
+
+uote  	 
+
+
+
+Issued:	06-09-2026
+Return By:	06-26-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	1000181696
+
+	
+
+NSN: 6220-01-624-7751   Nomenclature: LAMP UNIT,VEHICULAR
+
+
+   AMSC: Z     	NAICS: 336320     	Quantity: 28     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+24575	QT3X-DBS	TSI INCORPORATED
+
+
+
+
+
+SPE4A626U3082.PDF
+  » Package View
+
+
+
+uote  	 
+
+
+
+Issued:	05-21-2026
+Return By:	06-04-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	1000232768
+
+	
+
+NSN: 6240-01-576-3185   Nomenclature: LAMP,INCANDESCENT
+
+
+   AMSC: D     	NAICS: 334519     	Quantity: 20     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+64678	WWS 86401-3433	DAIMLER TRUCK NORTH AMERICA LLC
+
+
+
+
+
+SPE4A626U2588.PDF
+  » Package View
+
+
+
+uote  	 
+
+
+
+Issued:	04-09-2026
+Return By:	04-28-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	1000229545
+
+	
+
+NSN: 6210-01-702-9221   Nomenclature: LAMP,LIGHT EMITTING
+
+
+   AMSC: Q     	NAICS: 332321     	Quantity: 57     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+27192	MC-050577	DRS NAVAL POWER SYSTEMS INC
+
+
+
+
+
+SPE4A626T31P0.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	04-23-2026
+Return By:	04-30-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7016470336
+
+	
+
+NSN: 6240-01-719-1271   Nomenclature: LAMP,LIGHT EMITTING
+
+
+   AMSC: Q     	NAICS: 335132     	Quantity: 20     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+1D3P1	40965	STATE ELECTRIC SUPPLY CO
+1DRU8	40965	
+
+
+
+
+
+SPE8E726T4017.PDF
+  » Package View
+
+
+
+uote  	 
+
+
+
+Issued:	09-30-2026
+Return By:	10-13-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	Tech Docs
+ 
+
+Document Post/Updated:	2026-09-29 09:03:11
+ 
+
+Purchase Request:	7018559523
+
+	
+
+NSN: 6220-01-238-6991   Nomenclature: LIGHT,MARKER,CLEARA
+
+
+   AMSC: G     	NAICS: 336320     	Quantity: 1     
+
+
+Specification, Drawing and Standard Data
+Amend No.: DTD: 09-18-1985
+I/A/W DRW: 01365 845001A0079 (BASIC)   DTD: 06-18-2026
+
+
+
+
+
+
+
+
+
+
+
+
+SPE8E726T4016.PDF
+  » Package View
+
+
+
+uote  	 
+
+
+
+Issued:	09-30-2026
+Return By:	10-13-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-09-29 09:03:11
+ 
+
+Purchase Request:	7018561922
+
+	
+
+NSN: 6210-01-221-5906   Nomenclature: FIXTURE,LIGHTING
+
+
+   AMSC: Z     	NAICS: 335131     	Quantity: 5     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+03743	G-HB61AL-MT	
+066C5	F217	
+
+
+
+
+
+SPE2DS26T486U.PDF
+  » Package View
+
+
+
+uote  	 
+
+
+
+Issued:	09-29-2026
+Return By:	10-05-2026
+ 
+
+FOB Point:	Destination
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-09-28 10:01:54
+ 
+
+Purchase Request:	7018539475, 7018546552
+
+	
+
+NSN: 6515-01-647-5068   Nomenclature: FLASHLIGHT,DIAGNOSTIC
+
+
+   AMSC: Z     	NAICS: 339113     	Quantity: 8     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+1EU19	161574	MCKESSON MEDICAL-SURGICAL GOVERNMEN
+3HE02	4062	GF HEALTH PRODUCTS, INC.
+
+
+
+
+
+SPE7M126T389K.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	09-29-2026
+Return By:	10-09-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-09-28 08:07:01
+ 
+
+Purchase Request:	7018268699
+
+	
+
+NSN: 6110-01-181-3306   Nomenclature: LAMPDRIVER
+
+
+   AMSC: C     	NAICS: 334515     	Quantity: 33     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+0BZM1	MK3207-146	MKC ELECTRONICS INC
+
+
+
+
+
+SPE8E726T3982.PDF
+  » Package View
+
+
+
+uote  	 
+
+
+
+Issued:	09-28-2026
+Return By:	10-08-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-09-27 06:21:43
+ 
+
+Purchase Request:	7015827812
+
+	
+
+NSN: 6250-01-599-1743   Nomenclature: BALLAST,LAMP
+
+
+   AMSC: D     	NAICS: 335139     	Quantity: 8     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+95405	FX5135U	
+
+
+
+
+
+SPE2DS26T470V.PDF
+  » Package View
+
+
+
+uote  	 
+
+
+
+Issued:	09-25-2026
+Return By:	09-30-2026
+ 
+
+FOB Point:	Destination
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-09-24 06:52:53
+ 
+
+Purchase Request:	7018491866
+
+	
+
+NSN: 6540-01-375-9031   Nomenclature: STEREOSCOPE,VISION TES
+
+
+   AMSC: Z     	NAICS: 339115     	Quantity: 1     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+02012	AFVT 2300	STEREO OPTICAL COMPANY, INC
+
+
+
+
+
+SPE4A526T475D.PDF
+  » Package View
+
+
+
+uote  	 
+
+
+
+Issued:	09-25-2026
+Return By:	10-02-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-09-24 12:30:29
+ 
+
+Purchase Request:	7018412786
+
+	
+
+NSN: 6610-00-144-1683   Nomenclature: LAMP-HOUSING ASSY
+
+
+   AMSC: Z     	NAICS: 334511     	Quantity: 11     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+25583	542-1090-01	ACRON AVIATION, INC.
+
+
+
+
+
+SPE2DS26T465C.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	09-23-2026
+Return By:	09-28-2026
+ 
+
+FOB Point:	Destination
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-09-22 09:18:27
+ 
+
+Purchase Request:	7018455857
+
+	
+
+NSN: 6515-01-647-5068   Nomenclature: FLASHLIGHT,DIAGNOSTIC
+
+
+   AMSC: Z     	NAICS: 339113     	Quantity: 6     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+1EU19	161574	MCKESSON MEDICAL-SURGICAL GOVERNMEN
+3HE02	4062	GF HEALTH PRODUCTS, INC.
+
+
+
+
+
+SPE7L126T10H5.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	09-11-2026
+Return By:	09-24-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	Tech Docs
+ 
+
+Document Post/Updated:	2026-09-21 09:13:09
+ 
+
+Purchase Request:	7018270369
+
+	
+
+NSN: 5340-01-608-8078   Nomenclature: BRACKET,MOUNTING
+
+
+   AMSC: G     	NAICS: 332722     	Quantity: 64     
+
+
+Specification, Drawing and Standard Data
+Amend No.: B DTD: 07-05-2005
+I/A/W DRW: 19207 12423029 (BASIC)   DTD: 06-18-2026
+
+
+
+
+
+
+
+
+
+
+
+
+SPE2DS26T453U.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	09-21-2026
+Return By:	09-28-2026
+ 
+
+FOB Point:	Destination
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-09-21 12:15:48
+ 
+
+Purchase Request:	7018386689
+
+	
+
+NSN: 6540-01-375-9031   Nomenclature: STEREOSCOPE,VISION TES
+
+
+   AMSC: Z     	NAICS: 339115     	Quantity: 1     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+02012	AFVT 2300	STEREO OPTICAL COMPANY, INC
+
+
+
+
+
+SPE2DS26T447C.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	09-17-2026
+Return By:	09-22-2026
+ 
+
+FOB Point:	Destination
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-09-16 09:49:21
+ 
+
+Purchase Request:	7018356778
+
+	
+
+NSN: 6540-01-375-9031   Nomenclature: STEREOSCOPE,VISION TES
+
+
+   AMSC: Z     	NAICS: 339115     	Quantity: 1     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+02012	AFVT 2300	STEREO OPTICAL COMPANY, INC
+
+
+
+
+
+SPE2DS26T403J.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	09-04-2026
+Return By:	09-09-2026
+ 
+
+FOB Point:	Destination
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-09-03 03:38:38
+ 
+
+Purchase Request:	7018173978
+
+	
+
+NSN: 6515-01-579-7535   Nomenclature: LIGHT BULB,LARYNGOSCOP
+
+
+   AMSC: Z     	NAICS: 334511     	Quantity: 1     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+52KZ1	5-0240-52	
+
+
+
+
+
+SPE7L426U1190.PDF
+  » Package View
+
+
+
+uote  	 
+
+
+
+Issued:	09-01-2026
+Return By:	09-15-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	Tech Docs
+ 
+
+Document Post/Updated:	2026-08-31 11:29:26
+ 
+
+Purchase Request:	1000241199
+
+	
+
+NSN: 2815-01-532-9537   Nomenclature: PARTS KIT,DIESEL ENGIN
+
+
+   AMSC: G     	NAICS: 333618     	Quantity: 91     
+
+
+Specification, Drawing and Standard Data Mil-Spec
+Amend No.: C DTD: 10-23-2010
+I/A/W DRW: 16236 DSCC-2815-0036 (BASIC)   DTD: 06-18-2026
+
+
+
+
+
+
+
+
+
+
+
+
+SPE7L526T5238.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	08-27-2026
+Return By:	09-08-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-26 09:44:38
+ 
+
+Purchase Request:	7018068499
+
+	
+
+NSN: 6220-01-291-4360   Nomenclature: LENS,LIGHT
+
+
+   AMSC: D     	NAICS: 336320     	Quantity: 8     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+75Q65	4007178	OSHKOSH DEFENSE LLC
+
+
+
+
+
+SPE7M126U4748.PDF
+  » Package View
+
+
+
+uote  	 
+
+
+
+Issued:	07-23-2026
+Return By:	08-11-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-22 11:24:36
+ 
+
+Purchase Request:	1000237790
+
+	
+
+NSN: 5980-01-612-5386   Nomenclature: LIGHT EMITTING DIOD
+
+
+   AMSC: Z     	NAICS: 334519     	Quantity: 278     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+3GRA1	ET8S48765	
+
+
+
+
+
+SPE4A626T768H.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	02-20-2026
+Return By:	02-27-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Origin
+ 
+
+Tech Data:	Tech Docs
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7015609887
+
+	
+
+NSN: 6210-00-476-8041   Nomenclature: HOUSING ASSEMBLY,LA
+
+
+   AMSC: G     	NAICS: 335139     	Quantity: 16     
+
+
+Specification, Drawing and Standard Data Mil-Spec
+Amend No.: E DTD: 05-11-1971
+I/A/W DRW: 80020 420705 (BASIC)   DTD: 09-21-2006
+
+
+   Type #: 420705-1
+
+
+
+
+
+
+
+
+
+
+SPE2DH26T3055.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	04-13-2026
+Return By:	04-20-2026
+ 
+
+FOB Point:	Destination
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	0070204870
+
+	
+
+NSN: 6530-01-451-5144   Nomenclature: LIGHT,ULTRAVIOLET,S
+
+
+   AMSC: Z     	NAICS: 339113     	Quantity: 1     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+0USV5	WL200	IDEXX LABORATORIES INC
+8W1E4	UV-4B	SPECTRO-UV, LLC
+
+
+
+
+
+SPE2DS26T325U.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	08-10-2026
+Return By:	08-20-2026
+ 
+
+FOB Point:	Destination
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7017789776, 7017789777, 7017789779, 7017789790, 7017789791, 7017789792
+
+	
+
+NSN: 6515-01-612-7325   Nomenclature: LASER LEVELING DEVICE
+
+
+   AMSC: Z     	NAICS: 334511     	Quantity: 12     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+080B4	NT821733	NATUS MEDICAL INCORPORATED
+6G9D4	821733	RHYFEL, INC
+
+
+
+
+1 2 3 4
+
+
+· RFQ Text Search
+Query String:
+
+
+
+Modified: 
+Any time
+last hour
+last day
+last 7 days
+last 30 days
+last 60 days
+last 90 days
+last 365 days
+	Sort: 
+Best Match
+Newly Posted to Oldest
+Oldest Posted to Newest
+
+Filter:
+  
+Automated Indefinite Delivery Contract (AIDC)
+
+
+  
+Items with Technical Documents
+
+
+  
+Fast Award Candidates
+
+
+  
+Small Business Set-Asides
+
+
+  
+HUBZone Set-Asides
+
+	
+  
+Service Disabled Veteran Owned
+      Small Business Set-Asides
+
+
+Woman Owned Small Business Set-Asides
+
+
+Economically Disadvantaged Women Owned Small Business Set-Asides
+
+
+Unrestricted/Not Set-Asides
+
+
+ 
+
+
+
+
+ 
+Policy Statements · Feedback
+   EOXD8AUZtkHO8wt7m812jA==
+   Ver.6.3.2
+

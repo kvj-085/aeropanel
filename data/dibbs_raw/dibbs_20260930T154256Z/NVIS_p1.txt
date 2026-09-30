@@ -1,0 +1,487 @@
+FAQ/Help · Refs · My Account · Log In
+
+
+   Home       Solicitations       RFQs       RFP/IFB/Other RFQs       Tech Data       Downloads        Awards   
+
+
+Navigation: 
+Navigation/Documents - - - - - -
+Accessibility
+Awards Area
+- Awards by Award DT
+- Awards by Post DT
+- Market Ready Orders ®
+- Post Award Request (PAR)®
+Batch Quoting ®
+Batch Quoting File Format
+BidSets
+Contracts
+Delivery Orders
+FAQs
+Feedback
+Forecast ®
+FSC ~ DLA Managed
+Global Search
+Home Page
+Invitation For Bid (IFB) Area
+Log In Screen
+Master Solicitation (PAC)
+Notices/Message Board
+Post Award Request (PAR)®
+Quoting Help
+Quote Search ®
+Request For Proposal (RFP)Area
+Request For Quote (RFQ) Area
+- RFQs by Issue Date
+- RFQs by Return By Date
+- RFQs Recent
+References
+Registration
+Solicitations
+SRVA ®
+User(s) Profile Update ®
+Vendor Profile Update ®
+Welcome Page ®
+Regs / Supplement Extracts ---
+DFARS 225.502
+DFARS 252.211-7005
+DFARS 252.211-7006
+DFARS 252.223-7001
+DFARS 252.225-7001
+DFARS 252.225-7035
+DFARS 252.225-7036
+DLAD 52.211-9000
+DLAD 52.213-9000
+DLAD 52.217-9002
+DLAD 52.219-9015
+DLAD 52.223-9000
+DLAD 52.233-9001
+FAR 52.209-1
+FAR 52.211-5
+FAR 52.212-3
+FAR 52.219-1
+FAR 52.222-18
+FAR 52.222-22
+FAR 52.222-25
+FAR 52.222-26
+FAR 52.223-3
+ 
+
+Database Search: 
+Choose Search
+RFQs - NSN
+RFQs - Solicitation
+RFQs - PR
+-----------------------
+Awards - Awardee CAGE
+Awards - Award/Basic Number
+Awards - Delivery Order #
+Awards - NSN
+Awards - PR
+-----------------------
+RFP/IFB/Other RFQs - Solicitation
+RFP/IFB/Other RFQs - NSN
+-----------------------
+CAGE Search
+  Value: 
+
+
+Notice:   · Suspension of CMMC Phase II » Read Notice
+
+  Please read notices posted on the Notices page.
+
+
+  Location: Home » Solicitations » RFQs » RFQ Text Search
+[
+RFQ Search
+-
+Recent RFQs
+-
+RFQs by Issue Date
+-
+RFQs by Return By Date
+-
+RFQs by FSC
+]
+[ 273 ] 9/30/2026 11:56:17 AM
+
+
+
+Documents Indexed: 161,967
+
+Additional RFQ Text Search Help
+
+Found 6 records for this search query string.
+Modified: Any time
+
+
+
+1
+Solicitation Information	Product Data
+
+SPE4A726T651B.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	08-13-2026
+Return By:	08-20-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Origin
+ 
+
+Tech Data:	Tech Docs
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7017739913
+
+	
+
+NSN: 1680-01-649-7926   Nomenclature: FILTER,NVIS
+
+
+   AMSC: G     	NAICS: 336413     	Quantity: 11     
+
+
+Specification, Drawing and Standard Data
+Amend No.: DTD: 04-28-2014
+I/A/W DRW: 98752 201218507 (BASIC)   DTD: 06-18-2026
+
+
+   Type #: 201218507-01
+
+
+
+
+
+
+
+
+
+
+SPE8E726T3993.PDF
+  » Package View
+
+
+
+uote  	 
+
+
+
+Issued:	09-29-2026
+Return By:	10-09-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Origin
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-09-28 01:34:01
+ 
+
+Purchase Request:	7018560225
+
+	
+
+NSN: 6230-01-511-9412   Nomenclature: FLASHLIGHT
+
+
+   AMSC: L     	NAICS: 335139     	Quantity: 15     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+9G986	II5.7 NVIS	HUTCHESON JOHN W
+
+
+
+
+
+SPE4A626T31ER.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	09-17-2026
+Return By:	09-24-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	Tech Docs
+ 
+
+Document Post/Updated:	2026-09-16 09:49:21
+ 
+
+Purchase Request:	7018342089
+
+	
+
+NSN: 6220-01-499-8871   Nomenclature: PANEL,INDICATING,LIGHT
+
+
+   AMSC: T     	NAICS: 333515     	Quantity: 6     
+
+
+Specification, Drawing and Standard Data Mil-Spec
+Amend No.: B DTD: 10-22-2014
+I/A/W DRW: 98897 4B19144 (BASIC)   DTD: 06-18-2026
+
+
+   Type #: 4B19144-101A
+
+
+
+
+
+
+
+
+
+
+SPE4A626T572B.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	01-26-2026
+Return By:	02-02-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	Tech Docs
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7015212879
+
+	
+
+NSN: 6220-01-686-1706   Nomenclature: PANEL,ILLUMINATION
+
+
+   AMSC: T     	NAICS: 335312     	Quantity: 4     
+
+
+Specification, Drawing and Standard Data Mil-Spec
+Amend No.: A DTD: 02-07-2018
+I/A/W DRW: 96916 21E0385 (BASIC)   DTD: 04-12-2021
+
+
+   Type #: 21E0385-3
+
+
+
+
+
+
+
+
+
+
+SPE4A626T53D0.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	05-13-2026
+Return By:	05-20-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	Tech Docs
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7016751650
+
+	
+
+NSN: 6220-01-416-8425   Nomenclature: PANEL,INDICATING,LI
+
+
+   AMSC: T     	NAICS: 336320     	Quantity: 3     
+
+
+Specification, Drawing and Standard Data Mil-Spec
+Amend No.: D DTD: 12-30-1994
+I/A/W DRW: 89771 41596 (BASIC)   DTD: 09-20-2006
+
+
+   Type #: P/N: 41596-1
+
+
+
+
+
+
+
+
+
+
+SPE4A626T63A0.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	05-20-2026
+Return By:	05-27-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	Tech Docs
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7016844215
+
+	
+
+NSN: 6220-01-476-0582   Nomenclature: PANEL,INDICATING,LI
+
+
+   AMSC: T     	NAICS: 336320     	Quantity: 8     
+
+
+Specification, Drawing and Standard Data Mil-Spec
+Amend No.: B DTD: 08-09-1999
+I/A/W DRW: 14550 82-00431 (BASIC)   DTD: 09-21-2006
+
+
+   Type #: 82-00431-001
+
+
+
+
+
+
+
+
+
+1
+
+
+· RFQ Text Search
+Query String:
+
+
+
+Modified: 
+Any time
+last hour
+last day
+last 7 days
+last 30 days
+last 60 days
+last 90 days
+last 365 days
+	Sort: 
+Best Match
+Newly Posted to Oldest
+Oldest Posted to Newest
+
+Filter:
+  
+Automated Indefinite Delivery Contract (AIDC)
+
+
+  
+Items with Technical Documents
+
+
+  
+Fast Award Candidates
+
+
+  
+Small Business Set-Asides
+
+
+  
+HUBZone Set-Asides
+
+	
+  
+Service Disabled Veteran Owned
+      Small Business Set-Asides
+
+
+Woman Owned Small Business Set-Asides
+
+
+Economically Disadvantaged Women Owned Small Business Set-Asides
+
+
+Unrestricted/Not Set-Asides
+
+
+ 
+
+
+
+
+ 
+Policy Statements · Feedback
+   EOXD8AUZtkHO8wt7m812jA==
+   Ver.6.3.2
+

@@ -1,0 +1,3837 @@
+FAQ/Help · Refs · My Account · Log In
+
+
+   Home       Solicitations       RFQs       RFP/IFB/Other RFQs       Tech Data       Downloads        Awards   
+
+
+Navigation: 
+Navigation/Documents - - - - - -
+Accessibility
+Awards Area
+- Awards by Award DT
+- Awards by Post DT
+- Market Ready Orders ®
+- Post Award Request (PAR)®
+Batch Quoting ®
+Batch Quoting File Format
+BidSets
+Contracts
+Delivery Orders
+FAQs
+Feedback
+Forecast ®
+FSC ~ DLA Managed
+Global Search
+Home Page
+Invitation For Bid (IFB) Area
+Log In Screen
+Master Solicitation (PAC)
+Notices/Message Board
+Post Award Request (PAR)®
+Quoting Help
+Quote Search ®
+Request For Proposal (RFP)Area
+Request For Quote (RFQ) Area
+- RFQs by Issue Date
+- RFQs by Return By Date
+- RFQs Recent
+References
+Registration
+Solicitations
+SRVA ®
+User(s) Profile Update ®
+Vendor Profile Update ®
+Welcome Page ®
+Regs / Supplement Extracts ---
+DFARS 225.502
+DFARS 252.211-7005
+DFARS 252.211-7006
+DFARS 252.223-7001
+DFARS 252.225-7001
+DFARS 252.225-7035
+DFARS 252.225-7036
+DLAD 52.211-9000
+DLAD 52.213-9000
+DLAD 52.217-9002
+DLAD 52.219-9015
+DLAD 52.223-9000
+DLAD 52.233-9001
+FAR 52.209-1
+FAR 52.211-5
+FAR 52.212-3
+FAR 52.219-1
+FAR 52.222-18
+FAR 52.222-22
+FAR 52.222-25
+FAR 52.222-26
+FAR 52.223-3
+ 
+
+Database Search: 
+Choose Search
+RFQs - NSN
+RFQs - Solicitation
+RFQs - PR
+-----------------------
+Awards - Awardee CAGE
+Awards - Award/Basic Number
+Awards - Delivery Order #
+Awards - NSN
+Awards - PR
+-----------------------
+RFP/IFB/Other RFQs - Solicitation
+RFP/IFB/Other RFQs - NSN
+-----------------------
+CAGE Search
+  Value: 
+
+
+Notice:   · Suspension of CMMC Phase II » Read Notice
+
+  Please read notices posted on the Notices page.
+
+
+  Location: Home » Solicitations » RFQs » RFQ Text Search
+[
+RFQ Search
+-
+Recent RFQs
+-
+RFQs by Issue Date
+-
+RFQs by Return By Date
+-
+RFQs by FSC
+]
+[ 273 ] 9/30/2026 12:32:49 PM
+
+
+
+Documents Indexed: 161,967
+
+Additional RFQ Text Search Help
+
+Found 178 records for this search query string.
+Modified: Any time
+
+
+
+1 2
+Solicitation Information	Product Data
+
+SPE4A526T148J.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	05-15-2026
+Return By:	05-22-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Origin
+ 
+
+Tech Data:	Tech Docs
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7016228563
+
+	
+
+NSN: 6695-01-593-9020   Nomenclature: NRP,TRANSDUCER,PRES
+
+
+   AMSC: R     	NAICS: 334513     	Quantity: 12     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+53986	870DPEW010S015	MMC METROLOGY LAB, INC.
+65048	870DPEW010S015	AMETEK, INC.
+
+
+
+
+
+SPE4A526T148H.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	05-15-2026
+Return By:	05-28-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7016228379
+
+	
+
+NSN: 6695-01-618-6622   Nomenclature: TRANSDUCER,MOTIONAL
+
+
+   AMSC: D     	NAICS: 334513     	Quantity: 2     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+34345	IPTE-DDG-1000-F-100G	KULITE SEMICONDUCTOR PRODUCTS INC
+82692	IPTE-DDG-1000-F-100G	MACKAY COMMUNICATIONS, INC
+
+
+
+
+
+SPE4A526T057M.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	04-10-2026
+Return By:	04-17-2026
+ 
+
+FOB Point:	Destination
+ 
+
+Inspection Point:	Origin
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7016217961
+
+	
+
+NSN: 6695-01-643-5566   Nomenclature: TRANSDUCER,MOTIONAL
+
+
+   AMSC: D     	NAICS: 334519     	Quantity: 1     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+96169	218067993	ELECTRIC BOAT CORPORATION
+96169	H6737030A1-1	ELECTRIC BOAT CORPORATION
+
+
+
+
+
+SPE4A525T7587.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	01-03-2025
+Return By:	01-10-2025
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7010457753
+
+	
+
+NSN: 6695-01-560-4764   Nomenclature: TRANSDUCER,PRESSURE
+
+
+   AMSC: Q     	NAICS: 334519     	Quantity: 10     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+4CMC2	9A-102A250G01	
+
+
+
+
+
+SPE4A525T611F.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	07-29-2025
+Return By:	08-05-2025
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	Tech Docs
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7013051162
+
+	
+
+NSN: 6695-01-678-9828   Nomenclature: TRANSDUCER,PRESSURE
+
+
+   AMSC: G     	NAICS: 334513     	Quantity: 1     
+
+
+Specification, Drawing and Standard Data
+Amend No.: DTD: 02-22-2017
+I/A/W DRW: 19207 12616197 (BASIC)   DTD: 03-12-2019
+
+
+
+
+
+
+
+
+
+
+
+
+SPE4A626T30B7.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	04-22-2026
+Return By:	04-29-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7016048894
+
+	
+
+NSN: 6695-01-656-2886   Nomenclature: TRANSDUCER,PRESSURE
+
+
+   AMSC: D     	NAICS: 334513     	Quantity: 21     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+34345	IS-APTE-686A-1000-150A	KULITE SEMICONDUCTOR PRODUCTS INC
+
+
+
+
+
+SPE4A526T303J.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	07-22-2026
+Return By:	08-03-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7017571360
+
+	
+
+NSN: 6695-01-723-0322   Nomenclature: TRANSDUCER,PRESSURE
+
+
+   AMSC: Z     	NAICS: 334513     	Quantity: 65     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+53367	AXD1500PGL411M4FNN	SETRA SYSTEMS, INC.
+
+
+
+
+
+SPE4A526T3050.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	11-14-2025
+Return By:	11-21-2025
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7014494281
+
+	
+
+NSN: 6695-01-601-7830   Nomenclature: TRANSDUCER,PRESSURE
+
+
+   AMSC: R     	NAICS: 334515     	Quantity: 2     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+54209	77041812	
+75Q65	24KP395	OSHKOSH DEFENSE LLC
+
+
+
+
+
+SPE4A626T04ZZ.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	07-10-2026
+Return By:	07-17-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7017395874
+
+	
+
+NSN: 6695-01-693-2584   Nomenclature: TRANSDUCER,MOTIONAL
+
+
+   AMSC: D     	NAICS: 334513     	Quantity: 1     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+5RQL2	15010908	DRS ENVIRONMENTAL SYSTEMS INC
+92878	500K4202	HDT EXPEDITIONARY SYSTEMS INC
+
+
+
+
+
+SPE4A626T38K7.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	04-29-2026
+Return By:	05-06-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7016416403
+
+	
+
+NSN: 6695-01-195-8581   Nomenclature: TRANSDUCER,MOTIONAL
+
+
+   AMSC: R     	NAICS: 334519     	Quantity: 1     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+70210	917298-1	HONEYWELL INTERNATIONAL INC.
+
+
+
+
+
+SPE4A626T617B.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	02-03-2026
+Return By:	02-13-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7015276070
+
+	
+
+NSN: 6695-12-419-4486   Nomenclature: TRANSDUCER,MOTIONAL
+
+
+   AMSC: Q     	NAICS: 334513     	Quantity: 1     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+C7644	PRAS4-V-45-I1-CW-M12R5	
+
+
+
+
+
+SPE4A626T870V.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	03-03-2026
+Return By:	03-10-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7015600082
+
+	
+
+NSN: 6695-01-707-6686   Nomenclature: TRANSDUCER,MOTIONAL
+
+
+   AMSC: D     	NAICS: 334513     	Quantity: 2     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+66935	025-40106-006	JOHNSON CONTROLS NAVY SYSTEMS, LLC
+
+
+
+
+
+SPE4A626T98B9.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	06-18-2026
+Return By:	07-09-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7017109184
+
+	
+
+NSN: 6695-01-707-6686   Nomenclature: TRANSDUCER,MOTIONAL
+
+
+   AMSC: D     	NAICS: 334513     	Quantity: 8     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+66935	025-40106-006	JOHNSON CONTROLS NAVY SYSTEMS, LLC
+
+
+
+
+
+SPE4A726T373A.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	05-19-2026
+Return By:	06-11-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	Tech Docs
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7016437664
+
+	
+
+NSN: 5845-01-737-0258   Nomenclature: TRANSDUCER ASSEMBLY
+
+
+   AMSC: G     	NAICS: 334290     	Quantity: 3     
+
+
+Specification, Drawing and Standard Data
+Amend No.: E DTD: 10-14-2016
+I/A/W DRW: 53711 5532401 (BASIC)   DTD: 02-10-2026
+
+
+
+
+
+
+
+
+
+
+
+
+SPE4A526T372Z.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	08-19-2026
+Return By:	08-26-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7017939095
+
+	
+
+NSN: 6695-01-483-3092   Nomenclature: TRANSDUCER,MOTIONAL
+
+
+   AMSC: R     	NAICS: 334519     	Quantity: 7     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+81982	140-207	HYDRO-AIRE AEROSPACE CORP
+
+
+
+
+
+SPE4A525T608R.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	07-28-2025
+Return By:	08-07-2025
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7013007661
+
+	
+
+NSN: 6695-01-372-6220   Nomenclature: TRANSDUCER,MOTIONAL
+
+
+   AMSC: Q     	NAICS: 334513     	Quantity: 3     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+05991	9A-0752-0040A	CAMERON ENERGY SERVICES CORP.
+43689	412-4637515-38	HUNTINGTON INGALLS INC
+
+
+
+
+
+SPE4A525T6460.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	12-18-2024
+Return By:	12-26-2024
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7010386776
+
+	
+
+NSN: 6695-01-601-7830   Nomenclature: TRANSDUCER,PRESSURE
+
+
+   AMSC: R     	NAICS: 334515     	Quantity: 3     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+54209	77041812	
+75Q65	24KP395	OSHKOSH DEFENSE LLC
+
+
+
+
+
+SPE4A526T100L.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	04-27-2026
+Return By:	05-07-2026
+ 
+
+FOB Point:	Destination
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7016311956
+
+	
+
+NSN: 6695-01-658-5732   Nomenclature: TRANSDUCER,MOTIONAL
+
+
+   AMSC: Q     	NAICS: 334513     	Quantity: 1     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+34345	IPTE-DDG-1000-S-30HG/30G	KULITE SEMICONDUCTOR PRODUCTS INC
+
+
+
+
+
+SPE4A526T189F.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	05-28-2026
+Return By:	06-04-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7016880191
+
+	
+
+NSN: 6695-01-465-1217   Nomenclature: TRANSDUCER,MOTIONAL
+
+
+   AMSC: Q     	NAICS: 334519     	Quantity: 5     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+73396	25354-01	ELECTRONIC MARINE SYSTEMS, INC.
+
+
+
+
+
+SPE4A526T2628.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	11-13-2025
+Return By:	11-20-2025
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Origin
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7014380405
+
+	
+
+NSN: 6635-01-337-6512   Nomenclature: TRANSDUCER,ULTRASON
+
+
+   AMSC: R     	NAICS: 334519     	Quantity: 5     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+1KY21	F16A-7-12-1	OLYMPUS AMERICA INC
+
+
+
+
+
+SPE4A526T318H.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	08-03-2026
+Return By:	08-10-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Origin
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7017696420
+
+	
+
+NSN: 6695-01-701-1848   Nomenclature: TRANSDUCER,MOTIONAL
+
+
+   AMSC: D     	NAICS: 334519     	Quantity: 11     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+5Y6U7	SNR-10800	CURTISS-WRIGHT FLOW CONTROL SERVICE
+
+
+
+
+
+SPE4A526T329A.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	08-05-2026
+Return By:	08-12-2026
+ 
+
+FOB Point:	Destination
+ 
+
+Inspection Point:	Origin
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7017639014
+
+	
+
+NSN: 6695-01-615-1535   Nomenclature: TRANSDUCER,MOTIONAL
+
+
+   AMSC: D     	NAICS: 334513     	Quantity: 1     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+61015	TSD011-020	A.K.O. INC.
+
+
+
+
+
+SPE4A526T363R.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	08-17-2026
+Return By:	08-24-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Origin
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7017913195
+
+	
+
+NSN: 6695-01-349-5358   Nomenclature: TRANSDUCER,MOTIONAL PI
+
+
+   AMSC: R     	NAICS: 334519     	Quantity: 10     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+81579	896-4123	MASON ELECTRIC CO.
+
+
+
+
+
+SPE4A526T5178.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	12-12-2025
+Return By:	12-19-2025
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7014811260
+
+	
+
+NSN: 6695-01-711-1615   Nomenclature: TRANSDUCER,MOTIONAL
+
+
+   AMSC: Q     	NAICS: 334513     	Quantity: 2     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+07482	L70868G01	GENERAL ELECTRIC COMPANY
+
+
+
+
+
+SPE4A526T9898.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	03-13-2026
+Return By:	03-20-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Origin
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7015905713
+
+	
+
+NSN: 0001S00000053   Nomenclature: CONTRACTOR FIRST ARTIC
+
+
+   AMSC: G     	NAICS: ______     	Quantity: 1     
+
+
+
+
+
+NSN: 6695-01-558-5435   Nomenclature: TRANSDUCER,MOTIONAL
+
+
+   AMSC: G     	NAICS: 334513     	Quantity: 4     
+
+
+Specification, Drawing and Standard Data Mil-Spec
+Amend No.: DTD: 04-26-1990
+I/A/W CID: MIL-T-24742 (BASIC)   DTD: 10-03-2006
+
+
+   Type #: M24742-R-H-35D-X-DC-A
+
+
+
+
+
+
+
+
+
+
+SPE4A626T14LR.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	08-10-2026
+Return By:	08-17-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7012491240
+
+	
+
+NSN: 1710-01-550-4181   Nomenclature: TRANSDUCER TRAVELLE
+
+
+   AMSC: D     	NAICS: 336413     	Quantity: 6     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+04804	2056AS0409-1	NORTHROP GRUMMAN SYSTEMS CORPORATIO
+
+
+
+
+
+SPE4A526T052V.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	04-08-2026
+Return By:	06-15-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7016228466
+
+	
+
+NSN: 6695-01-633-0618   Nomenclature: TRANSDUCER,MOTIONAL
+
+
+   AMSC: C     	NAICS: 334519     	Quantity: 3     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+82106	92999-105	PARKER-HANNIFIN CORPORATION
+
+
+
+
+
+SPE4A526T232H.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	06-15-2026
+Return By:	07-27-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	Tech Docs
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7017147068
+
+	
+
+NSN: 6695-01-302-9724   Nomenclature: TRANSDUCER,MOTIONAL
+
+
+   AMSC: C     	NAICS: 334419     	Quantity: 11     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+81579	828-1111	MASON ELECTRIC CO.
+
+
+
+
+
+SPE4A526T6334.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	01-06-2026
+Return By:	01-13-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Origin
+ 
+
+Tech Data:	Tech Docs
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7014920086
+
+	
+
+NSN: 6695-01-444-7075   Nomenclature: TRANSDUCER,MOTIONAL
+
+
+   AMSC: B     	NAICS: 334513     	Quantity: 16     
+
+
+Specification, Drawing and Standard Data
+Amend No.: E DTD: 07-13-2011
+I/A/W DRW: 97499 901-375-909 (BASIC)   DTD: 06-13-2013
+
+
+   Type #: 901-375-909-101
+
+
+
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+09049	8G1409	CUSTOM CONTROL SENSORS, LLC
+97499	901-375-909-101	BELL TEXTRON INC
+
+
+
+
+
+SPE4A726T409G.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	05-26-2026
+Return By:	06-02-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7016785563
+
+	
+
+NSN: 1620-00-132-1922   Nomenclature: TRANSDUCER,LANDING
+
+
+   AMSC: R     	NAICS: 336413     	Quantity: 8     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+08748	1-899-44-1	ELDEC AEROSPACE CORP
+
+
+
+
+
+SPE8EE26T1421.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	04-17-2026
+Return By:	04-27-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7016179876
+
+	
+
+NSN: 4930-01-535-7810   Nomenclature: KIT AIR TRANSDUCER
+
+
+   AMSC: C     	NAICS: 333914     	Quantity: 158     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+06853	5008677	BENDIX COMMERCIAL VEHICLE SYSTEMS L
+338X5	4192764C1	ND DEFENSE LLC
+
+
+
+
+
+SPE4A626T19QV.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	08-19-2026
+Return By:	08-26-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7017939197
+
+	
+
+NSN: 6695-01-707-6686   Nomenclature: TRANSDUCER,MOTIONAL
+
+
+   AMSC: D     	NAICS: 334513     	Quantity: 1     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+66935	025-40106-006	JOHNSON CONTROLS NAVY SYSTEMS, LLC
+
+
+
+
+
+SPE4A626T260D.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	12-10-2025
+Return By:	12-17-2025
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	Tech Docs
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7014720627
+
+	
+
+NSN: 6695-01-699-0783   Nomenclature: TRANSDUCER,MOTIONAL
+
+
+   AMSC: G     	NAICS: 334519     	Quantity: 1     
+
+
+Specification, Drawing and Standard Data
+Amend No.: G DTD: 01-11-2017
+I/A/W DRW: 53711 5906300 (BASIC)   DTD: 06-15-2022
+
+
+   Type #: 060-4256-07ZG
+
+
+
+
+
+
+
+
+
+
+SPE7M526T289E.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	06-29-2026
+Return By:	07-14-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7017235111
+
+	
+
+NSN: 5999-01-477-9024   Nomenclature: CURRENT TRANSDUCER
+
+
+   AMSC: C     	NAICS: 334515     	Quantity: 1     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+12066	CTL-4603	OHIO SEMITRONICS INC
+30086	479521PC19	L3HARRIS MARITIME POWER & ENERGY
+
+
+
+
+
+SPE4A626T74Z1.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	06-01-2026
+Return By:	06-11-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Origin
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7016847576
+
+	
+
+NSN: 6695-00-601-0486   Nomenclature: TRANSDUCER,MOTIONAL
+
+
+   AMSC: D     	NAICS: 334419     	Quantity: 27     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+09384	CEC4-128-0006	CEC VIBRATION PRODUCTS, LLC
+
+
+
+
+
+SPE4A526T252V.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	06-18-2026
+Return By:	06-25-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7017102181
+
+	
+
+NSN: 6695-01-172-8829   Nomenclature: TRANSDUCER,MOTIONAL
+
+
+   AMSC: P     	NAICS: 334519     	Quantity: 160     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+02750	266099-1001	EATON AEROSPACE LLC
+02750	41SG35-3	EATON AEROSPACE LLC
+1Y249	266099-1001	AAR SUPPLY CHAIN, INC
+59211	266099-1001	PARKER-HANNIFIN CORPORATION
+82106	266099-1001	PARKER-HANNIFIN CORPORATION
+
+
+
+
+
+SPE4A526T264R.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	06-25-2026
+Return By:	07-02-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7017200978
+
+	
+
+NSN: 6695-14-547-9509   Nomenclature: TRANSDUCER,PRESSURE
+
+
+   AMSC: C     	NAICS: 334519     	Quantity: 1     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+94404	47045921AB	RAYTHEON COMPANY
+
+
+
+
+
+SPE4A526T295D.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	07-20-2026
+Return By:	07-27-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7017529607
+
+	
+
+NSN: 6695-01-182-5967   Nomenclature: TRANSDUCER,MOTIONAL PI
+
+
+   AMSC: L     	NAICS: 334419     	Quantity: 2     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+0SML3	6233	AERO INTERNATIONAL, LLC
+97896	6233	HONEYWELL INTERNATIONAL INC.
+
+
+
+
+
+SPE4A526T324L.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	08-05-2026
+Return By:	08-12-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7017741050
+
+	
+
+NSN: 4920-01-502-8041   Nomenclature: ANTI-G TRANSDUCER,A
+
+
+   AMSC: D     	NAICS: 332721     	Quantity: 4     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+58918	943111	AEROSPACE CONTROL PRODUCTS, INC.
+
+
+
+
+
+SPE4A526T325V.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	08-05-2026
+Return By:	08-17-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7017741439
+
+	
+
+NSN: 6695-01-718-0130   Nomenclature: TRANSDUCER,MOTIONAL PI
+
+
+   AMSC: D     	NAICS: 334519     	Quantity: 8     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+034H5	89PGTGP60G2CB	STANDARD CALIBRATIONS INC
+63005	23053503-2	ROLLS-ROYCE CORPORATION
+65048	89PGTGP60G2CB	AMETEK, INC.
+96454	23053503-2	GENERAL TOOL COMPANY
+
+
+
+
+
+SPE4A526T8274.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	02-20-2026
+Return By:	02-27-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7015537432
+
+	
+
+NSN: 6695-01-540-1785   Nomenclature: TRANSDUCER,PRESSURE
+
+
+   AMSC: D     	NAICS: 334519     	Quantity: 22     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+0CAM5	1003130-1	HAMILTON SUNDSTRAND CORPORATION
+
+
+
+
+
+SPE7M126T9434.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	04-15-2026
+Return By:	04-27-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7015233313
+
+	
+
+NSN: 6695-01-471-6161   Nomenclature: TRANSDUCER,MOTIONAL
+
+
+   AMSC: T     	NAICS: 334513     	Quantity: 18     
+
+
+Specification, Drawing and Standard Data Mil-Spec
+Amend No.: 3 DTD: 12-07-1999
+I/A/W CID: MIL-D-SAE-AMS) (BASIC)   DTD: 10-03-2006
+
+
+   Type #: PDT-SW-200PSID-600-2
+
+
+
+
+
+
+
+
+
+
+SPE4A524T382F.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	06-10-2024
+Return By:	05-28-2025
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7007947744
+
+	
+
+NSN: 6695-01-247-8996   Nomenclature: TRANSDUCER,MOTIONAL
+
+
+   AMSC: D     	NAICS: 334419     	Quantity: 5     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+K1474	D11944	PENNY & GILES AEROSPACE LIMITED
+
+
+
+
+
+SPE4A525T326P.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	05-06-2025
+Return By:	08-19-2025
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Origin
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7011716283
+
+	
+
+NSN: 6695-01-646-8881   Nomenclature: TRANSDUCER,MOTIONAL
+
+
+   AMSC: D     	NAICS: 334513     	Quantity: 20     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+99251	1657830-2	MISSION SYSTEMS DAVENPORT INC.
+
+
+
+
+
+SPE4A526T043D.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	04-02-2026
+Return By:	04-09-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	Tech Docs
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7016001073
+
+	
+
+NSN: 6695-01-687-3455   Nomenclature: TRANSDUCER,PRESSURE
+
+
+   AMSC: C     	NAICS: 334513     	Quantity: 5     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+29971	58162-00	SMITHS INTERCONNECT AMERICAS, INC.
+81205	S842-349906-2	THE BOEING COMPANY
+
+
+
+
+
+SPE4A726T582V.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	07-21-2026
+Return By:	07-31-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Origin
+ 
+
+Tech Data:	Tech Docs
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7017535616
+
+	
+
+NSN: 5845-01-168-2459   Nomenclature: TRANSDUCER,WATTS
+
+
+   AMSC: G     	NAICS: 334290     	Quantity: 1     
+
+
+Specification, Drawing and Standard Data
+Amend No.: AD DTD: 09-13-1989
+I/A/W DRW: 16331 63A131710 (BASIC)   DTD: 06-18-2026
+
+
+   Type #: 63A131710 P3
+
+
+
+
+
+
+
+
+
+
+SPE4A626T30E5.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	04-22-2026
+Return By:	04-29-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Origin
+ 
+
+Tech Data:	Tech Docs
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7016437861
+
+	
+
+NSN: 6680-01-730-9158   Nomenclature: TRANSDUCER,VELOCITY
+
+
+   AMSC: G     	NAICS: 334514     	Quantity: 4     
+
+
+Specification, Drawing and Standard Data
+Amend No.: K DTD: 06-07-2022
+I/A/W DRW: 47750 2727-1MA01 (BASIC)   DTD: 05-19-2025
+
+
+   Type #: 2727-1MA01SHEET6ITEM10
+
+
+
+
+
+
+
+
+
+
+SPE4A524T690H.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	09-09-2024
+Return By:	09-16-2024
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7008831593
+
+	
+
+NSN: 6695-01-385-3111   Nomenclature: TRANSDUCER,MOTIONAL
+
+
+   AMSC: Q     	NAICS: 334519     	Quantity: 9     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+89944	02749-MOD 8	ELBITAMERICA, INC.
+
+
+
+
+
+SPE4A526T028H.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	03-25-2026
+Return By:	05-04-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7016049042
+
+	
+
+NSN: 6695-01-626-5097   Nomenclature: TRANSDUCER,MOTIONAL
+
+
+   AMSC: D     	NAICS: 334515     	Quantity: 2     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+96169	218067993A	ELECTRIC BOAT CORPORATION
+
+
+
+
+
+SPE4A526T043H.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	04-02-2026
+Return By:	04-09-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	Tech Docs
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7016001074
+
+	
+
+NSN: 6695-01-687-3455   Nomenclature: TRANSDUCER,PRESSURE
+
+
+   AMSC: C     	NAICS: 334513     	Quantity: 5     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+29971	58162-00	SMITHS INTERCONNECT AMERICAS, INC.
+81205	S842-349906-2	THE BOEING COMPANY
+
+
+
+
+
+SPE4A526T066U.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	04-15-2026
+Return By:	08-18-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7016335421
+
+	
+
+NSN: 6695-01-376-5932   Nomenclature: TRANSDUCER,MOTIONAL
+
+
+   AMSC: D     	NAICS: 332439     	Quantity: 3     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+No Data found
+
+
+
+
+
+SPE4A526T088H.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	04-23-2026
+Return By:	04-30-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7016470653
+
+	
+
+NSN: 6695-01-355-6368   Nomenclature: TRANSDUCER,MOTIONAL
+
+
+   AMSC: Q     	NAICS: 334519     	Quantity: 5     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+22863	289398-1011	KAVLICO CORPORATION
+82106	289398-1011	PARKER-HANNIFIN CORPORATION
+
+
+
+
+
+SPE4A526T198C.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	06-02-2026
+Return By:	06-09-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7016852964
+
+	
+
+NSN: 6695-01-182-5967   Nomenclature: TRANSDUCER,MOTIONAL
+
+
+   AMSC: L     	NAICS: 334419     	Quantity: 2     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+0SML3	6233	AERO INTERNATIONAL, LLC
+97896	6233	HONEYWELL INTERNATIONAL INC.
+
+
+
+
+
+SPE4A526T210W.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	06-04-2026
+Return By:	06-11-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Origin
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7017039685
+
+	
+
+NSN: 0001S00000053   Nomenclature: CONTRACTOR FIRST ARTIC
+
+
+   AMSC: G     	NAICS: ______     	Quantity: 1     
+
+
+
+
+
+NSN: 6695-01-558-5435   Nomenclature: TRANSDUCER,MOTIONAL
+
+
+   AMSC: G     	NAICS: 334513     	Quantity: 8     
+
+
+Specification, Drawing and Standard Data Mil-Spec
+Amend No.: DTD: 04-26-1990
+I/A/W CID: MIL-T-24742 (BASIC)   DTD: 10-03-2006
+
+
+   Type #: M24742-R-H-35D-X-DC-A
+
+
+
+
+
+
+
+
+
+
+SPE4A526T308E.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	07-24-2026
+Return By:	07-31-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	Tech Docs
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7013331785
+
+	
+
+NSN: 4920-01-646-0680   Nomenclature: PRESSURE TRANSDUCER
+
+
+   AMSC: B     	NAICS: 334419     	Quantity: 12     
+
+
+Specification, Drawing and Standard Data
+Amend No.: DTD: 03-07-2007
+I/A/W DRW: 1X4F3 AMSCBDOC (BASIC)   DTD: 06-18-2026
+
+
+
+
+
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+56529	3100B150PS04CHI1	HYDRAULICS INTERNATIONAL, INC.
+
+
+
+
+
+SPE4A726T558V.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	07-08-2026
+Return By:	07-15-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Origin
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7017408794
+
+	
+
+NSN: 1680-01-621-6767   Nomenclature: TRANSDUCER,PRESSURE
+
+
+   AMSC: Z     	NAICS: 336413     	Quantity: 2     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+4XB60	3890AS000369-01	GENERAL ATOMICS
+
+
+
+
+
+SPE4A726T641P.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	08-12-2026
+Return By:	08-19-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Origin
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7017838188
+
+	
+
+NSN: 1680-01-621-6767   Nomenclature: TRANSDUCER,PRESSURE
+
+
+   AMSC: Z     	NAICS: 336413     	Quantity: 2     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+4XB60	3890AS000369-01	GENERAL ATOMICS
+
+
+
+
+
+SPE4A626T08QS.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	07-22-2026
+Return By:	07-29-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7017522940
+
+	
+
+NSN: 6635-01-189-4991   Nomenclature: TRANSDUCER,ULTRASONIC
+
+
+   AMSC: L     	NAICS: 334511     	Quantity: 1     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+1KY21	SUC225AC	OLYMPUS AMERICA INC
+
+
+
+
+
+SPE7M924T3680.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	05-03-2024
+Return By:	05-13-2024
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7007474200
+
+	
+
+NSN: 6625-99-264-0480   Nomenclature: VOLTAGE TRANSDUCER
+
+
+   AMSC: D     	NAICS: 334514     	Quantity: 3     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+K0590	H16082/1	
+KA028	LV200-AW/2/SP1	
+KCUC6	40070806	
+U1758	H16082/1	
+
+
+
+
+
+SPE4A626T57A8.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	05-15-2026
+Return By:	05-22-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7016735282
+
+	
+
+NSN: 6635-01-189-4991   Nomenclature: TRANSDUCER,ULTRASON
+
+
+   AMSC: L     	NAICS: 334511     	Quantity: 3     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+1KY21	SUC225AC	OLYMPUS AMERICA INC
+
+
+
+
+
+SPE4A524T371G.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	06-05-2024
+Return By:	06-12-2024
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7007889064
+
+	
+
+NSN: 6695-01-626-5097   Nomenclature: TRANSDUCER,MOTIONAL
+
+
+   AMSC: D     	NAICS: 334515     	Quantity: 4     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+96169	218067993A	ELECTRIC BOAT CORPORATION
+
+
+
+
+
+SPE4A524T408D.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	06-17-2024
+Return By:	06-24-2024
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7008033224
+
+	
+
+NSN: 6695-01-321-4689   Nomenclature: TRANSDUCER,MOTIONAL
+
+
+   AMSC: R     	NAICS: 334519     	Quantity: 1     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+22863	GM7594	KAVLICO CORPORATION
+
+
+
+
+
+SPE4A525Q0659.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	02-19-2025
+Return By:	02-26-2025
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7009030700
+
+	
+
+NSN: 6695-01-721-9837   Nomenclature: TRANSDUCER,MOTIONAL
+
+
+   AMSC: R     	NAICS: 334513     	Quantity: 2     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+30086	783057ITEM151	L3HARRIS MARITIME POWER & ENERGY
+30086	784939K01	L3HARRIS MARITIME POWER & ENERGY
+
+
+
+
+
+SPE4A525T285X.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	04-17-2025
+Return By:	04-24-2025
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Origin
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7011739652
+
+	
+
+NSN: 6695-01-724-6327   Nomenclature: TRANSDUCER,MOTIONAL
+
+
+   AMSC: D     	NAICS: 334513     	Quantity: 6     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+30086	784939-K02	L3HARRIS MARITIME POWER & ENERGY
+
+
+
+
+
+SPE4A526T3431.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	11-17-2025
+Return By:	11-24-2025
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7014439166
+
+	
+
+NSN: 6695-01-711-1615   Nomenclature: TRANSDUCER,MOTIONAL
+
+
+   AMSC: Q     	NAICS: 334513     	Quantity: 1     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+07482	L70868G01	GENERAL ELECTRIC COMPANY
+
+
+
+
+
+SPE4A526T351L.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	08-13-2026
+Return By:	08-20-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7017869210
+
+	
+
+NSN: 6695-01-672-9859   Nomenclature: TRANSDUCER,MOTIONAL
+
+
+   AMSC: Q     	NAICS: 334513     	Quantity: 1     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+28199	D-4368-30	L3 TECHNOLOGIES, INC.
+
+
+
+
+
+SPE4A625T01KH.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	06-12-2025
+Return By:	06-20-2025
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7012490512
+
+	
+
+NSN: 6695-01-247-8996   Nomenclature: TRANSDUCER,MOTIONAL
+
+
+   AMSC: D     	NAICS: 334419     	Quantity: 1     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+K1474	D11944	PENNY & GILES AEROSPACE LIMITED
+
+
+
+
+
+SPE4A625T07Y7.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	03-24-2025
+Return By:	03-31-2025
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Origin
+ 
+
+Tech Data:	Tech Docs
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7003979195
+
+	
+
+NSN: 0001S00000052   Nomenclature: GOVERNMENT FIRST ARTIC
+
+
+   AMSC: G     	NAICS: ______     	Quantity: 1     
+
+
+
+
+
+NSN: 6615-01-050-0765   Nomenclature: TRANSDUCER ASSEMBLY
+
+
+   AMSC: G     	NAICS: 334511     	Quantity: 12     
+
+
+Specification, Drawing and Standard Data
+Amend No.: C DTD: 09-28-1982
+I/A/W DRW: 81755 16P1875 (BASIC)   DTD: 09-24-2006
+
+
+   Type #: 16P1875-1
+
+
+
+
+
+
+
+
+
+
+SPE4A726T381J.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	05-20-2026
+Return By:	05-27-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7016844710
+
+	
+
+NSN: 1560-01-471-9451   Nomenclature: TRANSDUCER,SWITCH
+
+
+   AMSC: C     	NAICS: 336413     	Quantity: 9     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+81579	805-5109	MASON ELECTRIC CO.
+
+
+
+
+
+SPE2DS26T481P.PDF
+  » Package View
+
+
+
+uote  	 
+
+
+
+Issued:	09-29-2026
+Return By:	10-05-2026
+ 
+
+FOB Point:	Destination
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-09-28 02:07:05
+ 
+
+Purchase Request:	7018517793, 7018537310
+
+	
+
+NSN: 6515-01-407-2821   Nomenclature: MONITORING SET,VASCULA
+
+
+   AMSC: Z     	NAICS: 339112     	Quantity: 2     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+1PYT9	PXVMP160	EDWARDS LIFESCIENCES LLC
+
+
+
+
+
+SPE4A526T479A.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	09-28-2026
+Return By:	10-05-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	Tech Docs
+ 
+
+Document Post/Updated:	2026-09-27 06:21:44
+ 
+
+Purchase Request:	7015608028
+
+	
+
+NSN: 6685-01-322-4323   Nomenclature: TRANSMITTER,PRESSURE
+
+
+   AMSC: B     	NAICS: 334514     	Quantity: 3     
+
+
+Specification, Drawing and Standard Data
+Amend No.: H
+I/A/W DRW: 72429 50517 (BASIC)   DTD: 06-18-2026
+
+
+   Type #: 50517-6
+
+
+
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+34345	APTE-107AM-1000-3000SG	KULITE SEMICONDUCTOR PRODUCTS INC
+
+
+
+
+
+SPE4A526T466X.PDF
+  » Package View
+
+
+
+uote  	 
+
+
+
+Issued:	09-23-2026
+Return By:	09-30-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Origin
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-09-22 03:47:56
+ 
+
+Purchase Request:	7018457962
+
+	
+
+NSN: 4920-01-585-5490   Nomenclature: DELAY LINE TRANSDUC
+
+
+   AMSC: D     	NAICS: 332710     	Quantity: 4     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+9DV74	V205-RM	WABTEC INSPECTION TECHNOLOGIES, INC
+
+
+
+
+
+SPE4A526T334S.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	08-07-2026
+Return By:	09-16-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-09-11 05:47:16
+ 
+
+Purchase Request:	7017722088
+
+	
+
+NSN: 6680-01-602-6138   Nomenclature: TRANSDUCER,VELOCITY
+
+
+   AMSC: D     	NAICS: 334513     	Quantity: 1     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+1JN91	0002541	
+
+
+
+
+
+SPE8E926T3657.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	09-03-2026
+Return By:	09-14-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-09-02 03:38:06
+ 
+
+Purchase Request:	7018160208
+
+	
+
+NSN: 4420-01-114-5941   Nomenclature: TUBE BUNDLE ASSEMBLY
+
+
+   AMSC: D     	NAICS: 331315     	Quantity: 1     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+0EXU3	534-07999-000	AQUA-CHEM, INC.
+0EXU3	534B7999	AQUA-CHEM, INC.
+0EXU3	700D7621 PIECE 3	AQUA-CHEM, INC.
+
+
+
+
+
+SPE4A526T373Z.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	08-19-2026
+Return By:	08-31-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Origin
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-27 11:10:42
+ 
+
+Purchase Request:	7017939431
+
+	
+
+NSN: 4920-01-585-5490   Nomenclature: DELAY LINE TRANSDUC
+
+
+   AMSC: D     	NAICS: 332710     	Quantity: 11     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+9DV74	V205-RM	WABTEC INSPECTION TECHNOLOGIES, INC
+
+
+
+
+
+SPE4A626T06DU.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	07-15-2026
+Return By:	07-27-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Origin
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7017487804
+
+	
+
+NSN: 4920-01-585-5490   Nomenclature: DELAY LINE TRANSDUC
+
+
+   AMSC: D     	NAICS: 332710     	Quantity: 10     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+9DV74	V205-RM	WABTEC INSPECTION TECHNOLOGIES, INC
+
+
+
+
+
+SPE4A626T16UQ.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	08-14-2026
+Return By:	08-21-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7017883466
+
+	
+
+NSN: 6680-01-600-3564   Nomenclature: TRANSDUCER,VELOCITY,AN
+
+
+   AMSC: D     	NAICS: 334514     	Quantity: 21     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+11083	279-9830	CATERPILLAR INC
+75Q65	26KP582	OSHKOSH DEFENSE LLC
+
+
+
+
+
+SPE4A626T44M7.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	05-06-2026
+Return By:	05-18-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Origin
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7016646626
+
+	
+
+NSN: 4920-01-585-5490   Nomenclature: DELAY LINE TRANSDUC
+
+
+   AMSC: Q     	NAICS: 332710     	Quantity: 4     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+9DV74	V205-RM	WABTEC INSPECTION TECHNOLOGIES, INC
+
+
+
+
+1 2
+
+
+· RFQ Text Search
+Query String:
+
+
+
+Modified: 
+Any time
+last hour
+last day
+last 7 days
+last 30 days
+last 60 days
+last 90 days
+last 365 days
+	Sort: 
+Best Match
+Newly Posted to Oldest
+Oldest Posted to Newest
+
+Filter:
+  
+Automated Indefinite Delivery Contract (AIDC)
+
+
+  
+Items with Technical Documents
+
+
+  
+Fast Award Candidates
+
+
+  
+Small Business Set-Asides
+
+
+  
+HUBZone Set-Asides
+
+	
+  
+Service Disabled Veteran Owned
+      Small Business Set-Asides
+
+
+Woman Owned Small Business Set-Asides
+
+
+Economically Disadvantaged Women Owned Small Business Set-Asides
+
+
+Unrestricted/Not Set-Asides
+
+
+ 
+
+
+
+
+ 
+Policy Statements · Feedback
+   EOXD8AUZtkHO8wt7m812jA==
+   Ver.6.3.2
+

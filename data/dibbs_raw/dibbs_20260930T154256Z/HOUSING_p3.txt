@@ -1,0 +1,4912 @@
+FAQ/Help · Refs · My Account · Log In
+
+
+   Home       Solicitations       RFQs       RFP/IFB/Other RFQs       Tech Data       Downloads        Awards   
+
+
+Navigation: 
+Navigation/Documents - - - - - -
+Accessibility
+Awards Area
+- Awards by Award DT
+- Awards by Post DT
+- Market Ready Orders ®
+- Post Award Request (PAR)®
+Batch Quoting ®
+Batch Quoting File Format
+BidSets
+Contracts
+Delivery Orders
+FAQs
+Feedback
+Forecast ®
+FSC ~ DLA Managed
+Global Search
+Home Page
+Invitation For Bid (IFB) Area
+Log In Screen
+Master Solicitation (PAC)
+Notices/Message Board
+Post Award Request (PAR)®
+Quoting Help
+Quote Search ®
+Request For Proposal (RFP)Area
+Request For Quote (RFQ) Area
+- RFQs by Issue Date
+- RFQs by Return By Date
+- RFQs Recent
+References
+Registration
+Solicitations
+SRVA ®
+User(s) Profile Update ®
+Vendor Profile Update ®
+Welcome Page ®
+Regs / Supplement Extracts ---
+DFARS 225.502
+DFARS 252.211-7005
+DFARS 252.211-7006
+DFARS 252.223-7001
+DFARS 252.225-7001
+DFARS 252.225-7035
+DFARS 252.225-7036
+DLAD 52.211-9000
+DLAD 52.213-9000
+DLAD 52.217-9002
+DLAD 52.219-9015
+DLAD 52.223-9000
+DLAD 52.233-9001
+FAR 52.209-1
+FAR 52.211-5
+FAR 52.212-3
+FAR 52.219-1
+FAR 52.222-18
+FAR 52.222-22
+FAR 52.222-25
+FAR 52.222-26
+FAR 52.223-3
+ 
+
+Database Search: 
+Choose Search
+RFQs - NSN
+RFQs - Solicitation
+RFQs - PR
+-----------------------
+Awards - Awardee CAGE
+Awards - Award/Basic Number
+Awards - Delivery Order #
+Awards - NSN
+Awards - PR
+-----------------------
+RFP/IFB/Other RFQs - Solicitation
+RFP/IFB/Other RFQs - NSN
+-----------------------
+CAGE Search
+  Value: 
+
+
+Notice:   · Suspension of CMMC Phase II » Read Notice
+
+  Please read notices posted on the Notices page.
+
+
+  Location: Home » Solicitations » RFQs » RFQ Text Search
+[
+RFQ Search
+-
+Recent RFQs
+-
+RFQs by Issue Date
+-
+RFQs by Return By Date
+-
+RFQs by FSC
+]
+[ 273 ] 9/30/2026 11:57:49 AM
+
+
+
+Documents Indexed: 161,967
+
+Additional RFQ Text Search Help
+
+Found 696 records for this search query string.
+Modified: Any time
+
+
+
+1 2 3 4 5 6 7
+Solicitation Information	Product Data
+
+SPE4A726T158N.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	03-26-2026
+Return By:	04-09-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7016081728
+
+	
+
+NSN: 6680-00-850-3791   Nomenclature: HOUSING,INDICATOR
+
+
+   AMSC: D     	NAICS: 334519     	Quantity: 13     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+89305	92000-A 5776 BAA	SIMMONDS PRECISION PRODUCTS INC
+
+
+
+
+
+SPE4A624Q1732.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	08-22-2024
+Return By:	08-29-2024
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7008292985
+
+	
+
+NSN: 6615-00-738-1676   Nomenclature: HOUSING,GYRO ASSY
+
+
+   AMSC: R     	NAICS: 334511     	Quantity: 9     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+07187	2586010	HONEYWELL INTERNATIONAL INC.
+56232	2586010	LOCKHEED MARTIN CORPORATION
+
+
+
+
+
+SPE4A526T9180.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	03-03-2026
+Return By:	03-10-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Origin
+ 
+
+Tech Data:	Tech Docs
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7015668186
+
+	
+
+NSN: 2995-00-955-1020   Nomenclature: HOUSING,OIL PUMP AS
+
+
+   AMSC: P     	NAICS: 336412     	Quantity: 54     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+52661	475282	RTX CORPORATION
+77445	475282	RTX CORPORATION
+
+
+
+
+
+SPE4A526T8139.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	02-17-2026
+Return By:	02-24-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Origin
+ 
+
+Tech Data:	Tech Docs
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7015535250
+
+	
+
+NSN: 6680-00-896-2239   Nomenclature: HOUSING,INDICATOR
+
+
+   AMSC: G     	NAICS: 334519     	Quantity: 44     
+
+
+Specification, Drawing and Standard Data
+Amend No.: N DTD: 05-07-2015
+I/A/W DRW: 19200 8215835 (BASIC)   DTD: 09-21-2022
+
+
+   Type #: 8215835
+
+
+
+
+
+
+
+
+
+
+SPE4A526T7770.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	02-11-2026
+Return By:	02-18-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7015475064
+
+	
+
+NSN: 2995-00-075-3871   Nomenclature: HOUSING,REGULATOR
+
+
+   AMSC: C     	NAICS: 336412     	Quantity: 12     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+3H889	649757	PARKER-HANNIFIN CORPORATION
+
+
+
+
+
+SPE4A526T7580.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	02-04-2026
+Return By:	02-11-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7015332004
+
+	
+
+NSN: 4320-01-193-3515   Nomenclature: HOUSING,LIQUID PUMP
+
+
+   AMSC: D     	NAICS: 333914     	Quantity: 1     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+86329	32-54004-3051-4	PARKER-HANNIFIN CORPORATION
+
+
+
+
+
+SPE4A726Q0349.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	03-09-2026
+Return By:	03-23-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7014491349
+
+	
+
+NSN: 5855-01-617-8619   Nomenclature: HOUSING SECTION,NIG
+
+
+   AMSC: D     	NAICS: 333310     	Quantity: 2413     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+6FQM4	MPM-902-A8	INTELLIGENT MANUFACTURING SOLUTIONS
+
+
+
+
+
+SPE4A626U1772.PDF
+  » Package View
+
+
+
+uote  	 
+
+
+
+Issued:	02-11-2026
+Return By:	03-02-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Origin
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	1000224460
+
+	
+
+NSN: 2915-00-674-6430   Nomenclature: HOUSING ASSEMBLY,CO
+
+
+   AMSC: R     	NAICS: 336412     	Quantity: 17     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+63005	6827119	ROLLS-ROYCE CORPORATION
+90827	20101	DYNA-EMPIRE INC
+90827	6827119	DYNA-EMPIRE INC
+
+
+
+
+
+SPE4A526T306C.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	07-23-2026
+Return By:	07-30-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7014545841
+
+	
+
+NSN: 4820-01-158-5872   Nomenclature: HOUSING,VALVE
+
+
+   AMSC: P     	NAICS: 336310     	Quantity: 12     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+0SML3	3171220-3	AERO INTERNATIONAL, LLC
+59364	3171220-3	HONEYWELL INTERNATIONAL INC.
+
+
+
+
+
+SPE4A526T279B.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	07-08-2026
+Return By:	07-15-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7017384962
+
+	
+
+NSN: 6685-01-574-2152   Nomenclature: HOUSING,INDICATOR
+
+
+   AMSC: D     	NAICS: 334513     	Quantity: 2     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+98810	31917	AEROSONIC LLC
+
+
+
+
+
+SPE4A526T245Y.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	06-17-2026
+Return By:	06-24-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7012645410
+
+	
+
+NSN: 2915-00-544-1022   Nomenclature: HOUSING,ACTUATOR
+
+
+   AMSC: P     	NAICS: 336412     	Quantity: 41     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+79318	151282	MEGGITT NORTH HOLLYWOOD INC
+
+
+
+
+
+SPE4A526T194V.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	06-01-2026
+Return By:	06-08-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7016846022
+
+	
+
+NSN: 1660-01-172-1435   Nomenclature: HOUSING,DIAPHRAGM
+
+
+   AMSC: P     	NAICS: 336411     	Quantity: 37     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+59364	883490-1	HONEYWELL INTERNATIONAL INC.
+
+
+
+
+
+SPE4A526T057N.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	04-10-2026
+Return By:	04-22-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Origin
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7016279337
+
+	
+
+NSN: 1650-01-140-5915   Nomenclature: HOUSING,PORTING,PUM
+
+
+   AMSC: D     	NAICS: 336413     	Quantity: 7     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+99167	712193	HAMILTON SUNDSTRAND CORPORATION
+
+
+
+
+
+SPE4A526T014J.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	03-20-2026
+Return By:	03-27-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7015993603
+
+	
+
+NSN: 6620-00-435-9932   Nomenclature: HOUSING,INDICATOR
+
+
+   AMSC: D     	NAICS: 333618     	Quantity: 15     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+97424	2037K71G706	AMETEK INC
+
+
+
+
+
+SPE4A526Q0228.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	12-02-2025
+Return By:	12-09-2025
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7014544554
+
+	
+
+NSN: 2835-01-595-7661   Nomenclature: HOUSING,REDUCTION G
+
+
+   AMSC: R     	NAICS: 333611     	Quantity: 30     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+55820	161781-103	RTX CORPORATION
+
+
+
+
+
+SPE7L526T1073.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	11-21-2025
+Return By:	12-01-2025
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7014581902
+
+	
+
+NSN: 2930-01-431-7559   Nomenclature: HOUSING,OIL COOLER
+
+
+   AMSC: D     	NAICS: 333618     	Quantity: 1     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+02978	E8CR106-010	RENK AMERICA LLC
+
+
+
+
+
+SPE4A525T710Z.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	08-29-2025
+Return By:	09-05-2025
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Origin
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7013449029
+
+	
+
+NSN: 2840-01-143-1965   Nomenclature: HOUSING,GEARBOX,TUR
+
+
+   AMSC: C     	NAICS: 336412     	Quantity: 1     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+99207	6024T85G01	GENERAL ELECTRIC COMPANY
+
+
+
+
+
+SPE4A525T678T.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	08-19-2025
+Return By:	06-03-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Origin
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7013234723
+
+	
+
+NSN: 2835-00-313-5571   Nomenclature: HOUSING,LINKAGE
+
+
+   AMSC: C     	NAICS: 333611     	Quantity: 10     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+59364	95880	HONEYWELL INTERNATIONAL INC.
+
+
+
+
+
+SPE4A126T1937.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	04-24-2026
+Return By:	05-01-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Origin
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7016480797
+
+	
+
+NSN: 1680-01-125-8663   Nomenclature: HOUSING,TRANSMISSIO
+
+
+   AMSC: P     	NAICS: 336413     	Quantity: 2     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+0ZWK8	2041370-3	MOOG MILITARY AIRCRAFT LLC
+
+
+
+
+
+SPE7MC25T4114.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	12-10-2024
+Return By:	12-20-2024
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	Tech Docs
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7008971143
+
+	
+
+NSN: 4820-01-701-7603   Nomenclature: HOUSING,RELEASE
+
+
+   AMSC: D     	NAICS: 332911     	Quantity: 13     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+70167	53001385-1	AIR CRUISERS COMPANY, LLC
+
+
+
+
+
+SPE4A626T575S.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	01-26-2026
+Return By:	06-10-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	Tech Docs
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7015247892
+
+	
+
+NSN: 6220-01-652-7060   Nomenclature: HOUSING,LIGHT
+
+
+   AMSC: D     	NAICS: 335999     	Quantity: 14     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+34830	0312-0700	ROGERSON KRATOS
+
+
+
+
+
+SPE7M426T8253.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	03-17-2026
+Return By:	03-27-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Origin
+ 
+
+Tech Data:	Tech Docs
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7015895154
+
+	
+
+NSN: 0001S00000052   Nomenclature: GOVERNMENT FIRST ARTIC
+
+
+   AMSC: C     	NAICS: ______     	Quantity: 1     
+
+
+
+
+
+NSN: 3040-01-434-8001   Nomenclature: HOUSING,MECHANICAL
+
+
+   AMSC: C     	NAICS: 333613     	Quantity: 34     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+5H860	5-57246-2	THOMAS INSTRUMENT, INCORPORATED
+81205	5-57246-2	THE BOEING COMPANY
+
+
+
+
+
+SPE7M426T340W.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	08-17-2026
+Return By:	08-27-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7017776122
+
+	
+
+NSN: 2915-01-244-5401   Nomenclature: HOUSING AND STATOR
+
+
+   AMSC: C     	NAICS: 336412     	Quantity: 12     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+59875	217081-1	EATON CORP
+
+
+
+
+
+SPE7L326T073X.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	06-18-2026
+Return By:	07-02-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Origin
+ 
+
+Tech Data:	Tech Docs
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7017227697
+
+	
+
+NSN: 3040-01-491-0849   Nomenclature: HOUSING,MECHANICAL
+
+
+   AMSC: G     	NAICS: 333613     	Quantity: 6     
+
+
+Specification, Drawing and Standard Data
+Amend No.: U DTD: 06-30-2017
+I/A/W DRW: 30003 12007303 (BASIC)   DTD: 06-18-2026
+
+
+
+
+
+
+
+
+
+
+
+
+SPE4A626T388F.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	12-23-2025
+Return By:	01-09-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Origin
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7014814439
+
+	
+
+NSN: 3130-01-142-4909   Nomenclature: HOUSING, BEARING UNIT
+
+
+   AMSC: Q     	NAICS: 332991     	Quantity: 1     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+0UBG9	936645-00	CURTISS-WRIGHT ELECTRO-MECHANICAL
+
+
+
+
+
+SPE2DH26T3893.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	05-15-2026
+Return By:	06-08-2026
+ 
+
+FOB Point:	Destination
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7016622095
+
+	
+
+NSN: 6630-01-691-0019   Nomenclature: HOUSING,ELECTRODE
+
+
+   AMSC: Z     	NAICS: 334515     	Quantity: 1     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+28953	XMA77-C3404	RIX INDUSTRIES
+
+
+
+
+
+SPE7L126T8173.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	01-02-2026
+Return By:	01-12-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Origin
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7014990508
+
+	
+
+NSN: 2815-00-089-6439   Nomenclature: HOUSING,BLOWER
+
+
+   AMSC: D     	NAICS: 333618     	Quantity: 4     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+72582	05119393	ROLLS-ROYCE SOLUTIONS AMERICA INC
+
+
+
+
+
+SPE7L126T775T.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	06-29-2026
+Return By:	07-09-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Origin
+ 
+
+Tech Data:	Tech Docs
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7017322407
+
+	
+
+NSN: 0001S00000053   Nomenclature: CONTRACTOR FIRST ARTIC
+
+
+   AMSC: G     	NAICS: ______     	Quantity: 1     
+
+
+
+
+
+NSN: 3040-01-487-3702   Nomenclature: HOUSING,MECHANICAL
+
+
+   AMSC: G     	NAICS: 333613     	Quantity: 10     
+
+
+Specification, Drawing and Standard Data
+Amend No.: F DTD: 07-15-2010
+I/A/W DRW: 19207 12488557 (BASIC)   DTD: 06-18-2026
+
+
+
+
+
+
+
+
+
+
+
+
+SPE4A626T244D.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	12-08-2025
+Return By:	12-18-2025
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7014490737
+
+	
+
+NSN: 1680-01-573-4435   Nomenclature: HOUSING ASSEMBLY,HO
+
+
+   AMSC: C     	NAICS: 336413     	Quantity: 41     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+56529	061481-108	HYDRAULICS INTERNATIONAL, INC.
+
+
+
+
+
+SPE7M426T065L.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	05-08-2026
+Return By:	05-18-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7016685960
+
+	
+
+NSN: 1650-01-216-0451   Nomenclature: HOUSING AND INSERT
+
+
+   AMSC: P     	NAICS: 336413     	Quantity: 11     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+62983	326946	EATON AEROSPACE, LLC
+
+
+
+
+
+SPE7M426T052U.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	05-04-2026
+Return By:	05-14-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7011994220
+
+	
+
+NSN: 4320-00-281-9179   Nomenclature: HOUSING,PUMP,MOTOR
+
+
+   AMSC: L     	NAICS: 333914     	Quantity: 30     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+81982	28794	HYDRO-AIRE AEROSPACE CORP
+
+
+
+
+
+SPE7L126T736G.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	06-22-2026
+Return By:	07-08-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7017233105
+
+	
+
+NSN: 3040-01-520-3245   Nomenclature: ADAPTER,HOUSING
+
+
+   AMSC: D     	NAICS: 333613     	Quantity: 20     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+96169	GA-3	ELECTRIC BOAT CORPORATION
+
+
+
+
+
+SPE7L126T233Q.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	03-24-2026
+Return By:	04-03-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7015053325
+
+	
+
+NSN: 2540-12-408-2661   Nomenclature: HOUSING,AIR INTAKE,
+
+
+   AMSC: D     	NAICS: 336360     	Quantity: 3     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+72582	X56912300052	ROLLS-ROYCE SOLUTIONS AMERICA INC
+D8266	X56912300052	
+
+
+
+
+
+SPE7L126T187Z.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	03-12-2026
+Return By:	03-23-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7015698331
+
+	
+
+NSN: 2990-01-259-0589   Nomenclature: HOUSING,OIL PUMP AS
+
+
+   AMSC: R     	NAICS: 336390     	Quantity: 6     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+81833	366871-4	AEROCONTROLEX GROUP, INC.
+
+
+
+
+
+SPE7M026T048Z.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	08-19-2026
+Return By:	08-31-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7017911241
+
+	
+
+NSN: 5999-01-619-4168   Nomenclature: HOUSING,ELECTRONIC COM
+
+
+   AMSC: D     	NAICS: 334419     	Quantity: 1     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+0B107	BNG-410-01	L3 TECHNOLOGIES, INC.
+
+
+
+
+
+SPE7M325T2208.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	12-13-2024
+Return By:	12-23-2024
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7010327691
+
+	
+
+NSN: 4730-01-122-8822   Nomenclature: HOUSING ASSEMBLY
+
+
+   AMSC: L     	NAICS: 332996     	Quantity: 1     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+14711	30A521-6	RSA ENGINEERED PRODUCTS, LLC
+
+
+
+
+
+SPE4A726T496R.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	06-15-2026
+Return By:	06-25-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Origin
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7017149683
+
+	
+
+NSN: 1615-01-202-7128   Nomenclature: HOUSING,END,ACTUATO
+
+
+   AMSC: P     	NAICS: 336411     	Quantity: 10     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+81039	5052948	WHIPPANY ACTUATION SYSTEMS, LLC
+
+
+
+
+
+SPE4A726T491C.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	06-15-2026
+Return By:	06-25-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7017149267
+
+	
+
+NSN: 1630-01-235-7893   Nomenclature: HOUSING SUBASSY
+
+
+   AMSC: B     	NAICS: 336413     	Quantity: 20     
+
+
+Specification, Drawing and Standard Data
+Amend No.: B DTD: 12-10-2024
+I/A/W DRW: 81996 1630-UH60-007 (BASIC)   DTD: 12-27-2024
+
+
+   Type #: 1630-UH60-007
+
+
+
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+0B9R9	5003932	MEGGITT AIRCRAFT BRAKING SYSTEMS
+33269	061-12700	AIRCRAFT WHEEL AND BRAKE, LLC
+6L817	5003932	NATIONAL MACHINE COMPANY
+
+
+
+
+
+SPE4A726T402H.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	05-22-2026
+Return By:	05-29-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Origin
+ 
+
+Tech Data:	Tech Docs
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7016786001
+
+	
+
+NSN: 1650-00-040-6093   Nomenclature: HOUSING,GLAND SWIVE
+
+
+   AMSC: G     	NAICS: 336413     	Quantity: 5     
+
+
+Specification, Drawing and Standard Data
+Amend No.: C DTD: 08-24-2007
+I/A/W DRW: 81205 9-22993 (BASIC)   DTD: 10-02-2020
+
+
+   Type #: 9-22993-1
+
+
+
+
+
+
+
+
+
+
+SPE4A726T379C.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	05-20-2026
+Return By:	06-18-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7016844161
+
+	
+
+NSN: 2915-01-257-2134   Nomenclature: HOUSING,SPECIAL
+
+
+   AMSC: P     	NAICS: 336412     	Quantity: 12     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+78710	5401401-1	TRIUMPH CONTROLS, LLC
+
+
+
+
+
+SPE8E726T3535.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	08-06-2026
+Return By:	08-17-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7017726961
+
+	
+
+NSN: 6210-01-725-6878   Nomenclature: HOUSING,LIGHT
+
+
+   AMSC: Z     	NAICS: 332321     	Quantity: 1     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+0JKF0	403/R7476	JCB INC.
+
+
+
+
+
+SPE8E726T3334.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	07-10-2026
+Return By:	07-23-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	Tech Docs
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7017446112
+
+	
+
+NSN: 6220-01-702-1664   Nomenclature: HOUSING,LIGHT,RESILIEN
+
+
+   AMSC: G     	NAICS: 336413     	Quantity: 10     
+
+
+Specification, Drawing and Standard Data
+Amend No.: C DTD: 05-01-2024
+I/A/W DRW: 19207 12596323 (BASIC)   DTD: 06-18-2026
+
+
+
+
+
+
+
+
+
+
+
+
+SPE8E726T2765.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	05-29-2026
+Return By:	06-08-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Origin
+ 
+
+Tech Data:	Tech Docs
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7016954288
+
+	
+
+NSN: 6220-01-225-6210   Nomenclature: HOUSING,LIGHT
+
+
+   AMSC: G     	NAICS: 336320     	Quantity: 1     
+
+
+Specification, Drawing and Standard Data
+Amend No.: H DTD: 01-01-2038
+I/A/W DRW: 19200 8201128 (BASIC)   DTD: 09-21-2006
+
+
+   Type #: P/N 8201128
+
+
+
+
+
+
+
+
+
+
+SPE7M026T9876.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	07-06-2026
+Return By:	07-16-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7017185572
+
+	
+
+NSN: 5999-01-619-4168   Nomenclature: HOUSING,ELECTRONIC
+
+
+   AMSC: D     	NAICS: 334419     	Quantity: 4     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+0B107	BNG-410-01	L3 TECHNOLOGIES, INC.
+
+
+
+
+
+SPE7M026T9670.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	06-26-2026
+Return By:	07-06-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Origin
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7017300296
+
+	
+
+NSN: 4310-01-184-1284   Nomenclature: HOUSING,OIL PUMP
+
+
+   AMSC: C     	NAICS: 333912     	Quantity: 4     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+28953	81-D899	RIX INDUSTRIES
+
+
+
+
+
+SPE4A726T295E.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	04-27-2026
+Return By:	05-04-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Origin
+ 
+
+Tech Data:	Tech Docs
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7015852203
+
+	
+
+NSN: 0001S00000052   Nomenclature: GOVERNMENT FIRST ARTIC
+
+
+   AMSC: C     	NAICS: ______     	Quantity: 1     
+
+
+
+
+
+NSN: 2840-01-199-0642   Nomenclature: HOUSING,GEARBOX
+
+
+   AMSC: C     	NAICS: 336412     	Quantity: 39     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+0JRC1	14-51101-1	
+0NNH0	14-51101-1	JJET ENTERPRISES
+0UES3	14-51101-1	MID-AMERICA AEROTECH, LLC
+54850	14-51101-1	
+55064	14-51101-1	
+61999	14-51101-1	VITAL ENGINEERED COMPONENTS COMPANY
+76823	14-51101-1	NORTHROP GRUMMAN SYSTEMS CORPORATIO
+
+
+
+
+
+SPE4A726T278E.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	04-22-2026
+Return By:	07-21-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Origin
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7016439563
+
+	
+
+NSN: 5855-01-723-2364   Nomenclature: HOUSING SECTION,NIG
+
+
+   AMSC: P     	NAICS: 334511     	Quantity: 17     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+0B107	OFB-2076-A2	L3 TECHNOLOGIES, INC.
+
+
+
+
+
+SPE4A726T264Y.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	04-17-2026
+Return By:	04-24-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Origin
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7016227972
+
+	
+
+NSN: 1680-99-155-6516   Nomenclature: HOUSING SUBASSEMBLY
+
+
+   AMSC: C     	NAICS: 336413     	Quantity: 6     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+U1604	MBEU146781-1	MARTIN-BAKER AIRCRAFT COMPANY LIMIT
+
+
+
+
+
+SPE4A625T00LS.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	06-11-2025
+Return By:	06-18-2025
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Origin
+ 
+
+Tech Data:	Tech Docs
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7012593251
+
+	
+
+NSN: 0001S00000052   Nomenclature: GOVERNMENT FIRST ARTIC
+
+
+   AMSC: G     	NAICS: ______     	Quantity: 1     
+
+
+
+
+
+NSN: 3130-01-717-5323   Nomenclature: HOUSING,BEARING UNI
+
+
+   AMSC: G     	NAICS: 332991     	Quantity: 7     
+
+
+Specification, Drawing and Standard Data
+Amend No.: A DTD: 08-30-1972
+I/A/W DRW: 98897 4F52813 (BASIC)   DTD: 09-18-2006
+
+
+
+
+
+
+
+
+
+
+
+
+SPE4A526T349E.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	08-13-2026
+Return By:	08-20-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7017868265
+
+	
+
+NSN: 1630-00-006-8704   Nomenclature: HOUSING,BRAKE,MULTI
+
+
+   AMSC: R     	NAICS: 336413     	Quantity: 7     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+0B9R9	5001113	MEGGITT AIRCRAFT BRAKING SYSTEMS
+
+
+
+
+
+SPE8E526T0815.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	11-19-2025
+Return By:	12-01-2025
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Origin
+ 
+
+Tech Data:	Tech Docs
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7014494825
+
+	
+
+NSN: 0001S00000053   Nomenclature: CONTRACTOR FIRST ARTIC
+
+
+   AMSC: G     	NAICS: ______     	Quantity: 1     
+
+
+
+
+
+NSN: 5411-01-429-8350   Nomenclature: HOUSING,LATCH PAN A
+
+
+   AMSC: G     	NAICS: 331315     	Quantity: 15     
+
+
+Specification, Drawing and Standard Data Mil-Spec
+Amend No.: L DTD: 04-07-2006
+I/A/W DRW: 19207 8764585 (BASIC)   DTD: 02-06-2019
+
+
+   Type #: P/N 8764585
+
+
+
+
+
+
+
+
+
+
+SPE4A626T993Q.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	03-18-2026
+Return By:	03-25-2026
+ 
+
+FOB Point:	Destination
+ 
+
+Inspection Point:	Origin
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7015641384
+
+	
+
+NSN: 6605-01-509-5093   Nomenclature: HOUSING,INDICATOR
+
+
+   AMSC: D     	NAICS: 334511     	Quantity: 1     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+16848	106409	LOCKHEED MARTIN SIPPICAN, INC.
+
+
+
+
+
+SPE4A626T933V.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	03-12-2026
+Return By:	03-19-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Origin
+ 
+
+Tech Data:	Tech Docs
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7014118026
+
+	
+
+NSN: 3130-01-013-1554   Nomenclature: HOUSING,BEARING UNI
+
+
+   AMSC: P     	NAICS: 332991     	Quantity: 5     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+81205	66-5583-3	THE BOEING COMPANY
+
+
+
+
+
+SPE4A626T87K8.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	06-11-2026
+Return By:	06-18-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7014174787
+
+	
+
+NSN: 1680-00-968-8766   Nomenclature: HOUSING,BRAKE
+
+
+   AMSC: C     	NAICS: 336413     	Quantity: 5     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+70974	W2F23762	NORTHROP GRUMMAN SYSTEMS CORPORATIO
+
+
+
+
+
+SPE7MC26T123D.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	07-10-2026
+Return By:	07-20-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7017437512
+
+	
+
+NSN: 4820-01-199-6643   Nomenclature: HOUSING,MANIFOLD
+
+
+   AMSC: R     	NAICS: 336310     	Quantity: 2     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+78062	20907-400 PIECE 1	SARGENT AEROSPACE & DEFENSE, LLC
+78062	20907-410	SARGENT AEROSPACE & DEFENSE, LLC
+
+
+
+
+
+SPE7L426T0510.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	10-17-2025
+Return By:	10-30-2025
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7014189739
+
+	
+
+NSN: 3020-01-457-1340   Nomenclature: HOUSING ASSY GEAR
+
+
+   AMSC: D     	NAICS: 333613     	Quantity: 9     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+59364	3231782-2	HONEYWELL INTERNATIONAL INC.
+
+
+
+
+
+SPE4A626T82D1.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	06-08-2026
+Return By:	06-15-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Origin
+ 
+
+Tech Data:	Tech Docs
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7011762798
+
+	
+
+NSN: 3130-01-727-7937   Nomenclature: HOUSING,BEARING UNI
+
+
+   AMSC: C     	NAICS: 332991     	Quantity: 2     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+0UBG9	17469N18	CURTISS-WRIGHT ELECTRO-MECHANICAL
+
+
+
+
+
+SPE4A626T763D.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	02-20-2026
+Return By:	03-04-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Origin
+ 
+
+Tech Data:	Tech Docs
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7015601726
+
+	
+
+NSN: 1440-01-500-2669   Nomenclature: HOUSING,GUIDED MISS
+
+
+   AMSC: G     	NAICS: 334419     	Quantity: 50     
+
+
+Specification, Drawing and Standard Data
+Amend No.: H DTD: 09-16-2024
+I/A/W DRW: 072E5 497HN0134 (BASIC)   DTD: 12-12-2025
+
+
+   Type #: 497HN0134-1
+
+
+
+
+
+
+
+
+
+
+SPE4A525Q1224.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	07-18-2025
+Return By:	08-04-2025
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Origin
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7008032073
+
+	
+
+NSN: 6150-01-208-8673   Nomenclature: HOUSING,ELECTRICAL
+
+
+   AMSC: Q     	NAICS: 336413     	Quantity: 20     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+99167	977J362-2	HAMILTON SUNDSTRAND CORPORATION
+
+
+
+
+
+SPE4A126T1938.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	04-24-2026
+Return By:	05-01-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Origin
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7016480798
+
+	
+
+NSN: 1680-01-125-8664   Nomenclature: HOUSING,TRANSMISSIO
+
+
+   AMSC: P     	NAICS: 336413     	Quantity: 2     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+0ZWK8	2041370-4	MOOG MILITARY AIRCRAFT LLC
+
+
+
+
+
+SPE7M426T310G.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	08-07-2026
+Return By:	08-20-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7017776470
+
+	
+
+NSN: 3040-01-152-2942   Nomenclature: HOUSING,CYLINDER,PNEUM
+
+
+   AMSC: C     	NAICS: 333613     	Quantity: 1     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+07270	28914	MOOG INC.
+07270	895-28365 ITEM 1	MOOG INC.
+
+
+
+
+
+SPE4A626T604Z.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	01-29-2026
+Return By:	02-05-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Origin
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7015211211
+
+	
+
+NSN: 2915-00-992-8701   Nomenclature: HOUSING AND INSERTS
+
+
+   AMSC: R     	NAICS: 336412     	Quantity: 10     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+73030	573742	HAMILTON SUNDSTRAND CORPORATION
+
+
+
+
+
+SPE4A626T55H9.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	05-14-2026
+Return By:	05-21-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Origin
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7016638058
+
+	
+
+NSN: 1440-01-500-2669   Nomenclature: HOUSING,GUIDED MISS
+
+
+   AMSC: S     	NAICS: 334419     	Quantity: 92     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+072E5	497HN0134-1	V2X MODERNIZATION AND SUSTAINMENT L
+32067	497HN0134-1	MARVIN ENGINEERING CO, INC
+74RJ4	497HN0134-1	SCIENCE APPLICATIONS INTERNATIONAL
+76301	497HN0134-1	THE BOEING COMPANY
+
+
+
+
+
+SPE7M426T6317.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	02-06-2026
+Return By:	02-17-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7015420021
+
+	
+
+NSN: 4320-01-151-8055   Nomenclature: HOUSING,LIQUID PUMP
+
+
+   AMSC: L     	NAICS: 333996     	Quantity: 1     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+63857	705C0055 C141A	CIRCOR NAVAL SOLUTIONS LLC
+
+
+
+
+
+SPE7M426T5099.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	01-13-2026
+Return By:	01-23-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7014810858
+
+	
+
+NSN: 3040-01-234-9132   Nomenclature: HOUSING,MECHANICAL
+
+
+   AMSC: C     	NAICS: 811310     	Quantity: 8     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+73760	103077C	ITT AEROSPACE CONTROLS LLC
+
+
+
+
+
+SPE7L226T0190.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	01-16-2026
+Return By:	01-29-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Origin
+ 
+
+Tech Data:	Tech Docs
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7013657154
+
+	
+
+NSN: 2520-01-727-2637   Nomenclature: HOUSING,COUPLING
+
+
+   AMSC: G     	NAICS: 333613     	Quantity: 7     
+
+
+Specification, Drawing and Standard Data
+Amend No.: DTD: 10-15-2025
+I/A/W DRW: 19207 12443811 (BASIC)   DTD: 10-23-2025
+
+
+
+
+
+
+
+
+
+
+
+
+SPE7L126T907J.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	08-04-2026
+Return By:	08-14-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7017673528
+
+	
+
+NSN: 2510-01-687-5387   Nomenclature: HOUSING,PANEL,VEHIC
+
+
+   AMSC: D     	NAICS: 332999     	Quantity: 1     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+0EYA6	PAAJ040211	DEFENSE MARITIME SOLUTIONS, INC.
+
+
+
+
+
+SPE4A626T45J9.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	05-06-2026
+Return By:	05-13-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7016498185
+
+	
+
+NSN: 1660-00-024-6130   Nomenclature: HOUSING,TURBINE
+
+
+   AMSC: P     	NAICS: 336411     	Quantity: 50     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+70210	56667-3	HONEYWELL INTERNATIONAL INC.
+
+
+
+
+
+SPE7M426T228R.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	07-02-2026
+Return By:	07-13-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7009280479
+
+	
+
+NSN: 2040-01-089-5248   Nomenclature: HOUSING,DRIVER
+
+
+   AMSC: D     	NAICS: 332510     	Quantity: 10     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+34228	055367	L3 TECHNOLOGIES, INC.
+
+
+
+
+
+SPE7M426T211T.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	06-26-2026
+Return By:	07-06-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Origin
+ 
+
+Tech Data:	Tech Docs
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7016691675
+
+	
+
+NSN: 0001S00000053   Nomenclature: CONTRACTOR FIRST ARTIC
+
+
+   AMSC: C     	NAICS: ______     	Quantity: 1     
+
+
+
+
+
+NSN: 3040-01-434-8002   Nomenclature: HOUSING,MECHANICAL
+
+
+   AMSC: C     	NAICS: 333613     	Quantity: 7     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+5H860	5-57243	THOMAS INSTRUMENT, INCORPORATED
+81205	5-57243	THE BOEING COMPANY
+
+
+
+
+
+SPE7L126T893J.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	07-31-2026
+Return By:	08-10-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7017673625
+
+	
+
+NSN: 3040-01-573-7302   Nomenclature: HOUSING,MECHANICAL
+
+
+   AMSC: D     	NAICS: 333613     	Quantity: 1     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+2Y614	01-005-075.00 REF 53 / 59A1826R	LINK-BELT CRANES, L.P., LLLP
+2Y614	59A1826R	LINK-BELT CRANES, L.P., LLLP
+
+
+
+
+
+SPE4A626T34J9.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	04-24-2026
+Return By:	05-01-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7016498220
+
+	
+
+NSN: 1650-00-317-5585   Nomenclature: COVER,DRUM HOUSING,
+
+
+   AMSC: D     	NAICS: 336413     	Quantity: 22     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+81982	86204	HYDRO-AIRE AEROSPACE CORP
+
+
+
+
+
+SPE7L126T544E.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	05-13-2026
+Return By:	05-29-2026
+ 
+
+FOB Point:	Destination
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7016730450
+
+	
+
+NSN: 2530-12-405-9945   Nomenclature: HOUSING,VEHICULAR S
+
+
+   AMSC: D     	NAICS: 336330     	Quantity: 1     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+62860	A 457 010 03 30	PENN POWER GROUP LLC
+
+
+
+
+
+SPE7M426T0289.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	10-10-2025
+Return By:	10-20-2025
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7014129801
+
+	
+
+NSN: 2915-01-149-0284   Nomenclature: HOUSING ASSEMBLY,PU
+
+
+   AMSC: D     	NAICS: 336412     	Quantity: 5     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+59875	395700-1	EATON CORP
+
+
+
+
+
+SPE7M426Q0959.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	08-13-2026
+Return By:	08-19-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Origin
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7012186458
+
+	
+
+NSN: 2915-01-324-3330   Nomenclature: HOUSING,FUEL CONTROL
+
+
+   AMSC: D     	NAICS: 336412     	Quantity: 1     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+62983	623439	EATON AEROSPACE, LLC
+
+
+
+
+
+SPE4A626T15H4.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	04-08-2026
+Return By:	04-15-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Origin
+ 
+
+Tech Data:	Tech Docs
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7015606832
+
+	
+
+NSN: 1680-01-544-6603   Nomenclature: HOUSING,MATCHED SET
+
+
+   AMSC: C     	NAICS: 336413     	Quantity: 5     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+70210	2210527-2	HONEYWELL INTERNATIONAL INC.
+
+
+
+
+
+SPE4A526T369S.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	08-18-2026
+Return By:	08-25-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7015609037
+
+	
+
+NSN: 1610-00-628-6897   Nomenclature: HOUSING,BRUSH
+
+
+   AMSC: C     	NAICS: 336413     	Quantity: 46     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+73030	525397	HAMILTON SUNDSTRAND CORPORATION
+
+
+
+
+
+SPE7M026T006Q.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	07-15-2026
+Return By:	07-27-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7017470782
+
+	
+
+NSN: 3040-01-319-0119   Nomenclature: HOUSING,MECHANICAL DRI
+
+
+   AMSC: L     	NAICS: 333613     	Quantity: 8     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+05606	175F832-80	GENERAL DYNAMICS-OTS, INC.
+
+
+
+
+
+SPE7M326T5482.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	05-08-2026
+Return By:	05-18-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7016687820
+
+	
+
+NSN: 4730-01-244-3396   Nomenclature: HOUSING,CONNECTOR
+
+
+   AMSC: L     	NAICS: 332996     	Quantity: 2     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+00624	AE82859G	EATON AEROQUIP LLC
+
+
+
+
+
+SPE7L126T241R.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	03-26-2026
+Return By:	04-06-2026
+ 
+
+FOB Point:	Destination
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7016051980
+
+	
+
+NSN: 3040-01-619-1569   Nomenclature: HOUSING,MECHANICAL
+
+
+   AMSC: Q     	NAICS: 333613     	Quantity: 1     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+34712	F111083 ITEM NO 3	LAKE SHORE SYSTEMS, INC.
+34712	F129803 ITEM NO 3	LAKE SHORE SYSTEMS, INC.
+39MB7	17QS05H56	
+46UR5	17QS05H56	ABB MOTORS & MECHANICAL INC
+
+
+
+
+
+SPE7L126T226P.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	03-20-2026
+Return By:	03-30-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7015974842
+
+	
+
+NSN: 3040-01-319-0118   Nomenclature: HOUSING,MECHANICAL
+
+
+   AMSC: C     	NAICS: 336411     	Quantity: 1     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+05606	175F456-80	GENERAL DYNAMICS-OTS, INC.
+
+
+
+
+
+SPE7L126T097D.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	02-13-2026
+Return By:	02-23-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Origin
+ 
+
+Tech Data:	Tech Docs
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7013590303
+
+	
+
+NSN: 0001S00000053   Nomenclature: CONTRACTOR FIRST ARTIC
+
+
+   AMSC: G     	NAICS: ______     	Quantity: 1     
+
+
+
+
+
+NSN: 3040-01-443-9349   Nomenclature: HOUSING,MECHANICAL
+
+
+   AMSC: G     	NAICS: 333613     	Quantity: 1     
+
+
+Specification, Drawing and Standard Data Mil-Spec
+Amend No.: B DTD: 06-05-2001
+I/A/W DRW: 19206 11579926 (BASIC)   DTD: 01-07-2011
+
+
+
+
+
+
+
+
+
+
+
+
+SPE7L126Q1504.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	08-17-2026
+Return By:	08-26-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7017696345
+
+	
+
+NSN: 3040-01-323-1801   Nomenclature: HOUSING,MECHANICAL DRI
+
+
+   AMSC: C     	NAICS: 333613     	Quantity: 16     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+05606	5544108	GENERAL DYNAMICS-OTS, INC.
+
+
+
+
+
+SPE7M325T000P.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	08-25-2025
+Return By:	05-13-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7013275230
+
+	
+
+NSN: 4730-01-221-5628   Nomenclature: HOUSING,ACCUMULATOR
+
+
+   AMSC: D     	NAICS: 332996     	Quantity: 6     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+96487	294138	VALCOR ENGINEERING CORPORATION
+
+
+
+
+
+SPE7L026T0312.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	05-21-2026
+Return By:	06-01-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Origin
+ 
+
+Tech Data:	Tech Docs
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7016859051
+
+	
+
+NSN: 0001S00000053   Nomenclature: CONTRACTOR FIRST ARTIC
+
+
+   AMSC: G     	NAICS: ______     	Quantity: 1     
+
+
+
+
+
+NSN: 3040-01-502-6314   Nomenclature: HOUSING,MECHANICAL
+
+
+   AMSC: G     	NAICS: 333613     	Quantity: 4     
+
+
+Specification, Drawing and Standard Data
+Amend No.: C DTD: 07-07-2000
+I/A/W DRW: 19200 9363741 (BASIC)   DTD: 09-23-2006
+
+
+   Type #: 9363741
+
+
+
+
+
+
+
+
+
+
+SPE4A726T607P.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	08-04-2026
+Return By:	08-11-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7017674518
+
+	
+
+NSN: 5855-01-709-1811   Nomenclature: HOUSING SECTION,NIG
+
+
+   AMSC: D     	NAICS: 334511     	Quantity: 12     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+0B107	OFB-2063-A1	L3 TECHNOLOGIES, INC.
+
+
+
+
+
+SPE4A726T582D.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	07-20-2026
+Return By:	07-27-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Origin
+ 
+
+Tech Data:	Tech Docs
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7016707578
+
+	
+
+NSN: 1620-01-233-8573   Nomenclature: VALVE HOUSING,LANDI
+
+
+   AMSC: P     	NAICS: 336413     	Quantity: 4     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+70236	373545-5	TACTAIR FLUID CONTROLS INC
+98897	373545-5	LOCKHEED MARTIN CORP
+
+
+
+
+
+SPE4A726T333M.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	05-12-2026
+Return By:	05-19-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Origin
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7016575145
+
+	
+
+NSN: 2840-01-051-6304   Nomenclature: HOUSING ASSY,PUMP
+
+
+   AMSC: R     	NAICS: 336412     	Quantity: 1     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+51663	RB16505-18	HYDRO-AIRE AEROSPACE CORP.
+
+
+
+
+
+SPE4A625T05DD.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	06-23-2025
+Return By:	06-30-2025
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Origin
+ 
+
+Tech Data:	Tech Docs
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7012687973
+
+	
+
+NSN: 0001S00000053   Nomenclature: CONTRACTOR FIRST ARTIC
+
+
+   AMSC: C     	NAICS: ______     	Quantity: 1     
+
+
+
+
+
+NSN: 0001S00000062   Nomenclature: PRODUCTION LOT TESTING
+
+
+   AMSC: C     	NAICS: ______     	Quantity: 1     
+
+
+
+
+
+NSN: 3130-01-372-3042   Nomenclature: HOUSING,BEARING UNI
+
+
+   AMSC: C     	NAICS: 332991     	Quantity: 3     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+78286	70351-38122-102	SIKORSKY AIRCRAFT CORPORATION
+
+
+
+
+
+SPE7M125U0213.PDF
+  » Package View
+
+
+
+uote  	 
+
+
+
+Issued:	08-11-2025
+Return By:	08-25-2025
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	1000207932
+
+	
+
+NSN: 6105-01-124-0381   Nomenclature: MOTOR, CONTROL
+
+
+   AMSC: C     	NAICS: 335314     	Quantity: 33     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+62700	N250057	
+81755	C8704-3	LOCKHEED MARTIN CORPORATION
+82686	U-216937	TRANSICOIL LLC
+99479	AG3270-5	BOWMAR LLC
+
+
+
+
+
+SPE4A726T016Q.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	02-25-2026
+Return By:	03-04-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Origin
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7015535441
+
+	
+
+NSN: 1680-20-002-5494   Nomenclature: HOUSING ASSEMBLY,SP
+
+
+   AMSC: C     	NAICS: 336413     	Quantity: 2     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+3AD18	43301-07	
+
+
+
+
+
+SPE4A726T005B.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	02-24-2026
+Return By:	03-06-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7015603562
+
+	
+
+NSN: 6610-00-835-7615   Nomenclature: HOUSING ASSY,INDICA
+
+
+   AMSC: R     	NAICS: 334511     	Quantity: 46     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+10138	102384	ASTRONAUTICS CORPORATION OF AMERICA
+54709	102384	MOD-A-CAN INC
+
+
+
+
+
+SPE4A526T5821.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	12-22-2025
+Return By:	12-29-2025
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7014921953
+
+	
+
+NSN: 1680-00-939-8456   Nomenclature: HOUSING ASSY
+
+
+   AMSC: Q     	NAICS: 336413     	Quantity: 3     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+12511	AA5150	SIMMONDS PRECISION PRODUCTS INC
+
+
+
+
+
+SPE4A526T4919.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	12-11-2025
+Return By:	12-18-2025
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Origin
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7014780708
+
+	
+
+NSN: 6105-00-590-6820   Nomenclature: HOUSING,BRAKE
+
+
+   AMSC: D     	NAICS: 335312     	Quantity: 1     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+70210	1010122	HONEYWELL INTERNATIONAL INC.
+
+
+
+
+
+SPE4A526T356X.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	08-17-2026
+Return By:	08-24-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Origin
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7017740910
+
+	
+
+NSN: 0001S00000053   Nomenclature: CONTRACTOR FIRST ARTIC
+
+
+   AMSC: P     	NAICS: ______     	Quantity: 1     
+
+
+
+
+
+NSN: 0001S00000062   Nomenclature: PRODUCTION LOT TESTING
+
+
+   AMSC: P     	NAICS: ______     	Quantity: 1     
+
+
+
+
+
+NSN: 1620-00-968-8327   Nomenclature: HOUSING,SWIVEL,LOWE
+
+
+   AMSC: P     	NAICS: 336413     	Quantity: 7     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+45934	174163	ONTIC ENGINEERING & MANUFACTURING,
+
+
+
+
+
+SPE4A526T3563.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	11-19-2025
+Return By:	11-26-2025
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7014544863
+
+	
+
+NSN: 1650-00-798-6760   Nomenclature: HOUSING ASSY,TRUNNI
+
+
+   AMSC: C     	NAICS: 336413     	Quantity: 16     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+99167	698669	HAMILTON SUNDSTRAND CORPORATION
+
+
+
+
+
+SPE7MC26T9913.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	05-11-2026
+Return By:	05-27-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7014816855
+
+	
+
+NSN: 4810-00-737-3321   Nomenclature: PLATE,VALVE HOUSING
+
+
+   AMSC: D     	NAICS: 332911     	Quantity: 18     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+98889	657114	AEROCONTROLEX GROUP, INC.
+
+
+
+
+
+SPE4A725T675T.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	07-23-2025
+Return By:	07-30-2025
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Origin
+ 
+
+Tech Data:	Tech Docs
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7011474738
+
+	
+
+NSN: 0001S00000053   Nomenclature: CONTRACTOR FIRST ARTIC
+
+
+   AMSC: P     	NAICS: ______     	Quantity: 1     
+
+
+
+
+
+NSN: 1615-01-335-2693   Nomenclature: HOUSING SPECIAL
+
+
+   AMSC: P     	NAICS: 336413     	Quantity: 59     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+33068	145H6605-1	TRIUMPH ACTUATION SYSTEMS -
+77272	145H6605-1	THE BOEING COMPANY
+
+
+
+
+
+SPE4A725T566V.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	06-26-2025
+Return By:	07-03-2025
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7012754833
+
+	
+
+NSN: 1560-01-036-2952   Nomenclature: HOUSING LATCH ASSEM
+
+
+   AMSC: R     	NAICS: 336413     	Quantity: 6     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+83014	H2567-11	HARTWELL CORPORATION
+
+
+
+
+
+SPE4A526T125X.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	05-11-2026
+Return By:	07-10-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Origin
+ 
+
+Tech Data:	Tech Docs
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7016471881
+
+	
+
+NSN: 6610-00-448-9004   Nomenclature: HOUSING FRAME ASSY
+
+
+   AMSC: P     	NAICS: 334511     	Quantity: 2     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+25583	522-1018-01	ACRON AVIATION, INC.
+
+
+
+
+1 2 3 4 5 6 7
+
+
+· RFQ Text Search
+Query String:
+
+
+
+Modified: 
+Any time
+last hour
+last day
+last 7 days
+last 30 days
+last 60 days
+last 90 days
+last 365 days
+	Sort: 
+Best Match
+Newly Posted to Oldest
+Oldest Posted to Newest
+
+Filter:
+  
+Automated Indefinite Delivery Contract (AIDC)
+
+
+  
+Items with Technical Documents
+
+
+  
+Fast Award Candidates
+
+
+  
+Small Business Set-Asides
+
+
+  
+HUBZone Set-Asides
+
+	
+  
+Service Disabled Veteran Owned
+      Small Business Set-Asides
+
+
+Woman Owned Small Business Set-Asides
+
+
+Economically Disadvantaged Women Owned Small Business Set-Asides
+
+
+Unrestricted/Not Set-Asides
+
+
+ 
+
+
+
+
+ 
+Policy Statements · Feedback
+   EOXD8AUZtkHO8wt7m812jA==
+   Ver.6.3.2
+

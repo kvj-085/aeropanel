@@ -1,0 +1,3213 @@
+FAQ/Help · Refs · My Account · Log In
+
+
+   Home       Solicitations       RFQs       RFP/IFB/Other RFQs       Tech Data       Downloads        Awards   
+
+
+Navigation: 
+Navigation/Documents - - - - - -
+Accessibility
+Awards Area
+- Awards by Award DT
+- Awards by Post DT
+- Market Ready Orders ®
+- Post Award Request (PAR)®
+Batch Quoting ®
+Batch Quoting File Format
+BidSets
+Contracts
+Delivery Orders
+FAQs
+Feedback
+Forecast ®
+FSC ~ DLA Managed
+Global Search
+Home Page
+Invitation For Bid (IFB) Area
+Log In Screen
+Master Solicitation (PAC)
+Notices/Message Board
+Post Award Request (PAR)®
+Quoting Help
+Quote Search ®
+Request For Proposal (RFP)Area
+Request For Quote (RFQ) Area
+- RFQs by Issue Date
+- RFQs by Return By Date
+- RFQs Recent
+References
+Registration
+Solicitations
+SRVA ®
+User(s) Profile Update ®
+Vendor Profile Update ®
+Welcome Page ®
+Regs / Supplement Extracts ---
+DFARS 225.502
+DFARS 252.211-7005
+DFARS 252.211-7006
+DFARS 252.223-7001
+DFARS 252.225-7001
+DFARS 252.225-7035
+DFARS 252.225-7036
+DLAD 52.211-9000
+DLAD 52.213-9000
+DLAD 52.217-9002
+DLAD 52.219-9015
+DLAD 52.223-9000
+DLAD 52.233-9001
+FAR 52.209-1
+FAR 52.211-5
+FAR 52.212-3
+FAR 52.219-1
+FAR 52.222-18
+FAR 52.222-22
+FAR 52.222-25
+FAR 52.222-26
+FAR 52.223-3
+ 
+
+Database Search: 
+Choose Search
+RFQs - NSN
+RFQs - Solicitation
+RFQs - PR
+-----------------------
+Awards - Awardee CAGE
+Awards - Award/Basic Number
+Awards - Delivery Order #
+Awards - NSN
+Awards - PR
+-----------------------
+RFP/IFB/Other RFQs - Solicitation
+RFP/IFB/Other RFQs - NSN
+-----------------------
+CAGE Search
+  Value: 
+
+
+Notice:   · Suspension of CMMC Phase II » Read Notice
+
+  Please read notices posted on the Notices page.
+
+
+  Location: Home » Solicitations » RFQs » RFQ Text Search
+[
+RFQ Search
+-
+Recent RFQs
+-
+RFQs by Issue Date
+-
+RFQs by Return By Date
+-
+RFQs by FSC
+]
+[ 273 ] 9/30/2026 12:11:25 PM
+
+
+
+Documents Indexed: 161,967
+
+Additional RFQ Text Search Help
+
+Found 66 records for this search query string.
+Modified: Any time
+
+
+
+1
+Solicitation Information	Product Data
+
+SPE7M026T108A.PDF
+  » Package View
+
+
+
+uote  	 
+
+
+
+Issued:	09-30-2026
+Return By:	10-13-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-09-29 09:03:10
+ 
+
+Purchase Request:	7018543997
+
+	
+
+NSN: 5930-01-685-3776   Nomenclature: PUSH BUTTON
+
+
+   AMSC: D     	NAICS: 335313     	Quantity: 1     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+56161	R0182035-0103	GENERAL DYNAMICS LAND SYSTEMS - CAN
+
+
+
+
+
+SPE7M826T6611.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	09-11-2026
+Return By:	09-29-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-09-24 07:21:41
+ 
+
+Purchase Request:	7018272368
+
+	
+
+NSN: 5930-12-385-3383   Nomenclature: PUSH BUTTON
+
+
+   AMSC: D     	NAICS: 335313     	Quantity: 105     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+D1901	80085118	HENSOLDT SENSORS GMBH
+D9053	1SFA611100R1108	
+
+
+
+
+
+SPE7M826T6889.PDF
+  » Package View
+
+
+
+uote  	 
+
+
+
+Issued:	09-25-2026
+Return By:	10-05-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-09-24 04:56:31
+ 
+
+Purchase Request:	7018487266
+
+	
+
+NSN: 5930-01-697-7124   Nomenclature: PUSH BUTTON
+
+
+   AMSC: D     	NAICS: 335313     	Quantity: 1     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+01121	800FP-G306PQ10	ROCKWELL AUTOMATION, INC.
+
+
+
+
+
+SPE7M826T6855.PDF
+  » Package View
+
+
+
+uote  	 
+
+
+
+Issued:	09-25-2026
+Return By:	10-05-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-09-24 07:06:10
+ 
+
+Purchase Request:	7018498372
+
+	
+
+NSN: 5930-01-463-2131   Nomenclature: PUSH BUTTON
+
+
+   AMSC: L     	NAICS: 334419     	Quantity: 2     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+08719	10648DP1-8P	DUCOMMUN LABARGE TECHNOLOGIES, INC
+51993	299627-008	THE CHARLES STARK DRAPER LABORATORY
+
+
+
+
+
+SPE7M826T6804.PDF
+  » Package View
+
+
+
+uote  	 
+
+
+
+Issued:	09-24-2026
+Return By:	10-05-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-09-23 08:42:37
+ 
+
+Purchase Request:	7018468386
+
+	
+
+NSN: 5930-01-697-7124   Nomenclature: PUSH BUTTON
+
+
+   AMSC: D     	NAICS: 335313     	Quantity: 1     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+01121	800FP-G306PQ10	ROCKWELL AUTOMATION, INC.
+
+
+
+
+
+SPE7M826T6763.PDF
+  » Package View
+
+
+
+uote  	 
+
+
+
+Issued:	09-21-2026
+Return By:	10-01-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-09-21 12:15:48
+ 
+
+Purchase Request:	7017722121, 7017722122
+
+	
+
+NSN: 5930-14-554-3431   Nomenclature: PUSH BUTTON
+
+
+   AMSC: Q     	NAICS: 335313     	Quantity: 2     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+U6625	T45-05-LB	
+
+
+
+
+
+SPE7M826T6754.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	09-18-2026
+Return By:	09-28-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-09-17 03:35:22
+ 
+
+Purchase Request:	7015756025
+
+	
+
+NSN: 5930-01-602-1921   Nomenclature: PUSH BUTTON
+
+
+   AMSC: D     	NAICS: 335313     	Quantity: 10     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+3CX85	20706227-27	GENERAL DYNAMICS MISSION SYSTEMS, I
+3CX89	D-3778 REV D ITEM 45	GENERAL DYNAMICS MISSION SYSTEMS, I
+
+
+
+
+
+SPE7M826T6744.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	09-18-2026
+Return By:	09-28-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-09-17 09:40:14
+ 
+
+Purchase Request:	7016588504
+
+	
+
+NSN: 5930-01-685-3776   Nomenclature: PUSH BUTTON
+
+
+   AMSC: D     	NAICS: 335313     	Quantity: 1     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+56161	R0182035-0103	GENERAL DYNAMICS LAND SYSTEMS - CAN
+
+
+
+
+
+SPE7M826T6685.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	09-16-2026
+Return By:	09-28-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-09-15 10:39:27
+ 
+
+Purchase Request:	7018272154
+
+	
+
+NSN: 5930-14-554-3431   Nomenclature: PUSH BUTTON
+
+
+   AMSC: Q     	NAICS: 335313     	Quantity: 34     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+U6625	T45-05-LB	
+
+
+
+
+
+SPE7M026T086B.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	09-16-2026
+Return By:	09-28-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-09-15 06:57:02
+ 
+
+Purchase Request:	7018319037
+
+	
+
+NSN: 5930-01-685-3776   Nomenclature: PUSH BUTTON
+
+
+   AMSC: D     	NAICS: 335313     	Quantity: 1     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+56161	R0182035-0103	GENERAL DYNAMICS LAND SYSTEMS - CAN
+
+
+
+
+
+SPE7M826T6640.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	09-14-2026
+Return By:	09-24-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Origin
+ 
+
+Tech Data:	Tech Docs
+ 
+
+Document Post/Updated:	2026-09-13 03:47:14
+ 
+
+Purchase Request:	7018274773
+
+	
+
+NSN: 0001S00000053   Nomenclature: CONTRACTOR FIRST ARTIC
+
+
+   AMSC: G     	NAICS: ______     	Quantity: 1     
+
+
+
+
+
+NSN: 5930-01-167-4606   Nomenclature: PUSH BUTTON
+
+
+   AMSC: G     	NAICS: 334419     	Quantity: 20     
+
+
+Specification, Drawing and Standard Data Mil-Spec
+Amend No.: J DTD: 05-18-2026
+I/A/W DRW: 81361 13-12-37 (BASIC)   DTD: 06-18-2026
+
+
+
+
+
+
+
+
+
+
+
+
+SPE7M826T6614.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	09-11-2026
+Return By:	09-21-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-09-10 06:37:17
+ 
+
+Purchase Request:	7018269274
+
+	
+
+NSN: 5930-01-737-1080   Nomenclature: PUSH BUTTON
+
+
+   AMSC: Q     	NAICS: 335313     	Quantity: 19     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+60886	AB6E-4BV02PTRH	
+
+
+
+
+
+SPE7M826T6526.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	09-11-2026
+Return By:	09-21-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-09-10 03:06:59
+ 
+
+Purchase Request:	7018271589
+
+	
+
+NSN: 5930-01-296-3554   Nomenclature: PUSH BUTTON
+
+
+   AMSC: R     	NAICS: 334419     	Quantity: 131     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+21793	921049-01	ASTRONICS TEST SYSTEMS INC
+
+
+
+
+
+SPE7M826T6545.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	09-11-2026
+Return By:	09-21-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-09-10 03:06:59
+ 
+
+Purchase Request:	7018271587
+
+	
+
+NSN: 5930-01-296-3558   Nomenclature: PUSH BUTTON
+
+
+   AMSC: R     	NAICS: 334419     	Quantity: 45     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+21793	921049-09	ASTRONICS TEST SYSTEMS INC
+
+
+
+
+
+SPE4A526T410Y.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	09-10-2026
+Return By:	09-17-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-09-09 03:19:40
+ 
+
+Purchase Request:	7018249335
+
+	
+
+NSN: 5930-00-394-6432   Nomenclature: PUSH BUTTON
+
+
+   AMSC: P     	NAICS: 334419     	Quantity: 2     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+07187	4004345	HONEYWELL INTERNATIONAL INC.
+
+
+
+
+
+SPE7M826T6439.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	09-10-2026
+Return By:	09-21-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Origin
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-09-09 01:13:04
+ 
+
+Purchase Request:	7018242509
+
+	
+
+NSN: 5930-01-421-3728   Nomenclature: PUSH BUTTON
+
+
+   AMSC: L     	NAICS: 334419     	Quantity: 5     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+80009	260-2539-00	TEKTRONIX, INC.
+
+
+
+
+
+SPE7M826T6430.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	09-08-2026
+Return By:	09-18-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-09-07 04:26:58
+ 
+
+Purchase Request:	7018186614
+
+	
+
+NSN: 5930-01-484-0951   Nomenclature: PUSH BUTTON
+
+
+   AMSC: Q     	NAICS: 334419     	Quantity: 3     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+01121	800EM-PL4	ROCKWELL AUTOMATION, INC.
+
+
+
+
+
+SPE7M826T6362.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	08-31-2026
+Return By:	09-10-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-30 03:26:25
+ 
+
+Purchase Request:	7018084057
+
+	
+
+NSN: 5930-01-542-5345   Nomenclature: PUSH BUTTON
+
+
+   AMSC: H     	NAICS: 334419     	Quantity: 1     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+59618	J200217200P	ALLIANCE LAUNDRY SYSTEMS LLC
+
+
+
+
+
+SPE7M826T6282.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	08-27-2026
+Return By:	09-08-2026
+ 
+
+FOB Point:	Destination
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-26 02:48:42
+ 
+
+Purchase Request:	7017591807
+
+	
+
+NSN: 5930-01-482-1775   Nomenclature: PUSH BUTTON
+
+
+   AMSC: L     	NAICS: 334419     	Quantity: 1     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+28199	A-23657-2	L3 TECHNOLOGIES, INC.
+
+
+
+
+
+SPE7M826T6271.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	08-27-2026
+Return By:	09-08-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-26 01:11:45
+ 
+
+Purchase Request:	7013652280
+
+	
+
+NSN: 5930-01-473-1090   Nomenclature: PUSH BUTTON
+
+
+   AMSC: C     	NAICS: 334419     	Quantity: 5     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+08719	10648DC24-425	DUCOMMUN LABARGE TECHNOLOGIES, INC
+
+
+
+
+
+SPE7M826T6269.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	08-27-2026
+Return By:	09-08-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-26 12:39:16
+ 
+
+Purchase Request:	7018020373
+
+	
+
+NSN: 5930-01-737-3446   Nomenclature: PUSH BUTTON
+
+
+   AMSC: Q     	NAICS: 335313     	Quantity: 1     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+60886	LB2L-M1T54A	
+
+
+
+
+
+SPE7M826T6267.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	08-27-2026
+Return By:	09-08-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-26 12:39:16
+ 
+
+Purchase Request:	7018020372
+
+	
+
+NSN: 5930-01-737-3443   Nomenclature: PUSH BUTTON
+
+
+   AMSC: Q     	NAICS: 335313     	Quantity: 20     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+60886	LB2L-M1T54G	
+
+
+
+
+
+SPE7M026T055U.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	08-26-2026
+Return By:	09-08-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-25 08:33:11
+ 
+
+Purchase Request:	7018024051
+
+	
+
+NSN: 5930-01-356-4067   Nomenclature: PUSH BUTTON
+
+
+   AMSC: D     	NAICS: 334419     	Quantity: 1     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+78062	52000-1480	SARGENT AEROSPACE & DEFENSE, LLC
+
+
+
+
+
+SPE7M826T6106.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	08-21-2026
+Return By:	08-31-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-22 11:29:04
+ 
+
+Purchase Request:	7017984350
+
+	
+
+NSN: 5930-01-453-4529   Nomenclature: PUSH BUTTON
+
+
+   AMSC: D     	NAICS: 334419     	Quantity: 5     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+12522	92P0136-017	STACO SYSTEMS, INC.
+34228	918580	L3 TECHNOLOGIES, INC.
+
+
+
+
+
+SPE7M826T5404.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	07-16-2026
+Return By:	07-27-2026
+ 
+
+FOB Point:	Destination
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7017493028
+
+	
+
+NSN: 5930-01-482-1775   Nomenclature: PUSH BUTTON
+
+
+   AMSC: L     	NAICS: 334419     	Quantity: 1     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+28199	A-23657-2	L3 TECHNOLOGIES, INC.
+
+
+
+
+
+SPE7M826T6049.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	08-20-2026
+Return By:	08-31-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7017942810
+
+	
+
+NSN: 5930-01-296-3554   Nomenclature: PUSH BUTTON
+
+
+   AMSC: R     	NAICS: 334419     	Quantity: 1     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+21793	921049-01	ASTRONICS TEST SYSTEMS INC
+
+
+
+
+
+SPE7M826T5908.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	08-07-2026
+Return By:	08-17-2026
+ 
+
+FOB Point:	Destination
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	Tech Docs
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7017608424
+
+	
+
+NSN: 5930-01-367-8616   Nomenclature: PUSH BUTTON
+
+
+   AMSC: G     	NAICS: 334419     	Quantity: 1     
+
+
+Specification, Drawing and Standard Data
+Amend No.: DTD: 06-11-2026
+I/A/W DRW: 16236 RE-013678616 (BASIC)   DTD: 07-17-2026
+
+
+
+
+
+
+
+
+
+
+
+
+SPE7M826T4769.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	06-10-2026
+Return By:	06-22-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7014130883
+
+	
+
+NSN: 5930-01-189-3091   Nomenclature: PUSH BUTTON
+
+
+   AMSC: R     	NAICS: 334419     	Quantity: 86     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+24956	12563-40-SW27WC	
+24956	SW12563	
+
+
+
+
+
+SPE7M826T4002.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	05-08-2026
+Return By:	05-18-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7016707224
+
+	
+
+NSN: 5930-01-123-1368   Nomenclature: PUSH BUTTON
+
+
+   AMSC: C     	NAICS: 334419     	Quantity: 74     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+81579	STD646-05	MASON ELECTRIC CO.
+81755	C10570-1	LOCKHEED MARTIN CORPORATION
+
+
+
+
+
+SPE7M826T2767.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	03-19-2026
+Return By:	03-30-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Origin
+ 
+
+Tech Data:	Tech Docs
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7008668655
+
+	
+
+NSN: 0001S00000052   Nomenclature: GOVERNMENT FIRST ARTIC
+
+
+   AMSC: C     	NAICS: ______     	Quantity: 1     
+
+
+
+
+
+NSN: 5930-01-216-5163   Nomenclature: PUSH BUTTON
+
+
+   AMSC: C     	NAICS: 334419     	Quantity: 12     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+81755	C8873-1	LOCKHEED MARTIN CORPORATION
+
+
+
+
+
+SPE7M825T3545.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	03-28-2025
+Return By:	04-07-2025
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7011453712
+
+	
+
+NSN: 5930-00-856-3573   Nomenclature: PUSH BUTTON,SWITCH
+
+
+   AMSC: D     	NAICS: 335313     	Quantity: 1     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+79500	1764847	
+
+
+
+
+
+SPE8EF26T1060.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	04-30-2026
+Return By:	06-23-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7016565404
+
+	
+
+NSN: 1730-01-584-0403   Nomenclature: PUSH BUTTON OPRATR,
+
+
+   AMSC: Z     	NAICS: 336413     	Quantity: 33     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+4JEL0	P9XEM3GN	REXEL USA, INC.
+
+
+
+
+
+SPE7M026Q1191.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	08-13-2026
+Return By:	08-18-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7017784067
+
+	
+
+NSN: 5930-01-706-3708   Nomenclature: PUSH BUTTON
+
+
+   AMSC: Z     	NAICS: 335313     	Quantity: 1     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+68592	E34PB3-1	
+
+
+
+
+
+SPE7M826T4246.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	05-21-2026
+Return By:	06-01-2026
+ 
+
+FOB Point:	Destination
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7016852884
+
+	
+
+NSN: 5930-01-589-8232   Nomenclature: PUSH BUTTON
+
+
+   AMSC: Q     	NAICS: 335313     	Quantity: 2     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+3CR80	111-99	BLACOH FLUID CONTROLS INC
+
+
+
+
+
+SPE7M826T5999.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	08-17-2026
+Return By:	08-27-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7017315433
+
+	
+
+NSN: 5930-12-359-1370   Nomenclature: PUSH BUTTON
+
+
+   AMSC: R     	NAICS: 335313     	Quantity: 75     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+D0857	390.19.0065	VINCORION POWER SYSTEMS GMBH
+D1149	3SB3001-0AA61-Z+B01	
+
+
+
+
+
+SPE7M026T038Z.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	08-12-2026
+Return By:	08-24-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7017821882, 7017821883
+
+	
+
+NSN: 5930-99-866-6814   Nomenclature: PUSH BUTTON
+
+
+   AMSC: D     	NAICS: 334419     	Quantity: 2     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+K7705	77/9194	KNDS DEFENCE UK LIMITED
+K7705	G406/8627 ITEM 13	KNDS DEFENCE UK LIMITED
+K7705	G406/8627/13	KNDS DEFENCE UK LIMITED
+
+
+
+
+
+SPE7M826T5055.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	06-26-2026
+Return By:	07-06-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7017290024
+
+	
+
+NSN: 5930-01-731-1679   Nomenclature: PUSH BUTTON
+
+
+   AMSC: Q     	NAICS: 335313     	Quantity: 1     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+75252	GOL1R2	
+
+
+
+
+
+SPE7M826T4941.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	06-22-2026
+Return By:	07-02-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7017235090
+
+	
+
+NSN: 5930-01-495-1368   Nomenclature: PUSH BUTTON
+
+
+   AMSC: C     	NAICS: 335313     	Quantity: 2     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+27192	53-4205	DRS NAVAL POWER SYSTEMS INC
+27192	6967ED521PC7-2	DRS NAVAL POWER SYSTEMS INC
+
+
+
+
+
+SPE7M826T2545.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	03-05-2026
+Return By:	03-16-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7015756007
+
+	
+
+NSN: 5930-01-602-1878   Nomenclature: PUSH BUTTON
+
+
+   AMSC: D     	NAICS: 335313     	Quantity: 1     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+3CX85	20706227-12	GENERAL DYNAMICS MISSION SYSTEMS, I
+3CX89	D-3778 REV D ITEM 30	GENERAL DYNAMICS MISSION SYSTEMS, I
+
+
+
+
+
+SPE7M826T1447.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	01-07-2026
+Return By:	01-20-2026
+ 
+
+FOB Point:	Destination
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7014999943
+
+	
+
+NSN: 5930-01-482-1775   Nomenclature: PUSH BUTTON
+
+
+   AMSC: L     	NAICS: 334419     	Quantity: 1     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+28199	A-23657-2	L3 TECHNOLOGIES, INC.
+
+
+
+
+
+SPE7M826T5683.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	07-31-2026
+Return By:	08-10-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Origin
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7017425442
+
+	
+
+NSN: 5930-12-321-6621   Nomenclature: PUSH BUTTON
+
+
+   AMSC: C     	NAICS: 334419     	Quantity: 10     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+D1149	3SB1000-0AB01	
+
+
+
+
+
+SPE7M826T4594.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	06-04-2026
+Return By:	06-15-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7017038492
+
+	
+
+NSN: 5930-01-473-1090   Nomenclature: PUSH BUTTON
+
+
+   AMSC: C     	NAICS: 334419     	Quantity: 5     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+08719	10648DC24-425	DUCOMMUN LABARGE TECHNOLOGIES, INC
+
+
+
+
+
+SPE7M826T4943.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	06-22-2026
+Return By:	07-02-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7017235092
+
+	
+
+NSN: 5930-01-495-1739   Nomenclature: PUSH BUTTON
+
+
+   AMSC: L     	NAICS: 335313     	Quantity: 2     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+27192	53-4208	DRS NAVAL POWER SYSTEMS INC
+27192	6967ED521PC7-5	DRS NAVAL POWER SYSTEMS INC
+
+
+
+
+
+SPE7M826T4804.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	06-15-2026
+Return By:	06-25-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7016268603
+
+	
+
+NSN: 5930-01-495-1365   Nomenclature: PUSH BUTTON
+
+
+   AMSC: C     	NAICS: 335313     	Quantity: 2     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+27192	53-4204	DRS NAVAL POWER SYSTEMS INC
+
+
+
+
+
+SPE7M826T4036.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	05-11-2026
+Return By:	05-21-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7015603693
+
+	
+
+NSN: 5930-01-508-2967   Nomenclature: PUSH BUTTON
+
+
+   AMSC: P     	NAICS: 335313     	Quantity: 2     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+27192	53-4187	DRS NAVAL POWER SYSTEMS INC
+27192	6967ED529PC16-5	DRS NAVAL POWER SYSTEMS INC
+
+
+
+
+
+SPE7M826T6048.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	08-20-2026
+Return By:	08-31-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7017942809
+
+	
+
+NSN: 5930-01-296-3558   Nomenclature: PUSH BUTTON
+
+
+   AMSC: R     	NAICS: 334419     	Quantity: 1     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+21793	921049-09	ASTRONICS TEST SYSTEMS INC
+
+
+
+
+
+SPE7M826T4147.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	05-14-2026
+Return By:	05-26-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7015756014
+
+	
+
+NSN: 5930-01-602-1887   Nomenclature: PUSH BUTTON
+
+
+   AMSC: D     	NAICS: 335931     	Quantity: 1     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+32245	LED-41-61-BG-3541D	APPLIED AVIONICS, LLC
+3CX89	D-3778 REV D ITEM 25	GENERAL DYNAMICS MISSION SYSTEMS, I
+
+
+
+
+
+SPE7M826T1776.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	01-23-2026
+Return By:	02-02-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7015230925
+
+	
+
+NSN: 5930-01-495-1739   Nomenclature: PUSH BUTTON
+
+
+   AMSC: L     	NAICS: 335313     	Quantity: 2     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+27192	53-4208	DRS NAVAL POWER SYSTEMS INC
+27192	6967ED521PC7-5	DRS NAVAL POWER SYSTEMS INC
+
+
+
+
+
+SPE7M026T020P.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	07-29-2026
+Return By:	08-10-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7017643955
+
+	
+
+NSN: 5930-01-593-7158   Nomenclature: PUSH BUTTON
+
+
+   AMSC: D     	NAICS: 335313     	Quantity: 1     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+1VD61	390.19.0077	VINCORION LLC
+
+
+
+
+
+SPE2DS26T460G.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	09-22-2026
+Return By:	09-28-2026
+ 
+
+FOB Point:	Destination
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-09-21 09:13:52
+ 
+
+Purchase Request:	7017553280, 7017629599
+
+	
+
+NSN: 6515-01-568-9486   Nomenclature: TAPE,MEASURING,SURG
+
+
+   AMSC: Z     	NAICS: 339112     	Quantity: 20     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+43RV5	1162	BEST PRICED PRODUCTS, INC.
+5Z788	12-1201	
+
+
+
+
+
+SPE7M826T6519.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	09-11-2026
+Return By:	09-24-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-09-21 09:10:37
+ 
+
+Purchase Request:	7018270783
+
+	
+
+NSN: 5930-01-048-0122   Nomenclature: SWITCH,PUSH
+
+
+   AMSC: C     	NAICS: 334419     	Quantity: 3     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+08719	10648BG4-2103	DUCOMMUN LABARGE TECHNOLOGIES, INC
+
+
+
+
+
+SPE2DS26T455L.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	09-21-2026
+Return By:	09-28-2026
+ 
+
+FOB Point:	Destination
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-09-21 12:15:48
+ 
+
+Purchase Request:	7018424093
+
+	
+
+NSN: 6515-01-497-7933   Nomenclature: CANE,WALKING
+
+
+   AMSC: Z     	NAICS: 339112     	Quantity: 4     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+0PMN3	MDS86415H1	MEDLINE INDUSTRIES, LP
+
+
+
+
+
+SPE7L126T12X4.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	09-17-2026
+Return By:	09-28-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Origin
+ 
+
+Tech Data:	Tech Docs
+ 
+
+Document Post/Updated:	2026-09-16 05:29:45
+ 
+
+Purchase Request:	7018377902
+
+	
+
+NSN: 1020-00-225-2232   Nomenclature: VALVE,THREE-WAY,PUS
+
+
+   AMSC: G     	NAICS: 332994     	Quantity: 19     
+
+
+Specification, Drawing and Standard Data
+Amend No.: C DTD: 05-24-2002
+I/A/W DRW: 10001 2532128 (BASIC)   DTD: 06-18-2026
+
+
+   Type #: P/N 2532128
+
+
+
+
+
+
+
+
+
+
+SPE2DS26T433K.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	09-15-2026
+Return By:	09-21-2026
+ 
+
+FOB Point:	Destination
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-09-14 05:23:40
+ 
+
+Purchase Request:	7018305941
+
+	
+
+NSN: 6515-01-577-4676   Nomenclature: CRUTCH
+
+
+   AMSC: Z     	NAICS: 334511     	Quantity: 5     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+0PMN3	MDSV80536LFH	MEDLINE INDUSTRIES, LP
+
+
+
+
+
+SPE2DS26T433P.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	09-15-2026
+Return By:	09-21-2026
+ 
+
+FOB Point:	Destination
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-09-14 05:23:40
+ 
+
+Purchase Request:	7018306161
+
+	
+
+NSN: 6515-01-542-2899   Nomenclature: CRUTCH
+
+
+   AMSC: Z     	NAICS: 339113     	Quantity: 5     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+0PMN3	MDS80536HW	MEDLINE INDUSTRIES, LP
+
+
+
+
+
+SPE7M826T6668.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	09-15-2026
+Return By:	09-25-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-09-14 03:36:17
+ 
+
+Purchase Request:	7018268162
+
+	
+
+NSN: 5930-01-227-8914   Nomenclature: PUSH BUTTON
+
+
+   AMSC: C     	NAICS: 334419     	Quantity: 10     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+08719	10620SY12-405	DUCOMMUN LABARGE TECHNOLOGIES, INC
+78286	70902-01803-102	SIKORSKY AIRCRAFT CORPORATION
+
+
+
+
+
+SPE2DS26T388X.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	09-02-2026
+Return By:	09-08-2026
+ 
+
+FOB Point:	Destination
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-09-01 12:48:48
+ 
+
+Purchase Request:	7018128310
+
+	
+
+NSN: 6515-01-577-4676   Nomenclature: CRUTCH
+
+
+   AMSC: Z     	NAICS: 334511     	Quantity: 8     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+0PMN3	MDSV80536LFH	MEDLINE INDUSTRIES, LP
+
+
+
+
+
+SPE8ED26T1329.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	09-01-2026
+Return By:	09-11-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-31 02:51:52
+ 
+
+Purchase Request:	7018105981
+
+	
+
+NSN: 3530-01-450-1149   Nomenclature: SEWING MACHINE,INDUSTR
+
+
+   AMSC: Z     	NAICS: 333248     	Quantity: 1     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+90338	MODEL 440R	CONSOLIDATED SEWING MACHINE CORP
+
+
+
+
+
+SPE7M826T6124.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	08-21-2026
+Return By:	08-31-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-22 11:29:04
+ 
+
+Purchase Request:	7017982728
+
+	
+
+NSN: 5930-01-478-7211   Nomenclature: PUSH BUTTON
+
+
+   AMSC: R     	NAICS: 334419     	Quantity: 78     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+60969	P9MER4RN	
+75906	581905-002	PACIFIC CONSOLIDATED INDUSTRIES LLC
+
+
+
+
+
+SPE7M526T7580.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	02-20-2026
+Return By:	03-02-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7015602864
+
+	
+
+NSN: 5930-01-269-5067   Nomenclature: SWITCH,PUSH
+
+
+   AMSC: L     	NAICS: 334419     	Quantity: 2     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+879B2	851-24512-123	SAFRAN ELECTRONICS & DEFENSE, AVION
+96169	2635-088-22 ITEM 1-150	ELECTRIC BOAT CORPORATION
+
+
+
+
+
+SPE7M826T5552.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	07-24-2026
+Return By:	08-06-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7017603923
+
+	
+
+NSN: 5930-01-235-8809   Nomenclature: SWITCH,PUSH
+
+
+   AMSC: L     	NAICS: 334419     	Quantity: 2     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+08719	10620 NAC-2	DUCOMMUN LABARGE TECHNOLOGIES, INC
+
+
+
+
+
+SPE7M826T2868.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	03-27-2026
+Return By:	04-06-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7016086381
+
+	
+
+NSN: 5930-01-269-8128   Nomenclature: SWITCH,PUSH
+
+
+   AMSC: L     	NAICS: 334419     	Quantity: 2     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+879B2	851-24512-121	SAFRAN ELECTRONICS & DEFENSE, AVION
+96169	2635-088-22 ITEM 1-148	ELECTRIC BOAT CORPORATION
+
+
+
+
+
+SPE7M826T3697.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	04-30-2026
+Return By:	05-11-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7015053180
+
+	
+
+NSN: 5930-01-679-3863   Nomenclature: PUSH BUTTON
+
+
+   AMSC: D     	NAICS: 335313     	Quantity: 3     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+12522	631746-019	STACO SYSTEMS, INC.
+
+
+
+
+
+SPE2DS26T355Y.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	08-20-2026
+Return By:	08-25-2026
+ 
+
+FOB Point:	Destination
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7017937995
+
+	
+
+NSN: 6515-01-575-6486   Nomenclature: PENCIL,ELECTRODE,ELECT
+
+
+   AMSC: Z     	NAICS: 334511     	Quantity: 1     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+53321	131309A	CONMED CORP
+
+
+
+
+
+SPE7M526T118N.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	05-07-2026
+Return By:	05-18-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7015893144
+
+	
+
+NSN: 5930-01-270-1677   Nomenclature: SWITCH,PUSH
+
+
+   AMSC: H     	NAICS: 334419     	Quantity: 2     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+879B2	851-24512-118	SAFRAN ELECTRONICS & DEFENSE, AVION
+96169	2635-088-22 ITEM 1-145	ELECTRIC BOAT CORPORATION
+
+
+
+
+
+SPE7M526T287J.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	06-29-2026
+Return By:	07-09-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7017315253
+
+	
+
+NSN: 5930-01-269-5067   Nomenclature: SWITCH,PUSH
+
+
+   AMSC: L     	NAICS: 334419     	Quantity: 2     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+879B2	851-24512-123	SAFRAN ELECTRONICS & DEFENSE, AVION
+96169	2635-088-22 ITEM 1-150	ELECTRIC BOAT CORPORATION
+
+
+
+
+1
+
+
+· RFQ Text Search
+Query String:
+
+
+
+Modified: 
+Any time
+last hour
+last day
+last 7 days
+last 30 days
+last 60 days
+last 90 days
+last 365 days
+	Sort: 
+Best Match
+Newly Posted to Oldest
+Oldest Posted to Newest
+
+Filter:
+  
+Automated Indefinite Delivery Contract (AIDC)
+
+
+  
+Items with Technical Documents
+
+
+  
+Fast Award Candidates
+
+
+  
+Small Business Set-Asides
+
+
+  
+HUBZone Set-Asides
+
+	
+  
+Service Disabled Veteran Owned
+      Small Business Set-Asides
+
+
+Woman Owned Small Business Set-Asides
+
+
+Economically Disadvantaged Women Owned Small Business Set-Asides
+
+
+Unrestricted/Not Set-Asides
+
+
+ 
+
+
+
+
+ 
+Policy Statements · Feedback
+   EOXD8AUZtkHO8wt7m812jA==
+   Ver.6.3.2
+

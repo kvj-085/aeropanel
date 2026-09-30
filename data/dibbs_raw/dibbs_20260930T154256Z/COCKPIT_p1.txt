@@ -1,0 +1,1082 @@
+FAQ/Help · Refs · My Account · Log In
+
+
+   Home       Solicitations       RFQs       RFP/IFB/Other RFQs       Tech Data       Downloads        Awards   
+
+
+Navigation: 
+Navigation/Documents - - - - - -
+Accessibility
+Awards Area
+- Awards by Award DT
+- Awards by Post DT
+- Market Ready Orders ®
+- Post Award Request (PAR)®
+Batch Quoting ®
+Batch Quoting File Format
+BidSets
+Contracts
+Delivery Orders
+FAQs
+Feedback
+Forecast ®
+FSC ~ DLA Managed
+Global Search
+Home Page
+Invitation For Bid (IFB) Area
+Log In Screen
+Master Solicitation (PAC)
+Notices/Message Board
+Post Award Request (PAR)®
+Quoting Help
+Quote Search ®
+Request For Proposal (RFP)Area
+Request For Quote (RFQ) Area
+- RFQs by Issue Date
+- RFQs by Return By Date
+- RFQs Recent
+References
+Registration
+Solicitations
+SRVA ®
+User(s) Profile Update ®
+Vendor Profile Update ®
+Welcome Page ®
+Regs / Supplement Extracts ---
+DFARS 225.502
+DFARS 252.211-7005
+DFARS 252.211-7006
+DFARS 252.223-7001
+DFARS 252.225-7001
+DFARS 252.225-7035
+DFARS 252.225-7036
+DLAD 52.211-9000
+DLAD 52.213-9000
+DLAD 52.217-9002
+DLAD 52.219-9015
+DLAD 52.223-9000
+DLAD 52.233-9001
+FAR 52.209-1
+FAR 52.211-5
+FAR 52.212-3
+FAR 52.219-1
+FAR 52.222-18
+FAR 52.222-22
+FAR 52.222-25
+FAR 52.222-26
+FAR 52.223-3
+ 
+
+Database Search: 
+Choose Search
+RFQs - NSN
+RFQs - Solicitation
+RFQs - PR
+-----------------------
+Awards - Awardee CAGE
+Awards - Award/Basic Number
+Awards - Delivery Order #
+Awards - NSN
+Awards - PR
+-----------------------
+RFP/IFB/Other RFQs - Solicitation
+RFP/IFB/Other RFQs - NSN
+-----------------------
+CAGE Search
+  Value: 
+
+
+Notice:   · Suspension of CMMC Phase II » Read Notice
+
+  Please read notices posted on the Notices page.
+
+
+  Location: Home » Solicitations » RFQs » RFQ Text Search
+[
+RFQ Search
+-
+Recent RFQs
+-
+RFQs by Issue Date
+-
+RFQs by Return By Date
+-
+RFQs by FSC
+]
+[ 273 ] 9/30/2026 12:05:06 PM
+
+
+
+Documents Indexed: 161,967
+
+Additional RFQ Text Search Help
+
+Found 19 records for this search query string.
+Modified: Any time
+
+
+
+1
+Solicitation Information	Product Data
+
+SPE4A626T37WA.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	09-30-2026
+Return By:	10-07-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-09-29 05:15:56
+ 
+
+Purchase Request:	7017011158
+
+	
+
+NSN: 6220-01-417-1768   Nomenclature: LIGHT,COCKPIT,AIRCR
+
+
+   AMSC: C     	NAICS: 336413     	Quantity: 3     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+88277	17B1E3009-1	THE BOEING COMPANY
+
+
+
+
+
+SPE4A626T36WS.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	09-25-2026
+Return By:	10-02-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	Tech Docs
+ 
+
+Document Post/Updated:	2026-09-24 07:23:47
+ 
+
+Purchase Request:	7018379260
+
+	
+
+NSN: 6220-01-434-1811   Nomenclature: LIGHT,COCKPIT,AIRCRAFT
+
+
+   AMSC: C     	NAICS: 336413     	Quantity: 12     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+14550	89-00002-001	LUMINESCENT SYSTEMS, INC
+27520	4000048-001	CONTROL PRODUCTS CORPORATION
+
+
+
+
+
+SPE4A626T32DC.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	09-18-2026
+Return By:	09-25-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-09-17 04:43:22
+ 
+
+Purchase Request:	7018391659
+
+	
+
+NSN: 6220-00-635-0351   Nomenclature: LIGHT,COCKPIT,AIRCRAFT
+
+
+   AMSC: R     	NAICS: 336413     	Quantity: 16     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+1SG29	PE-940003-2-1495	PANELIGHT COMPONENTS GROUP, LLC
+72914	A5395C	GRIMES AEROSPACE COMPANY
+
+
+
+
+
+SPE4A526T442V.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	09-18-2026
+Return By:	09-25-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-09-17 04:24:21
+ 
+
+Purchase Request:	7018391720
+
+	
+
+NSN: 6220-00-635-4356   Nomenclature: LIGHT,COCKPIT,AIRCRAFT
+
+
+   AMSC: P     	NAICS: 336413     	Quantity: 9     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+45934	B8010-1	ONTIC ENGINEERING & MANUFACTURING,
+72914	B8010-1	GRIMES AEROSPACE COMPANY
+
+
+
+
+
+SPE4A626T28LW.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	09-10-2026
+Return By:	09-17-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-09-09 03:55:23
+ 
+
+Purchase Request:	7018260448
+
+	
+
+NSN: 6220-01-179-8278   Nomenclature: LIGHT,COCKPIT,AIRCRAFT
+
+
+   AMSC: Q     	NAICS: 336413     	Quantity: 10     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+45934	15-0411-5	ONTIC ENGINEERING & MANUFACTURING,
+72914	15-0411-5	GRIMES AEROSPACE COMPANY
+
+
+
+
+
+SPE4A626T28HG.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	09-10-2026
+Return By:	09-17-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-09-09 12:07:58
+ 
+
+Purchase Request:	7018059752
+
+	
+
+NSN: 6220-01-677-8099   Nomenclature: LIGHT,COCKPIT,AIRCR
+
+
+   AMSC: C     	NAICS: 335999     	Quantity: 1     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+3R006	OX43721-02	OXLEY,INC.
+
+
+
+
+
+SPE4A525T781L.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	09-22-2025
+Return By:	09-29-2025
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7013756662
+
+	
+
+NSN: 6220-01-092-4322   Nomenclature: LIGHT,COCKPIT,AIRCR
+
+
+   AMSC: P     	NAICS: 336413     	Quantity: 62     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+72914	15-0419-1	GRIMES AEROSPACE COMPANY
+
+
+
+
+
+SPE8E726T3487.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	08-06-2026
+Return By:	08-17-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7017756951
+
+	
+
+NSN: 6220-01-563-8636   Nomenclature: LIGHT,COCKPIT,AIRCRAFT
+
+
+   AMSC: D     	NAICS: 333515     	Quantity: 13     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+0VDA9	937-000-10M	LUMINATOR HOLDING L.P
+A0126	937-000-10M	
+
+
+
+
+
+SPE4A626T211J.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	12-03-2025
+Return By:	12-19-2025
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7014628759
+
+	
+
+NSN: 6220-01-677-8098   Nomenclature: LIGHT,COCKPIT,AIRCR
+
+
+   AMSC: C     	NAICS: 335999     	Quantity: 2     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+3R006	OX43721-01	OXLEY,INC.
+
+
+
+
+
+SPE4A625T32H9.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	04-07-2025
+Return By:	04-14-2025
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7011545792
+
+	
+
+NSN: 6220-00-867-6530   Nomenclature: LIGHT,COCKPIT,AIRCR
+
+
+   AMSC: L     	NAICS: 336413     	Quantity: 8     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+72914	15-0150-1	GRIMES AEROSPACE COMPANY
+
+
+
+
+
+SPE4A526T9538.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	03-11-2026
+Return By:	03-18-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Origin
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7015854645
+
+	
+
+NSN: 6220-01-021-3826   Nomenclature: LIGHT,COCKPIT,AIRCR
+
+
+   AMSC: R     	NAICS: 336413     	Quantity: 2     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+72914	15-0115	GRIMES AEROSPACE COMPANY
+
+
+
+
+
+SPE4A626T58G9.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	05-15-2026
+Return By:	05-22-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7016753527
+
+	
+
+NSN: 6220-00-044-5917   Nomenclature: LIGHT,COCKPIT,AIRCR
+
+
+   AMSC: L     	NAICS: 336413     	Quantity: 5     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+72914	B9735-1	GRIMES AEROSPACE COMPANY
+
+
+
+
+
+SPE4A626T20TH.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	08-20-2026
+Return By:	08-27-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7017838760
+
+	
+
+NSN: 6220-01-417-1768   Nomenclature: LIGHT,COCKPIT,AIRCRAFT
+
+
+   AMSC: C     	NAICS: 336413     	Quantity: 1     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+88277	17B1E3009-1	THE BOEING COMPANY
+
+
+
+
+
+SPE4A626T57J1.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	05-15-2026
+Return By:	05-22-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Origin
+ 
+
+Tech Data:	Tech Docs
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7016786992
+
+	
+
+NSN: 6220-00-295-0897   Nomenclature: LIGHT,COCKPIT,AIRCRAFT
+
+
+   AMSC: G     	NAICS: 336413     	Quantity: 34     
+
+
+Specification, Drawing and Standard Data
+Amend No.: B DTD: 06-01-2018
+I/A/W: SAE AS25027 (BASIC)   DTD: 10-07-2006
+
+
+   Type #: AS25027-1
+
+
+
+
+
+
+
+
+
+
+SPE8E726T2939.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	06-11-2026
+Return By:	06-25-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7017123170
+
+	
+
+NSN: 6220-01-294-8973   Nomenclature: LIGHT,COCKPIT,AIRCR
+
+
+   AMSC: B     	NAICS: 336413     	Quantity: 21     
+
+
+Specification, Drawing and Standard Data
+Amend No.: E DTD: 11-01-1995
+I/A/W DRW: 81996 1680-AH1-000-16 (BASIC)   DTD: 09-20-2006
+
+
+   Type #: P/N 1680-AH1-000-16-2
+
+
+
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+1SG29	1680-AH1-000-16-2	PANELIGHT COMPONENTS GROUP, LLC
+62810	1680-AH1-000-16-2	ACE AERONAUTICS LLC
+
+
+
+
+
+SPE4A526T228R.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	06-15-2026
+Return By:	06-22-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7017147283
+
+	
+
+NSN: 6220-00-635-4356   Nomenclature: LIGHT,COCKPIT,AIRCR
+
+
+   AMSC: P     	NAICS: 336413     	Quantity: 14     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+45934	B8010-1	ONTIC ENGINEERING & MANUFACTURING,
+72914	B8010-1	GRIMES AEROSPACE COMPANY
+
+
+
+
+
+SPE4A526T269H.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	07-01-2026
+Return By:	07-08-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7017353793
+
+	
+
+NSN: 6220-00-867-6624   Nomenclature: LIGHT,COCKPIT,AIRCRAFT
+
+
+   AMSC: R     	NAICS: 336413     	Quantity: 6     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+45934	40240-2-1385	ONTIC ENGINEERING & MANUFACTURING,
+72914	40240-2-1385	GRIMES AEROSPACE COMPANY
+
+
+
+
+
+SPE4A726T167A.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	03-27-2026
+Return By:	04-03-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7016049809
+
+	
+
+NSN: 1560-00-885-8679   Nomenclature: LATCH ASSEMBLY,COCK
+
+
+   AMSC: Q     	NAICS: 336413     	Quantity: 5     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+83014	H339-1	HARTWELL CORPORATION
+
+
+
+
+
+SPE4A726T4272.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	11-21-2025
+Return By:	11-28-2025
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Origin
+ 
+
+Tech Data:	Tech Docs
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7013429613
+
+	
+
+NSN: 0001S00000052   Nomenclature: GOVERNMENT FIRST ARTIC
+
+
+   AMSC: G     	NAICS: ______     	Quantity: 1     
+
+
+
+
+
+NSN: 1560-00-333-7106   Nomenclature: PANEL ASSEMBLY,COCK
+
+
+   AMSC: G     	NAICS: 336413     	Quantity: 4     
+
+
+Specification, Drawing and Standard Data
+Amend No.: B DTD: 04-05-1972
+I/A/W DRW: 76823 3-64300 (BASIC)   DTD: 09-18-2006
+
+
+   Type #: 3-64300-1
+
+
+
+
+
+
+
+
+
+1
+
+
+· RFQ Text Search
+Query String:
+
+
+
+Modified: 
+Any time
+last hour
+last day
+last 7 days
+last 30 days
+last 60 days
+last 90 days
+last 365 days
+	Sort: 
+Best Match
+Newly Posted to Oldest
+Oldest Posted to Newest
+
+Filter:
+  
+Automated Indefinite Delivery Contract (AIDC)
+
+
+  
+Items with Technical Documents
+
+
+  
+Fast Award Candidates
+
+
+  
+Small Business Set-Asides
+
+
+  
+HUBZone Set-Asides
+
+	
+  
+Service Disabled Veteran Owned
+      Small Business Set-Asides
+
+
+Woman Owned Small Business Set-Asides
+
+
+Economically Disadvantaged Women Owned Small Business Set-Asides
+
+
+Unrestricted/Not Set-Asides
+
+
+ 
+
+
+
+
+ 
+Policy Statements · Feedback
+   EOXD8AUZtkHO8wt7m812jA==
+   Ver.6.3.2
+

@@ -1,0 +1,5048 @@
+FAQ/Help · Refs · My Account · Log In
+
+
+   Home       Solicitations       RFQs       RFP/IFB/Other RFQs       Tech Data       Downloads        Awards   
+
+
+Navigation: 
+Navigation/Documents - - - - - -
+Accessibility
+Awards Area
+- Awards by Award DT
+- Awards by Post DT
+- Market Ready Orders ®
+- Post Award Request (PAR)®
+Batch Quoting ®
+Batch Quoting File Format
+BidSets
+Contracts
+Delivery Orders
+FAQs
+Feedback
+Forecast ®
+FSC ~ DLA Managed
+Global Search
+Home Page
+Invitation For Bid (IFB) Area
+Log In Screen
+Master Solicitation (PAC)
+Notices/Message Board
+Post Award Request (PAR)®
+Quoting Help
+Quote Search ®
+Request For Proposal (RFP)Area
+Request For Quote (RFQ) Area
+- RFQs by Issue Date
+- RFQs by Return By Date
+- RFQs Recent
+References
+Registration
+Solicitations
+SRVA ®
+User(s) Profile Update ®
+Vendor Profile Update ®
+Welcome Page ®
+Regs / Supplement Extracts ---
+DFARS 225.502
+DFARS 252.211-7005
+DFARS 252.211-7006
+DFARS 252.223-7001
+DFARS 252.225-7001
+DFARS 252.225-7035
+DFARS 252.225-7036
+DLAD 52.211-9000
+DLAD 52.213-9000
+DLAD 52.217-9002
+DLAD 52.219-9015
+DLAD 52.223-9000
+DLAD 52.233-9001
+FAR 52.209-1
+FAR 52.211-5
+FAR 52.212-3
+FAR 52.219-1
+FAR 52.222-18
+FAR 52.222-22
+FAR 52.222-25
+FAR 52.222-26
+FAR 52.223-3
+ 
+
+Database Search: 
+Choose Search
+RFQs - NSN
+RFQs - Solicitation
+RFQs - PR
+-----------------------
+Awards - Awardee CAGE
+Awards - Award/Basic Number
+Awards - Delivery Order #
+Awards - NSN
+Awards - PR
+-----------------------
+RFP/IFB/Other RFQs - Solicitation
+RFP/IFB/Other RFQs - NSN
+-----------------------
+CAGE Search
+  Value: 
+
+
+Notice:   · Suspension of CMMC Phase II » Read Notice
+
+  Please read notices posted on the Notices page.
+
+
+  Location: Home » Solicitations » RFQs » RFQ Text Search
+[
+RFQ Search
+-
+Recent RFQs
+-
+RFQs by Issue Date
+-
+RFQs by Return By Date
+-
+RFQs by FSC
+]
+[ 273 ] 9/30/2026 12:35:06 PM
+
+
+
+Documents Indexed: 161,967
+
+Additional RFQ Text Search Help
+
+Found 2390 records for this search query string.
+Modified: Any time
+
+
+
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24
+Solicitation Information	Product Data
+
+SPE4A626Q1468.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	09-22-2026
+Return By:	09-24-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Origin
+ 
+
+Tech Data:	Tech Docs
+ 
+
+Document Post/Updated:	2026-09-22 11:04:19
+ 
+
+Purchase Request:	7016880270, 7017010904, 7017571738
+
+	
+
+NSN: 0001S00000052   Nomenclature: GOVERNMENT FIRST ARTIC
+
+
+   AMSC: C     	NAICS: 000000     	Quantity: 3     
+
+
+
+
+
+NSN: 5995-01-530-2734   Nomenclature: CABLE ASSEMBLY,PRINTED
+
+
+   AMSC: C     	NAICS: 334419     	Quantity: 4     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+0DR48	5099599	ALEKTRONICS INC
+82577	5099599	RAYTHEON COMPANY
+
+
+
+NSN: 5995-01-530-5306   Nomenclature: CABLE ASSEMBLY,PRINTED
+
+
+   AMSC: C     	NAICS: 334419     	Quantity: 16     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+07284	5099593	
+0DR48	5099593	ALEKTRONICS INC
+3CE14	5099593	EHREN HAUS INDUSTRIES INC
+54X10	5099593	RAYTHEON COMPANY
+82577	5099593	RAYTHEON COMPANY
+
+
+
+NSN: 5995-01-530-5673   Nomenclature: CABLE ASSEMBLY,PRINTED
+
+
+   AMSC: C     	NAICS: 334419     	Quantity: 16     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+0DR48	5097650	ALEKTRONICS INC
+82577	5097650	RAYTHEON COMPANY
+
+
+
+
+
+SPE4A726T084Z.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	03-13-2026
+Return By:	03-20-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	Tech Docs
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7015904148
+
+	
+
+NSN: 5995-01-389-6325   Nomenclature: CABLE ASSEMBLY,PRIN
+
+
+   AMSC: G     	NAICS: 334419     	Quantity: 3     
+
+
+Specification, Drawing and Standard Data
+Amend No.: E DTD: 07-11-2014
+I/A/W DRW: 80063 B4041871 (BASIC)   DTD: 02-23-2026
+
+
+   Type #: B4041871-1
+
+
+
+
+
+
+
+
+
+
+SPE4A626U2548.PDF
+  » Package View
+
+
+
+uote  	 
+
+
+
+Issued:	04-09-2026
+Return By:	04-23-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	Tech Docs
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	1000229481
+
+	
+
+NSN: 5995-01-389-6325   Nomenclature: CABLE ASSEMBLY,PRIN
+
+
+   AMSC: G     	NAICS: 334419     	Quantity: 4     
+
+
+Specification, Drawing and Standard Data
+Amend No.: E DTD: 07-11-2014
+I/A/W DRW: 80063 B4041871 (BASIC)   DTD: 02-23-2026
+
+
+   Type #: B4041871-1
+
+
+
+
+
+
+
+
+
+
+SPE7M826Q0254.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	09-24-2026
+Return By:	10-08-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-09-23 12:03:31
+ 
+
+Purchase Request:	7005353942
+
+	
+
+NSN: 6150-01-447-0044   Nomenclature: CABLE ASSEMBLY,SPECIAL
+
+
+   AMSC: D     	NAICS: 334419     	Quantity: 10     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+3B150	G530022-1	RAYTHEON COMPANY
+54X10	G530022-1	RAYTHEON COMPANY
+
+
+
+
+
+SPE4A626Q1406.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	09-14-2026
+Return By:	09-21-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	Tech Docs
+ 
+
+Document Post/Updated:	2026-09-14 01:57:34
+ 
+
+Purchase Request:	7017841174, 7017918887
+
+	
+
+NSN: 5995-01-738-2369   Nomenclature: CABLE ASSEMBLY,SPECIAL
+
+
+   AMSC: B     	NAICS: 000000     	Quantity: 2     
+
+
+Specification, Drawing and Standard Data
+Amend No.: A DTD: 04-01-2024
+I/A/W DRW: 1PNR4 D14023-0001-AD54 (BASIC)   DTD: 06-18-2026
+
+
+   Type #: 14023-0001-54
+
+
+
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+1PNR4	14023-0001-54	L3HARRIS TECHNOLOGIES, INC.
+
+
+
+
+
+SPE4A626T08GJ.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	07-22-2026
+Return By:	07-29-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Origin
+ 
+
+Tech Data:	Tech Docs
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7017571771
+
+	
+
+NSN: 0001S00000061   Nomenclature: PRODUCTION LOT TESTING
+
+
+   AMSC: C     	NAICS: ______     	Quantity: 1     
+
+
+
+
+
+NSN: 6150-01-655-8122   Nomenclature: CABLE ASSEMBLY,POWER,E
+
+
+   AMSC: C     	NAICS: 335311     	Quantity: 17     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+06324	8071-4218	GLENAIR, INC.
+
+
+
+
+
+SPE4A726T347Q.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	05-14-2026
+Return By:	05-21-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Origin
+ 
+
+Tech Data:	Tech Docs
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7014175024
+
+	
+
+NSN: 1560-01-477-5859   Nomenclature: CABLE ASSEMBLY,SPEC
+
+
+   AMSC: C     	NAICS: 336413     	Quantity: 1     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+18863	ABC 53948-109	GLENAIR, INC.
+76301	74J928000-109	THE BOEING COMPANY
+
+
+
+
+
+SPE4A626T769J.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	02-20-2026
+Return By:	02-27-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Origin
+ 
+
+Tech Data:	Tech Docs
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7015601767
+
+	
+
+NSN: 0001S00000053   Nomenclature: CONTRACTOR FIRST ARTIC
+
+
+   AMSC: G     	NAICS: ______     	Quantity: 1     
+
+
+
+
+
+NSN: 6150-01-210-3596   Nomenclature: CABLE ASSEMBLY,SPEC
+
+
+   AMSC: G     	NAICS: 334419     	Quantity: 41     
+
+
+Specification, Drawing and Standard Data
+Amend No.: F DTD: 02-23-2021
+I/A/W DRW: 19207 12339347 (BASIC)   DTD: 12-30-2022
+
+
+   Type #: 12339347-2
+
+
+
+
+
+
+
+
+
+
+SPE7M126T177W.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	06-29-2026
+Return By:	07-09-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	Tech Docs
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7017049400
+
+	
+
+NSN: 6145-01-495-2628   Nomenclature: CABLE,POWER,ELECTRI
+
+
+   AMSC: T     	NAICS: 335929     	Quantity: 1000     
+
+
+Specification, Drawing and Standard Data
+Amend No.: DTD: 01-13-2025
+I/A/W: NEMA-WC27500 (BASIC)   DTD: 06-18-2026
+
+
+   Type #: M27500B16SR3G23
+
+
+
+
+
+
+
+
+
+
+SPE4A626T5005.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	10-22-2025
+Return By:	11-05-2025
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Origin
+ 
+
+Tech Data:	Tech Docs
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7014231141
+
+	
+
+NSN: 6150-01-197-9997   Nomenclature: CABLE ASSEMBLY,SPEC
+
+
+   AMSC: G     	NAICS: 334419     	Quantity: 3     
+
+
+Specification, Drawing and Standard Data
+Amend No.: B DTD: 10-28-1989
+I/A/W DRW: 53711 5187449 (BASIC)   DTD: 09-18-2006
+
+
+
+
+
+
+
+
+
+
+
+
+SPE4A626T04RC.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	07-09-2026
+Return By:	07-16-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Origin
+ 
+
+Tech Data:	Tech Docs
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7017409125
+
+	
+
+NSN: 0001S00000052   Nomenclature: GOVERNMENT FIRST ARTIC
+
+
+   AMSC: G     	NAICS: ______     	Quantity: 1     
+
+
+
+
+
+NSN: 5995-01-328-5975   Nomenclature: CABLE ASSEMBLY,RADI
+
+
+   AMSC: G     	NAICS: 334419     	Quantity: 13     
+
+
+Specification, Drawing and Standard Data
+Amend No.: DTD: 07-05-1989
+I/A/W DRW: 18323 3373B61 (BASIC)   DTD: 06-18-2026
+
+
+   Type #: 3373B61G01
+
+
+
+
+
+
+
+
+
+
+SPE4A626T19WV.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	08-19-2026
+Return By:	08-26-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Origin
+ 
+
+Tech Data:	Tech Docs
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7017940533
+
+	
+
+NSN: 0001S00000053   Nomenclature: CONTRACTOR FIRST ARTIC
+
+
+   AMSC: G     	NAICS: ______     	Quantity: 1     
+
+
+
+
+
+NSN: 6150-01-210-3596   Nomenclature: CABLE ASSEMBLY,SPECIAL
+
+
+   AMSC: G     	NAICS: 334419     	Quantity: 100     
+
+
+Specification, Drawing and Standard Data
+Amend No.: F DTD: 02-23-2021
+I/A/W DRW: 19207 12339347 (BASIC)   DTD: 06-18-2026
+
+
+   Type #: 12339347-2
+
+
+
+
+
+
+
+
+
+
+SPE4A726T228H.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	04-10-2026
+Return By:	04-17-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Origin
+ 
+
+Tech Data:	Tech Docs
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7016227153
+
+	
+
+NSN: 0001S00000061   Nomenclature: PRODUCTION LOT TESTING
+
+
+   AMSC: C     	NAICS: ______     	Quantity: 1     
+
+
+
+
+
+NSN: 6150-01-655-8122   Nomenclature: CABLE ASSEMBLY,POWER,E
+
+
+   AMSC: C     	NAICS: 335311     	Quantity: 18     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+06324	8071-4218	GLENAIR, INC.
+
+
+
+
+
+SPE4A626T54Q9.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	05-14-2026
+Return By:	05-21-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Origin
+ 
+
+Tech Data:	Tech Docs
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7016752084
+
+	
+
+NSN: 0001S00000061   Nomenclature: PRODUCTION LOT TESTING
+
+
+   AMSC: C     	NAICS: ______     	Quantity: 1     
+
+
+
+
+
+NSN: 6150-01-655-8122   Nomenclature: CABLE ASSEMBLY,POWER,E
+
+
+   AMSC: C     	NAICS: 335311     	Quantity: 42     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+06324	8071-4218	GLENAIR, INC.
+
+
+
+
+
+SPE4A626T15VZ.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	08-13-2026
+Return By:	08-20-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Origin
+ 
+
+Tech Data:	Tech Docs
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7017838582
+
+	
+
+NSN: 0001S00000053   Nomenclature: CONTRACTOR FIRST ARTIC
+
+
+   AMSC: G     	NAICS: ______     	Quantity: 1     
+
+
+
+
+
+NSN: 5995-01-449-1453   Nomenclature: CABLE ASSEMBLY,RADIO F
+
+
+   AMSC: G     	NAICS: 334419     	Quantity: 289     
+
+
+Specification, Drawing and Standard Data
+Amend No.: B DTD: 09-27-2016
+I/A/W DRW: 88594 03411003 (BASIC)   DTD: 06-18-2026
+
+
+   Type #: P/N: 03411003
+
+
+
+
+
+
+
+
+
+
+SPE4A626Q1221.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	07-28-2026
+Return By:	08-05-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7016081647, 7017200934
+
+	
+
+NSN: 5995-01-727-7502   Nomenclature: CABLE ASSEMBLY,SPECIAL
+
+
+   AMSC: H     	NAICS: 335931     	Quantity: 37     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+32CW5	SFV.L01.47	ATLANTIC SIGNAL LLC
+
+
+
+
+
+SPE4A726T290J.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	04-24-2026
+Return By:	05-01-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Origin
+ 
+
+Tech Data:	Tech Docs
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7016439310
+
+	
+
+NSN: 1560-01-477-5859   Nomenclature: CABLE ASSEMBLY,SPEC
+
+
+   AMSC: C     	NAICS: 336413     	Quantity: 1     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+18863	ABC 53948-109	GLENAIR, INC.
+76301	74J928000-109	THE BOEING COMPANY
+
+
+
+
+
+SPE4A626U2274.PDF
+  » Package View
+
+
+
+uote  	 
+
+
+
+Issued:	03-02-2026
+Return By:	03-16-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Origin
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	1000223869
+
+	
+
+NSN: 5995-01-530-1910   Nomenclature: CABLE ASSEMBLY,RADI
+
+
+   AMSC: Z     	NAICS: 444180     	Quantity: 3     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+0RL45	105252-2	RAYTHEON COMPANY
+93346	CD-105252	CAES SYSTEMS LLC
+
+
+
+
+
+SPE4A626T37YY.PDF
+  » Package View
+
+
+
+uote  	 
+
+
+
+Issued:	09-30-2026
+Return By:	10-07-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Origin
+ 
+
+Tech Data:	Tech Docs
+ 
+
+Document Post/Updated:	2026-09-29 09:03:11
+ 
+
+Purchase Request:	7018504975
+
+	
+
+NSN: 5995-01-657-2500   Nomenclature: CABLE ASSEMBLY,SPEC
+
+
+   AMSC: G     	NAICS: 335931     	Quantity: 1     
+
+
+Specification, Drawing and Standard Data
+Amend No.: DTD: 01-30-2016
+I/A/W DRW: 01365 13020A7100 (BASIC)   DTD: 07-20-2026
+
+
+
+
+
+
+
+
+
+
+
+
+SPE4A626T37YC.PDF
+  » Package View
+
+
+
+uote  	 
+
+
+
+Issued:	09-30-2026
+Return By:	10-07-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Origin
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-09-29 09:03:11
+ 
+
+Purchase Request:	7018581883
+
+	
+
+NSN: 6150-01-241-3683   Nomenclature: CABLE ASSEMBLY,SPECIAL
+
+
+   AMSC: R     	NAICS: 334419     	Quantity: 2     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+81205	25-45223-4	THE BOEING COMPANY
+
+
+
+
+
+SPE4A526T482S.PDF
+  » Package View
+
+
+
+uote  	 
+
+
+
+Issued:	09-30-2026
+Return By:	10-07-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-09-29 09:03:10
+ 
+
+Purchase Request:	7016870173
+
+	
+
+NSN: 6020-01-608-0060   Nomenclature: CABLE ASSEMBLY,FIBE
+
+
+   AMSC: C     	NAICS: 335921     	Quantity: 1     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+81205	204-568M7-1	THE BOEING COMPANY
+
+
+
+
+
+SPE4A626T34WQ.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	09-22-2026
+Return By:	10-02-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Origin
+ 
+
+Tech Data:	Tech Docs
+ 
+
+Document Post/Updated:	2026-09-29 09:02:54
+ 
+
+Purchase Request:	7016880703
+
+	
+
+NSN: 6150-01-707-5235   Nomenclature: CABLE ASSEMBLY,POWE
+
+
+   AMSC: G     	NAICS: 335311     	Quantity: 3     
+
+
+Specification, Drawing and Standard Data
+Amend No.: J DTD: 01-01-2039
+I/A/W DRW: 53711 7265688 (BASIC)   DTD: 06-18-2026
+
+
+   Type #: 7265688-14
+
+
+
+
+
+
+
+
+
+
+SPE4A626T34QA.PDF
+  » Package View
+
+
+
+uote  	 
+
+
+
+Issued:	09-22-2026
+Return By:	10-02-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-09-29 09:02:46
+ 
+
+Purchase Request:	7018379351
+
+	
+
+NSN: 6150-01-533-8525   Nomenclature: CABLE ASSEMBLY,SPECIAL
+
+
+   AMSC: L     	NAICS: 334419     	Quantity: 1     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+09552	618AS198-13	ATEC INC
+
+
+
+
+
+SPE4A626T31MZ.PDF
+  » Package View
+
+
+
+uote  	 
+
+
+
+Issued:	09-17-2026
+Return By:	10-02-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	Tech Docs
+ 
+
+Document Post/Updated:	2026-09-29 09:02:41
+ 
+
+Purchase Request:	7018378607
+
+	
+
+NSN: 5995-01-723-4070   Nomenclature: CABLE ASSEMBLY,POWER,E
+
+
+   AMSC: B     	NAICS: 335931     	Quantity: 5     
+
+
+Specification, Drawing and Standard Data
+Amend No.: DTD: 03-07-2007
+I/A/W DRW: 1X4F3 AMSCBDOC (BASIC)   DTD: 06-18-2026
+
+
+   Type #: RS2244192
+
+
+
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+7W356	RS2244192	GENERAL DYNAMICS LAND SYSTEMS INC.
+
+
+
+
+
+SPE4A626T34NS.PDF
+  » Package View
+
+
+
+uote  	 
+
+
+
+Issued:	09-22-2026
+Return By:	10-02-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	Tech Docs
+ 
+
+Document Post/Updated:	2026-09-29 09:02:37
+ 
+
+Purchase Request:	7018373901
+
+	
+
+NSN: 6150-01-700-9280   Nomenclature: CABLE ASSEMBLY,SPEC
+
+
+   AMSC: G     	NAICS: 335311     	Quantity: 3     
+
+
+Specification, Drawing and Standard Data
+Amend No.: F DTD: 05-28-2021
+I/A/W DRW: 1EG52 150-020644 (BASIC)   DTD: 06-18-2026
+
+
+   Type #: 150-020644-P001
+
+
+
+
+
+
+
+
+
+
+SPE4A626T34LK.PDF
+  » Package View
+
+
+
+uote  	 
+
+
+
+Issued:	09-22-2026
+Return By:	10-02-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	Tech Docs
+ 
+
+Document Post/Updated:	2026-09-29 09:02:12
+ 
+
+Purchase Request:	7018368542
+
+	
+
+NSN: 5995-01-699-3498   Nomenclature: CABLE ASSEMBLY,SPECIAL
+
+
+   AMSC: G     	NAICS: 335931     	Quantity: 2     
+
+
+Specification, Drawing and Standard Data
+Amend No.: DTD: 04-29-2019
+I/A/W DRW: 19207 12635640 (BASIC)   DTD: 06-18-2026
+
+
+   Type #: 12635640
+
+
+
+
+
+
+
+
+
+
+SPE4A626T92C9.PDF
+  » Package View
+
+
+
+uote  	 
+
+
+
+Issued:	06-15-2026
+Return By:	10-02-2026
+ 
+
+FOB Point:	Destination
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-09-29 09:01:56
+ 
+
+Purchase Request:	7017119716
+
+	
+
+NSN: 5995-01-651-7083   Nomenclature: CABLE ASSEMBLY,SPEC
+
+
+   AMSC: Q     	NAICS: 335931     	Quantity: 10     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+0ERB9	27402-514-191	LAUREL TECHNOLOGIES PARTNERSHIP
+94756	27402-514-191	THE BOEING COMPANY
+
+
+
+
+
+SPE4A626T37XD.PDF
+  » Package View
+
+
+
+uote  	 
+
+
+
+Issued:	09-30-2026
+Return By:	10-07-2026
+ 
+
+FOB Point:	Destination
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-09-29 05:15:56
+ 
+
+Purchase Request:	7018502830, 7018502831, 7018502832, 7018502833
+
+	
+
+NSN: 6150-01-258-3691   Nomenclature: CABLE ASSEMBLY,SPECIAL
+
+
+   AMSC: C     	NAICS: 334419     	Quantity: 6     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+74116	NELC735/33SPSNB-	NEW ENGLAND WIRE TECHNOLOGIES CORP.
+
+
+
+
+
+SPE4A626T37XB.PDF
+  » Package View
+
+
+
+uote  	 
+
+
+
+Issued:	09-30-2026
+Return By:	10-07-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Origin
+ 
+
+Tech Data:	Tech Docs
+ 
+
+Document Post/Updated:	2026-09-29 05:15:56
+ 
+
+Purchase Request:	7018323937
+
+	
+
+NSN: 5995-01-676-7532   Nomenclature: CABLE ASSEMBLY,SPECIAL
+
+
+   AMSC: B     	NAICS: 335931     	Quantity: 2     
+
+
+Specification, Drawing and Standard Data
+Amend No.: B DTD: 09-08-2019
+I/A/W DRW: 19207 12603426 (BASIC)   DTD: 06-18-2026
+
+
+
+
+
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+55944	FMA111215JK-3	WINCHESTER INTERCONNECT CM CA, INC.
+
+
+
+
+
+SPE4A626T37VK.PDF
+  » Package View
+
+
+
+uote  	 
+
+
+
+Issued:	09-30-2026
+Return By:	10-07-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	Tech Docs
+ 
+
+Document Post/Updated:	2026-09-29 02:56:46
+ 
+
+Purchase Request:	7018413866
+
+	
+
+NSN: 6150-01-174-2022   Nomenclature: CABLE ASSEMBLY,SPECIAL
+
+
+   AMSC: B     	NAICS: 334419     	Quantity: 1     
+
+
+Specification, Drawing and Standard Data
+Amend No.: M DTD: 04-05-1989
+I/A/W DRW: 62793 310D038 (BASIC)   DTD: 06-18-2026
+
+
+   Type #: 310D038-9
+
+
+
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+26055	081-036-001	PARKER-HANNIFIN CORPORATION
+26055	78-145-1	PARKER-HANNIFIN CORPORATION
+58880	78-145-1	
+
+
+
+
+
+SPE4A626T37VY.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	09-30-2026
+Return By:	10-07-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-09-29 02:56:46
+ 
+
+Purchase Request:	7014215772
+
+	
+
+NSN: 6150-01-625-0612   Nomenclature: CABLE ASSEMBLY,SPEC
+
+
+   AMSC: R     	NAICS: 334419     	Quantity: 72     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+78535	78535-102021	IRIS TECHNOLOGY CORPORATION
+
+
+
+
+
+SPE4A026T5068.PDF
+  » Package View
+
+
+
+uote  	 
+
+
+
+Issued:	09-30-2026
+Return By:	10-07-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Origin
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-09-29 10:51:58
+ 
+
+Purchase Request:	7018502965
+
+	
+
+NSN: 6150-01-678-6829   Nomenclature: CABLE ASSEMBLY,SPECIAL
+
+
+   AMSC: D     	NAICS: 335311     	Quantity: 1     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+98255	936271-2	DRS SUSTAINMENT SYSTEMS, INC
+
+
+
+
+
+SPE7L426T7287.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	09-30-2026
+Return By:	10-13-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-09-29 10:51:58
+ 
+
+Purchase Request:	7018270865
+
+	
+
+NSN: 6150-01-558-3078   Nomenclature: CABLE ASSEMBLY,SPECIAL
+
+
+   AMSC: D     	NAICS: 334419     	Quantity: 67     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+064S4	TYUH10026A	BAE SYSTEMS LAND & ARMAMENTS L.P.
+
+
+
+
+
+SPE4A026T5070.PDF
+  » Package View
+
+
+
+uote  	 
+
+
+
+Issued:	09-30-2026
+Return By:	10-07-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-09-29 10:51:58
+ 
+
+Purchase Request:	7018503003
+
+	
+
+NSN: 6150-01-679-8706   Nomenclature: CABLE ASSEMBLY,SPECIAL
+
+
+   AMSC: R     	NAICS: 335311     	Quantity: 1     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+34914	3856950	HIAB USA INC
+
+
+
+
+
+SPE4A626T37TU.PDF
+  » Package View
+
+
+
+uote  	 
+
+
+
+Issued:	09-30-2026
+Return By:	10-07-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	Tech Docs
+ 
+
+Document Post/Updated:	2026-09-29 10:51:58
+ 
+
+Purchase Request:	7018502971
+
+	
+
+NSN: 6150-01-668-4365   Nomenclature: CABLE ASSEMBLY,SPECIAL
+
+
+   AMSC: B     	NAICS: 335311     	Quantity: 1     
+
+
+Specification, Drawing and Standard Data
+Amend No.: DTD: 08-06-2024
+I/A/W DRW: 81361 5-1-4252-2 (BASIC)   DTD: 06-18-2026
+
+
+
+
+
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+24575	803148	TSI INCORPORATED
+
+
+
+
+
+SPE4A526T482A.PDF
+  » Package View
+
+
+
+uote  	 
+
+
+
+Issued:	09-30-2026
+Return By:	10-07-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-09-29 10:51:58
+ 
+
+Purchase Request:	7018502746
+
+	
+
+NSN: 5995-01-628-9301   Nomenclature: CABLE ASSEMBLY,SPECIAL
+
+
+   AMSC: D     	NAICS: 444180     	Quantity: 1     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+45681	5030126	PARKER-HANNIFIN CORPORATION
+
+
+
+
+
+SPE4A626T37TF.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	09-30-2026
+Return By:	10-07-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-09-29 10:03:41
+ 
+
+Purchase Request:	7017869047
+
+	
+
+NSN: 5995-01-687-8720   Nomenclature: CABLE ASSEMBLY,SPECIAL
+
+
+   AMSC: P     	NAICS: 335931     	Quantity: 178     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+00752	12193-0396-A003	L3HARRIS TECHNOLOGIES, INC.
+7QAK7	12193-0396-A003	L3HARRIS GLOBAL COMMUNICATIONS, INC
+
+
+
+
+
+SPE4A626T37SW.PDF
+  » Package View
+
+
+
+uote  	 
+
+
+
+Issued:	09-30-2026
+Return By:	10-07-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-09-29 08:38:57
+ 
+
+Purchase Request:	7018556443
+
+	
+
+NSN: 5995-01-681-7492   Nomenclature: CABLE ASSEMBLY,SPECIAL
+
+
+   AMSC: D     	NAICS: 335931     	Quantity: 190     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+23386	3501002-503	THALES DEFENSE & SECURITY INC
+
+
+
+
+
+SPE4A626T37SG.PDF
+  » Package View
+
+
+
+uote  	 
+
+
+
+Issued:	09-30-2026
+Return By:	10-07-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Origin
+ 
+
+Tech Data:	Tech Docs
+ 
+
+Document Post/Updated:	2026-09-29 01:21:15
+ 
+
+Purchase Request:	7014592055
+
+	
+
+NSN: 5995-01-503-5779   Nomenclature: CABLE ASSEMBLY,SPEC
+
+
+   AMSC: C     	NAICS: 334419     	Quantity: 15     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+18863	ABC 53716-2	GLENAIR, INC.
+
+
+
+
+
+SPE4A626T37SH.PDF
+  » Package View
+
+
+
+uote  	 
+
+
+
+Issued:	09-30-2026
+Return By:	10-07-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Origin
+ 
+
+Tech Data:	Tech Docs
+ 
+
+Document Post/Updated:	2026-09-29 01:21:15
+ 
+
+Purchase Request:	7016337477
+
+	
+
+NSN: 5995-01-260-4144   Nomenclature: CABLE ASSEMBLY,RADI
+
+
+   AMSC: G     	NAICS: 334419     	Quantity: 2     
+
+
+Specification, Drawing and Standard Data
+Amend No.: DTD: 07-02-1976
+I/A/W DRW: 10001 3254828 (BASIC)   DTD: 06-18-2026
+
+
+   Type #: 3254828
+
+
+
+
+
+
+
+
+
+
+SPE4A626T37SD.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	09-30-2026
+Return By:	10-07-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-09-29 12:32:30
+ 
+
+Purchase Request:	7015852531
+
+	
+
+NSN: 6150-01-477-1234   Nomenclature: CABLE ASSEMBLY,SPEC
+
+
+   AMSC: D     	NAICS: 334419     	Quantity: 7     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+66935	031-01609-000	JOHNSON CONTROLS NAVY SYSTEMS, LLC
+
+
+
+
+
+SPE4A626T37SA.PDF
+  » Package View
+
+
+
+uote  	 
+
+
+
+Issued:	09-30-2026
+Return By:	10-07-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-09-29 12:32:30
+ 
+
+Purchase Request:	7015852571
+
+	
+
+NSN: 6150-01-455-4639   Nomenclature: CABLE ASSEMBLY,SPEC
+
+
+   AMSC: D     	NAICS: 335311     	Quantity: 7     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+98897	344351-6	LOCKHEED MARTIN CORP
+
+
+
+
+
+SPE4A626T37RY.PDF
+  » Package View
+
+
+
+uote  	 
+
+
+
+Issued:	09-29-2026
+Return By:	10-06-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Origin
+ 
+
+Tech Data:	Tech Docs
+ 
+
+Document Post/Updated:	2026-09-28 08:32:46
+ 
+
+Purchase Request:	7018458949
+
+	
+
+NSN: 0001S00000061   Nomenclature: PRODUCTION LOT TESTING
+
+
+   AMSC: G     	NAICS: ______     	Quantity: 1     
+
+
+
+
+
+NSN: 6150-01-091-6981   Nomenclature: CABLE ASSEMBLY,SPECIAL
+
+
+   AMSC: G     	NAICS: 334419     	Quantity: 6     
+
+
+Specification, Drawing and Standard Data
+Amend No.: W DTD: 09-10-2015
+I/A/W DRW: 18876 11454600 (BASIC)   DTD: 06-18-2026
+
+
+   Type #: 11454600-10
+
+
+
+
+
+
+
+
+
+
+SPE4A626T37RT.PDF
+  » Package View
+
+
+
+uote  	 
+
+
+
+Issued:	09-29-2026
+Return By:	10-06-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-09-28 08:32:46
+ 
+
+Purchase Request:	7018378714
+
+	
+
+NSN: 5995-01-723-4604   Nomenclature: CABLE ASSEMBLY,SPECIAL
+
+
+   AMSC: R     	NAICS: 335931     	Quantity: 4     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+7W356	RS2244644	GENERAL DYNAMICS LAND SYSTEMS INC.
+
+
+
+
+
+SPE4A626T37RR.PDF
+  » Package View
+
+
+
+uote  	 
+
+
+
+Issued:	09-29-2026
+Return By:	10-06-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Origin
+ 
+
+Tech Data:	Tech Docs
+ 
+
+Document Post/Updated:	2026-09-28 08:32:46
+ 
+
+Purchase Request:	7018529577
+
+	
+
+NSN: 5995-01-395-5319   Nomenclature: CABLE ASSEMBLY,RADI
+
+
+   AMSC: G     	NAICS: 334419     	Quantity: 1     
+
+
+Specification, Drawing and Standard Data
+Amend No.: B DTD: 10-20-1995
+I/A/W DRW: 15090 7055224 (BASIC)   DTD: 06-18-2026
+
+
+   Type #: 7055224-3
+
+
+
+
+
+
+
+
+
+
+SPE4A626T37RS.PDF
+  » Package View
+
+
+
+uote  	 
+
+
+
+Issued:	09-29-2026
+Return By:	10-06-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-09-28 08:32:46
+ 
+
+Purchase Request:	7018459263
+
+	
+
+NSN: 5995-01-686-0695   Nomenclature: CABLE ASSEMBLY,SPECIAL
+
+
+   AMSC: Q     	NAICS: 335931     	Quantity: 2     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+1VPW8	30-P45614F001	GENERAL DYNAMICS MISSION SYSTEMS, I
+
+
+
+
+
+SPE4A626T37RW.PDF
+  » Package View
+
+
+
+uote  	 
+
+
+
+Issued:	09-29-2026
+Return By:	10-06-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Origin
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-09-28 08:32:46
+ 
+
+Purchase Request:	7018562763
+
+	
+
+NSN: 5995-01-034-0146   Nomenclature: CABLE ASSEMBLY,SPEC
+
+
+   AMSC: C     	NAICS: 334419     	Quantity: 1     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+18863	582R470G08	GLENAIR, INC.
+33426	582R470G08	COOPER INTERCONNECT, INC.
+
+
+
+
+
+SPE7M126T389P.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	09-29-2026
+Return By:	10-09-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	Tech Docs
+ 
+
+Document Post/Updated:	2026-09-28 08:07:01
+ 
+
+Purchase Request:	7017441042
+
+	
+
+NSN: 6020-01-530-7672   Nomenclature: CABLE ASSEMBLY,FIBE
+
+
+   AMSC: C     	NAICS: 335921     	Quantity: 36     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+No Data found
+
+
+
+
+
+SPE4A626T37RJ.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	09-29-2026
+Return By:	10-06-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	Tech Docs
+ 
+
+Document Post/Updated:	2026-09-28 08:07:01
+ 
+
+Purchase Request:	7018203839
+
+	
+
+NSN: 6150-00-596-8766   Nomenclature: CABLE ASSEMBLY,SPECIAL
+
+
+   AMSC: B     	NAICS: 334419     	Quantity: 1     
+
+
+Specification, Drawing and Standard Data
+Amend No.: G DTD: 10-01-2012
+I/A/W DRW: 76823 2-23276 (BASIC)   DTD: 06-18-2026
+
+
+   Type #: 2-23276-1
+
+
+
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+59501	66330	UNISON INDUSTRIES LLC
+81482	66330	PAGE CHESTER LTD
+
+
+
+
+
+SPE4A626T37RH.PDF
+  » Package View
+
+
+
+uote  	 
+
+
+
+Issued:	09-29-2026
+Return By:	10-06-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-09-28 08:07:01
+ 
+
+Purchase Request:	7018492199
+
+	
+
+NSN: 6150-01-615-0623   Nomenclature: CABLE ASSEMBLY,SPECIAL
+
+
+   AMSC: Z     	NAICS: 334419     	Quantity: 1     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+0UJ27	8000-0100	ZOLL MEDICAL CORPORATION
+
+
+
+
+
+SPE4A626T37RP.PDF
+  » Package View
+
+
+
+uote  	 
+
+
+
+Issued:	09-29-2026
+Return By:	10-06-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Origin
+ 
+
+Tech Data:	Tech Docs
+ 
+
+Document Post/Updated:	2026-09-28 08:07:01
+ 
+
+Purchase Request:	7018186216
+
+	
+
+NSN: 6150-01-717-5480   Nomenclature: CABLE ASSEMBLY,POWER,E
+
+
+   AMSC: G     	NAICS: 335311     	Quantity: 1     
+
+
+Specification, Drawing and Standard Data
+Amend No.: DTD: 11-28-2022
+I/A/W DRW: 19200 13110112 (BASIC)   DTD: 06-18-2026
+
+
+
+
+
+
+
+
+
+
+
+
+SPE4A626T37RM.PDF
+  » Package View
+
+
+
+uote  	 
+
+
+
+Issued:	09-29-2026
+Return By:	10-06-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-09-28 08:07:01
+ 
+
+Purchase Request:	7018446303
+
+	
+
+NSN: 5995-01-642-7082   Nomenclature: CABLE ASSEMBLY,RADIO F
+
+
+   AMSC: D     	NAICS: 444180     	Quantity: 2     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+1L4J7	900-5005001-07	NORTHROP GRUMMAN SYSTEMS CORPORATIO
+
+
+
+
+
+SPE4A626T37RB.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	09-29-2026
+Return By:	10-06-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-09-28 08:07:01
+ 
+
+Purchase Request:	7016081079
+
+	
+
+NSN: 6150-01-551-8686   Nomenclature: CABLE ASSEMBLY,SPEC
+
+
+   AMSC: C     	NAICS: 334419     	Quantity: 9     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+73030	V45-0375	HAMILTON SUNDSTRAND CORPORATION
+96169	EB-4022-4	ELECTRIC BOAT CORPORATION
+
+
+
+
+
+SPE4A626T33YC.PDF
+  » Package View
+
+
+
+uote  	 
+
+
+
+Issued:	09-21-2026
+Return By:	10-01-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Origin
+ 
+
+Tech Data:	Tech Docs
+ 
+
+Document Post/Updated:	2026-09-28 08:05:59
+ 
+
+Purchase Request:	7018413153
+
+	
+
+NSN: 5995-01-564-4250   Nomenclature: CABLE ASSEMBLY,SPECIAL
+
+
+   AMSC: B     	NAICS: 334419     	Quantity: 54     
+
+
+Specification, Drawing and Standard Data
+Amend No.: A DTD: 05-20-2008
+I/A/W DRW: 34008 B002633940000001 (BASIC)   DTD: 06-18-2026
+
+
+   Type #: B002633940000001-5
+
+
+
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+68167	A3X126-07-YLW-M	
+7Z016	A3X126-07-YLW-M	KAMPI COMPONENTS CO INC
+
+
+
+
+
+SPE4A726T772C.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	09-21-2026
+Return By:	10-01-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Origin
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-09-28 08:05:41
+ 
+
+Purchase Request:	7018414157
+
+	
+
+NSN: 1680-01-314-8330   Nomenclature: CABLE ASSEMBLY,CONTROL
+
+
+   AMSC: Q     	NAICS: 336413     	Quantity: 49     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+04638	C81386-2	TRANSDIGM INC
+06970	C81386-2	
+
+
+
+
+
+SPE4A626T28TU.PDF
+  » Package View
+
+
+
+uote  	 
+
+
+
+Issued:	09-11-2026
+Return By:	10-01-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-09-28 08:05:22
+ 
+
+Purchase Request:	7018248608
+
+	
+
+NSN: 5995-01-266-2236   Nomenclature: CABLE ASSEMBLY,RADIO F
+
+
+   AMSC: C     	NAICS: 334419     	Quantity: 2     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+00752	446672-1	L3HARRIS TECHNOLOGIES, INC.
+21530	446672-1	SPENCER INDUSTRIES INC
+
+
+
+
+
+SPE4A626T29DQ.PDF
+  » Package View
+
+
+
+uote  	 
+
+
+
+Issued:	09-14-2026
+Return By:	10-01-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-09-28 08:05:21
+ 
+
+Purchase Request:	7018237082, 7018237083
+
+	
+
+NSN: 5995-01-707-7987   Nomenclature: CABLE ASSEMBLY,SPEC
+
+
+   AMSC: Q     	NAICS: 335931     	Quantity: 2     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+4Z5A9	153314-1	HII UNMANNED SYSTEMS, INC
+
+
+
+
+
+SPE4A626T33YT.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	09-21-2026
+Return By:	10-01-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Origin
+ 
+
+Tech Data:	Tech Docs
+ 
+
+Document Post/Updated:	2026-09-28 08:04:51
+ 
+
+Purchase Request:	7018413246
+
+	
+
+NSN: 6150-01-586-3989   Nomenclature: CABLE ASSEMBLY,SPECIAL
+
+
+   AMSC: B     	NAICS: 334419     	Quantity: 20     
+
+
+Specification, Drawing and Standard Data
+Amend No.: W4 DTD: 11-02-2011
+I/A/W DRW: 78286 70550-28900 (BASIC)   DTD: 06-18-2026
+
+
+   Type #: 70550-28806-106
+
+
+
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+24735	AA11100-2	SEMCO INSTRUMENTS, INC.
+78286	70550-28806-106	SIKORSKY AIRCRAFT CORPORATION
+
+
+
+
+
+SPE4A626T33ZF.PDF
+  » Package View
+
+
+
+uote  	 
+
+
+
+Issued:	09-21-2026
+Return By:	10-01-2026
+ 
+
+FOB Point:	Destination
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-09-28 08:04:40
+ 
+
+Purchase Request:	7018346034
+
+	
+
+NSN: 6150-01-495-6377   Nomenclature: CABLE ASSEMBLY,SPECIAL
+
+
+   AMSC: D     	NAICS: 334419     	Quantity: 4     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+6ZPL8	LK120V-8W-220L	SPAIRES INC
+
+
+
+
+
+SPE4A626T26RE.PDF
+  » Package View
+
+
+
+uote  	 
+
+
+
+Issued:	09-04-2026
+Return By:	10-01-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-09-28 08:04:29
+ 
+
+Purchase Request:	7018196075
+
+	
+
+NSN: 5995-01-264-2180   Nomenclature: CABLE ASSEMBLY,RADIO F
+
+
+   AMSC: H     	NAICS: 334419     	Quantity: 1     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+00752	448251-1	L3HARRIS TECHNOLOGIES, INC.
+21530	448251-1	SPENCER INDUSTRIES INC
+
+
+
+
+
+SPE4A626T19YW.PDF
+  » Package View
+
+
+
+uote  	 
+
+
+
+Issued:	08-19-2026
+Return By:	10-01-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-09-28 08:04:26
+ 
+
+Purchase Request:	7017868706
+
+	
+
+NSN: 5995-01-735-7668   Nomenclature: CABLE ASSEMBLY,SPECIAL
+
+
+   AMSC: D     	NAICS: 335931     	Quantity: 2     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+14304	11496-1552-A009	L3HARRIS TECHNOLOGIES, INC.
+
+
+
+
+
+SPE4A626T33RS.PDF
+  » Package View
+
+
+
+uote  	 
+
+
+
+Issued:	09-21-2026
+Return By:	10-01-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	Tech Docs
+ 
+
+Document Post/Updated:	2026-09-28 08:04:20
+ 
+
+Purchase Request:	7018413572
+
+	
+
+NSN: 6150-01-247-4768   Nomenclature: CABLE ASSEMBLY,SPECIAL
+
+
+   AMSC: G     	NAICS: 334419     	Quantity: 6     
+
+
+Specification, Drawing and Standard Data
+Amend No.: P DTD: 09-14-2023
+I/A/W DRW: 97403 13226E7021 (BASIC)   DTD: 06-18-2026
+
+
+   Type #: 13226E7021
+
+
+
+
+
+
+
+
+
+
+SPE4A626T34EJ.PDF
+  » Package View
+
+
+
+uote  	 
+
+
+
+Issued:	09-21-2026
+Return By:	10-01-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-09-28 08:04:19
+ 
+
+Purchase Request:	7013834542
+
+	
+
+NSN: 6150-01-654-5899   Nomenclature: CABLE ASSEMBLY,POWE
+
+
+   AMSC: D     	NAICS: 335311     	Quantity: 18     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+3XWN1	11399	GATR TECHNOLOGIES, INC.
+
+
+
+
+
+SPE4A626T34CF.PDF
+  » Package View
+
+
+
+uote  	 
+
+
+
+Issued:	09-21-2026
+Return By:	10-01-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-09-28 08:04:19
+ 
+
+Purchase Request:	7015905558
+
+	
+
+NSN: 5995-01-590-9507   Nomenclature: CABLE ASSEMBLY AND
+
+
+   AMSC: D     	NAICS: 334419     	Quantity: 6     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+097B0	800065	TIM PRICE INC.
+
+
+
+
+
+SPE4A626T34CG.PDF
+  » Package View
+
+
+
+uote  	 
+
+
+
+Issued:	09-21-2026
+Return By:	10-01-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-09-28 08:04:16
+ 
+
+Purchase Request:	7014628448
+
+	
+
+NSN: 5995-01-602-1585   Nomenclature: CABLE ASSEMBLY,RADI
+
+
+   AMSC: C     	NAICS: 334419     	Quantity: 5     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+60637	A9105-111116	SEMFLEX, INC.
+
+
+
+
+
+SPE4A626T31PC.PDF
+  » Package View
+
+
+
+uote  	 
+
+
+
+Issued:	09-17-2026
+Return By:	10-01-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-09-28 08:03:33
+ 
+
+Purchase Request:	7018378149
+
+	
+
+NSN: 6150-15-035-4137   Nomenclature: CABLE ASSEMBLY,SPECIAL
+
+
+   AMSC: D     	NAICS: 335311     	Quantity: 3     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+A4249	5802096923	IVECO DEFENCE VEHICLES S.P.A.
+
+
+
+
+
+SPE4A626T31GH.PDF
+  » Package View
+
+
+
+uote  	 
+
+
+
+Issued:	09-17-2026
+Return By:	10-01-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-09-28 08:03:30
+ 
+
+Purchase Request:	7018379781
+
+	
+
+NSN: 6150-01-585-9799   Nomenclature: CABLE ASSEMBLY,SPECIAL
+
+
+   AMSC: D     	NAICS: 334419     	Quantity: 2     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+1FDG9	10810042	
+5W3V7	10810042	AMENTUM SERVICES, INC.
+
+
+
+
+
+SPE4A626T31LZ.PDF
+  » Package View
+
+
+
+uote  	 
+
+
+
+Issued:	09-17-2026
+Return By:	10-01-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-09-28 08:03:24
+ 
+
+Purchase Request:	7018379076
+
+	
+
+NSN: 5995-01-679-8659   Nomenclature: CABLE ASSEMBLY,SPECIAL
+
+
+   AMSC: D     	NAICS: 335931     	Quantity: 14     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+23386	3101376-501	THALES DEFENSE & SECURITY INC
+
+
+
+
+
+SPE4A626T28FG.PDF
+  » Package View
+
+
+
+uote  	 
+
+
+
+Issued:	09-10-2026
+Return By:	10-01-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-09-28 08:03:20
+ 
+
+Purchase Request:	7018249128
+
+	
+
+NSN: 5995-01-025-5150   Nomenclature: CABLE ASSEMBLY,RADIO F
+
+
+   AMSC: Q     	NAICS: 334419     	Quantity: 4     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+21530	525R999G01	SPENCER INDUSTRIES INC
+97942	525R999G01	NORTHROP GRUMMAN SYSTEMS CORPORATIO
+
+
+
+
+
+SPE4A626T16ZP.PDF
+  » Package View
+
+
+
+uote  	 
+
+
+
+Issued:	08-17-2026
+Return By:	10-01-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-09-28 08:03:13
+ 
+
+Purchase Request:	7017826755
+
+	
+
+NSN: 5995-01-660-2780   Nomenclature: CABLE ASSEMBLY,SPEC
+
+
+   AMSC: D     	NAICS: 335931     	Quantity: 10     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+14304	12006-4241-A025	L3HARRIS TECHNOLOGIES, INC.
+
+
+
+
+
+SPE7M226T6913.PDF
+  » Package View
+
+
+
+uote  	 
+
+
+
+Issued:	09-18-2026
+Return By:	10-01-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-09-28 07:25:35
+ 
+
+Purchase Request:	7018392090
+
+	
+
+NSN: 5995-01-529-6421   Nomenclature: CABLE ASSEMBLY,SPECIAL
+
+
+   AMSC: Q     	NAICS: 334419     	Quantity: 95     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+0GX96	72-3383-01	CISCO SYSTEMS INC
+
+
+
+
+
+SPE4A626T34GA.PDF
+  » Package View
+
+
+
+uote  	 
+
+
+
+Issued:	09-21-2026
+Return By:	10-01-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-09-28 07:25:31
+ 
+
+Purchase Request:	7018380058
+
+	
+
+NSN: 5995-01-431-2222   Nomenclature: CABLE ASSEMBLY,RADIO F
+
+
+   AMSC: C     	NAICS: 334419     	Quantity: 10     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+0HS46	538R532G03	REV-CAP COMPANY, INC.
+21530	538R532G03	SPENCER INDUSTRIES INC
+97942	538R532G03	NORTHROP GRUMMAN SYSTEMS CORPORATIO
+
+
+
+
+
+SPE4A626T34JS.PDF
+  » Package View
+
+
+
+uote  	 
+
+
+
+Issued:	09-21-2026
+Return By:	10-01-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-09-28 07:25:28
+ 
+
+Purchase Request:	7018379297
+
+	
+
+NSN: 5995-01-677-5718   Nomenclature: CABLE ASSEMBLY,POWER,E
+
+
+   AMSC: D     	NAICS: 335931     	Quantity: 2     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+13499	987-0021-172	ROCKWELL COLLINS, INC.
+
+
+
+
+
+SPE4A626T37PF.PDF
+  » Package View
+
+
+
+uote  	 
+
+
+
+Issued:	09-29-2026
+Return By:	10-06-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-09-28 05:05:10
+ 
+
+Purchase Request:	7018487242
+
+	
+
+NSN: 5995-01-617-8309   Nomenclature: CABLE ASSEMBLY,RADI
+
+
+   AMSC: C     	NAICS: 335931     	Quantity: 1     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+0T1F7	15NNF50-1.0B	ANRITSU COMPANY
+
+
+
+
+
+SPE4A626T37NF.PDF
+  » Package View
+
+
+
+uote  	 
+
+
+
+Issued:	09-29-2026
+Return By:	10-06-2026
+ 
+
+FOB Point:	Destination
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-09-28 05:05:09
+ 
+
+Purchase Request:	7018477109
+
+	
+
+NSN: 5995-01-738-6215   Nomenclature: CABLE ASSEMBLY,SPECIAL
+
+
+   AMSC: D     	NAICS: 000000     	Quantity: 24     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+3USB5	USB2AC6FBKE	STARTECH.COM USA LLP
+
+
+
+
+
+SPE4A026T5052.PDF
+  » Package View
+
+
+
+uote  	 
+
+
+
+Issued:	09-29-2026
+Return By:	10-06-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-09-28 05:05:09
+ 
+
+Purchase Request:	7018471145
+
+	
+
+NSN: 6150-99-492-8879   Nomenclature: CABLE ASSEMBLY,SPECIAL
+
+
+   AMSC: R     	NAICS: 334419     	Quantity: 1     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+K7705	G406-8726	KNDS DEFENCE UK LIMITED
+
+
+
+
+
+SPE4A626T37NX.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	09-29-2026
+Return By:	10-06-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Origin
+ 
+
+Tech Data:	Tech Docs
+ 
+
+Document Post/Updated:	2026-09-28 05:05:09
+ 
+
+Purchase Request:	7018470518
+
+	
+
+NSN: 6150-01-513-6213   Nomenclature: CABLE ASSEMBLY,SPEC
+
+
+   AMSC: G     	NAICS: 334419     	Quantity: 2     
+
+
+Specification, Drawing and Standard Data
+Amend No.: A DTD: 04-19-1996
+I/A/W DRW: 98748 90921 (BASIC)   DTD: 06-18-2026
+
+
+   Type #: 90921-1
+
+
+
+
+
+
+
+
+
+
+SPE4A626T37NA.PDF
+  » Package View
+
+
+
+uote  	 
+
+
+
+Issued:	09-29-2026
+Return By:	10-06-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-09-28 05:05:09
+ 
+
+Purchase Request:	7018434573
+
+	
+
+NSN: 6150-01-707-6772   Nomenclature: CABLE ASSEMBLY,SPECIAL
+
+
+   AMSC: Z     	NAICS: 335311     	Quantity: 6     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+1WX10	SYN-9172	SYNQOR, INC
+
+
+
+
+
+SPE4A626T37PL.PDF
+  » Package View
+
+
+
+uote  	 
+
+
+
+Issued:	09-29-2026
+Return By:	10-06-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-09-28 05:05:09
+ 
+
+Purchase Request:	7018469891, 7018487747
+
+	
+
+NSN: 6150-01-648-5150   Nomenclature: CABLE ASSEMBLY,POWER,E
+
+
+   AMSC: D     	NAICS: 335311     	Quantity: 3     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+1CVY3	C6126 PLUG	SESOLINC GRP, INC.
+
+
+
+
+
+SPE4A626T37NN.PDF
+  » Package View
+
+
+
+uote  	 
+
+
+
+Issued:	09-29-2026
+Return By:	10-06-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-09-28 05:05:09
+ 
+
+Purchase Request:	7018220767
+
+	
+
+NSN: 5995-01-697-6780   Nomenclature: CABLE ASSEMBLY,POWER,E
+
+
+   AMSC: K     	NAICS: 335931     	Quantity: 1     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+3A2R7	GEISLV-LC10	GRAYWACKE, INC
+
+
+
+
+
+SPE7M126T388U.PDF
+  » Package View
+
+
+
+uote  	 
+
+
+
+Issued:	09-29-2026
+Return By:	10-09-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-09-28 02:04:55
+ 
+
+Purchase Request:	7018220569
+
+	
+
+NSN: 6080-01-738-1640   Nomenclature: CABLE ASSEMBLY SET,FIB
+
+
+   AMSC: Z     	NAICS: 000000     	Quantity: 1     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+08RC6	0801-9964	KITCO FIBER OPTICS INC
+
+
+
+
+
+SPE4A626T37KS.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	09-29-2026
+Return By:	10-06-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-09-28 12:26:00
+ 
+
+Purchase Request:	7016936732
+
+	
+
+NSN: 6150-00-405-0608   Nomenclature: CABLE ASSEMBLY,SPEC
+
+
+   AMSC: D     	NAICS: 335311     	Quantity: 32     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+18863	GW121	GLENAIR, INC.
+
+
+
+
+
+SPE4A626T37JU.PDF
+  » Package View
+
+
+
+uote  	 
+
+
+
+Issued:	09-29-2026
+Return By:	10-06-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-09-28 10:39:50
+ 
+
+Purchase Request:	7018556445
+
+	
+
+NSN: 5995-01-602-1694   Nomenclature: CABLE ASSEMBLY,SPECIAL
+
+
+   AMSC: N     	NAICS: 334419     	Quantity: 15     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+1CAK9	428-01549-001	DIGITAL RECEIVER TECHNOLOGY, INC.
+
+
+
+
+
+SPE4A626T37JX.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	09-29-2026
+Return By:	10-06-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-09-28 10:39:50
+ 
+
+Purchase Request:	7018457695
+
+	
+
+NSN: 6150-01-501-8781   Nomenclature: CABLE ASSEMBLY,SPECIAL
+
+
+   AMSC: D     	NAICS: 488190     	Quantity: 53     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+29192	CL/SC/6	
+U2318	9122083	
+Z2WQ4	9122083	
+
+
+
+
+
+SPE4A726T799B.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	09-29-2026
+Return By:	10-06-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Origin
+ 
+
+Tech Data:	Tech Docs
+ 
+
+Document Post/Updated:	2026-09-28 09:38:59
+ 
+
+Purchase Request:	7017741408
+
+	
+
+NSN: 5895-01-705-8327   Nomenclature: CABLE ASSEMBLY KIT,
+
+
+   AMSC: G     	NAICS: 334290     	Quantity: 6     
+
+
+Specification, Drawing and Standard Data
+Amend No.: B DTD: 04-18-2024
+I/A/W DRW: 19207 57K9058 (BASIC)   DTD: 06-18-2026
+
+
+
+
+
+
+
+
+
+
+
+
+SPE4A626T37HY.PDF
+  » Package View
+
+
+
+uote  	 
+
+
+
+Issued:	09-29-2026
+Return By:	10-06-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Origin
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-09-28 07:35:27
+ 
+
+Purchase Request:	7018517146
+
+	
+
+NSN: 5995-01-679-1854   Nomenclature: CABLE ASSEMBLY,SPECIAL
+
+
+   AMSC: P     	NAICS: 335931     	Quantity: 2     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+14304	12106-1019-A020	L3HARRIS TECHNOLOGIES, INC.
+
+
+
+
+
+SPE4A626Q1494.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	09-28-2026
+Return By:	10-08-2026
+ 
+
+FOB Point:	Destination
+ 
+
+Inspection Point:	Origin
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-09-28 04:31:44
+ 
+
+Purchase Request:	7013430624
+
+	
+
+NSN: 5995-01-035-1020   Nomenclature: CABLE ASSEMBLY,RADIO F
+
+
+   AMSC: C     	NAICS: 334419     	Quantity: 2     
+
+
+Specification, Drawing and Standard Data
+      No Basic drawing data available. See Solicitation.
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+97942	584R160G20	NORTHROP GRUMMAN SYSTEMS CORPORATIO
+
+
+
+
+
+SPE4A626T37EW.PDF
+  » Package View
+
+
+
+uote  	 
+
+
+
+Issued:	09-28-2026
+Return By:	10-05-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Origin
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-09-27 06:21:44
+ 
+
+Purchase Request:	7018342608
+
+	
+
+NSN: 5995-01-606-3755   Nomenclature: CABLE ASSEMBLY,RADIO F
+
+
+   AMSC: D     	NAICS: 334419     	Quantity: 4     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+68999	AE13013-412-147	TIMES MICROWAVE SYSTEMS, INC
+
+
+
+
+
+SPE4A626T37EV.PDF
+  » Package View
+
+
+
+uote  	 
+
+
+
+Issued:	09-28-2026
+Return By:	10-05-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Origin
+ 
+
+Tech Data:	Tech Docs
+ 
+
+Document Post/Updated:	2026-09-27 06:21:44
+ 
+
+Purchase Request:	7017528798
+
+	
+
+NSN: 6150-01-588-8420   Nomenclature: CABLE ASSEMBLY,SPECIAL
+
+
+   AMSC: G     	NAICS: 334419     	Quantity: 10     
+
+
+Specification, Drawing and Standard Data
+Amend No.: B DTD: 01-30-2015
+I/A/W DRW: 19207 12486078 (BASIC)   DTD: 06-18-2026
+
+
+   Type #: 12486078-001
+
+
+
+
+
+
+
+
+
+
+SPE4A626T37ED.PDF
+  » Package View
+
+
+
+uote  	 
+
+
+
+Issued:	09-28-2026
+Return By:	10-05-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-09-27 06:21:44
+ 
+
+Purchase Request:	7018459152
+
+	
+
+NSN: 5995-01-079-2587   Nomenclature: CABLE ASSEMBLY,RADIO F
+
+
+   AMSC: Q     	NAICS: 334419     	Quantity: 2     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+17217	RGMCA-190-6/33.5	WL GORE & ASSOCIATES INC
+81755	16VA037-4	LOCKHEED MARTIN CORPORATION
+
+
+
+
+
+SPE4A626T37DJ.PDF
+  » Package View
+
+
+
+uote  	 
+
+
+
+Issued:	09-28-2026
+Return By:	10-05-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	Tech Docs
+ 
+
+Document Post/Updated:	2026-09-27 06:21:44
+ 
+
+Purchase Request:	7018469380
+
+	
+
+NSN: 5995-01-721-7611   Nomenclature: CABLE ASSEMBLY,SPEC
+
+
+   AMSC: G     	NAICS: 335931     	Quantity: 1     
+
+
+Specification, Drawing and Standard Data
+Amend No.: B DTD: 01-13-2020
+I/A/W DRW: 02591 57558-00029 (BASIC)   DTD: 06-18-2026
+
+
+   Type #: 57558-00029-3
+
+
+
+
+
+
+
+
+
+
+SPE4A626T37FJ.PDF
+  » Package View
+
+
+
+uote  	 
+
+
+
+Issued:	09-28-2026
+Return By:	10-05-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-09-27 06:21:44
+ 
+
+Purchase Request:	7018457567
+
+	
+
+NSN: 6150-01-493-6792   Nomenclature: CABLE ASSEMBLY,SPECIAL
+
+
+   AMSC: Q     	NAICS: 334419     	Quantity: 3     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+04034	45750-2-2-5-LP	SETRA SYSTEMS, INC.
+96169	H673-1201-C-1TK120	ELECTRIC BOAT CORPORATION
+
+
+
+
+
+SPE7M126T384U.PDF
+  » Package View
+
+
+
+uote  	 
+
+
+
+Issued:	09-28-2026
+Return By:	10-08-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-09-27 06:21:43
+ 
+
+Purchase Request:	7018494965
+
+	
+
+NSN: 6020-01-571-9677   Nomenclature: CABLE ASSEMBLY,FIBER O
+
+
+   AMSC: Q     	NAICS: 335921     	Quantity: 157     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+0CKD9	D288M1FISC	FIBER INSTRUMENT SALES, INC.
+
+
+
+
+
+SPE4A626T36ZF.PDF
+  » Package View
+
+
+
+uote  	 
+
+
+
+Issued:	09-28-2026
+Return By:	10-05-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Origin
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-09-27 06:21:43
+ 
+
+Purchase Request:	7018517390
+
+	
+
+NSN: 5995-01-679-0916   Nomenclature: CABLE ASSEMBLY,SPECIAL
+
+
+   AMSC: P     	NAICS: 335931     	Quantity: 2     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+14304	12106-1015-A008	L3HARRIS TECHNOLOGIES, INC.
+
+
+
+
+
+SPE4A626T36ZD.PDF
+  » Package View
+
+
+
+uote  	 
+
+
+
+Issued:	09-28-2026
+Return By:	10-05-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Origin
+ 
+
+Tech Data:	Tech Docs
+ 
+
+Document Post/Updated:	2026-09-27 06:21:43
+ 
+
+Purchase Request:	7018517308
+
+	
+
+NSN: 5995-01-679-0785   Nomenclature: CABLE ASSEMBLY,SPECIAL
+
+
+   AMSC: G     	NAICS: 335931     	Quantity: 2     
+
+
+Specification, Drawing and Standard Data
+Amend No.: A DTD: 06-10-2019
+I/A/W DRW: 0MLM6 7014215 (BASIC)   DTD: 06-18-2026
+
+
+   Type #: 12106-1015-A022
+
+
+
+
+
+
+
+
+
+
+SPE4A626T36ZL.PDF
+  » Package View
+
+
+
+uote  	 
+
+
+
+Issued:	09-28-2026
+Return By:	10-05-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Origin
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-09-27 06:21:43
+ 
+
+Purchase Request:	7018517148
+
+	
+
+NSN: 5995-01-679-5546   Nomenclature: CABLE ASSEMBLY,SPECIAL
+
+
+   AMSC: P     	NAICS: 335931     	Quantity: 2     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+14304	12106-2363-A010	L3HARRIS TECHNOLOGIES, INC.
+
+
+
+
+
+SPE4A626T36ZJ.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	09-28-2026
+Return By:	10-05-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Origin
+ 
+
+Tech Data:	Tech Docs
+ 
+
+Document Post/Updated:	2026-09-27 06:21:43
+ 
+
+Purchase Request:	7018516616
+
+	
+
+NSN: 5995-01-673-7628   Nomenclature: CABLE ASSEMBLY,SPECIAL
+
+
+   AMSC: G     	NAICS: 335931     	Quantity: 4     
+
+
+Specification, Drawing and Standard Data
+Amend No.: B DTD: 02-01-2017
+I/A/W DRW: 0MLM6 7014206 (BASIC)   DTD: 06-18-2026
+
+
+   Type #: 7014206-02
+
+
+
+
+
+
+
+
+
+
+SPE4A626T36YW.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	09-28-2026
+Return By:	10-05-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Origin
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-09-27 06:21:43
+ 
+
+Purchase Request:	7018517301
+
+	
+
+NSN: 5995-01-679-1015   Nomenclature: CABLE ASSEMBLY,SPECIAL
+
+
+   AMSC: P     	NAICS: 335931     	Quantity: 2     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+14304	12106-1015-A012	L3HARRIS TECHNOLOGIES, INC.
+
+
+
+
+
+SPE4A626T36ZR.PDF
+  » Package View
+
+
+
+uote  	 
+
+
+
+Issued:	09-28-2026
+Return By:	10-05-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Origin
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-09-27 06:21:43
+ 
+
+Purchase Request:	7018517140
+
+	
+
+NSN: 5995-01-679-8698   Nomenclature: CABLE ASSEMBLY,SPECIAL
+
+
+   AMSC: P     	NAICS: 335931     	Quantity: 2     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+14304	12106-1010-A006	L3HARRIS TECHNOLOGIES, INC.
+
+
+
+
+
+SPE4A626T36ZM.PDF
+  » Package View
+
+
+
+uote  	 
+
+
+
+Issued:	09-28-2026
+Return By:	10-05-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Origin
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-09-27 06:21:43
+ 
+
+Purchase Request:	7018517142
+
+	
+
+NSN: 5995-01-680-1118   Nomenclature: CABLE ASSEMBLY,SPECIAL
+
+
+   AMSC: P     	NAICS: 335931     	Quantity: 6     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+14304	12109-5028-A1	L3HARRIS TECHNOLOGIES, INC.
+
+
+
+
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24
+
+
+· RFQ Text Search
+Query String:
+
+
+
+Modified: 
+Any time
+last hour
+last day
+last 7 days
+last 30 days
+last 60 days
+last 90 days
+last 365 days
+	Sort: 
+Best Match
+Newly Posted to Oldest
+Oldest Posted to Newest
+
+Filter:
+  
+Automated Indefinite Delivery Contract (AIDC)
+
+
+  
+Items with Technical Documents
+
+
+  
+Fast Award Candidates
+
+
+  
+Small Business Set-Asides
+
+
+  
+HUBZone Set-Asides
+
+	
+  
+Service Disabled Veteran Owned
+      Small Business Set-Asides
+
+
+Woman Owned Small Business Set-Asides
+
+
+Economically Disadvantaged Women Owned Small Business Set-Asides
+
+
+Unrestricted/Not Set-Asides
+
+
+ 
+
+
+
+
+ 
+Policy Statements · Feedback
+   EOXD8AUZtkHO8wt7m812jA==
+   Ver.6.3.2
+

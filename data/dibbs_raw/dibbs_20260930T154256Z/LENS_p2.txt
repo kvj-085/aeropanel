@@ -1,0 +1,4945 @@
+FAQ/Help · Refs · My Account · Log In
+
+
+   Home       Solicitations       RFQs       RFP/IFB/Other RFQs       Tech Data       Downloads        Awards   
+
+
+Navigation: 
+Navigation/Documents - - - - - -
+Accessibility
+Awards Area
+- Awards by Award DT
+- Awards by Post DT
+- Market Ready Orders ®
+- Post Award Request (PAR)®
+Batch Quoting ®
+Batch Quoting File Format
+BidSets
+Contracts
+Delivery Orders
+FAQs
+Feedback
+Forecast ®
+FSC ~ DLA Managed
+Global Search
+Home Page
+Invitation For Bid (IFB) Area
+Log In Screen
+Master Solicitation (PAC)
+Notices/Message Board
+Post Award Request (PAR)®
+Quoting Help
+Quote Search ®
+Request For Proposal (RFP)Area
+Request For Quote (RFQ) Area
+- RFQs by Issue Date
+- RFQs by Return By Date
+- RFQs Recent
+References
+Registration
+Solicitations
+SRVA ®
+User(s) Profile Update ®
+Vendor Profile Update ®
+Welcome Page ®
+Regs / Supplement Extracts ---
+DFARS 225.502
+DFARS 252.211-7005
+DFARS 252.211-7006
+DFARS 252.223-7001
+DFARS 252.225-7001
+DFARS 252.225-7035
+DFARS 252.225-7036
+DLAD 52.211-9000
+DLAD 52.213-9000
+DLAD 52.217-9002
+DLAD 52.219-9015
+DLAD 52.223-9000
+DLAD 52.233-9001
+FAR 52.209-1
+FAR 52.211-5
+FAR 52.212-3
+FAR 52.219-1
+FAR 52.222-18
+FAR 52.222-22
+FAR 52.222-25
+FAR 52.222-26
+FAR 52.223-3
+ 
+
+Database Search: 
+Choose Search
+RFQs - NSN
+RFQs - Solicitation
+RFQs - PR
+-----------------------
+Awards - Awardee CAGE
+Awards - Award/Basic Number
+Awards - Delivery Order #
+Awards - NSN
+Awards - PR
+-----------------------
+RFP/IFB/Other RFQs - Solicitation
+RFP/IFB/Other RFQs - NSN
+-----------------------
+CAGE Search
+  Value: 
+
+
+Notice:   · Suspension of CMMC Phase II » Read Notice
+
+  Please read notices posted on the Notices page.
+
+
+  Location: Home » Solicitations » RFQs » RFQ Text Search
+[
+RFQ Search
+-
+Recent RFQs
+-
+RFQs by Issue Date
+-
+RFQs by Return By Date
+-
+RFQs by FSC
+]
+[ 273 ] 9/30/2026 11:55:01 AM
+
+
+
+Documents Indexed: 161,967
+
+Additional RFQ Text Search Help
+
+Found 287 records for this search query string.
+Modified: Any time
+
+
+
+1 2 3
+Solicitation Information	Product Data
+
+SPE2DS26T363Z.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	08-24-2026
+Return By:	08-31-2026
+ 
+
+FOB Point:	Destination
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-23 06:51:49
+ 
+
+Purchase Request:	7017974736, 7017974738
+
+	
+
+NSN: 6540-01-705-8123   Nomenclature: GLASSES,EXAMINATION AN
+
+
+   AMSC: Z     	NAICS: 339113     	Quantity: 12     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+0NUS8	100-7382	HENRY SCHEIN, INC.
+
+
+
+
+
+SPE2DS26T235T.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	07-16-2026
+Return By:	07-21-2026
+ 
+
+FOB Point:	Destination
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7017485275
+
+	
+
+NSN: 6540-01-645-8325   Nomenclature: LENS,OPHTHALMIC,COM
+
+
+   AMSC: Z     	NAICS: 339113     	Quantity: 4     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+0BJC6	POLY-ON-72MMSM575.050	ALLAN BAKER, INC.
+
+
+
+
+
+SPE4A726T679X.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	08-20-2026
+Return By:	08-27-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Origin
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7017964433
+
+	
+
+NSN: 0001S00000062   Nomenclature: PRODUCTION LOT TESTING
+
+
+   AMSC: D     	NAICS: ______     	Quantity: 1     
+
+
+
+
+
+NSN: 5855-01-609-6215   Nomenclature: CAP,LENS
+
+
+   AMSC: D     	NAICS: 333310     	Quantity: 1453     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+6FQM4	OFM-2546-A1	INTELLIGENT MANUFACTURING SOLUTIONS
+
+
+
+
+
+SPE8EN26T2913.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	08-13-2026
+Return By:	08-24-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7017757112
+
+	
+
+NSN: 6760-01-556-4306   Nomenclature: THERMAL IMAGER,LENS TI
+
+
+   AMSC: D     	NAICS: 332991     	Quantity: 895     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+0B107	7B626	L3 TECHNOLOGIES, INC.
+AD091	7B626	
+FASM4	LFEBNVD-006	
+FASM4	LFEWTM-003	
+
+
+
+
+
+SPE8E726T3179.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	06-25-2026
+Return By:	07-06-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7017276751, 7017276752
+
+	
+
+NSN: 6210-14-544-4083   Nomenclature: LENS,LIGHT
+
+
+   AMSC: D     	NAICS: 332321     	Quantity: 2     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+F6481	92114147	
+F6862	SPP5350045	
+FAS02	ZB5AV013	
+K0162	92114147	
+KCUC6	40065041	
+
+
+
+
+
+SPE8E726T2887.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	06-05-2026
+Return By:	06-15-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7016970960
+
+	
+
+NSN: 6210-01-168-8835   Nomenclature: LENS,LIGHT
+
+
+   AMSC: D     	NAICS: 335139     	Quantity: 30     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+61706	01-951-9ENGRAVE-FAST	
+
+
+
+
+
+SPE4AN26T0062.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	05-20-2026
+Return By:	05-27-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Origin
+ 
+
+Tech Data:	Tech Docs
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7016735777
+
+	
+
+NSN: 6210-01-151-7933   Nomenclature: LENS,LIGHT
+
+
+   AMSC: G     	NAICS: 335139     	Quantity: 2     
+
+
+Specification, Drawing and Standard Data
+Amend No.: C DTD: 03-10-1988
+I/A/W DRW: 53711 5499590 (BASIC)   DTD: 09-20-2006
+
+
+   Type #: 5499590-1
+
+
+
+
+
+
+
+
+
+
+SPE4A626T066A.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	11-19-2025
+Return By:	01-21-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7014545406
+
+	
+
+NSN: 6210-01-104-5071   Nomenclature: LENS,LIGHT
+
+
+   AMSC: D     	NAICS: 335131     	Quantity: 4     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+81590	6541002-158	KORRY ELECTRONICS CO
+
+
+
+
+
+SPE8E726T2807.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	06-02-2026
+Return By:	06-12-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7016966746
+
+	
+
+NSN: 6210-00-127-9965   Nomenclature: LENS,LIGHT
+
+
+   AMSC: D     	NAICS: 335131     	Quantity: 1     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+83330	221-0937-203	
+
+
+
+
+
+SPE8E726T2494.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	05-06-2026
+Return By:	05-18-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7016373467
+
+	
+
+NSN: 6210-01-390-1702   Nomenclature: LENS,LIGHT
+
+
+   AMSC: D     	NAICS: 335139     	Quantity: 18     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+98032	820545	TRI-TEC MANUFACTURING LLC
+
+
+
+
+
+SPE4A726T121K.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	03-20-2026
+Return By:	03-27-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	Tech Docs
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7015994115
+
+	
+
+NSN: 6210-01-261-4824   Nomenclature: LENS,LIGHT
+
+
+   AMSC: B     	NAICS: 335139     	Quantity: 164     
+
+
+Specification, Drawing and Standard Data
+Amend No.: DTD: 03-07-2007
+I/A/W DRW: 1X4F3 AMSCBDOC (BASIC)   DTD: 05-18-2011
+
+
+
+
+
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+06097	561-8318	HOFFMAN ENGINEERING, LLC
+0VDA9	923-450-06	LUMINATOR HOLDING L.P
+
+
+
+
+
+SPE4A526T5596.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	12-17-2025
+Return By:	12-24-2025
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Origin
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7014811921
+
+	
+
+NSN: 6220-01-469-9518   Nomenclature: LENS,LIGHT
+
+
+   AMSC: D     	NAICS: 333515     	Quantity: 15     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+55438	001030-2	GOODRICH LIGHTING SYSTEMS INC
+
+
+
+
+
+SPE4A626T88V5.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	06-12-2026
+Return By:	06-22-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Origin
+ 
+
+Tech Data:	Tech Docs
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7017038859
+
+	
+
+NSN: 6210-01-384-2261   Nomenclature: LENS,LIGHT
+
+
+   AMSC: G     	NAICS: 335139     	Quantity: 3     
+
+
+Specification, Drawing and Standard Data
+Amend No.: B DTD: 02-26-2006
+I/A/W DRW: 53711 6603213 (BASIC)   DTD: 11-19-2024
+
+
+   Type #: 255-6603213FNAY-1-49
+
+
+
+
+
+
+
+
+
+
+SPE4A526T058B.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	04-10-2026
+Return By:	04-17-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Origin
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7016226874
+
+	
+
+NSN: 6220-01-469-9518   Nomenclature: LENS,LIGHT
+
+
+   AMSC: D     	NAICS: 333515     	Quantity: 12     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+55438	001030-2	GOODRICH LIGHTING SYSTEMS INC
+
+
+
+
+
+SPE4A626T63D0.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	05-20-2026
+Return By:	06-01-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	Tech Docs
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7016844219
+
+	
+
+NSN: 6220-01-476-6185   Nomenclature: LENS,LIGHT
+
+
+   AMSC: C     	NAICS: 336320     	Quantity: 16     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+12522	631321-011	STACO SYSTEMS, INC.
+
+
+
+
+
+SPE2DS26T295A.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	08-03-2026
+Return By:	08-10-2026
+ 
+
+FOB Point:	Destination
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7017684472
+
+	
+
+NSN: 6540-01-296-2130   Nomenclature: LENS,SCLERAL,OCULAR LA
+
+
+   AMSC: Z     	NAICS: 336611     	Quantity: 1     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+0B000	MT2000	MORTAN INC.
+57794	AE-1695	ARMSTRONG MEDICAL INDUSTRIES, INC
+
+
+
+
+
+SPE4A626T54Y2.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	05-14-2026
+Return By:	05-21-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7014487198
+
+	
+
+NSN: 6210-00-990-4645   Nomenclature: LENS,LIGHT
+
+
+   AMSC: G     	NAICS: 335131     	Quantity: 14     
+
+
+Specification, Drawing and Standard Data Mil-Spec
+Amend No.: D DTD: 11-19-2024
+I/A/W SPEC: MIL-DTL-SAE-AMS (BASIC)   DTD: 10-02-2006
+
+
+
+
+
+
+
+
+
+
+
+
+SPE4A626T19AT.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	08-18-2026
+Return By:	08-25-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	Tech Docs
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7017916380
+
+	
+
+NSN: 6210-01-174-8340   Nomenclature: LENS,LIGHT
+
+
+   AMSC: G     	NAICS: 335139     	Quantity: 1     
+
+
+Specification, Drawing and Standard Data
+Amend No.: AV DTD: 01-09-2014
+I/A/W DRW: 81205 204-60903 (BASIC)   DTD: 06-18-2026
+
+
+   Type #: 204-60903-5130
+
+
+
+
+
+
+
+
+
+
+SPE4A626T15DK.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	08-12-2026
+Return By:	08-24-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7017839093
+
+	
+
+NSN: 6220-01-191-5171   Nomenclature: LENS ASSEMBLY
+
+
+   AMSC: L     	NAICS: 336320     	Quantity: 1     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+0SML3	31-4455-5	AERO INTERNATIONAL, LLC
+72914	31-4455-5	GRIMES AEROSPACE COMPANY
+
+
+
+
+
+SPE4A626T13XA.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	08-06-2026
+Return By:	08-13-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Origin
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7017724624
+
+	
+
+NSN: 6210-00-503-7564   Nomenclature: LENS,LIGHT
+
+
+   AMSC: Q     	NAICS: 335139     	Quantity: 3     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+08719	10620AC5-14	DUCOMMUN LABARGE TECHNOLOGIES, INC
+
+
+
+
+
+SPE4A626T12TG.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	08-06-2026
+Return By:	08-13-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7017742416
+
+	
+
+NSN: 6210-01-169-9026   Nomenclature: LENS,LIGHT
+
+
+   AMSC: P     	NAICS: 335131     	Quantity: 11     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+12522	207066-2	STACO SYSTEMS, INC.
+
+
+
+
+
+SPE8E726T3054.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	06-12-2026
+Return By:	06-22-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7017086841
+
+	
+
+NSN: 6220-01-390-0774   Nomenclature: LENS,LIGHT
+
+
+   AMSC: L     	NAICS: 336320     	Quantity: 1     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+04627	2048368	HYSTER-YALE GROUP, INC.
+83299	901162817	
+
+
+
+
+
+SPE8E726T3053.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	06-12-2026
+Return By:	06-25-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7017123253
+
+	
+
+NSN: 6220-01-225-6073   Nomenclature: RETAINER,LENS
+
+
+   AMSC: G     	NAICS: 336413     	Quantity: 38     
+
+
+Specification, Drawing and Standard Data
+Amend No.: A DTD: 02-05-1999
+I/A/W SPEC: MIL-DTL-24560A (BASIC)   DTD: 10-03-2006
+
+
+
+
+
+
+
+
+
+
+
+
+SPE8E726T2416.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	04-30-2026
+Return By:	05-11-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7016555043
+
+	
+
+NSN: 6210-01-177-2736   Nomenclature: LENS,LIGHT
+
+
+   AMSC: Q     	NAICS: 335139     	Quantity: 1     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+27878	E20.1IE244	
+
+
+
+
+
+SPE8E726T2138.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	04-16-2026
+Return By:	04-27-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7016341624
+
+	
+
+NSN: 6210-01-698-8322   Nomenclature: LENS,LIGHT
+
+
+   AMSC: D     	NAICS: 332321     	Quantity: 1     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+45934	16-1367-11	ONTIC ENGINEERING & MANUFACTURING,
+
+
+
+
+
+SPE4A726T272S.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	04-21-2026
+Return By:	04-28-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Origin
+ 
+
+Tech Data:	Tech Docs
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7016286660
+
+	
+
+NSN: 5850-01-470-4657   Nomenclature: LENS,LIGHT
+
+
+   AMSC: G     	NAICS: 334290     	Quantity: 3     
+
+
+Specification, Drawing and Standard Data
+Amend No.: B DTD: 06-19-1998
+I/A/W DRW: 53711 255-7015368 (BASIC)   DTD: 07-05-2022
+
+
+   Type #: 255-7015368PN003
+
+
+
+
+
+
+
+
+
+
+SPE4A526T6635.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	01-12-2026
+Return By:	01-20-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	Tech Docs
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7015051984
+
+	
+
+NSN: 6220-00-608-9560   Nomenclature: LENS,LIGHT
+
+
+   AMSC: G     	NAICS: 336320     	Quantity: 7     
+
+
+Specification, Drawing and Standard Data
+Amend No.: B DTD: 10-19-1983
+I/A/W DRW: 81205 29-5373 (BASIC)   DTD: 07-26-2024
+
+
+
+
+
+
+
+
+
+
+
+
+SPE4A726T122R.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	03-20-2026
+Return By:	04-01-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	Tech Docs
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7015993372
+
+	
+
+NSN: 6220-01-518-5051   Nomenclature: LENS,LIGHT
+
+
+   AMSC: C     	NAICS: 336320     	Quantity: 1     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+12522	631321-051	STACO SYSTEMS, INC.
+
+
+
+
+
+SPE7L726T4336.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	07-17-2026
+Return By:	07-27-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7017315514
+
+	
+
+NSN: 6650-01-734-3450   Nomenclature: CAP,LENS
+
+
+   AMSC: D     	NAICS: 333310     	Quantity: 25     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+83330	080-0535-203	
+
+
+
+
+
+SPE7L726T3477.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	05-19-2026
+Return By:	05-29-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Origin
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7016655679
+
+	
+
+NSN: 6650-01-442-7510   Nomenclature: LENS,OPTICAL INSTRU
+
+
+   AMSC: C     	NAICS: 333310     	Quantity: 2     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+98810	36109	AEROSONIC LLC
+
+
+
+
+
+SPE7L726T2361.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	03-19-2026
+Return By:	04-13-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7013657731
+
+	
+
+NSN: 6650-01-590-5439   Nomenclature: CAP,LENS
+
+
+   AMSC: D     	NAICS: 333310     	Quantity: 78     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+35848	55717	LEUPOLD & STEVENS INC
+
+
+
+
+
+SPE7L726Q2063.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	07-23-2026
+Return By:	08-03-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Origin
+ 
+
+Tech Data:	Tech Docs
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7016086958
+
+	
+
+NSN: 6650-01-080-7648   Nomenclature: LENS,OPTICAL INSTRU
+
+
+   AMSC: G     	NAICS: 333310     	Quantity: 94     
+
+
+Specification, Drawing and Standard Data
+Amend No.: A DTD: 07-03-1980
+I/A/W DRW: 19207 12266965 (BASIC)   DTD: 06-18-2026
+
+
+
+
+
+
+
+
+
+
+
+
+SPE4A526T051A.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	04-08-2026
+Return By:	04-20-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7016227387
+
+	
+
+NSN: 1630-01-565-1413   Nomenclature: PROTECTIVE LENS
+
+
+   AMSC: R     	NAICS: 336413     	Quantity: 488     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+97153	50-799	GOODRICH CORPORATION
+
+
+
+
+
+SPE4A526T0506.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	10-14-2025
+Return By:	01-21-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7014044630
+
+	
+
+NSN: 6210-01-060-0507   Nomenclature: LENS,RED
+
+
+   AMSC: C     	NAICS: 335132     	Quantity: 1     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+06481	595876-003	NORTHROP GRUMMAN SYSTEMS CORPORATIO
+
+
+
+
+
+SPE4A626T41K9.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	05-05-2026
+Return By:	05-12-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7014231139
+
+	
+
+NSN: 6210-01-309-8798   Nomenclature: LENS,LIGHT
+
+
+   AMSC: D     	NAICS: 335139     	Quantity: 12     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+1S5X8	PWLZB6	CRESTWOOD TECHNOLOGY GROUP, LLC
+
+
+
+
+
+SPE4A626T12HJ.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	08-05-2026
+Return By:	08-12-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7017741852
+
+	
+
+NSN: 6210-01-554-4343   Nomenclature: LENS ASSY
+
+
+   AMSC: C     	NAICS: 333414     	Quantity: 5     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+02995	E20.1ID689	OPPENHEIMER PRECISION PRODUCTS INC
+96169	E20.1ID689	ELECTRIC BOAT CORPORATION
+
+
+
+
+
+SPE4A626T05VF.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	07-15-2026
+Return By:	07-22-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Origin
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7017487368
+
+	
+
+NSN: 6610-00-283-2592   Nomenclature: LENS ASSEMBLY
+
+
+   AMSC: D     	NAICS: 334511     	Quantity: 15     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+98810	14587	AEROSONIC LLC
+
+
+
+
+
+SPE8E626T3505.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	06-25-2026
+Return By:	07-06-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7016990003
+
+	
+
+NSN: 4240-01-728-5584   Nomenclature: LENS,GOGGLES,INDUST
+
+
+   AMSC: D     	NAICS: 339113     	Quantity: 15     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+30VZ5	4-0759-9119	REVISION MILITARY LIMITED
+
+
+
+
+
+SPE4A726T113K.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	03-19-2026
+Return By:	03-31-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Origin
+ 
+
+Tech Data:	Tech Docs
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7015980003
+
+	
+
+NSN: 6220-00-712-1779   Nomenclature: LENS,LIGHT
+
+
+   AMSC: G     	NAICS: 336320     	Quantity: 2     
+
+
+Specification, Drawing and Standard Data
+Amend No.: A DTD: 01-01-2039
+I/A/W DRW: 81205 69-32036 (BASIC)   DTD: 09-25-2006
+
+
+   Type #: 69-32036-1
+
+
+
+
+
+
+
+
+
+
+SPE4A726T085Y.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	03-13-2026
+Return By:	03-20-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Origin
+ 
+
+Tech Data:	Tech Docs
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7015904872
+
+	
+
+NSN: 0001S00000052   Nomenclature: GOVERNMENT FIRST ARTIC
+
+
+   AMSC: C     	NAICS: ______     	Quantity: 1     
+
+
+
+
+
+NSN: 6220-01-499-6677   Nomenclature: LENS,LIGHT
+
+
+   AMSC: C     	NAICS: 336320     	Quantity: 161     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+27520	4100116-001	CONTROL PRODUCTS CORPORATION
+
+
+
+
+
+SPE4A725Q1500.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	09-25-2025
+Return By:	10-09-2025
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7013430528
+
+	
+
+NSN: 5855-01-693-6306   Nomenclature: CAP,LENS
+
+
+   AMSC: P     	NAICS: 334511     	Quantity: 422     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+0B107	OFB-2457-A1	L3 TECHNOLOGIES, INC.
+0B107	OFB-457-03	L3 TECHNOLOGIES, INC.
+
+
+
+
+
+SPE4A526T317Y.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	08-03-2026
+Return By:	08-10-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7017702691
+
+	
+
+NSN: 6220-01-343-3962   Nomenclature: LENS,LIGHT
+
+
+   AMSC: P     	NAICS: 336320     	Quantity: 1     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+45934	25-0929-1543	ONTIC ENGINEERING & MANUFACTURING,
+72914	25-0929-1543	GRIMES AEROSPACE COMPANY
+
+
+
+
+
+SPE4A626T96U1.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	06-18-2026
+Return By:	06-25-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7017227276
+
+	
+
+NSN: 6220-00-917-8058   Nomenclature: LENS,LIGHT
+
+
+   AMSC: L     	NAICS: 336320     	Quantity: 8     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+72914	30-0194-3	GRIMES AEROSPACE COMPANY
+
+
+
+
+
+SPE4A626T95P6.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	06-17-2026
+Return By:	06-24-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Origin
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7017199610
+
+	
+
+NSN: 6210-01-554-4319   Nomenclature: LENS ASSY
+
+
+   AMSC: C     	NAICS: 333414     	Quantity: 4     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+02995	E20.1ID674-28VDC	OPPENHEIMER PRECISION PRODUCTS INC
+96169	E20.1ID674-28VDC	ELECTRIC BOAT CORPORATION
+
+
+
+
+
+SPE4A526T162Z.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	05-20-2026
+Return By:	05-27-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7016845351
+
+	
+
+NSN: 6220-01-469-9548   Nomenclature: LENS,LIGHT
+
+
+   AMSC: D     	NAICS: 333515     	Quantity: 12     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+55438	002005-1	GOODRICH LIGHTING SYSTEMS INC
+
+
+
+
+
+SPE4A626T78E1.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	06-03-2026
+Return By:	06-10-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Origin
+ 
+
+Tech Data:	Tech Docs
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7017010007
+
+	
+
+NSN: 0001S00000052   Nomenclature: GOVERNMENT FIRST ARTIC
+
+
+   AMSC: G     	NAICS: ______     	Quantity: 1     
+
+
+
+
+
+NSN: 6220-01-443-7662   Nomenclature: RETAINER,LENS
+
+
+   AMSC: G     	NAICS: 336320     	Quantity: 3     
+
+
+Specification, Drawing and Standard Data
+Amend No.: M DTD: 02-02-2023
+I/A/W DRW: 98897 382833 (BASIC)   DTD: 09-12-2023
+
+
+   Type #: 382833-11
+
+
+
+
+
+
+
+
+
+
+SPE4A626T758D.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	02-20-2026
+Return By:	03-04-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7015609290
+
+	
+
+NSN: 6210-01-159-2161   Nomenclature: LENS,LIGHT
+
+
+   AMSC: L     	NAICS: 335131     	Quantity: 14     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+08719	10648BG21-101	DUCOMMUN LABARGE TECHNOLOGIES, INC
+
+
+
+
+
+SPE4A626T65F2.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	05-20-2026
+Return By:	06-01-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7016848004
+
+	
+
+NSN: 6220-01-433-9388   Nomenclature: LENS,LIGHT
+
+
+   AMSC: C     	NAICS: 336320     	Quantity: 15     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+14550	86-00073-001	LUMINESCENT SYSTEMS, INC
+27520	2000794-001	CONTROL PRODUCTS CORPORATION
+81590	16415-004	KORRY ELECTRONICS CO
+
+
+
+
+
+SPE4A626T58N7.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	05-15-2026
+Return By:	05-22-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7016752320
+
+	
+
+NSN: 6220-12-353-3418   Nomenclature: LENS,LIGHT
+
+
+   AMSC: Q     	NAICS: 333515     	Quantity: 12     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+55438	9EL 409 407-00	GOODRICH LIGHTING SYSTEMS INC
+D8095	9EL 409 407-00	GOODRICH LIGHTING SYSTEMS GMBH & CO
+
+
+
+
+
+SPE2DS26T236F.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	07-16-2026
+Return By:	07-21-2026
+ 
+
+FOB Point:	Destination
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7017485274
+
+	
+
+NSN: 6540-01-645-8120   Nomenclature: LENS,OPHTHALMIC,COMPOU
+
+
+   AMSC: Z     	NAICS: 339113     	Quantity: 6     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+0BJC6	POLY-ON-72MMSM075.175	ALLAN BAKER, INC.
+
+
+
+
+
+SPE4A626T57H7.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	05-15-2026
+Return By:	06-01-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7013722238
+
+	
+
+NSN: 6210-01-438-5462   Nomenclature: LENS,LIGHT
+
+
+   AMSC: L     	NAICS: 335139     	Quantity: 2     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+81590	15796-001	KORRY ELECTRONICS CO
+
+
+
+
+
+SPE4A626T36F6.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	04-27-2026
+Return By:	05-04-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Origin
+ 
+
+Tech Data:	Tech Docs
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7016439081
+
+	
+
+NSN: 6210-01-384-2374   Nomenclature: LENS,LIGHT
+
+
+   AMSC: G     	NAICS: 335139     	Quantity: 4     
+
+
+Specification, Drawing and Standard Data
+Amend No.: C DTD: 03-26-1996
+I/A/W DRW: 53711 6603215 (BASIC)   DTD: 10-23-2024
+
+
+
+
+
+
+
+
+
+
+
+
+SPE4A626T13MZ.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	08-06-2026
+Return By:	08-13-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Origin
+ 
+
+Tech Data:	Tech Docs
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7017409255
+
+	
+
+NSN: 0001S00000052   Nomenclature: GOVERNMENT FIRST ARTIC
+
+
+   AMSC: G     	NAICS: ______     	Quantity: 1     
+
+
+
+
+
+NSN: 6220-01-443-7662   Nomenclature: RETAINER,LENS
+
+
+   AMSC: G     	NAICS: 336320     	Quantity: 2     
+
+
+Specification, Drawing and Standard Data
+Amend No.: M DTD: 02-02-2023
+I/A/W DRW: 98897 382833 (BASIC)   DTD: 06-18-2026
+
+
+   Type #: 382833-11
+
+
+
+
+
+
+
+
+
+
+SPE4A626T090N.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	11-19-2025
+Return By:	12-18-2025
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7014545405
+
+	
+
+NSN: 6210-01-104-5069   Nomenclature: LENS,LIGHT
+
+
+   AMSC: D     	NAICS: 335131     	Quantity: 15     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+81590	6541002-156	KORRY ELECTRONICS CO
+
+
+
+
+
+SPE4A626T07EH.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	07-17-2026
+Return By:	07-29-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7017528135
+
+	
+
+NSN: 6210-01-551-2854   Nomenclature: LENS,LIGHT
+
+
+   AMSC: D     	NAICS: 335139     	Quantity: 6     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+32245	LED-XX-61-BG-31816	APPLIED AVIONICS, LLC
+
+
+
+
+
+SPE4A626T00ZM.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	06-26-2026
+Return By:	07-06-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	Tech Docs
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7017200894
+
+	
+
+NSN: 6220-01-668-2007   Nomenclature: LENS,LIGHT
+
+
+   AMSC: D     	NAICS: 335999     	Quantity: 3     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+81205	S417T501-6001	THE BOEING COMPANY
+J1871	82008-08701	
+
+
+
+
+
+SPE8E726T2816.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	06-02-2026
+Return By:	06-12-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7016967506
+
+	
+
+NSN: 6220-01-149-8564   Nomenclature: LENS,LIGHT
+
+
+   AMSC: H     	NAICS: 336320     	Quantity: 1     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+59556	K-500-CH-0911	
+89619	36MO 316M2	
+
+
+
+
+
+SPE8E726T2813.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	06-02-2026
+Return By:	06-12-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7016966753
+
+	
+
+NSN: 6210-01-095-8730   Nomenclature: LENS,LIGHT
+
+
+   AMSC: H     	NAICS: 334413     	Quantity: 10     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+08719	10530AS4-257	DUCOMMUN LABARGE TECHNOLOGIES, INC
+
+
+
+
+
+SPE8E726T2092.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	04-09-2026
+Return By:	04-20-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Origin
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7016255421
+
+	
+
+NSN: 6210-01-013-4226   Nomenclature: LENS,LIGHT
+
+
+   AMSC: C     	NAICS: 335131     	Quantity: 44     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+76854	150021112	
+
+
+
+
+
+SPE4A525T590F.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	07-22-2025
+Return By:	07-29-2025
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Origin
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7012984924
+
+	
+
+NSN: 6220-01-469-9518   Nomenclature: LENS,LIGHT
+
+
+   AMSC: D     	NAICS: 333515     	Quantity: 10     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+55438	001030-2	GOODRICH LIGHTING SYSTEMS INC
+
+
+
+
+
+SPE4A626T55V2.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	05-15-2026
+Return By:	06-29-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7016785207
+
+	
+
+NSN: 6220-00-633-1551   Nomenclature: LENS,LIGHT
+
+
+   AMSC: R     	NAICS: 336320     	Quantity: 60     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+81205	90-2484-2	THE BOEING COMPANY
+
+
+
+
+
+SPE4A626T55M6.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	05-15-2026
+Return By:	05-22-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Origin
+ 
+
+Tech Data:	Tech Docs
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7016785560
+
+	
+
+NSN: 6220-00-151-7538   Nomenclature: LENS,LIGHT
+
+
+   AMSC: G     	NAICS: 336320     	Quantity: 45     
+
+
+Specification, Drawing and Standard Data Mil-Spec
+Amend No.: 7 DTD: 10-31-2023
+I/A/W CID: AN3042 (BASIC)   DTD: 10-03-2006
+
+
+   Type #: AN3042-4
+
+
+
+
+
+
+
+
+
+
+SPE4A626T131C.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	11-24-2025
+Return By:	12-11-2025
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7014489701
+
+	
+
+NSN: 6220-01-252-0975   Nomenclature: LENS,LIGHT
+
+
+   AMSC: Q     	NAICS: 336320     	Quantity: 25     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+27520	1418-71	CONTROL PRODUCTS CORPORATION
+
+
+
+
+
+SPE4A626T10WM.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	07-31-2026
+Return By:	08-07-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Origin
+ 
+
+Tech Data:	Tech Docs
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7017697894
+
+	
+
+NSN: 0001S00000052   Nomenclature: GOVERNMENT FIRST ARTIC
+
+
+   AMSC: C     	NAICS: ______     	Quantity: 1     
+
+
+
+
+
+NSN: 6220-01-499-6677   Nomenclature: LENS,LIGHT
+
+
+   AMSC: C     	NAICS: 336320     	Quantity: 172     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+27520	4100116-001	CONTROL PRODUCTS CORPORATION
+
+
+
+
+
+SPE4A726T653C.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	08-14-2026
+Return By:	08-21-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7017870292
+
+	
+
+NSN: 5855-01-613-2823   Nomenclature: CAP,LENS
+
+
+   AMSC: Z     	NAICS: 334511     	Quantity: 20     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+0B107	BNG-376	L3 TECHNOLOGIES, INC.
+
+
+
+
+
+SPE4A726T606R.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	08-04-2026
+Return By:	08-11-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7017673389
+
+	
+
+NSN: 5855-01-666-9264   Nomenclature: CAP,LENS
+
+
+   AMSC: C     	NAICS: 334511     	Quantity: 1     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+32865	1026084-001	DRS NETWORK & IMAGING SYSTEMS LLC
+
+
+
+
+
+SPE4A626T05AQ.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	07-10-2026
+Return By:	07-17-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	Tech Docs
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7015610371
+
+	
+
+NSN: 6220-00-225-3462   Nomenclature: LENS,LIGHT
+
+
+   AMSC: G     	NAICS: 336320     	Quantity: 9     
+
+
+Specification, Drawing and Standard Data
+Amend No.: J DTD: 03-15-2002
+I/A/W DRW: 98752 68E34402 (BASIC)   DTD: 06-18-2026
+
+
+   Type #: 68E34402-20
+
+
+
+
+
+
+
+
+
+
+SPE4A726T437R.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	06-02-2026
+Return By:	06-16-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	Tech Docs
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7015689194
+
+	
+
+NSN: 5855-01-714-4216   Nomenclature: CAP,LENS
+
+
+   AMSC: B     	NAICS: 334511     	Quantity: 13     
+
+
+Specification, Drawing and Standard Data
+Amend No.: DTD: 03-07-2007
+I/A/W DRW: 1X4F3 AMSCBDOC (BASIC)   DTD: 05-18-2011
+
+
+   Type #: 60276858-00-C15-L00
+
+
+
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+6KX34	60276858-00-C15-L00	
+N0013	60276858-00-C15-L00	KONGSBERG DEFENCE & AEROSPACE AS
+
+
+
+
+
+SPE4A726T118B.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	03-20-2026
+Return By:	03-27-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Origin
+ 
+
+Tech Data:	Tech Docs
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7015993744
+
+	
+
+NSN: 6220-00-694-3661   Nomenclature: LENS,LIGHT
+
+
+   AMSC: G     	NAICS: 336320     	Quantity: 12     
+
+
+Specification, Drawing and Standard Data
+Amend No.: D DTD: 11-16-1988
+I/A/W DRW: 98748 7225223 (BASIC)   DTD: 09-23-2006
+
+
+   Type #: 7225223-08
+
+
+
+
+
+
+
+
+
+
+SPE8E726T2943.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	06-11-2026
+Return By:	06-22-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	Tech Docs
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7017122098
+
+	
+
+NSN: 6210-01-384-2292   Nomenclature: LENS,LIGHT
+
+
+   AMSC: G     	NAICS: 335139     	Quantity: 5     
+
+
+Specification, Drawing and Standard Data
+Amend No.: A DTD: 11-08-1991
+I/A/W DRW: 53711 6603216 (BASIC)   DTD: 11-16-2022
+
+
+   Type #: DWG P/N 437-6603216-AY-1-7
+
+
+
+
+
+
+
+
+
+
+SPE4A626U2928.PDF
+  » Package View
+
+
+
+uote  	 
+
+
+
+Issued:	04-29-2026
+Return By:	05-13-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	1000231090
+
+	
+
+NSN: 6210-00-228-3852   Nomenclature: LENS,LIGHT
+
+
+   AMSC: D     	NAICS: 335139     	Quantity: 57     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+26687	R1133-195-02C07	TELEDYNE BROWN ENGINEERING, INC.
+
+
+
+
+
+SPE8E726T0714.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	11-17-2025
+Return By:	07-02-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7014376281
+
+	
+
+NSN: 6220-01-225-6073   Nomenclature: RETAINER,LENS
+
+
+   AMSC: G     	NAICS: 336413     	Quantity: 43     
+
+
+Specification, Drawing and Standard Data Mil-Spec
+Amend No.: A DTD: 05-02-1999
+I/A/W SPEC: MIL-DTL-24560A (BASIC)   DTD: 06-18-2026
+
+
+
+
+
+
+
+
+
+
+
+
+SPE7L726T4313.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	07-15-2026
+Return By:	07-27-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Origin
+ 
+
+Tech Data:	Tech Docs
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7017498444
+
+	
+
+NSN: 6650-01-063-1341   Nomenclature: LENS,OPTICAL INSTRU
+
+
+   AMSC: G     	NAICS: 333310     	Quantity: 10     
+
+
+Specification, Drawing and Standard Data
+Amend No.: K DTD: 05-13-1987
+I/A/W DRW: 80063 SM-D-805196 (BASIC)   DTD: 06-18-2026
+
+
+   Type #: SM-D-805196
+
+
+
+
+
+
+
+
+
+
+SPE4A526T048J.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	04-08-2026
+Return By:	04-15-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7016227189
+
+	
+
+NSN: 6220-01-082-2901   Nomenclature: RETAINER,LENS
+
+
+   AMSC: L     	NAICS: 336320     	Quantity: 10     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+3H889	2775683-101	PARKER-HANNIFIN CORPORATION
+
+
+
+
+
+SPE4A525T0739.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	10-15-2024
+Return By:	10-22-2024
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Origin
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7009472452
+
+	
+
+NSN: 6220-01-041-0436   Nomenclature: LENS ASSEMBLY,LIGHT
+
+
+   AMSC: D     	NAICS: 336320     	Quantity: 2     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+72914	11-3098-1	GRIMES AEROSPACE COMPANY
+
+
+
+
+
+SPE4A626T769Y.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	02-20-2026
+Return By:	03-04-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7015608927
+
+	
+
+NSN: 6210-01-169-8192   Nomenclature: LENS,LIGHT
+
+
+   AMSC: Q     	NAICS: 335139     	Quantity: 42     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+91729	5701Y	GILLINDER BROTHERS INC
+
+
+
+
+
+SPE4A626T734A.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	02-20-2026
+Return By:	02-27-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7015599251
+
+	
+
+NSN: 6210-01-174-9397   Nomenclature: LENS,LIGHT
+
+
+   AMSC: R     	NAICS: 335139     	Quantity: 2     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+08719	30288BG-5173	DUCOMMUN LABARGE TECHNOLOGIES, INC
+
+
+
+
+
+SPE2DS26T235B.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	07-16-2026
+Return By:	07-21-2026
+ 
+
+FOB Point:	Destination
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7017485194
+
+	
+
+NSN: 6540-01-645-5928   Nomenclature: LENS,OPHTHALMIC,COMPOU
+
+
+   AMSC: Z     	NAICS: 339115     	Quantity: 12     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+0BJC6	POLY-SPH72MMSM200.000	ALLAN BAKER, INC.
+
+
+
+
+
+SPE7M526T221W.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	06-04-2026
+Return By:	06-15-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7017038027
+
+	
+
+NSN: 5980-99-769-6987   Nomenclature: LENS,SPECIAL
+
+
+   AMSC: D     	NAICS: 334413     	Quantity: 62     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+5Y111	BC242C0224-000	ULTRA ELECTRONICS ICE INC
+
+
+
+
+
+SPE4A626T40J7.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	05-01-2026
+Return By:	05-08-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7016438005
+
+	
+
+NSN: 6210-01-198-2767   Nomenclature: LENS,LIGHT
+
+
+   AMSC: T     	NAICS: 335131     	Quantity: 16     
+
+
+Specification, Drawing and Standard Data Mil-Spec
+Amend No.: B DTD: 07-23-2024
+I/A/W SPEC: MIL-DTL-SAE-AMS (BASIC)   DTD: 10-02-2006
+
+
+   Type #: LC27BN2
+
+
+
+
+
+
+
+
+
+
+SPE4A626T37G2.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	04-29-2026
+Return By:	05-06-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	Tech Docs
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7016472265
+
+	
+
+NSN: 6210-00-193-7236   Nomenclature: LENS,LIGHT
+
+
+   AMSC: B     	NAICS: 335132     	Quantity: 43     
+
+
+Specification, Drawing and Standard Data
+Amend No.: H DTD: 04-17-2018
+I/A/W DRW: 80020 616318 (BASIC)   DTD: 04-08-2024
+
+
+   Type #: 616318-36
+
+
+
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+879B2	616318-363	SAFRAN ELECTRONICS & DEFENSE, AVION
+
+
+
+
+
+SPE7M226T5582.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	07-10-2026
+Return By:	07-20-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7017233293
+
+	
+
+NSN: 6210-00-425-1076   Nomenclature: LENS,LIGHT
+
+
+   AMSC: G     	NAICS: 335131     	Quantity: 10     
+
+
+Specification, Drawing and Standard Data Mil-Spec
+Amend No.: A DTD: 07-29-2024
+I/A/W SPEC: MIL-DTL-3661/59A (BASIC)   DTD: 06-18-2026
+
+
+   Type #: LC45RN3
+
+
+
+
+
+
+
+
+
+
+SPE4A626T15SX.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	08-12-2026
+Return By:	08-24-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7017837629
+
+	
+
+NSN: 6210-01-038-7975   Nomenclature: LENS,LIGHT
+
+
+   AMSC: Z     	NAICS: 336413     	Quantity: 122     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+81579	522-25B01CPD	MASON ELECTRIC CO.
+
+
+
+
+
+SPE2DS26T353Q.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	08-19-2026
+Return By:	08-24-2026
+ 
+
+FOB Point:	Destination
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7017950242
+
+	
+
+NSN: 6540-01-705-8123   Nomenclature: GLASSES,EXAMINATION AN
+
+
+   AMSC: Z     	NAICS: 339113     	Quantity: 24     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+0NUS8	100-7382	HENRY SCHEIN, INC.
+
+
+
+
+
+SPE4A626T09LC.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	07-24-2026
+Return By:	07-31-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Origin
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7017396033
+
+	
+
+NSN: 6220-01-315-7815   Nomenclature: LENS,LIGHT
+
+
+   AMSC: Q     	NAICS: 336320     	Quantity: 4     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+59556	014884T	
+60359	3-2011	
+
+
+
+
+
+SPE8EN26T2127.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	06-02-2026
+Return By:	06-12-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7016966869
+
+	
+
+NSN: 6760-01-675-7800   Nomenclature: CAP,LENS
+
+
+   AMSC: L     	NAICS: 333310     	Quantity: 2     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+A008B	27-04-13-32	DOK-ING D.O.O.
+
+
+
+
+
+SPE4A726T604E.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	07-31-2026
+Return By:	08-12-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7017696822
+
+	
+
+NSN: 5855-01-686-5242   Nomenclature: CAP,LENS
+
+
+   AMSC: C     	NAICS: 334511     	Quantity: 108     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+13567	286880-1	ELBIT SYSTEMS OF AMERICA - NIGHT VI
+
+
+
+
+
+SPE8E726T2920.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	06-11-2026
+Return By:	06-22-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	Tech Docs
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7017123329
+
+	
+
+NSN: 6210-01-255-5069   Nomenclature: LENS,LIGHT
+
+
+   AMSC: G     	NAICS: 335139     	Quantity: 70     
+
+
+Specification, Drawing and Standard Data
+Amend No.: DTD: 08-08-1982
+I/A/W DRW: 30003 1335AS309 (BASIC)   DTD: 09-19-2006
+
+
+
+
+
+
+
+
+
+
+
+
+SPE4A726T292Z.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	04-24-2026
+Return By:	05-19-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7016336561
+
+	
+
+NSN: 6210-01-147-6544   Nomenclature: LENS,LIGHT
+
+
+   AMSC: D     	NAICS: 335139     	Quantity: 3     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+81412	2004A38H01	TREADWELL CORPORATION (DELAWARE)
+
+
+
+
+
+SPE8E726T2726.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	05-28-2026
+Return By:	06-11-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7016937008
+
+	
+
+NSN: 6210-01-467-8215   Nomenclature: LENS,LIGHT
+
+
+   AMSC: D     	NAICS: 335132     	Quantity: 13     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+83330	222-0132-303	
+
+
+
+
+
+SPE8E726T2406.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	04-30-2026
+Return By:	05-11-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7016554965
+
+	
+
+NSN: 6210-01-571-4400   Nomenclature: LENS,LIGHT
+
+
+   AMSC: D     	NAICS: 333414     	Quantity: 1     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+31361	1742-603	WOODWARD, INC.
+31361	25805-264	WOODWARD, INC.
+
+
+
+
+
+SPE4A626U1835.PDF
+  » Package View
+
+
+
+uote  	 
+
+
+
+Issued:	02-11-2026
+Return By:	03-02-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	1000224426
+
+	
+
+NSN: 5850-01-499-2307   Nomenclature: LENS,LIGHT
+
+
+   AMSC: L     	NAICS: 335131     	Quantity: 35     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+91729	5927CRYSTAL	GILLINDER BROTHERS INC
+
+
+
+
+
+SPE7L726T4141.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	07-02-2026
+Return By:	07-13-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Origin
+ 
+
+Tech Data:	Tech Docs
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7017367472
+
+	
+
+NSN: 0001S00000053   Nomenclature: CONTRACTOR FIRST ARTIC
+
+
+   AMSC: G     	NAICS: ______     	Quantity: 1     
+
+
+
+
+
+NSN: 6650-00-828-6553   Nomenclature: LENS,OPTICAL INSTRU
+
+
+   AMSC: G     	NAICS: 333310     	Quantity: 10     
+
+
+Specification, Drawing and Standard Data
+Amend No.: H DTD: 10-29-2013
+I/A/W DRW: 19200 10512965 (BASIC)   DTD: 06-18-2026
+
+
+
+
+
+
+
+
+
+
+
+
+SPE7L726T3975.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	06-18-2026
+Return By:	06-29-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7017225858
+
+	
+
+NSN: 6650-01-571-0304   Nomenclature: CAP,LENS
+
+
+   AMSC: D     	NAICS: 333310     	Quantity: 18     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+04939	76502405-019	LOCKHEED MARTIN CORPORATION
+
+
+
+
+
+SPE4A626T723C.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	02-19-2026
+Return By:	02-26-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7015535167
+
+	
+
+NSN: 6210-01-472-6749   Nomenclature: LENS,LIGHT
+
+
+   AMSC: C     	NAICS: 335132     	Quantity: 15     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+14550	86-00048-109	LUMINESCENT SYSTEMS, INC
+27520	86-00048-009	CONTROL PRODUCTS CORPORATION
+
+
+
+
+
+SPE4A126T0242.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	10-22-2025
+Return By:	10-29-2025
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7014231210
+
+	
+
+NSN: 6210-01-309-8796   Nomenclature: LENS,LIGHT
+
+
+   AMSC: D     	NAICS: 335139     	Quantity: 9     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+03350	PWLZB8	
+
+
+
+
+
+SPE4A626T64L4.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	05-20-2026
+Return By:	06-01-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Origin
+ 
+
+Tech Data:	Tech Docs
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7016849302
+
+	
+
+NSN: 6220-00-501-2752   Nomenclature: LENS,LIGHT
+
+
+   AMSC: G     	NAICS: 336320     	Quantity: 17     
+
+
+Specification, Drawing and Standard Data
+Amend No.: M DTD: 02-02-2023
+I/A/W DRW: 98897 382833 (BASIC)   DTD: 09-12-2023
+
+
+   Type #: 382833-3
+
+
+
+
+
+
+
+
+
+
+SPE4A626T58P6.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	05-15-2026
+Return By:	05-22-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	Tech Docs
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7016751524
+
+	
+
+NSN: 6210-00-441-9716   Nomenclature: LENS,LIGHT
+
+
+   AMSC: G     	NAICS: 335131     	Quantity: 5     
+
+
+Specification, Drawing and Standard Data
+Amend No.: F DTD: 09-25-2006
+I/A/W DRW: 80020 418510 (BASIC)   DTD: 03-10-2008
+
+
+   Type #: P/N: 418510-1
+
+
+
+
+
+
+
+
+
+
+SPE4A626T576S.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	01-26-2026
+Return By:	02-02-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	Tech Docs
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7015245241
+
+	
+
+NSN: 6210-01-204-0538   Nomenclature: LENS,LIGHT
+
+
+   AMSC: G     	NAICS: 335139     	Quantity: 41     
+
+
+Specification, Drawing and Standard Data
+Amend No.: G DTD: 10-02-1989
+I/A/W DRW: 21877 167551 (BASIC)   DTD: 04-24-2014
+
+
+   Type #: 167551-022
+
+
+
+
+
+
+
+
+
+
+SPE4A626T46C8.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	05-06-2026
+Return By:	05-13-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Origin
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7016645724
+
+	
+
+NSN: 6210-00-056-9193   Nomenclature: LENS,LIGHT
+
+
+   AMSC: G     	NAICS: 335131     	Quantity: 171     
+
+
+Specification, Drawing and Standard Data Mil-Spec
+Amend No.: D DTD: 09-12-2024
+I/A/W SPEC: MIL-DTL-SAE-AMS (BASIC)   DTD: 10-02-2006
+
+
+   Type #: P/N: LC14YN3
+
+
+
+
+
+
+
+
+
+1 2 3
+
+
+· RFQ Text Search
+Query String:
+
+
+
+Modified: 
+Any time
+last hour
+last day
+last 7 days
+last 30 days
+last 60 days
+last 90 days
+last 365 days
+	Sort: 
+Best Match
+Newly Posted to Oldest
+Oldest Posted to Newest
+
+Filter:
+  
+Automated Indefinite Delivery Contract (AIDC)
+
+
+  
+Items with Technical Documents
+
+
+  
+Fast Award Candidates
+
+
+  
+Small Business Set-Asides
+
+
+  
+HUBZone Set-Asides
+
+	
+  
+Service Disabled Veteran Owned
+      Small Business Set-Asides
+
+
+Woman Owned Small Business Set-Asides
+
+
+Economically Disadvantaged Women Owned Small Business Set-Asides
+
+
+Unrestricted/Not Set-Asides
+
+
+ 
+
+
+
+
+ 
+Policy Statements · Feedback
+   EOXD8AUZtkHO8wt7m812jA==
+   Ver.6.3.2
+

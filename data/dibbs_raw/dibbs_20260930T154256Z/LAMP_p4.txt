@@ -1,0 +1,675 @@
+FAQ/Help · Refs · My Account · Log In
+
+
+   Home       Solicitations       RFQs       RFP/IFB/Other RFQs       Tech Data       Downloads        Awards   
+
+
+Navigation: 
+Navigation/Documents - - - - - -
+Accessibility
+Awards Area
+- Awards by Award DT
+- Awards by Post DT
+- Market Ready Orders ®
+- Post Award Request (PAR)®
+Batch Quoting ®
+Batch Quoting File Format
+BidSets
+Contracts
+Delivery Orders
+FAQs
+Feedback
+Forecast ®
+FSC ~ DLA Managed
+Global Search
+Home Page
+Invitation For Bid (IFB) Area
+Log In Screen
+Master Solicitation (PAC)
+Notices/Message Board
+Post Award Request (PAR)®
+Quoting Help
+Quote Search ®
+Request For Proposal (RFP)Area
+Request For Quote (RFQ) Area
+- RFQs by Issue Date
+- RFQs by Return By Date
+- RFQs Recent
+References
+Registration
+Solicitations
+SRVA ®
+User(s) Profile Update ®
+Vendor Profile Update ®
+Welcome Page ®
+Regs / Supplement Extracts ---
+DFARS 225.502
+DFARS 252.211-7005
+DFARS 252.211-7006
+DFARS 252.223-7001
+DFARS 252.225-7001
+DFARS 252.225-7035
+DFARS 252.225-7036
+DLAD 52.211-9000
+DLAD 52.213-9000
+DLAD 52.217-9002
+DLAD 52.219-9015
+DLAD 52.223-9000
+DLAD 52.233-9001
+FAR 52.209-1
+FAR 52.211-5
+FAR 52.212-3
+FAR 52.219-1
+FAR 52.222-18
+FAR 52.222-22
+FAR 52.222-25
+FAR 52.222-26
+FAR 52.223-3
+ 
+
+Database Search: 
+Choose Search
+RFQs - NSN
+RFQs - Solicitation
+RFQs - PR
+-----------------------
+Awards - Awardee CAGE
+Awards - Award/Basic Number
+Awards - Delivery Order #
+Awards - NSN
+Awards - PR
+-----------------------
+RFP/IFB/Other RFQs - Solicitation
+RFP/IFB/Other RFQs - NSN
+-----------------------
+CAGE Search
+  Value: 
+
+
+Notice:   · Suspension of CMMC Phase II » Read Notice
+
+  Please read notices posted on the Notices page.
+
+
+  Location: Home » Solicitations » RFQs » RFQ Text Search
+[
+RFQ Search
+-
+Recent RFQs
+-
+RFQs by Issue Date
+-
+RFQs by Return By Date
+-
+RFQs by FSC
+]
+[ 273 ] 9/30/2026 11:57:09 AM
+
+
+
+Documents Indexed: 161,967
+
+Additional RFQ Text Search Help
+
+Found 310 records for this search query string.
+Modified: Any time
+
+
+
+1 2 3 4
+Solicitation Information	Product Data
+
+SPE8E726T2789.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	06-02-2026
+Return By:	06-12-2026
+ 
+
+FOB Point:	Destination
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7016966838
+
+	
+
+NSN: 6210-00-130-6165   Nomenclature: LIGHT,INDICATOR
+
+
+   AMSC: H     	NAICS: 334413     	Quantity: 5     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+71744	1010B67	
+
+
+
+
+
+SPE2DS26T283D.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	07-30-2026
+Return By:	08-04-2026
+ 
+
+FOB Point:	Destination
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7017651694
+
+	
+
+NSN: 6515-01-612-7325   Nomenclature: LASER LEVELING DEVICE
+
+
+   AMSC: Z     	NAICS: 334511     	Quantity: 1     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+080B4	NT821733	NATUS MEDICAL INCORPORATED
+6G9D4	821733	RHYFEL, INC
+
+
+
+
+
+SPE7M126T171S.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	06-26-2026
+Return By:	07-06-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Origin
+ 
+
+Tech Data:	Tech Docs
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7006795462
+
+	
+
+NSN: 1710-00-516-2740   Nomenclature: SUPPORT,PENDANT
+
+
+   AMSC: G     	NAICS: 336413     	Quantity: 25     
+
+
+Specification, Drawing and Standard Data
+Amend No.: B DTD: 06-21-2005
+I/A/W DRW: 80020 618717 (BASIC)   DTD: 06-18-2026
+
+
+   Type #: 618717-1
+
+
+
+
+
+
+
+
+
+
+SPE8E726T2831.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	06-02-2026
+Return By:	06-12-2026
+ 
+
+FOB Point:	Destination
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7016967050
+
+	
+
+NSN: 6240-01-508-2438   Nomenclature: LAMP,FLUORESCENT
+
+
+   AMSC: D     	NAICS: 335139     	Quantity: 1     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+1YYS3	SVA 20	
+
+
+
+
+
+SPE7L326T2404.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	11-12-2025
+Return By:	11-24-2025
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Origin
+ 
+
+Tech Data:	Tech Docs
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7014421863
+
+	
+
+NSN: 0001S00000053   Nomenclature: CONTRACTOR FIRST ARTIC
+
+
+   AMSC: G     	NAICS: ______     	Quantity: 1     
+
+
+
+
+
+NSN: 2510-01-509-1326   Nomenclature: PANEL,VEHICULAR OPE
+
+
+   AMSC: G     	NAICS: 332999     	Quantity: 1     
+
+
+Specification, Drawing and Standard Data
+Amend No.: A DTD: 06-07-2017
+I/A/W DRW: 19207 12367225 (BASIC)   DTD: 04-09-2018
+
+
+
+
+
+
+
+
+
+
+
+
+SPE8E726T3218.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	06-30-2026
+Return By:	07-10-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	Tech Docs
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7017122052
+
+	
+
+NSN: 6220-01-643-3672   Nomenclature: LAMP,LIGHT EMITTING
+
+
+   AMSC: G     	NAICS: 336413     	Quantity: 103     
+
+
+Specification, Drawing and Standard Data
+Amend No.: DTD: 07-01-2015
+I/A/W DRW: 19207 12578153 (BASIC)   DTD: 06-18-2026
+
+
+
+
+
+
+
+
+
+
+
+
+SPE7L726T2490.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	03-27-2026
+Return By:	04-06-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7016087776
+
+	
+
+NSN: 6650-01-355-1231   Nomenclature: FIBERSCOPE
+
+
+   AMSC: D     	NAICS: 333310     	Quantity: 6     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+1KY21	7502043	OLYMPUS AMERICA INC
+
+
+
+
+
+SPE8E926T2858.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	06-11-2026
+Return By:	06-22-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7017122930
+
+	
+
+NSN: 6220-01-146-1495   Nomenclature: RETAINER,LAMP
+
+
+   AMSC: G     	NAICS: 333515     	Quantity: 107     
+
+
+Specification, Drawing and Standard Data Mil-Spec
+Amend No.: C DTD: 02-26-2021
+I/A/W SPEC: MIL-DTL-SAE-AMSC (BASIC)   DTD: 10-03-2006
+
+
+   Type #: P/N M24560/12-012
+
+
+
+
+
+
+
+
+
+
+SPE8E726T1921.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	04-03-2026
+Return By:	04-13-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7016180490
+
+	
+
+NSN: 6230-00-299-7697   Nomenclature: LIGHT,EXTENSION
+
+
+   AMSC: G     	NAICS: 335131     	Quantity: 32     
+
+
+Specification, Drawing and Standard Data Mil-Spec
+Amend No.: DTD: 03-27-2015
+I/A/W SPEC: MIL-DTL-SAE-AMS (BASIC)   DTD: 10-03-2006
+
+
+
+
+
+
+
+
+
+
+
+
+SPE8E726T3473.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	08-06-2026
+Return By:	08-20-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7017758448
+
+	
+
+NSN: 6240-01-281-6038   Nomenclature: LAMP,FLUORESCENT
+
+
+   AMSC: D     	NAICS: 332722     	Quantity: 235     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+29381	F34CWX/SS	GICHNER SYSTEMS GROUP, INC.
+62607	F40CWX	
+
+
+
+
+1 2 3 4
+
+
+· RFQ Text Search
+Query String:
+
+
+
+Modified: 
+Any time
+last hour
+last day
+last 7 days
+last 30 days
+last 60 days
+last 90 days
+last 365 days
+	Sort: 
+Best Match
+Newly Posted to Oldest
+Oldest Posted to Newest
+
+Filter:
+  
+Automated Indefinite Delivery Contract (AIDC)
+
+
+  
+Items with Technical Documents
+
+
+  
+Fast Award Candidates
+
+
+  
+Small Business Set-Asides
+
+
+  
+HUBZone Set-Asides
+
+	
+  
+Service Disabled Veteran Owned
+      Small Business Set-Asides
+
+
+Woman Owned Small Business Set-Asides
+
+
+Economically Disadvantaged Women Owned Small Business Set-Asides
+
+
+Unrestricted/Not Set-Asides
+
+
+ 
+
+
+
+
+ 
+Policy Statements · Feedback
+   EOXD8AUZtkHO8wt7m812jA==
+   Ver.6.3.2
+

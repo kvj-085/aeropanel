@@ -1,0 +1,1020 @@
+FAQ/Help · Refs · My Account · Log In
+
+
+   Home       Solicitations       RFQs       RFP/IFB/Other RFQs       Tech Data       Downloads        Awards   
+
+
+Navigation: 
+Navigation/Documents - - - - - -
+Accessibility
+Awards Area
+- Awards by Award DT
+- Awards by Post DT
+- Market Ready Orders ®
+- Post Award Request (PAR)®
+Batch Quoting ®
+Batch Quoting File Format
+BidSets
+Contracts
+Delivery Orders
+FAQs
+Feedback
+Forecast ®
+FSC ~ DLA Managed
+Global Search
+Home Page
+Invitation For Bid (IFB) Area
+Log In Screen
+Master Solicitation (PAC)
+Notices/Message Board
+Post Award Request (PAR)®
+Quoting Help
+Quote Search ®
+Request For Proposal (RFP)Area
+Request For Quote (RFQ) Area
+- RFQs by Issue Date
+- RFQs by Return By Date
+- RFQs Recent
+References
+Registration
+Solicitations
+SRVA ®
+User(s) Profile Update ®
+Vendor Profile Update ®
+Welcome Page ®
+Regs / Supplement Extracts ---
+DFARS 225.502
+DFARS 252.211-7005
+DFARS 252.211-7006
+DFARS 252.223-7001
+DFARS 252.225-7001
+DFARS 252.225-7035
+DFARS 252.225-7036
+DLAD 52.211-9000
+DLAD 52.213-9000
+DLAD 52.217-9002
+DLAD 52.219-9015
+DLAD 52.223-9000
+DLAD 52.233-9001
+FAR 52.209-1
+FAR 52.211-5
+FAR 52.212-3
+FAR 52.219-1
+FAR 52.222-18
+FAR 52.222-22
+FAR 52.222-25
+FAR 52.222-26
+FAR 52.223-3
+ 
+
+Database Search: 
+Choose Search
+RFQs - NSN
+RFQs - Solicitation
+RFQs - PR
+-----------------------
+Awards - Awardee CAGE
+Awards - Award/Basic Number
+Awards - Delivery Order #
+Awards - NSN
+Awards - PR
+-----------------------
+RFP/IFB/Other RFQs - Solicitation
+RFP/IFB/Other RFQs - NSN
+-----------------------
+CAGE Search
+  Value: 
+
+
+Notice:   · Suspension of CMMC Phase II » Read Notice
+
+  Please read notices posted on the Notices page.
+
+
+  Location: Home » Solicitations » RFQs » RFQ Text Search
+[
+RFQ Search
+-
+Recent RFQs
+-
+RFQs by Issue Date
+-
+RFQs by Return By Date
+-
+RFQs by FSC
+]
+[ 273 ] 9/30/2026 11:46:54 AM
+
+
+
+Documents Indexed: 161,967
+
+Additional RFQ Text Search Help
+
+Found 17 records for this search query string.
+Modified: Any time
+
+
+
+1
+Solicitation Information	Product Data
+
+SPE4A526T416U.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	09-10-2026
+Return By:	09-22-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Origin
+ 
+
+Tech Data:	Tech Docs
+ 
+
+Document Post/Updated:	2026-09-17 07:12:09
+ 
+
+Purchase Request:	7018247321
+
+	
+
+NSN: 6695-01-606-2543   Nomenclature: BEZEL,INSTRUMENT MOUNT
+
+
+   AMSC: B     	NAICS: 334513     	Quantity: 2     
+
+
+Specification, Drawing and Standard Data
+Amend No.: DTD: 03-07-2007
+I/A/W DRW: 1X4F3 AMSCBDOC (BASIC)   DTD: 06-18-2026
+
+
+   Type #: 88576A-01
+
+
+
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+0WEC9	88576A-01	ELBITAMERICA, INC.
+3B1R2	88576A-01	BELL BOEING JOINT PROJECT OFFICE
+
+
+
+
+
+SPE4A526T414Q.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	09-10-2026
+Return By:	09-22-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-09-17 07:11:57
+ 
+
+Purchase Request:	7018247325
+
+	
+
+NSN: 6695-01-604-8931   Nomenclature: BEZEL,INSTRUMENT MOUNT
+
+
+   AMSC: Z     	NAICS: 334513     	Quantity: 13     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+4H047	20-HIM-B1	ROCKWELL AUTOMATION INC
+4H047	M-1810H613-A0 ITEM 47	ROCKWELL AUTOMATION INC
+
+
+
+
+
+SPE4A726T702H.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	08-28-2026
+Return By:	09-04-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Origin
+ 
+
+Tech Data:	Tech Docs
+ 
+
+Document Post/Updated:	2026-08-27 06:41:15
+ 
+
+Purchase Request:	7017940009
+
+	
+
+NSN: 6695-00-267-9198   Nomenclature: BEZEL,INSTRUMENT MOUNT
+
+
+   AMSC: G     	NAICS: 334519     	Quantity: 18     
+
+
+Specification, Drawing and Standard Data
+Amend No.: E DTD: 03-07-1985
+I/A/W DRW: 25805 9M12 (BASIC)   DTD: 06-18-2026
+
+
+
+
+
+
+
+
+
+
+
+
+SPE4A526T196V.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	06-01-2026
+Return By:	06-08-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7016844879
+
+	
+
+NSN: 6695-01-624-3945   Nomenclature: BEZEL,INSTRUMENT MO
+
+
+   AMSC: Z     	NAICS: 334519     	Quantity: 8     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+57163	61418.0	L.S. STARRETT COMPANY (THE)
+
+
+
+
+
+SPE7L326T9883.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	05-08-2026
+Return By:	05-18-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7016690904
+
+	
+
+NSN: 2590-01-649-7357   Nomenclature: BEZEL,AUTOMOTIVE TR
+
+
+   AMSC: D     	NAICS: 333310     	Quantity: 214     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+59150	1781-393	
+
+
+
+
+
+SPE7L126T7881.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	12-30-2025
+Return By:	01-09-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7014948528
+
+	
+
+NSN: 2590-01-606-3825   Nomenclature: BEZEL,AUTOMOTIVE TR
+
+
+   AMSC: D     	NAICS: 333310     	Quantity: 1     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+0JKF0	347/21874	JCB INC.
+
+
+
+
+
+SPE4A526T1810.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	10-24-2025
+Return By:	10-31-2025
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Origin
+ 
+
+Tech Data:	Tech Docs
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7014216083
+
+	
+
+NSN: 6695-01-426-2107   Nomenclature: BEZEL,INSTRUMENT MO
+
+
+   AMSC: B     	NAICS: 334419     	Quantity: 13     
+
+
+Specification, Drawing and Standard Data
+Amend No.: A DTD: 04-23-1997
+I/A/W DRW: 26512 160C180245 (BASIC)   DTD: 01-18-2007
+
+
+   Type #: 160C180245-1
+
+
+
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+62810	18-0052-3	ACE AERONAUTICS LLC
+
+
+
+
+
+SPE4A526T185R.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	05-27-2026
+Return By:	06-03-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7016870039
+
+	
+
+NSN: 6695-01-728-8556   Nomenclature: BEZEL,WINDOW MOUNTI
+
+
+   AMSC: P     	NAICS: 336310     	Quantity: 1     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+97DN1	12721355	GM DEFENSE LLC
+
+
+
+
+
+SPE4A526T4779.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	12-08-2025
+Return By:	12-15-2025
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7014627921
+
+	
+
+NSN: 6695-01-733-4799   Nomenclature: BEZEL,INSTRUMENT MO
+
+
+   AMSC: P     	NAICS: 000000     	Quantity: 209     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+8EDV1	SAL-8006-SPR	ENVISION TECHNOLOGY, LLC
+
+
+
+
+
+SPE4A726T456C.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	06-04-2026
+Return By:	06-11-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7017012013
+
+	
+
+NSN: 4920-01-052-0970   Nomenclature: BEZEL ASSEMBLY
+
+
+   AMSC: Q     	NAICS: 336413     	Quantity: 4     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+25583	502-1077-01	ACRON AVIATION, INC.
+
+
+
+
+
+SPE4A726T159H.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	03-26-2026
+Return By:	04-02-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Origin
+ 
+
+Tech Data:	Tech Docs
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7016082178
+
+	
+
+NSN: 0001S00000052   Nomenclature: GOVERNMENT FIRST ARTIC
+
+
+   AMSC: G     	NAICS: ______     	Quantity: 1     
+
+
+
+
+
+NSN: 6220-01-472-2537   Nomenclature: BEZEL,EYEBROW ASSY
+
+
+   AMSC: G     	NAICS: 336320     	Quantity: 5     
+
+
+Specification, Drawing and Standard Data
+Amend No.: F DTD: 04-12-2000
+I/A/W DRW: 14550 84-00393 (BASIC)   DTD: 09-21-2006
+
+
+   Type #: P/N: 84-00393-001
+
+
+
+
+
+
+
+
+
+
+SPE7L326T152K.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	08-07-2026
+Return By:	08-17-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Origin
+ 
+
+Tech Data:	Tech Docs
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7017777616
+
+	
+
+NSN: 2590-01-100-0423   Nomenclature: BEZEL,AUTOMOTIVE TR
+
+
+   AMSC: G     	NAICS: 336992     	Quantity: 10     
+
+
+Specification, Drawing and Standard Data
+Amend No.: E DTD: 11-11-2010
+I/A/W DRW: 19207 12288375 (BASIC)   DTD: 06-18-2026
+
+
+
+
+
+
+
+
+
+
+
+
+SPE7L326T160T.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	08-07-2026
+Return By:	08-20-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Origin
+ 
+
+Tech Data:	Tech Docs
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7017780247
+
+	
+
+NSN: 2590-01-209-8427   Nomenclature: BEZEL,AUTOMOTIVE TRIM
+
+
+   AMSC: G     	NAICS: 336992     	Quantity: 8     
+
+
+Specification, Drawing and Standard Data
+Amend No.: C DTD: 11-22-2016
+I/A/W DRW: 19200 9376373 (BASIC)   DTD: 06-18-2026
+
+
+
+
+
+
+
+
+
+
+
+
+SPE4A526T149R.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	05-15-2026
+Return By:	05-22-2026
+ 
+
+FOB Point:	Destination
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7016694987, 7016695051
+
+	
+
+NSN: 6695-01-728-8556   Nomenclature: BEZEL,WINDOW MOUNTI
+
+
+   AMSC: Z     	NAICS: 334513     	Quantity: 2     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+97DN1	12721355	GM DEFENSE LLC
+
+
+
+
+
+SPE4A526T342N.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	08-12-2026
+Return By:	08-19-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Origin
+ 
+
+Tech Data:	Tech Docs
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7017838935
+
+	
+
+NSN: 0001S00000053   Nomenclature: CONTRACTOR FIRST ARTIC
+
+
+   AMSC: C     	NAICS: ______     	Quantity: 1     
+
+
+
+
+
+NSN: 6695-01-207-7457   Nomenclature: BEZEL,INSTRUMENT MOUNT
+
+
+   AMSC: C     	NAICS: 334519     	Quantity: 54     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+27520	600224-001	CONTROL PRODUCTS CORPORATION
+
+
+
+
+
+SPE4A626T97F3.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	06-18-2026
+Return By:	06-25-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	Tech Docs
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7017227010
+
+	
+
+NSN: 6220-01-472-2831   Nomenclature: BEZEL,EYEBROW SUBAS
+
+
+   AMSC: T     	NAICS: 336320     	Quantity: 3     
+
+
+Specification, Drawing and Standard Data Mil-Spec
+Amend No.: 77 DTD: 12-28-2011
+I/A/W CID: QPL-7788-77 (BASIC)   DTD: 10-03-2006
+
+
+
+
+
+
+
+
+
+
+
+
+SPE4A526T346N.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	08-13-2026
+Return By:	08-20-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7017854853
+
+	
+
+NSN: 6695-01-122-7941   Nomenclature: BEZEL,INSTRUMENT MOUNT
+
+
+   AMSC: D     	NAICS: 334519     	Quantity: 1     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+U0J60	AM11085	ONTIC ENGINEERING & MANUFACTURING U
+
+
+
+
+1
+
+
+· RFQ Text Search
+Query String:
+
+
+
+Modified: 
+Any time
+last hour
+last day
+last 7 days
+last 30 days
+last 60 days
+last 90 days
+last 365 days
+	Sort: 
+Best Match
+Newly Posted to Oldest
+Oldest Posted to Newest
+
+Filter:
+  
+Automated Indefinite Delivery Contract (AIDC)
+
+
+  
+Items with Technical Documents
+
+
+  
+Fast Award Candidates
+
+
+  
+Small Business Set-Asides
+
+
+  
+HUBZone Set-Asides
+
+	
+  
+Service Disabled Veteran Owned
+      Small Business Set-Asides
+
+
+Woman Owned Small Business Set-Asides
+
+
+Economically Disadvantaged Women Owned Small Business Set-Asides
+
+
+Unrestricted/Not Set-Asides
+
+
+ 
+
+
+
+
+ 
+Policy Statements · Feedback
+   EOXD8AUZtkHO8wt7m812jA==
+   Ver.6.3.2
+

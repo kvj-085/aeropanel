@@ -1,0 +1,41 @@
+{
+  "run_id": "sam_20260930T171548Z",
+  "source": "SAM.gov",
+  "cutoff_provisional": "2026-10-01 12:00",
+  "download_url": "https://falextracts.s3.amazonaws.com/Contract%20Opportunities/datagov/ContractOpportunitiesFullCSV.csv?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20260930T171548Z&X-Amz-SignedHeaders=host&X-Amz-Credential=AKIAY3LPYEEX5AGI5HXC%2F20260930%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Expires=2700&X-Amz-Signature=7a6d2365b71656b3eadd239379ce0fb894e09c6bef50238f96f25e655dc14ef5",
+  "download_bytes": 229764473,
+  "download_attempts": [
+    "https://sam.gov/api/prod/fileextractservices/v1/api/download/Contract%20Opportunities/data -> OK"
+  ],
+  "retrieval": "automated download",
+  "snapshots": [
+    {
+      "snapshot_id": "SAM_active_2026-09-30_v1",
+      "snapshot_date": "2026-09-30",
+      "snapshot_version": 1,
+      "sha256": "a00217623a4e6072e56b2029c9e498cfff865601485904f92937b4b6cc9632ab",
+      "reused": true
+    }
+  ],
+  "rows_in_files": 82372,
+  "rows_after_noticeid_dedupe": 82372,
+  "posted_date_min": "2008-03-05 00:00:00",
+  "posted_date_max": "2026-09-29 23:20:19",
+  "award_notices": 15498,
+  "date_unresolved_matches": 0,
+  "posted_in_2026_window": 61769,
+  "actionable_type": 40581,
+  "matched_in_title": 1509,
+  "matched_in_description_only": 3637,
+  "excluded_by_rules": 64,
+  "title_matches_with_nsn": 963,
+  "pre2026_still_open_matches": 28,
+  "changes_vs_previous": "first snapshot - nothing to compare",
+  "database": {
+    "inserted": 0,
+    "updated": 0,
+    "unchanged": 5174,
+    "total_rows_in_db": 5174
+  },
+  "status": "SUCCESS"
+}

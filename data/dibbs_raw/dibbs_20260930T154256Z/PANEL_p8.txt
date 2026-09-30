@@ -1,0 +1,5003 @@
+FAQ/Help · Refs · My Account · Log In
+
+
+   Home       Solicitations       RFQs       RFP/IFB/Other RFQs       Tech Data       Downloads        Awards   
+
+
+Navigation: 
+Navigation/Documents - - - - - -
+Accessibility
+Awards Area
+- Awards by Award DT
+- Awards by Post DT
+- Market Ready Orders ®
+- Post Award Request (PAR)®
+Batch Quoting ®
+Batch Quoting File Format
+BidSets
+Contracts
+Delivery Orders
+FAQs
+Feedback
+Forecast ®
+FSC ~ DLA Managed
+Global Search
+Home Page
+Invitation For Bid (IFB) Area
+Log In Screen
+Master Solicitation (PAC)
+Notices/Message Board
+Post Award Request (PAR)®
+Quoting Help
+Quote Search ®
+Request For Proposal (RFP)Area
+Request For Quote (RFQ) Area
+- RFQs by Issue Date
+- RFQs by Return By Date
+- RFQs Recent
+References
+Registration
+Solicitations
+SRVA ®
+User(s) Profile Update ®
+Vendor Profile Update ®
+Welcome Page ®
+Regs / Supplement Extracts ---
+DFARS 225.502
+DFARS 252.211-7005
+DFARS 252.211-7006
+DFARS 252.223-7001
+DFARS 252.225-7001
+DFARS 252.225-7035
+DFARS 252.225-7036
+DLAD 52.211-9000
+DLAD 52.213-9000
+DLAD 52.217-9002
+DLAD 52.219-9015
+DLAD 52.223-9000
+DLAD 52.233-9001
+FAR 52.209-1
+FAR 52.211-5
+FAR 52.212-3
+FAR 52.219-1
+FAR 52.222-18
+FAR 52.222-22
+FAR 52.222-25
+FAR 52.222-26
+FAR 52.223-3
+ 
+
+Database Search: 
+Choose Search
+RFQs - NSN
+RFQs - Solicitation
+RFQs - PR
+-----------------------
+Awards - Awardee CAGE
+Awards - Award/Basic Number
+Awards - Delivery Order #
+Awards - NSN
+Awards - PR
+-----------------------
+RFP/IFB/Other RFQs - Solicitation
+RFP/IFB/Other RFQs - NSN
+-----------------------
+CAGE Search
+  Value: 
+
+
+Notice:   · Suspension of CMMC Phase II » Read Notice
+
+  Please read notices posted on the Notices page.
+
+
+  Location: Home » Solicitations » RFQs » RFQ Text Search
+[
+RFQ Search
+-
+Recent RFQs
+-
+RFQs by Issue Date
+-
+RFQs by Return By Date
+-
+RFQs by FSC
+]
+[ 273 ] 9/30/2026 11:45:03 AM
+
+
+
+Documents Indexed: 161,967
+
+Additional RFQ Text Search Help
+
+Found 1084 records for this search query string.
+Modified: Any time
+
+
+
+1 2 3 4 5 6 7 8 9 10 11
+Solicitation Information	Product Data
+
+SPE4A626T25T2.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	04-17-2026
+Return By:	06-22-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7016082288
+
+	
+
+NSN: 5975-01-603-7436   Nomenclature: PANEL,ELECTRICAL-EL
+
+
+   AMSC: D     	NAICS: 335932     	Quantity: 17     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+10855	91-01172-05	
+
+
+
+
+
+SPE4A626T18E7.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	04-10-2026
+Return By:	04-17-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	Tech Docs
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7016286720
+
+	
+
+NSN: 5325-01-502-6792   Nomenclature: INSERT,PANEL FASTEN
+
+
+   AMSC: G     	NAICS: 332510     	Quantity: 10     
+
+
+Specification, Drawing and Standard Data
+Amend No.: C
+I/A/W DRW: 81337 17-1-6655 (BASIC)   DTD: 09-20-2006
+
+
+   Type #: 17-1-6655-3
+
+
+
+
+
+
+
+
+
+
+SPE8ED25T0586.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	01-15-2025
+Return By:	01-27-2025
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Origin
+ 
+
+Tech Data:	Tech Docs
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7010309284
+
+	
+
+NSN: 5410-01-486-6074   Nomenclature: PANEL,BUILDING,PREF
+
+
+   AMSC: G     	NAICS: 336412     	Quantity: 6     
+
+
+Specification, Drawing and Standard Data
+Amend No.: H DTD: 09-24-2013
+I/A/W DRW: 81337 5-4-2856 (BASIC)   DTD: 06-18-2026
+
+
+
+
+
+
+
+
+
+
+
+
+SPE4A526T369M.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	08-18-2026
+Return By:	08-25-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7017912735
+
+	
+
+NSN: 1560-01-119-7631   Nomenclature: WINDOW PANEL,AIRCRAFT
+
+
+   AMSC: R     	NAICS: 336413     	Quantity: 12     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+78286	70216-01000-042	SIKORSKY AIRCRAFT CORPORATION
+
+
+
+
+
+SPE4A626T15ZT.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	08-13-2026
+Return By:	08-20-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7017837891
+
+	
+
+NSN: 1680-01-564-7551   Nomenclature: PANEL,INTERIOR LINI
+
+
+   AMSC: P     	NAICS: 336413     	Quantity: 6     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+78286	71500-22120-052	SIKORSKY AIRCRAFT CORPORATION
+
+
+
+
+
+SPE7M126T9670.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	04-21-2026
+Return By:	05-01-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7016270462
+
+	
+
+NSN: 6110-01-367-0833   Nomenclature: PANEL,POWER DISTRIB
+
+
+   AMSC: L     	NAICS: 335311     	Quantity: 6     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+1HAR9	798962-010	ASCO POWER SERVICES INC
+
+
+
+
+
+SPE7M126T5372.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	02-05-2026
+Return By:	02-17-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7010166736
+
+	
+
+NSN: 6110-01-698-9746   Nomenclature: PANEL,POWER DISTRIB
+
+
+   AMSC: Z     	NAICS: 335312     	Quantity: 6     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+3HBY1	RC00718466-004I	POWER PANELS, LLC.
+
+
+
+
+
+SPEFA326T0255.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	05-05-2026
+Return By:	05-15-2026
+ 
+
+FOB Point:	Destination
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7016632086
+
+	
+
+NSN: 1560-LN-003-4029   Nomenclature: PANEL
+
+
+   AMSC: L     	NAICS: 488190     	Quantity: 5     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+76301	74A731258-2002	THE BOEING COMPANY
+
+
+
+
+
+SPE4A626T19VF.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	08-19-2026
+Return By:	08-26-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7017917506
+
+	
+
+NSN: 1560-01-219-6812   Nomenclature: PANEL,ASSY,FAIRING
+
+
+   AMSC: C     	NAICS: 336413     	Quantity: 4     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+78286	70215-42409-042	SIKORSKY AIRCRAFT CORPORATION
+
+
+
+
+
+SPE7L026Q0064.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	12-10-2025
+Return By:	12-24-2025
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	Tech Docs
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7009873176
+
+	
+
+NSN: 2510-01-673-5435   Nomenclature: HOUSING,PANEL,VEHIC
+
+
+   AMSC: C     	NAICS: 332999     	Quantity: 1     
+
+
+Specification, Drawing and Standard Data
+Amend No.: DTD: 12-03-2016
+I/A/W DRW: 19207 12598167 (BASIC)   DTD: 06-28-2018
+
+
+
+
+
+
+
+
+
+
+
+
+SPE4A726T9918.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	02-20-2026
+Return By:	02-27-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7014381305
+
+	
+
+NSN: 1560-01-733-7600   Nomenclature: PANEL,STRUCTURAL,AI
+
+
+   AMSC: D     	NAICS: 000000     	Quantity: 2     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+81205	842-349724-7	THE BOEING COMPANY
+
+
+
+
+
+SPE4A726T650X.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	08-13-2026
+Return By:	08-20-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7017739741
+
+	
+
+NSN: 1680-01-630-1646   Nomenclature: PANEL,INDICATOR
+
+
+   AMSC: D     	NAICS: 336413     	Quantity: 3     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+879B2	2116-0056-1	SAFRAN ELECTRONICS & DEFENSE, AVION
+
+
+
+
+
+SPE4A726T634D.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	08-10-2026
+Return By:	08-17-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Origin
+ 
+
+Tech Data:	Tech Docs
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7017272850
+
+	
+
+NSN: 0001S00000052   Nomenclature: GOVERNMENT FIRST ARTIC
+
+
+   AMSC: G     	NAICS: ______     	Quantity: 1     
+
+
+
+
+
+NSN: 1560-00-442-3827   Nomenclature: PANEL,OVERHEAD TRIM
+
+
+   AMSC: G     	NAICS: 336413     	Quantity: 2     
+
+
+Specification, Drawing and Standard Data
+Amend No.: D DTD: 02-11-1992
+I/A/W DRW: 98897 4E10513 (BASIC)   DTD: 06-18-2026
+
+
+   Type #: 4E10513-101A
+
+
+
+
+
+
+
+
+
+
+SPE8ED26T0713.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	04-03-2026
+Return By:	04-22-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	Tech Docs
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7016129743
+
+	
+
+NSN: 5450-01-703-3763   Nomenclature: PANEL,REVETMENT
+
+
+   AMSC: C     	NAICS: 321215     	Quantity: 1     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+4JKJ9	0201390	BERG MANUFACTURING, INC.
+
+
+
+
+
+SPE4A726T621Y.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	08-06-2026
+Return By:	08-18-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Origin
+ 
+
+Tech Data:	Tech Docs
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7016846231
+
+	
+
+NSN: 1560-00-878-4444   Nomenclature: PANEL,STRUCTURAL,AI
+
+
+   AMSC: C     	NAICS: 336413     	Quantity: 1     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+059S2	4W13506-107A	AAR COMPONENT SERVICES - HOT SPRING
+29957	4W13506-107A	NORDAM GROUP LLC, THE
+3ECN8	4W13506-107A	LBZ, L.L.C
+419Y2	4W13506-107A	TOP FLIGHT AEROSTRUCTURES, INC.
+4PFC1	4W13506-107A	CASCADE COMPOSITES LLC
+59213	4W13506-107A	AERO COMPONENTS, LLC
+7HU35	4W13506-107A	
+98897	4W13506-103A	LOCKHEED MARTIN CORP
+98897	4W13506-107A	LOCKHEED MARTIN CORP
+99115	4W13506-107A	HONEYCOMB COMPANY OF AMERICA, INC.
+9U679	4W13506-107A	CPI AEROSTRUCTURES INC
+
+
+
+
+
+SPE4A726T572Q.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	07-15-2026
+Return By:	07-22-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Origin
+ 
+
+Tech Data:	Tech Docs
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7017149511
+
+	
+
+NSN: 1560-01-007-5377   Nomenclature: PANEL,STRUCTURAL,AI
+
+
+   AMSC: C     	NAICS: 336413     	Quantity: 1     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+0CMM5	5-89348-60	CRAFT MANUFACTURING AND TOOLING INC
+29957	5-89348-60	NORDAM GROUP LLC, THE
+82918	5-89348-60	THE BOEING COMPANY
+91750	5-89348-60	THE HANDY TOOL & MFG. CO., INC
+99115	5-89348-60	HONEYCOMB COMPANY OF AMERICA, INC.
+
+
+
+
+
+SPE4A726T563E.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	07-10-2026
+Return By:	07-17-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Origin
+ 
+
+Tech Data:	Tech Docs
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7017147499
+
+	
+
+NSN: 1560-01-162-7537   Nomenclature: WINDOW PANEL,AIRCRA
+
+
+   AMSC: G     	NAICS: 336413     	Quantity: 5     
+
+
+Specification, Drawing and Standard Data
+Amend No.: DTD: 03-02-1981
+I/A/W DRW: 81205 69-71209 (BASIC)   DTD: 06-18-2026
+
+
+   Type #: 69-71209-4
+
+
+
+
+
+
+
+
+
+
+SPE4A726T522P.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	06-22-2026
+Return By:	07-02-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Origin
+ 
+
+Tech Data:	Tech Docs
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7017148985
+
+	
+
+NSN: 1560-00-862-2180   Nomenclature: PANEL ASSEMBLY,WING
+
+
+   AMSC: C     	NAICS: 336413     	Quantity: 1     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+015P0	34-1194-518	
+0JWH9	34-1194-518	AERO SPACE COMPOSITES LLC
+12794	34-1194-518	HEXCEL CORP
+16630	34-1194-518	LIMCO AIREPAIR INC.
+1N454	34-1194-518	
+29183	34-1194-518	G. S. E. DYNAMICS, INC.
+29957	34-1194-518	NORDAM GROUP LLC, THE
+32818	34-1194-518	
+51563	34-1194-518	ROHR, INC.
+65088	34-1194-518	
+6W159	34-1194-518	HELICOMB INTERNATIONAL, INC.
+80512	34-1194-518	MAGELLAN AEROSPACE, MIDDLETOWN, INC
+81205	34-1194-518	THE BOEING COMPANY
+82918	34-1194-518	THE BOEING COMPANY
+96145	34-1194-518	VECCO WICHITA, INC.
+99115	34-1194-518	HONEYCOMB COMPANY OF AMERICA, INC.
+
+
+
+
+
+SPE4A626T03TU.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	07-08-2026
+Return By:	07-15-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7017410150
+
+	
+
+NSN: 6220-01-066-0267   Nomenclature: PANEL,INDICATING,LIGHT
+
+
+   AMSC: Z     	NAICS: 336320     	Quantity: 3     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+15952	4B11193-105C	PANOB CORP
+98897	4B11193-105C	LOCKHEED MARTIN CORP
+
+
+
+
+
+SPE4A726T486K.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	06-15-2026
+Return By:	06-25-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Origin
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7017148225
+
+	
+
+NSN: 1560-00-007-5903   Nomenclature: PANEL,STRUCTURAL,AI
+
+
+   AMSC: C     	NAICS: 336413     	Quantity: 2     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+3H339	205-031-257-67	RADIUS AEROSPACE, INC.
+6W159	205-031-257-67	HELICOMB INTERNATIONAL, INC.
+97499	205-031-257-067	BELL TEXTRON INC
+97499	205-031-257-67	BELL TEXTRON INC
+
+
+
+
+
+SPE4A726T433G.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	06-01-2026
+Return By:	06-08-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Origin
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7014630280
+
+	
+
+NSN: 1560-01-717-6782   Nomenclature: PANEL,STRUCTURAL,AI
+
+
+   AMSC: D     	NAICS: 336413     	Quantity: 5     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+22013	99H42741-105	
+
+
+
+
+
+SPE4A726T419Z.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	05-28-2026
+Return By:	06-04-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Origin
+ 
+
+Tech Data:	Tech Docs
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7016848671
+
+	
+
+NSN: 0001S00000052   Nomenclature: GOVERNMENT FIRST ARTIC
+
+
+   AMSC: G     	NAICS: ______     	Quantity: 1     
+
+
+
+
+
+NSN: 1560-00-442-3827   Nomenclature: PANEL,OVERHEAD TRIM
+
+
+   AMSC: G     	NAICS: 336413     	Quantity: 2     
+
+
+Specification, Drawing and Standard Data
+Amend No.: D DTD: 02-11-1992
+I/A/W DRW: 98897 4E10513 (BASIC)   DTD: 09-25-2006
+
+
+   Type #: 4E10513-101A
+
+
+
+
+
+
+
+
+
+
+SPE4A726T393N.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	05-21-2026
+Return By:	05-28-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Origin
+ 
+
+Tech Data:	Tech Docs
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7016846408
+
+	
+
+NSN: 1560-00-839-4588   Nomenclature: WINDSHIELD PANEL,AI
+
+
+   AMSC: C     	NAICS: 336413     	Quantity: 2     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+12035	4F11000-101A	SIERRACIN CORPORATION
+53117	4F11000-101A	PPG INDUSTRIES, INC.
+86175	4F11000-101A	GKN AEROSPACE TRANSPARENCY SYSTEMS
+98897	4F11000-101A	LOCKHEED MARTIN CORP
+
+
+
+
+
+SPE4A625T89T5.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	05-30-2025
+Return By:	06-06-2025
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Origin
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7012448742
+
+	
+
+NSN: 5325-00-936-6134   Nomenclature: INSERT,PANEL FASTEN
+
+
+   AMSC: R     	NAICS: 332510     	Quantity: 50     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+83324	S104D1032-12	HOWMET GLOBAL FASTENING SYSTEMS INC
+
+
+
+
+
+SPE7M126T100Q.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	05-26-2026
+Return By:	06-05-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7016880472
+
+	
+
+NSN: 6625-01-550-1281   Nomenclature: PANEL,TEST,ELECTRIC
+
+
+   AMSC: D     	NAICS: 334515     	Quantity: 395     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+3FZJ9	2035-18160	NGH RETAIL LLC
+
+
+
+
+
+SPE4A726T290X.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	04-24-2026
+Return By:	05-01-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Origin
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7015955020
+
+	
+
+NSN: 1680-01-585-5354   Nomenclature: PANEL,CONTROL
+
+
+   AMSC: Z     	NAICS: 336413     	Quantity: 5     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+25583	253E4973-00	ACRON AVIATION, INC.
+81205	253E4973-00	THE BOEING COMPANY
+
+
+
+
+
+SPE4A726T250V.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	04-15-2026
+Return By:	04-22-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Origin
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7016337307
+
+	
+
+NSN: 1680-01-705-7531   Nomenclature: PANEL,INDICATOR
+
+
+   AMSC: D     	NAICS: 336413     	Quantity: 5     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+81579	724-063-22	MASON ELECTRIC CO.
+
+
+
+
+
+SPE4A726T213L.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	04-08-2026
+Return By:	04-22-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7016227303
+
+	
+
+NSN: 6210-01-503-8203   Nomenclature: LIGHT,PANEL
+
+
+   AMSC: C     	NAICS: 335139     	Quantity: 9     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+27520	2001055-001	CONTROL PRODUCTS CORPORATION
+
+
+
+
+
+SPE4A726T167V.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	03-27-2026
+Return By:	04-08-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Origin
+ 
+
+Tech Data:	Tech Docs
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7016086257
+
+	
+
+NSN: 1560-01-608-7251   Nomenclature: PANEL,STRUCTURAL,AI
+
+
+   AMSC: C     	NAICS: 336413     	Quantity: 21     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+06DM5	L2100164-037	INFINITY FABRICATION, INC.
+0C7H8	L2100164-037	D-J ENGINEERING INC
+0P657	L2100164-037	CAMNETICS MANUFACTURING CORPORATION
+0WTG1	L2100164-037	APPLIED COMPOSITES ENGINEERING INC
+1P642	L2100164-037	VOLUMATIC INC
+29957	L2100164-037	NORDAM GROUP LLC, THE
+2V045	L2100164-037	MALONES CNC MACHINING INC
+419Y2	L2100164-037	TOP FLIGHT AEROSTRUCTURES, INC.
+43999	L2100164-037	THE BOEING COMPANY
+59213	L2100164-037	AERO COMPONENTS, LLC
+5M782	L2100164-037	COMPOSITES HORIZONS, LLC
+67MK1	L2100164-037	KIHOMAC, INC.
+
+
+
+
+
+SPE4A625T11TK.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	07-11-2025
+Return By:	07-18-2025
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7012898955
+
+	
+
+NSN: 6320-01-573-2394   Nomenclature: PANEL,ALARM,SHIPBOA
+
+
+   AMSC: Q     	NAICS: 334290     	Quantity: 3     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+28199	20-610-4	L3 TECHNOLOGIES, INC.
+
+
+
+
+
+SPE4A526T9385.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	03-06-2026
+Return By:	03-13-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Origin
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7015536848
+
+	
+
+NSN: 6610-01-732-7927   Nomenclature: PANEL,FUEL MANAGEME
+
+
+   AMSC: D     	NAICS: 334511     	Quantity: 4     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+76301	74A328408-2023	THE BOEING COMPANY
+
+
+
+
+
+SPE4A726T007X.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	02-25-2026
+Return By:	03-04-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7015657209
+
+	
+
+NSN: 5342-00-251-4423   Nomenclature: RETAINER,PANEL SCRE
+
+
+   AMSC: Q     	NAICS: 332994     	Quantity: 48     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+1YGB8	6301-C-SS-0632	
+
+
+
+
+
+SPE4A726Q0681.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	05-28-2026
+Return By:	06-12-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Origin
+ 
+
+Tech Data:	Tech Docs
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7016751671
+
+	
+
+NSN: 1560-01-153-1021   Nomenclature: PANEL,STRUCTURAL,AI
+
+
+   AMSC: C     	NAICS: 336413     	Quantity: 14     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+015P0	35-8287-501	
+06DM5	35-8287-501	INFINITY FABRICATION, INC.
+0C7H8	35-8287-501	D-J ENGINEERING INC
+0JWH9	35-8287-501	AERO SPACE COMPOSITES LLC
+0P657	35-8287-501	CAMNETICS MANUFACTURING CORPORATION
+12794	35-8287-501	HEXCEL CORP
+1N454	35-8287-501	
+1P642	35-8287-501	VOLUMATIC INC
+1QJK4	35-8287-501	
+29957	35-8287-501	NORDAM GROUP LLC, THE
+2V045	35-8287-501	MALONES CNC MACHINING INC
+32818	35-8287-501	
+51563	35-8287-501	ROHR, INC.
+59213	35-8287-501	AERO COMPONENTS, LLC
+65088	35-8287-501	
+6W159	35-8287-501	HELICOMB INTERNATIONAL, INC.
+80512	35-8287-501	MAGELLAN AEROSPACE, MIDDLETOWN, INC
+81205	35-8287-501	THE BOEING COMPANY
+96145	35-8287-501	VECCO WICHITA, INC.
+99115	35-8287-501	HONEYCOMB COMPANY OF AMERICA, INC.
+
+
+
+
+
+SPE4A726Q0333.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	01-21-2026
+Return By:	02-09-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Origin
+ 
+
+Tech Data:	Tech Docs
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7012983380
+
+	
+
+NSN: 1680-01-697-4210   Nomenclature: CONTROL PANEL,AIRCR
+
+
+   AMSC: C     	NAICS: 336413     	Quantity: 2     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+No Data found
+
+
+
+
+
+SPE4A725T802M.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	09-03-2025
+Return By:	03-19-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Origin
+ 
+
+Tech Data:	Tech Docs
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7012687666
+
+	
+
+NSN: 1560-01-288-2245   Nomenclature: PANEL,STRUCTURAL,AI
+
+
+   AMSC: C     	NAICS: 336413     	Quantity: 3     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+015P0	L3060150-011	
+030N1	L3060150-011	
+0C7H8	L3060150-011	D-J ENGINEERING INC
+0CMM5	L3060150-011	CRAFT MANUFACTURING AND TOOLING INC
+0JWH9	L3060150-011	AERO SPACE COMPOSITES LLC
+0T7Z1	L3060150-011	
+0TEG3	L3060150-011	
+0X451	L3060150-011	APEX COMPOSITES, L.L.C.
+12794	L3060150-011	HEXCEL CORP
+16630	L3060150-011	LIMCO AIREPAIR INC.
+1N454	L3060150-011	
+1PFX4	L3060150-011	AURORA FLIGHT SCIENCES OF WEST
+1W2T5	L3060150-011	
+23296	L3060150-011	APPLIED AEROSPACE STRUCTURES CORP
+29183	L3060150-011	G. S. E. DYNAMICS, INC.
+29957	L3060150-011	NORDAM GROUP LLC, THE
+30842	L3060150-011	KIT PACK, LLC
+32664	L3060150-011	AEROMETALS, INC.
+32818	L3060150-011	
+3ECN8	L3060150-011	LBZ, L.L.C
+3S2G5	L3060150-011	BRENNER AEROSTRUCTURES, LLC
+43999	L3060150-011	THE BOEING COMPANY
+51563	L3060150-011	ROHR, INC.
+59213	L3060150-011	AERO COMPONENTS, LLC
+65088	L3060150-011	
+6W159	L3060150-011	HELICOMB INTERNATIONAL, INC.
+80512	L3060150-011	MAGELLAN AEROSPACE, MIDDLETOWN, INC
+96145	L3060150-011	VECCO WICHITA, INC.
+99115	L3060150-011	HONEYCOMB COMPANY OF AMERICA, INC.
+
+
+
+
+
+SPE4A725T544J.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	06-20-2025
+Return By:	06-27-2025
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7012686338
+
+	
+
+NSN: 1560-01-716-2743   Nomenclature: PANEL,STRUCTURAL,AI
+
+
+   AMSC: D     	NAICS: 336413     	Quantity: 3     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+78208	06204-02101-413	
+
+
+
+
+
+SPE4A725Q0684.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	03-07-2025
+Return By:	03-17-2025
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Origin
+ 
+
+Tech Data:	Tech Docs
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7010890300
+
+	
+
+NSN: 0001S00000052   Nomenclature: GOVERNMENT FIRST ARTIC
+
+
+   AMSC: C     	NAICS: 336413     	Quantity: 1     
+
+
+
+
+
+NSN: 1560-01-554-3064   Nomenclature: WINDOW PANEL,AIRCRA
+
+
+   AMSC: C     	NAICS: 336413     	Quantity: 12     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+12035	4F11101-103A	SIERRACIN CORPORATION
+53117	4F11101-103A	PPG INDUSTRIES, INC.
+86175	4F11101-103A	GKN AEROSPACE TRANSPARENCY SYSTEMS
+98897	4F11101-103A	LOCKHEED MARTIN CORP
+
+
+
+
+
+SPE4A526T337Y.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	08-10-2026
+Return By:	08-17-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7017688164
+
+	
+
+NSN: 1560-00-129-8850   Nomenclature: PANEL ASSEMBLY,FAIR
+
+
+   AMSC: C     	NAICS: 336413     	Quantity: 1     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+98897	4W12024-104B	LOCKHEED MARTIN CORP
+
+
+
+
+
+SPE4A626T95J2.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	06-17-2026
+Return By:	06-24-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7017199582
+
+	
+
+NSN: 6110-01-558-4809   Nomenclature: PANEL,CONTROL,ELECT
+
+
+   AMSC: C     	NAICS: 335312     	Quantity: 2     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+78286	70550-01080-042	SIKORSKY AIRCRAFT CORPORATION
+
+
+
+
+
+SPE4A526T273W.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	07-07-2026
+Return By:	07-14-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	Tech Docs
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7017384944
+
+	
+
+NSN: 1680-01-552-5486   Nomenclature: CONTROL PANEL,AIRCR
+
+
+   AMSC: G     	NAICS: 336413     	Quantity: 1     
+
+
+Specification, Drawing and Standard Data
+Amend No.: M DTD: 01-01-2039
+I/A/W DRW: 78286 71500-22102 (BASIC)   DTD: 06-18-2026
+
+
+   Type #: 71500-22102-049
+
+
+
+
+
+
+
+
+
+
+SPE4A526T245M.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	06-17-2026
+Return By:	06-24-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7017199936
+
+	
+
+NSN: 4935-01-616-0822   Nomenclature: PANEL ASSEMBLY,TEST
+
+
+   AMSC: P     	NAICS: 334419     	Quantity: 4     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+48T42	7-611B12011-101	THE BOEING COMPANY
+8V613	7-611B12011-101	THE BOEING COMPANY
+
+
+
+
+
+SPE4A526T209L.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	06-04-2026
+Return By:	06-16-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7017038188
+
+	
+
+NSN: 6110-01-679-9655   Nomenclature: PANEL,POWER DISTRIB
+
+
+   AMSC: D     	NAICS: 335312     	Quantity: 4     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+05BU0	476742	KIDDE TECHNOLOGIES INC
+
+
+
+
+
+SPE4A526T178V.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	05-22-2026
+Return By:	05-29-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7016847629
+
+	
+
+NSN: 1680-01-528-9948   Nomenclature: SWITCH PANEL,AIRCRA
+
+
+   AMSC: D     	NAICS: 336413     	Quantity: 1     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+78286	71450-21101-041	SIKORSKY AIRCRAFT CORPORATION
+
+
+
+
+
+SPE4A626T870R.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	03-03-2026
+Return By:	03-13-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7015602362
+
+	
+
+NSN: 5310-01-512-8329   Nomenclature: WASHER,PANEL FASTEN
+
+
+   AMSC: C     	NAICS: 332722     	Quantity: 30     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+84256	RTW8P	AVIBANK MFG., INC.
+
+
+
+
+
+SPE4A626T83T1.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	06-09-2026
+Return By:	06-16-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7014176255
+
+	
+
+NSN: 6110-01-157-9060   Nomenclature: PANEL,STEERING GEAR
+
+
+   AMSC: C     	NAICS: 334519     	Quantity: 3     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+03956	1976074-2	NORTHROP GRUMMAN SYSTEMS CORPORATIO
+
+
+
+
+
+SPE4A526T117T.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	05-06-2026
+Return By:	05-13-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7016644945
+
+	
+
+NSN: 1680-01-645-2888   Nomenclature: CONTROL PANEL,AIRCR
+
+
+   AMSC: R     	NAICS: 336413     	Quantity: 4     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+82918	827-11386-2	THE BOEING COMPANY
+
+
+
+
+
+SPE7M526T294Z.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	07-02-2026
+Return By:	07-13-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7017351503
+
+	
+
+NSN: 5920-01-701-7929   Nomenclature: PANEL,FUSE
+
+
+   AMSC: D     	NAICS: 335931     	Quantity: 1     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+51435	594D2006-1	EMS DEVELOPMENT CORPORATION
+
+
+
+
+
+SPE7M526T292E.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	07-01-2026
+Return By:	07-24-2026
+ 
+
+FOB Point:	Destination
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7017334236
+
+	
+
+NSN: 5920-01-580-6325   Nomenclature: PANEL,FUSE
+
+
+   AMSC: D     	NAICS: 335313     	Quantity: 1     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+57626	404224 PN/404224-103	COMSACO, LLC
+57626	404224-103	COMSACO, LLC
+
+
+
+
+
+SPE7M526Q0726.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	07-15-2026
+Return By:	07-29-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	Tech Docs
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7016707489
+
+	
+
+NSN: 5999-01-280-8422   Nomenclature: PANEL,RADIO FREQUENCY-
+
+
+   AMSC: B     	NAICS: 334419     	Quantity: 14     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+07700	63-90173	
+
+
+
+
+
+SPE7M426T9191.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	04-02-2026
+Return By:	04-16-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Origin
+ 
+
+Tech Data:	Tech Docs
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7014137095
+
+	
+
+NSN: 2090-01-701-4683   Nomenclature: PANEL,VEHICULAR OPE
+
+
+   AMSC: G     	NAICS: 332999     	Quantity: 13     
+
+
+Specification, Drawing and Standard Data
+Amend No.: B DTD: 09-16-2003
+I/A/W DRW: 53711 7383869 (BASIC)   DTD: 05-25-2022
+
+
+   Type #: 245-7383869-28
+
+
+
+
+
+
+
+
+
+
+SPE7M526T7358.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	02-17-2026
+Return By:	02-27-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7015535176
+
+	
+
+NSN: 5999-01-620-0236   Nomenclature: PANEL,CONTROL
+
+
+   AMSC: D     	NAICS: 334419     	Quantity: 2     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+895S5	7000AG1020-1	AVIATION GROUND EQUIPMENT CORP
+
+
+
+
+
+SPE7M426T336P.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	08-13-2026
+Return By:	08-24-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7017868324
+
+	
+
+NSN: 2040-01-660-9865   Nomenclature: PANEL FLOOR SECTION
+
+
+   AMSC: Z     	NAICS: 332510     	Quantity: 16     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+1LL51	6748	STRONGWELL CORPORATION
+1T7T0	352706-2	FIBERGRATE COMPOSITE STRUCTURES, IN
+
+
+
+
+
+SPE7M126T257D.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	08-07-2026
+Return By:	08-17-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	Tech Docs
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7017776386
+
+	
+
+NSN: 6110-01-523-6331   Nomenclature: PANEL,POWER DISTRIBUTI
+
+
+   AMSC: B     	NAICS: 335312     	Quantity: 92     
+
+
+Specification, Drawing and Standard Data
+Amend No.: D DTD: 08-15-2024
+I/A/W DRW: 19207 12423136 (BASIC)   DTD: 06-18-2026
+
+
+
+
+
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+1JY78	31070-1C1	COOPER BUSSMANN, LLC
+9Y826	31070-1C1	MARSH ELECTRONICS, INC.
+
+
+
+
+
+SPE7M126T216Y.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	07-17-2026
+Return By:	07-27-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7017528441
+
+	
+
+NSN: 6110-01-695-2497   Nomenclature: PANEL,POWER DISTRIBUTI
+
+
+   AMSC: Q     	NAICS: 335312     	Quantity: 3     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+64646	742	IAN-CONRAD BERGAN, LLC
+
+
+
+
+
+SPE7M126T077Q.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	05-19-2026
+Return By:	05-29-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7010469398
+
+	
+
+NSN: 6110-01-430-2408   Nomenclature: PANEL,POWER DISTRIB
+
+
+   AMSC: Q     	NAICS: 334519     	Quantity: 2     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+3FEQ2	700564-02-208	L3HARRIS MARITIME POWER & ENERGY
+
+
+
+
+
+SPE7M126T030C.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	05-05-2026
+Return By:	05-15-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7016485381
+
+	
+
+NSN: 6110-01-541-9188   Nomenclature: PANEL,CONTROL,ELECT
+
+
+   AMSC: D     	NAICS: 335313     	Quantity: 4     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+51435	478D1006-4	EMS DEVELOPMENT CORPORATION
+
+
+
+
+
+SPE7M126Q0721.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	03-11-2026
+Return By:	03-25-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7012194802
+
+	
+
+NSN: 6110-01-549-8726   Nomenclature: PANEL,CONTROL,ELECT
+
+
+   AMSC: R     	NAICS: 335312     	Quantity: 7     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+2Y865	1004019-1	
+34EA9	1004019-1	GENERAL DYNAMICS MISSION SYSTEMS, I
+
+
+
+
+
+SPE7M226T3409.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	04-03-2026
+Return By:	04-13-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7016179031
+
+	
+
+NSN: 5305-01-728-1726   Nomenclature: SCREW,PANEL FASTENE
+
+
+   AMSC: D     	NAICS: 332722     	Quantity: 18     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+94271	140174-3	LOCKHEED MARTIN CORP
+
+
+
+
+
+SPE7M126T286N.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	08-18-2026
+Return By:	08-28-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7017777106
+
+	
+
+NSN: 6625-01-144-4375   Nomenclature: PANEL,TEST,ELECTRICAL
+
+
+   AMSC: D     	NAICS: 334515     	Quantity: 3     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+1UVW2	GEL400-1	GRACE AEROSPACE LLC
+78286	65610-03047-041	SIKORSKY AIRCRAFT CORPORATION
+
+
+
+
+
+SPE7M126T271M.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	08-11-2026
+Return By:	08-21-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7017697178
+
+	
+
+NSN: 6110-01-463-1576   Nomenclature: PANEL,POWER DISTRIB
+
+
+   AMSC: C     	NAICS: 334519     	Quantity: 7     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+0WW63	16E3634-861	INTERCONNECT WIRING LLP
+67291	16E3634-861	RICHARD MANUFACTURING COMPANY
+81755	16E3634-861	LOCKHEED MARTIN CORPORATION
+
+
+
+
+
+SPE7L326T8518.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	04-15-2026
+Return By:	04-30-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Origin
+ 
+
+Tech Data:	Tech Docs
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7015247352
+
+	
+
+NSN: 2510-00-782-1177   Nomenclature: PANEL,VEHICULAR OPE
+
+
+   AMSC: G     	NAICS: 336211     	Quantity: 12     
+
+
+Specification, Drawing and Standard Data
+Amend No.: N DTD: 01-01-1999
+I/A/W DRW: 19207 10933048 (BASIC)   DTD: 09-21-2006
+
+
+   Type #: 10933048
+
+
+
+
+
+
+
+
+
+
+SPE7L526T3032.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	04-20-2026
+Return By:	04-30-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7016373991
+
+	
+
+NSN: 2510-01-480-4005   Nomenclature: INSTRUMENT PANEL
+
+
+   AMSC: D     	NAICS: 332999     	Quantity: 7     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+75Q65	9HB634	OSHKOSH DEFENSE LLC
+
+
+
+
+
+SPE7L426T1542.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	11-28-2025
+Return By:	12-08-2025
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Origin
+ 
+
+Tech Data:	Tech Docs
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7014656253
+
+	
+
+NSN: 0001S00000053   Nomenclature: CONTRACTOR FIRST ARTIC
+
+
+   AMSC: G     	NAICS: ______     	Quantity: 1     
+
+
+
+
+
+NSN: 2510-01-692-2787   Nomenclature: PANEL,VEHICULAR OPE
+
+
+   AMSC: G     	NAICS: 332999     	Quantity: 8     
+
+
+Specification, Drawing and Standard Data
+Amend No.: DTD: 10-28-2019
+I/A/W DRW: 19207 12598796 (BASIC)   DTD: 12-07-2020
+
+
+
+
+
+
+
+
+
+
+
+
+SPE7L426T0087.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	10-10-2025
+Return By:	10-20-2025
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7014130856
+
+	
+
+NSN: 1680-01-487-5168   Nomenclature: PANEL,INDICATOR
+
+
+   AMSC: D     	NAICS: 334290     	Quantity: 7     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+19397	08-20522-1	BAE SYSTEMS INFORMATION & ELECTRONI
+
+
+
+
+
+SPE4A726T578G.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	07-17-2026
+Return By:	07-24-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Origin
+ 
+
+Tech Data:	Tech Docs
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7017529501
+
+	
+
+NSN: 0001S00000053   Nomenclature: CONTRACTOR FIRST ARTIC
+
+
+   AMSC: C     	NAICS: ______     	Quantity: 1     
+
+
+
+
+
+NSN: 5895-01-734-3580   Nomenclature: PANEL,CONTROL,ELECTRIC
+
+
+   AMSC: C     	NAICS: 334290     	Quantity: 2     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+1KXU6	202432978-10	HUGHES CIRCUITS, INC.
+41JV4	202432978-10	ARTEMIS ELECTRONICS LLC
+
+
+
+
+
+SPE4A726T524Z.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	06-23-2026
+Return By:	06-30-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Origin
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7017200141
+
+	
+
+NSN: 1560-01-396-0310   Nomenclature: WINDOW PANEL,AIRCRA
+
+
+   AMSC: Q     	NAICS: 336413     	Quantity: 5     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+86175	94009	GKN AEROSPACE TRANSPARENCY SYSTEMS
+
+
+
+
+
+SPE4A726T514X.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	06-18-2026
+Return By:	06-25-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	Tech Docs
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7017200868
+
+	
+
+NSN: 1560-01-655-4521   Nomenclature: PANEL,STRUCTURAL,AI
+
+
+   AMSC: C     	NAICS: 336413     	Quantity: 2     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+81205	232T1458-16B	THE BOEING COMPANY
+
+
+
+
+
+SPE4A726T514N.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	06-18-2026
+Return By:	06-25-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Origin
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7017199355
+
+	
+
+NSN: 0001S00000053   Nomenclature: CONTRACTOR FIRST ARTIC
+
+
+   AMSC: C     	NAICS: ______     	Quantity: 1     
+
+
+
+
+
+NSN: 1560-01-714-4324   Nomenclature: PANEL,STRUCTURAL,AI
+
+
+   AMSC: C     	NAICS: 336413     	Quantity: 1     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+78286	70500-02072-096	SIKORSKY AIRCRAFT CORPORATION
+
+
+
+
+
+SPE4A726T458E.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	06-05-2026
+Return By:	06-12-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Origin
+ 
+
+Tech Data:	Tech Docs
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7016846574
+
+	
+
+NSN: 1560-01-283-4029   Nomenclature: PANEL,STRUCTURAL,AI
+
+
+   AMSC: G     	NAICS: 336413     	Quantity: 2     
+
+
+Specification, Drawing and Standard Data
+Amend No.: F DTD: 06-10-1981
+I/A/W DRW: 81205 64-1105 (BASIC)   DTD: 09-21-2006
+
+
+   Type #: 64-1105-3008
+
+
+
+
+
+
+
+
+
+
+SPE4A726T365Q.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	05-18-2026
+Return By:	05-26-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7016708251
+
+	
+
+NSN: 5975-01-718-9433   Nomenclature: PANEL,ELECTRICAL-EL
+
+
+   AMSC: D     	NAICS: 327110     	Quantity: 20     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+1XRQ4	MAE-00-06	
+
+
+
+
+
+SPE4A726T338G.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	05-13-2026
+Return By:	05-20-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7016753790
+
+	
+
+NSN: 5895-01-440-4400   Nomenclature: PANEL,CONTROL,ELECT
+
+
+   AMSC: C     	NAICS: 334511     	Quantity: 2     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+04034	153479	SETRA SYSTEMS, INC.
+
+
+
+
+
+SPE4A726T301T.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	04-29-2026
+Return By:	05-06-2026
+ 
+
+FOB Point:	Destination
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7015496802
+
+	
+
+NSN: 5975-01-718-9432   Nomenclature: PANEL,ELECTRICAL-EL
+
+
+   AMSC: D     	NAICS: 327110     	Quantity: 2     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+9XN40	MAE 00-08	GE VERNOVA OPERATIONS LLC
+
+
+
+
+
+SPE4A726T259Y.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	04-16-2026
+Return By:	04-23-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7015854532
+
+	
+
+NSN: 5975-01-718-9432   Nomenclature: PANEL,ELECTRICAL-EL
+
+
+   AMSC: D     	NAICS: 327110     	Quantity: 2     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+9XN40	MAE 00-08	GE VERNOVA OPERATIONS LLC
+
+
+
+
+
+SPE4A726T2255.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	10-31-2025
+Return By:	11-13-2025
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Origin
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7013371155
+
+	
+
+NSN: 1560-00-239-0343   Nomenclature: PANEL,HEATED WINDSH
+
+
+   AMSC: C     	NAICS: 336413     	Quantity: 13     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+12035	943536-110	SIERRACIN CORPORATION
+86175	943536-110	GKN AEROSPACE TRANSPARENCY SYSTEMS
+98897	943536-110	LOCKHEED MARTIN CORP
+
+
+
+
+
+SPE7L126T597D.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	05-22-2026
+Return By:	06-01-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7016888064
+
+	
+
+NSN: 2510-01-547-8718   Nomenclature: PANEL,VEHICULAR OPE
+
+
+   AMSC: L     	NAICS: 332999     	Quantity: 1     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+0KMP4	9593-0236	THUEMLING INDUSTRIAL PRODUCTS INC
+1R5C8	9593-0236	HEIL TRAILER INTERNATIONAL, LLC
+
+
+
+
+
+SPE7L126Q1316.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	07-16-2026
+Return By:	07-24-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	Tech Docs
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7008434132
+
+	
+
+NSN: 2510-01-713-9991   Nomenclature: PANEL,BODY,VEHICULA
+
+
+   AMSC: G     	NAICS: 332999     	Quantity: 1     
+
+
+Specification, Drawing and Standard Data
+Amend No.: H DTD: 04-04-2025
+I/A/W DRW: 19207 12441846 (BASIC)   DTD: 06-18-2026
+
+
+
+
+
+
+
+
+
+
+
+
+SPE4A726T8036.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	01-22-2026
+Return By:	01-29-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Origin
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7015213569
+
+	
+
+NSN: 1560-01-396-0310   Nomenclature: WINDOW PANEL,AIRCRA
+
+
+   AMSC: Q     	NAICS: 336413     	Quantity: 9     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+86175	94009	GKN AEROSPACE TRANSPARENCY SYSTEMS
+
+
+
+
+
+SPE4A726T7358.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	01-09-2026
+Return By:	01-16-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	Tech Docs
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7014634077
+
+	
+
+NSN: 1560-01-661-8823   Nomenclature: PANEL,STRUCTURAL,AI
+
+
+   AMSC: C     	NAICS: 336413     	Quantity: 1     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+81205	114T2400-590	THE BOEING COMPANY
+
+
+
+
+
+SPE4A726T7346.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	01-09-2026
+Return By:	01-16-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	Tech Docs
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7014493932
+
+	
+
+NSN: 1680-01-655-1646   Nomenclature: PANEL,INTERIOR LINI
+
+
+   AMSC: C     	NAICS: 336413     	Quantity: 1     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+81205	453T1821-36	THE BOEING COMPANY
+
+
+
+
+
+SPE4A726T652W.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	08-14-2026
+Return By:	08-21-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	Tech Docs
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7017869045
+
+	
+
+NSN: 5895-01-687-9082   Nomenclature: PANEL,PATCHING,COMMUNI
+
+
+   AMSC: B     	NAICS: 334290     	Quantity: 3     
+
+
+Specification, Drawing and Standard Data
+Amend No.: DTD: 03-07-2007
+I/A/W DRW: 1X4F3 AMSCBDOC (BASIC)   DTD: 06-18-2026
+
+
+
+
+
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+4NCQ6	65034-595-02	AVAYA FEDERAL SOLUTIONS, INC
+
+
+
+
+
+SPE4A726T628U.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	08-07-2026
+Return By:	08-14-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Origin
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7015213100
+
+	
+
+NSN: 1560-01-600-2806   Nomenclature: ARMOR ASSY PANEL AI
+
+
+   AMSC: P     	NAICS: 336413     	Quantity: 7     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+1LEW5	10018377	AVON PROTECTION SYSTEMS INCORPORATE
+8V613	7-511930104-001	THE BOEING COMPANY
+
+
+
+
+
+SPE4A726T589C.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	07-22-2026
+Return By:	07-29-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Origin
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7017527740
+
+	
+
+NSN: 1560-01-072-2343   Nomenclature: SAFETY WALK PANEL,C
+
+
+   AMSC: D     	NAICS: 336413     	Quantity: 777     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+3H683	375986-5	INTERNATIONAL PRECISION, INC
+58730	375986-5	AIRBORNE TECHNOLOGIES, INC.
+6Z800	375986-5	A AND M AEROSPACE, INC.
+8T119	375986-5	G M J MACHINE CO, INC
+98897	375986-5	LOCKHEED MARTIN CORP
+
+
+
+
+
+SPE4A726T588T.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	07-22-2026
+Return By:	07-29-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Origin
+ 
+
+Tech Data:	Tech Docs
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7017408183
+
+	
+
+NSN: 0001S00000052   Nomenclature: GOVERNMENT FIRST ARTIC
+
+
+   AMSC: C     	NAICS: ______     	Quantity: 1     
+
+
+
+
+
+NSN: 1680-01-483-9370   Nomenclature: CONTROL PANEL,AIRCR
+
+
+   AMSC: C     	NAICS: 336413     	Quantity: 2     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+No Data found
+
+
+
+
+
+SPE4A626T765R.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	02-20-2026
+Return By:	02-27-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7015607861
+
+	
+
+NSN: 1560-01-496-7286   Nomenclature: PANEL,STRUCTURAL,AI
+
+
+   AMSC: C     	NAICS: 336413     	Quantity: 3     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+78286	70500-02072-047	SIKORSKY AIRCRAFT CORPORATION
+
+
+
+
+
+SPE4A626T664Q.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	02-11-2026
+Return By:	02-18-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7015474590
+
+	
+
+NSN: 6210-01-446-7070   Nomenclature: PANEL,INDICATING,LI
+
+
+   AMSC: C     	NAICS: 335139     	Quantity: 3     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+16329	G107575-3	
+3B150	G107575-3	RAYTHEON COMPANY
+54X10	G107575-3	RAYTHEON COMPANY
+6ELP9	G107575-3	SUN DISPLAY SYSTEMS LLC
+
+
+
+
+
+SPE4A726T163R.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	03-27-2026
+Return By:	04-03-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Origin
+ 
+
+Tech Data:	Tech Docs
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7015852610
+
+	
+
+NSN: 1560-01-152-6334   Nomenclature: PANEL,STRUCTURAL,AI
+
+
+   AMSC: C     	NAICS: 336413     	Quantity: 15     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+06DM5	35-8286-503	INFINITY FABRICATION, INC.
+0C7H8	35-8286-503	D-J ENGINEERING INC
+0JWH9	35-8286-503	AERO SPACE COMPOSITES LLC
+0M951	35-8286-503	
+0P657	35-8286-503	CAMNETICS MANUFACTURING CORPORATION
+12794	35-8286-503	HEXCEL CORP
+16630	35-8286-503	LIMCO AIREPAIR INC.
+1N454	35-8286-503	
+1P642	35-8286-503	VOLUMATIC INC
+1QJK4	35-8286-503	
+29957	35-8286-503	NORDAM GROUP LLC, THE
+2V045	35-8286-503	MALONES CNC MACHINING INC
+32818	35-8286-503	
+32821	35-8286-503	H & R PARTS CO INC
+51563	35-8286-503	ROHR, INC.
+59213	35-8286-503	AERO COMPONENTS, LLC
+65088	35-8286-503	
+6W159	35-8286-503	HELICOMB INTERNATIONAL, INC.
+80512	35-8286-503	MAGELLAN AEROSPACE, MIDDLETOWN, INC
+81205	35-8286-503	THE BOEING COMPANY
+96145	35-8286-503	VECCO WICHITA, INC.
+99115	35-8286-503	HONEYCOMB COMPANY OF AMERICA, INC.
+
+
+
+
+
+SPE4A726T099J.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	03-18-2026
+Return By:	03-25-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Origin
+ 
+
+Tech Data:	Tech Docs
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7015956199
+
+	
+
+NSN: 1560-00-108-2073   Nomenclature: PANEL,STRUCTURAL,AI
+
+
+   AMSC: C     	NAICS: 336413     	Quantity: 2     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+059S2	4W12542-148A	AAR COMPONENT SERVICES - HOT SPRING
+29957	4W12542-148A	NORDAM GROUP LLC, THE
+3ECN8	4W12542-148A	LBZ, L.L.C
+419Y2	4W12542-148A	TOP FLIGHT AEROSTRUCTURES, INC.
+4PFC1	4W12542-148A	CASCADE COMPOSITES LLC
+59213	4W12542-148A	AERO COMPONENTS, LLC
+7HU35	4W12542-148A	
+98897	4W12542-148A	LOCKHEED MARTIN CORP
+99115	4W12542-148A	HONEYCOMB COMPANY OF AMERICA, INC.
+9U679	4W12542-148A	CPI AEROSTRUCTURES INC
+
+
+
+
+
+SPE4A726T055D.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	03-10-2026
+Return By:	03-17-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Origin
+ 
+
+Tech Data:	Tech Docs
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7015606935
+
+	
+
+NSN: 1560-00-979-5215   Nomenclature: PANEL,STRUCTURAL,AI
+
+
+   AMSC: C     	NAICS: 336413     	Quantity: 3     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+0C7H8	65-28205-4	D-J ENGINEERING INC
+0CMM5	65-28205-4	CRAFT MANUFACTURING AND TOOLING INC
+1WUJ0	65-28205-4	
+29957	65-28205-4	NORDAM GROUP LLC, THE
+2V045	65-28205-4	MALONES CNC MACHINING INC
+59213	65-28205-4	AERO COMPONENTS, LLC
+81205	65-28205-4	THE BOEING COMPANY
+82918	65-28205-4	THE BOEING COMPANY
+91750	65-28205-4	THE HANDY TOOL & MFG. CO., INC
+99115	65-28205-4	HONEYCOMB COMPANY OF AMERICA, INC.
+
+
+
+
+
+SPE4A726T0301.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	10-08-2025
+Return By:	10-15-2025
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7014104369
+
+	
+
+NSN: 5895-01-481-5133   Nomenclature: PANEL,CONTROL,ELECT
+
+
+   AMSC: D     	NAICS: 334511     	Quantity: 7     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+62228	K845088-1	MEGGITT DEFENSE SYSTEMS, INC.
+
+
+
+
+
+SPE4A725T339Y.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	05-07-2025
+Return By:	05-23-2025
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7012147116
+
+	
+
+NSN: 1560-01-549-2201   Nomenclature: PANEL,STRUCTURAL,AI
+
+
+   AMSC: C     	NAICS: 336413     	Quantity: 15     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+56540	74A110844-2005	ASSOCIATED AIRCRAFT MANUFACTURING &
+76301	74A110844-2005	THE BOEING COMPANY
+
+
+
+
+
+SPE4A725Q1040.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	06-05-2025
+Return By:	06-19-2025
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Origin
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7008403722
+
+	
+
+NSN: 1560-01-163-5182   Nomenclature: WINDSHIELD PANEL,AI
+
+
+   AMSC: P     	NAICS: 336413     	Quantity: 91     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+12035	7-311112015-11	SIERRACIN CORPORATION
+53117	7-311112015-11	PPG INDUSTRIES, INC.
+8V613	7-311112015-11	THE BOEING COMPANY
+
+
+
+
+
+SPE4A626T8960.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	11-10-2025
+Return By:	11-17-2025
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7014381090
+
+	
+
+NSN: 1560-01-205-7218   Nomenclature: PANEL FIBERGLASS
+
+
+   AMSC: C     	NAICS: 336413     	Quantity: 2     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+78286	70308-03603-103	SIKORSKY AIRCRAFT CORPORATION
+
+
+
+
+
+SPE4A626T87B2.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	06-11-2026
+Return By:	06-18-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7010046494
+
+	
+
+NSN: 1560-01-459-5171   Nomenclature: PANEL,STRUCTURAL,AI
+
+
+   AMSC: C     	NAICS: 336413     	Quantity: 7     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+70974	123W10697-611	NORTHROP GRUMMAN SYSTEMS CORPORATIO
+
+
+
+
+
+SPE4A626T854K.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	02-27-2026
+Return By:	03-11-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Origin
+ 
+
+Tech Data:	Tech Docs
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7015602814
+
+	
+
+NSN: 5325-00-849-4001   Nomenclature: INS ERT,PANEL FASTEN
+
+
+   AMSC: C     	NAICS: 332510     	Quantity: 517     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+83324	403SF1032-08-3	HOWMET GLOBAL FASTENING SYSTEMS INC
+83324	495SF1032-08-1	HOWMET GLOBAL FASTENING SYSTEMS INC
+83324	D108SF39508-1	HOWMET GLOBAL FASTENING SYSTEMS INC
+97393	SL2052-3-4	SPS TECHNOLOGIES LLC
+97393	SL2052-3-4-1	SPS TECHNOLOGIES LLC
+D0680	D108SF39508-1	FAIRCHILD FASTENERS EUROPE - CAMLOC
+
+
+
+
+
+SPE4A626T31E7.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	04-23-2026
+Return By:	04-30-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7016438319
+
+	
+
+NSN: 1680-01-553-4570   Nomenclature: PANEL,CONTROL,ELECT
+
+
+   AMSC: C     	NAICS: 336413     	Quantity: 6     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+78286	70902-01413-041	SIKORSKY AIRCRAFT CORPORATION
+
+
+
+
+
+SPE4A626T01MK.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	06-29-2026
+Return By:	07-06-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Origin
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7016645989
+
+	
+
+NSN: 1680-01-722-8683   Nomenclature: CONTROL PANEL,AIRCR
+
+
+   AMSC: R     	NAICS: 336413     	Quantity: 3     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+76301	68A812030-1001	THE BOEING COMPANY
+
+
+
+
+
+SPE4A626T01EX.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	06-26-2026
+Return By:	07-06-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7017149699
+
+	
+
+NSN: 6220-01-510-9765   Nomenclature: LIGHT,PANEL
+
+
+   AMSC: Q     	NAICS: 336320     	Quantity: 19     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+0VDA9	934-870-06	LUMINATOR HOLDING L.P
+
+
+
+
+
+SPE4A626T24Z6.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	04-17-2026
+Return By:	04-24-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7016335600
+
+	
+
+NSN: 1560-01-737-8647   Nomenclature: PANEL,STRUCTURAL,AI
+
+
+   AMSC: C     	NAICS: 336413     	Quantity: 1     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+76301	74A803616-1005	THE BOEING COMPANY
+
+
+
+
+
+SPE4A626T23U9.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	04-16-2026
+Return By:	06-09-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7013944291
+
+	
+
+NSN: 6320-01-495-0306   Nomenclature: PANEL,ALARM,SHIPBOA
+
+
+   AMSC: D     	NAICS: 336611     	Quantity: 10     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+70876	24032-451	BATH IRON WORKS CORPORATION
+
+
+
+
+
+SPE4A626T18KV.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	08-17-2026
+Return By:	08-24-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7017916658
+
+	
+
+NSN: 1680-01-553-0711   Nomenclature: PANEL,CONTROL,ELECTRIC
+
+
+   AMSC: D     	NAICS: 336413     	Quantity: 14     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+78286	70902-01099-047	SIKORSKY AIRCRAFT CORPORATION
+
+
+
+
+1 2 3 4 5 6 7 8 9 10 11
+
+
+· RFQ Text Search
+Query String:
+
+
+
+Modified: 
+Any time
+last hour
+last day
+last 7 days
+last 30 days
+last 60 days
+last 90 days
+last 365 days
+	Sort: 
+Best Match
+Newly Posted to Oldest
+Oldest Posted to Newest
+
+Filter:
+  
+Automated Indefinite Delivery Contract (AIDC)
+
+
+  
+Items with Technical Documents
+
+
+  
+Fast Award Candidates
+
+
+  
+Small Business Set-Asides
+
+
+  
+HUBZone Set-Asides
+
+	
+  
+Service Disabled Veteran Owned
+      Small Business Set-Asides
+
+
+Woman Owned Small Business Set-Asides
+
+
+Economically Disadvantaged Women Owned Small Business Set-Asides
+
+
+Unrestricted/Not Set-Asides
+
+
+ 
+
+
+
+
+ 
+Policy Statements · Feedback
+   EOXD8AUZtkHO8wt7m812jA==
+   Ver.6.3.2
+

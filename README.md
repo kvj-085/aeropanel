@@ -37,6 +37,8 @@ bypass restrictions or submit bids. No API keys or passwords in the submission. 
 | `common.py` | Shared rules: keyword list (copied from the brief), text normalization, matching, exclusions, NSN/solicitation formatting, run log. Both sources use this, so they're judged identically. |
 | `sam_pipeline.py` | SAM.gov: snapshots the CSV (dated + versioned), filters, detects changes vs the previous snapshot, stores matches in the database, logs the run. |
 | `dibbs_collector.py` | DIBBS: drives the Text Search in a browser, saves every results page, parses each line (NSN, nomenclature, AMSC, qty, dates), classifies, stores in the database. Optional PDF download. |
+| `dibbs_status.py` | For every G candidate: fetches the official RFQ package page (Status, Issue Date, Return By; page saved as evidence) and downloads the solicitation PDF, in one browser session. Resumable. |
+| `build_report.py` | Merges everything into the workbook: status rules, cross-post dedupe, line quantities, prices, values, Summary (formula-driven, brief layout), G_Main list, all separate populations, manual-check sheet, run log. |
 | `dibbs_pdf_parser.py` | Reads solicitation PDFs: line items (CLINs), procurement history (past prices), set-aside, eligibility gates, screening value. |
 | `requirements.txt` | Python packages. |
 | `.env.example` | Template for `.env` (holds your SAM.gov key and optional download link). Never submit `.env`. |
@@ -56,12 +58,16 @@ copy .env.example .env        (then edit .env)
 # SAM.gov: after downloading the CSV (see section 6)
 python sam_pipeline.py --from-downloads
 
-# DIBBS: small test first, then the main run
-python dibbs_collector.py --terms "PANEL" --max-pages 2
-python dibbs_collector.py --preset roots --max-pages 30 --pdfs
+# DIBBS: search (about 1.5 h), then status + PDFs for the G candidates
+python dibbs_collector.py --preset roots --max-pages 20
+python dibbs_status.py --limit 20                       # quick test
+python dibbs_status.py --resume data/dibbs_status/<id>  # finish the rest
 
 # Parse downloaded PDFs (prices, lines, gates)
 python dibbs_pdf_parser.py
+
+# Build the workbook
+python build_report.py
 
 # Failed-source test (must show FAILED, not zero results)
 python sam_pipeline.py --file does_not_exist.csv
@@ -131,8 +137,21 @@ Text Search behaviour we observed (these become rules in the code):
 4. **Issue date can differ from post date** (Issued 09-30-2026, posted 2026-09-29). → We use **Issued** as the publication date (it matches the PDF's "Date Issued"). Rule documented.
 5. **Removed solicitations vanish from the search index.** SPE7M926T0038 (status Removed) returned 0 hits by solicitation number, NSN and PR number. → Save a snapshot every run. A record we have seen once is never lost.
 6. Text Search reaches **before 2026**: the first test run (sort: oldest first) returned 4 pre-2026 closed items. Each term's earliest/latest issued date seen is now recorded in `term_summary.csv`.
+6b. **"Document Post/Updated" is not a publication date.** In the 09-30 pages, most results (issued anywhere from Oct 2025 to Aug 2026) share the same Post/Updated stamp, `2026-08-21 02:41:27`, apparently a bulk re-index. This confirms the rule: publication date = **Issued**.
+6c. Test/pseudo lines use NSNs starting `0001S` (GOVERNMENT/CONTRACTOR FIRST ARTIC, PRODUCTION LOT TESTING). All go to `first_article_lines.csv`, never valued.
 7. **Package page "Open" can outlive the deadline.** SPE4A626T45E6 (return-by 05-18-2026) and SPE7M126T125G (06-15-2026) still show Status **Open** with an active Quote link. DIBBS's own Scope wording defines Open as "RFQs available for quoting". This is the strongest late-quotation evidence available and is recorded with a check timestamp.
 8. **DLA item names are "NOUN, MODIFIERS".** "INS ERT, PANEL FASTEN" is an insert (a fastener part), not a panel. Broad keywords (PANEL, SWITCH, PLATE, WINDOW, LENS, ACTUATOR, MARKING, LEGEND) only count when they are in the noun part (before the first comma). Otherwise the line goes to `broad_context_review.csv`, outside G totals.
+
+### Collector incidents (and what they taught us)
+
+| Date | What happened | Fix |
+|---|---|---|
+| 09-29 | Typed into the left form ("Search Value(s)") instead of Text Search | Target the box under "Query String" and its own Query button |
+| 09-29 | "Execution context destroyed" (page reloaded mid-read) | Wait for load + retry reads; pick the tab that shows the form |
+| 09-30 | Query click timed out after 30 s (search slower than Playwright's default) | Click without waiting, then poll for results every 5 s (up to 10 min) |
+| 09-30 | **First full run (52 terms) read stale results.** Every term after PANEL reported PANEL's count (1,084) and saved PANEL's pages, because the old "Found 1084 records" text was still on screen when the new search started. The run was marked PARTIAL and not used. | Before each click, the old "Found N records" text is erased, so only a new result counts. After each search, the page's query box must show the term just searched; otherwise the term fails instead of saving wrong data. Each term records its first solicitation for spot checks. |
+| 09-30 | 2-term test (PANEL, BEZEL) after the fix: BEZEL **still** returned PANEL's results (1,084 records, same first solicitation SPE8E526T4503), even though it genuinely waited for a new page. So a search submitted **from a results page** re-runs the previous query on DIBBS's side. | Every term now starts from a **freshly loaded search page**. A guard also fails any term whose count and first solicitation are identical to the previous term's, instead of saving it. The sort options DIBBS offers are logged per term (no newest-first option was found, so Best Match is used). |
+| 09-30 | PDF downloads: HTTP 200 but a web page, not a PDF | The PDF server shows its own notice. The script now opens one PDF in a tab, you accept the notice, and it retries. `--pdfs-only <run folder>` downloads PDFs without re-searching. |
 
 ---
 
@@ -175,6 +194,12 @@ Text Search behaviour we observed (these become rules in the code):
 | 15 | Text Search sorted **Newest → Oldest** | With page caps on huge terms, the most recent 2026 records are kept first. The cap is logged per term. |
 | 16 | Broad keyword must be the item **noun** (DLA "NOUN, MODIFIER" naming) | Test run: "INSERT, PANEL FASTENER" matched PANEL but is a fastener insert. |
 | 17 | DIBBS status **Open after return-by date** = late-quote route candidate, with check timestamp | DIBBS defines Open as "available for quoting". Strongest source-specific evidence available. Recorded separately from open-by-deadline. |
+| 18 | PANEL matches in structural Federal Supply Classes are excluded: 1560 airframe structural, 2510 vehicle cab/body/frame, 5410/5411/5419 buildings & shelters, 5670/5680 building/construction materials (list in `common.py`, `STRUCTURAL_FSC`) | Brief excludes structural/airframe/body/shelter panels. Item names alone don't say "structural" (e.g. "PANEL ASSEMBLY" in FSC 5411 rigid wall shelters, "PANEL ASSEMBLY, ELEVATOR" in 1560 airframe). The FSC (first 4 digits of the NSN) does. Applied to SAM.gov via `ClassificationCode`. Each exclusion names the FSC. |
+| 19 | Main DIBBS run: 52 root terms, 20-page cap (up to 2,000 results per term). Capped: OVERLAY, PLATE, MARKING, FUEL, CABLE ASSEMBLY, BOX. DIBBS itself reports at most 5,000 hits per search. | Time budget; each capped term is listed as incomplete coverage in the workbook. |
+| 20 | Status per solicitation from the official DIBBS package page (saved), plus SAM.gov award notices matched by solicitation number. DIBBS Awards database not queried per solicitation (covered in manual checks). | 1,000+ solicitations; package pages give Status + dates in one fetch. |
+| 21 | Lines without a solicitation-level status check stay in **Status unresolved**, never promoted | Brief: "do not promote an unchecked record by default". |
+| 22 | SAM.gov notice with the same solicitation number as a DIBBS record = cross-post, counted once under DIBBS. SAM.gov AMSC comes from the DIBBS listing of the same NSN; otherwise review queue. | Dedupe rule + SAM.gov has no AMSC field. |
+| 23 | Summary counts/values are Excel formulas over G_Main with helper flags (first line of each solicitation per category/status) | Distinct-solicitation counts are recomputed, never added across rows; summary recalculates if rows are edited. |
 | 14 | Gate detection uses specific phrases (e.g., "FIRST ARTICLE APPROVAL", "RQ032") | Broad words like "first article" and "export-controlled" appear in boilerplate in every PDF. |
 
 ---

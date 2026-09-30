@@ -187,7 +187,7 @@ def run_matching(frame: pd.DataFrame, population: str):
                     "nsn_found": norm_nsn(f"{row.get('Title')} {row.get('Description')}"),
                     "amsc": "", "amsc_status": "unverified (SAM.gov has no AMSC field)",
                     "review_flag": "broad keyword only" if m["broad_only"] else ""})
-        reason = exclusion(t_n, m)
+        reason = exclusion(t_n, m, fsc=row.get("ClassificationCode"))
         if reason:
             rec["exclusion_reason"] = reason
             excluded.append(rec)

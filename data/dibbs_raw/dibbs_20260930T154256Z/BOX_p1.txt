@@ -1,0 +1,5450 @@
+FAQ/Help · Refs · My Account · Log In
+
+
+   Home       Solicitations       RFQs       RFP/IFB/Other RFQs       Tech Data       Downloads        Awards   
+
+
+Navigation: 
+Navigation/Documents - - - - - -
+Accessibility
+Awards Area
+- Awards by Award DT
+- Awards by Post DT
+- Market Ready Orders ®
+- Post Award Request (PAR)®
+Batch Quoting ®
+Batch Quoting File Format
+BidSets
+Contracts
+Delivery Orders
+FAQs
+Feedback
+Forecast ®
+FSC ~ DLA Managed
+Global Search
+Home Page
+Invitation For Bid (IFB) Area
+Log In Screen
+Master Solicitation (PAC)
+Notices/Message Board
+Post Award Request (PAR)®
+Quoting Help
+Quote Search ®
+Request For Proposal (RFP)Area
+Request For Quote (RFQ) Area
+- RFQs by Issue Date
+- RFQs by Return By Date
+- RFQs Recent
+References
+Registration
+Solicitations
+SRVA ®
+User(s) Profile Update ®
+Vendor Profile Update ®
+Welcome Page ®
+Regs / Supplement Extracts ---
+DFARS 225.502
+DFARS 252.211-7005
+DFARS 252.211-7006
+DFARS 252.223-7001
+DFARS 252.225-7001
+DFARS 252.225-7035
+DFARS 252.225-7036
+DLAD 52.211-9000
+DLAD 52.213-9000
+DLAD 52.217-9002
+DLAD 52.219-9015
+DLAD 52.223-9000
+DLAD 52.233-9001
+FAR 52.209-1
+FAR 52.211-5
+FAR 52.212-3
+FAR 52.219-1
+FAR 52.222-18
+FAR 52.222-22
+FAR 52.222-25
+FAR 52.222-26
+FAR 52.223-3
+ 
+
+Database Search: 
+Choose Search
+RFQs - NSN
+RFQs - Solicitation
+RFQs - PR
+-----------------------
+Awards - Awardee CAGE
+Awards - Award/Basic Number
+Awards - Delivery Order #
+Awards - NSN
+Awards - PR
+-----------------------
+RFP/IFB/Other RFQs - Solicitation
+RFP/IFB/Other RFQs - NSN
+-----------------------
+CAGE Search
+  Value: 
+
+
+Notice:   · Suspension of CMMC Phase II » Read Notice
+
+  Please read notices posted on the Notices page.
+
+
+  Location: Home » Solicitations » RFQs » RFQ Text Search
+[
+RFQ Search
+-
+Recent RFQs
+-
+RFQs by Issue Date
+-
+RFQs by Return By Date
+-
+RFQs by FSC
+]
+[ 273 ] 9/30/2026 12:40:51 PM
+
+
+
+Documents Indexed: 161,967
+
+Additional RFQ Text Search Help
+
+Found 5000 records for this search query string.
+-- NOTE: MAX Record Limit of 5000 met or exceeded.
+    Recommend reviewing the query string or changing the Modified dropdown value to return smaller results.
+
+Modified: Any time
+
+
+
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50
+Solicitation Information	Product Data
+
+SPE8E926Q0754.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	09-14-2026
+Return By:	09-21-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Origin
+ 
+
+Tech Data:	Tech Docs
+ 
+
+Document Post/Updated:	2026-09-14 12:57:27
+ 
+
+Purchase Request:	7016768917
+
+	
+
+NSN: 0001S00000053   Nomenclature: CONTRACTOR FIRST ARTIC
+
+
+   AMSC: B     	NAICS: 000000     	Quantity: 1     
+
+
+
+
+
+NSN: 0001S00000062   Nomenclature: PRODUCTION LOT TESTING
+
+
+   AMSC: B     	NAICS: 000000     	Quantity: 1     
+
+
+
+
+
+NSN: 4240-01-528-9294   Nomenclature: AMPLIFIER,AUDIO
+
+
+   AMSC: B     	NAICS: 339113     	Quantity: 540     
+
+
+Specification, Drawing and Standard Data
+Amend No.: DTD: 04-17-2019
+I/A/W DRW: 81361 5-1-4336 (BASIC)   DTD: 06-18-2026
+
+
+
+
+
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+1LEW5	71009/2	AVON PROTECTION SYSTEMS INCORPORATE
+
+
+
+
+
+SPE4A626T28HD.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	09-10-2026
+Return By:	09-17-2026
+ 
+
+FOB Point:	Destination
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-09-09 12:07:58
+ 
+
+Purchase Request:	7017840996, 7017877513, 7017919347, 7017943052
+
+	
+
+NSN: 5970-00-242-0505   Nomenclature: INSULATING COMPOUND KI
+
+
+   AMSC: T     	NAICS: 335999     	Quantity: 8     
+
+
+Specification, Drawing and Standard Data Mil-Spec
+Amend No.: C DTD: 06-20-2023
+I/A/W CID: MIL-I-SAE-AMS) (BASIC)   DTD: 06-18-2026
+
+
+   Type #: 2A64
+
+
+
+
+
+
+
+
+
+
+SPE4A626T26XL.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	09-08-2026
+Return By:	09-15-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-09-07 04:26:58
+ 
+
+Purchase Request:	7018147716, 7018147914, 7018147917, 7018147923, 7018147932, 7018147945, 7018147973, 7018148147, 7018148474, 7018148477, 7018148684, 7018148883, 7018148884, 7018148993, 7018149048, 7018149287, 7018149395, 7018149989, 7018149997, 7018150418, 7018151389, 7018151938, 7018151943, 7018152066, 7018152122, 7018152124, 7018152704, 7018152778, 7018153129, 7018153631, 7018153849, 7018153922, 7018155055, 7018155977, 7018156399, 7018156420, 7018156421, 7018156565, 7018156622, 7018156808, 7018156974, 7018157019, 7018157487, 7018169617, 7018169646, 7018169684, 7018169745, 7018169827, 7018169839, 7018170028
+
+	
+
+NSN: 5325-00-290-8233   Nomenclature: STU D ASSEMBLY,TURNL
+
+
+   AMSC: P     	NAICS: 332510     	Quantity: 1517     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+97499	50-019-7	BELL TEXTRON INC
+D0680	4002-7	FAIRCHILD FASTENERS EUROPE - CAMLOC
+D8060	N92214U1	
+D9913	169551601	GENERAL DYNAMICS EUROPEAN LAND
+K0668	50-019-7	LEONARDO UK LTD
+
+
+
+
+
+SPE2DH26T5587.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	07-29-2026
+Return By:	08-04-2026
+ 
+
+FOB Point:	Destination
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7017017029
+
+	
+
+NSN: 6630-12-189-3126   Nomenclature: MEASURING TUBE,GAS
+
+
+   AMSC: Z     	NAICS: 334516     	Quantity: 1     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+53833	6728521	
+66732	A92D026	
+6L622	6728521	DRAEGER INC
+
+
+
+
+
+SPE4A626T26YC.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	09-08-2026
+Return By:	09-15-2026
+ 
+
+FOB Point:	Destination
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	Tech Docs
+ 
+
+Document Post/Updated:	2026-09-07 04:26:58
+ 
+
+Purchase Request:	7018148232, 7018148283, 7018148694, 7018148888, 7018149046, 7018149094, 7018149164, 7018149459, 7018149646, 7018149793, 7018149837, 7018149839, 7018149972, 7018149990, 7018150014, 7018150153, 7018150252, 7018150257, 7018150469, 7018150822, 7018150824, 7018151111, 7018151580, 7018151889, 7018151948, 7018152255, 7018152619, 7018154108, 7018154409, 7018155926, 7018156200, 7018156498, 7018156564, 7018156567, 7018156645, 7018156953, 7018157060, 7018157136, 7018169583, 7018169620, 7018169649, 7018169865, 7018170151, 7018170180, 7018170427, 7018170516
+
+	
+
+NSN: 5305-01-055-3815   Nomenclature: SCREW,CLOSE TOLERANCE
+
+
+   AMSC: G     	NAICS: 332722     	Quantity: 311     
+
+
+Specification, Drawing and Standard Data
+Amend No.: 14 DTD: 03-31-2020
+I/A/W: NAS1581 (BASIC)   DTD: 06-18-2026
+
+
+   Type #: NAS1581F3T4
+
+
+
+
+
+
+
+
+
+
+SPE7M126T368W.PDF
+  » Package View
+
+
+
+uote  	 
+
+
+
+Issued:	09-23-2026
+Return By:	10-05-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	Tech Docs
+ 
+
+Document Post/Updated:	2026-09-22 11:04:21
+ 
+
+Purchase Request:	7009461888
+
+	
+
+NSN: 2010-01-482-9832   Nomenclature: BEARING,STAVE SHAPE
+
+
+   AMSC: T     	NAICS: 336415     	Quantity: 8     
+
+
+Specification, Drawing and Standard Data Mil-Spec
+Amend No.: H DTD: 01-23-1991
+I/A/W DRW: 80064 1385664 (BASIC)   DTD: 06-18-2026
+
+
+   Type #: PC 13 SZ8
+
+
+
+
+
+
+
+
+
+
+SPE7L126Q0362.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	01-07-2026
+Return By:	02-05-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	Tech Docs
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7014189471
+
+	
+
+NSN: 2815-01-663-4201   Nomenclature: REPAIR KIT,DIESEL E
+
+
+   AMSC: G     	NAICS: 333618     	Quantity: 474     
+
+
+Specification, Drawing and Standard Data
+Amend No.: DTD: 12-28-2016
+I/A/W DRW: 19207 57K9226 (BASIC)   DTD: 06-19-2017
+
+
+
+
+
+
+
+
+
+
+
+
+SPE8E626T4738.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	09-28-2026
+Return By:	10-08-2026
+ 
+
+FOB Point:	Destination
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-09-27 06:21:44
+ 
+
+Purchase Request:	7018506187, 7018506188, 7018506190, 7018506191, 7018506193, 7018506194, 7018506195, 7018506196, 7018506197, 7018506198, 7018506201, 7018506202, 7018506204, 7018506205, 7018506206, 7018506208, 7018506209, 7018506223, 7018506609, 7018506652, 7018506653, 7018506654, 7018506683, 7018506685, 7018506688, 7018506704, 7018506755, 7018506757, 7018506758, 7018506811, 7018506812, 7018506816, 7018506817, 7018506842, 7018506843, 7018506845, 7018506849, 7018506870, 7018506871, 7018506872, 7018506873, 7018506874, 7018506875, 7018506878, 7018506893, 7018506942, 7018506946, 7018506961, 7018506965, 7018506984
+
+	
+
+NSN: 4240-01-527-4051   Nomenclature: SAFETY GLASSES,REVI
+
+
+   AMSC: Z     	NAICS: 315990     	Quantity: 1412     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+30VZ5	4-0076-9800	REVISION MILITARY LIMITED
+
+
+
+
+
+SPE8E626T1027.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	12-17-2025
+Return By:	01-02-2026
+ 
+
+FOB Point:	Destination
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7014850641, 7014850642, 7014850643, 7014850644, 7014850645, 7014850646, 7014852711, 7014852721, 7014852722, 7014852729, 7014852730, 7014852776, 7014852795, 7014855648, 7014855758
+
+	
+
+NSN: 7690-01-675-6387   Nomenclature: MARKER,IDENTIFICATI
+
+
+   AMSC: D     	NAICS: 323111     	Quantity: 20     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+3V188	DBC-K0P-STK-DNP	MALPASS CONSTRUCTION CO INC
+
+
+
+
+
+SPE8ES26T2669.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	08-31-2026
+Return By:	09-08-2026
+ 
+
+FOB Point:	Destination
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-30 03:26:26
+ 
+
+Purchase Request:	7018086996, 7018087030
+
+	
+
+NSN: 8040-00-858-9798   Nomenclature: ADHESIVE
+
+
+   AMSC: G     	NAICS: 325520     	Quantity: 3     
+
+
+Specification, Drawing and Standard Data Mil-Spec
+Amend No.: B DTD: 07-11-2023
+I/A/W CID: A-A-59109B (BASIC)   DTD: 06-18-2026
+
+
+   Type #: A-A-59109
+
+
+
+
+
+
+
+
+
+
+SPE8ES26T2049.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	06-02-2026
+Return By:	06-11-2026
+ 
+
+FOB Point:	Destination
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7016966749, 7016966831, 7016967482
+
+	
+
+NSN: 8010-01-621-3088   Nomenclature: POLYURETHANE COATIN
+
+
+   AMSC: T     	NAICS: 325510     	Quantity: 12     
+
+
+Specification, Drawing and Standard Data Mil-Spec
+Amend No.: F DTD: 12-10-2024
+I/A/W SPEC: MIL-PRF-SAE-AMS) (BASIC)   DTD: 10-02-2006
+
+
+   Type #: M85285-4H-002G-34424
+
+
+
+
+
+
+
+
+
+
+SPE7L526Q0061.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	12-22-2025
+Return By:	12-29-2025
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Origin
+ 
+
+Tech Data:	Tech Docs
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7014892273
+
+	
+
+NSN: 2815-01-663-4201   Nomenclature: REPAIR KIT,DIESEL E
+
+
+   AMSC: G     	NAICS: 333618     	Quantity: 25     
+
+
+Specification, Drawing and Standard Data
+Amend No.: DTD: 12-28-2016
+I/A/W DRW: 19207 57K9226 (BASIC)   DTD: 06-19-2017
+
+
+
+
+
+
+
+
+
+
+
+
+SPE4A626T05TS.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	07-14-2026
+Return By:	07-21-2026
+ 
+
+FOB Point:	Destination
+ 
+
+Inspection Point:	Origin
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7017429149, 7017430039
+
+	
+
+NSN: 8010-01-467-0156   Nomenclature: EPOXY PRIMER COATIN
+
+
+   AMSC: C     	NAICS: 325510     	Quantity: 2     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+1W025	5659961	NORTHROP GRUMMAN SYSTEMS CORP
+
+
+
+
+
+SPE7M026T9913.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	07-07-2026
+Return By:	07-22-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7017379686, 7017395883
+
+	
+
+NSN: 3426-01-089-7318   Nomenclature: ANODE ASSEMBLY
+
+
+   AMSC: Z     	NAICS: 332813     	Quantity: 5     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+89357	W3T105082	EVOQUA WATER TECHNOLOGIES LLC
+
+
+
+
+
+SPE7M025T096E.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	07-09-2025
+Return By:	07-21-2025
+ 
+
+FOB Point:	Destination
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7010777840
+
+	
+
+NSN: 2010-01-209-2330   Nomenclature: BEARING,STAVE SHAPE
+
+
+   AMSC: T     	NAICS: 336415     	Quantity: 6     
+
+
+Specification, Drawing and Standard Data Mil-Spec
+Amend No.: C DTD: 02-06-2023
+I/A/W SPEC: MIL-DTL-17901C (BASIC)   DTD: 10-03-2006
+
+
+
+
+
+
+
+
+
+
+
+
+SPE7L526Q0195.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	09-28-2026
+Return By:	10-05-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Origin
+ 
+
+Tech Data:	Tech Docs
+ 
+
+Document Post/Updated:	2026-09-28 10:39:43
+ 
+
+Purchase Request:	7014136137
+
+	
+
+NSN: 0001S00000053   Nomenclature: CONTRACTOR FIRST ARTIC
+
+
+   AMSC: B     	NAICS: 333415     	Quantity: 1     
+
+
+
+
+
+NSN: 2930-01-420-8622   Nomenclature: IMPELLER,FAN,AXIAL
+
+
+   AMSC: B     	NAICS: 333415     	Quantity: 347     
+
+
+Specification, Drawing and Standard Data
+Amend No.: E DTD: 04-06-2022
+I/A/W DRW: 19207 12460252 (BASIC)   DTD: 06-18-2026
+
+
+
+
+
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+4F083	12460252	ROSS EQUIPMENT INC
+56C68	4735-42599-103KM	KIT MASTERS INC
+
+
+
+
+
+SPE7L126T12W3.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	09-17-2026
+Return By:	09-28-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Origin
+ 
+
+Tech Data:	Tech Docs
+ 
+
+Document Post/Updated:	2026-09-16 01:31:56
+ 
+
+Purchase Request:	7015309990
+
+	
+
+NSN: 2010-01-212-5826   Nomenclature: BEARING,STAVE SHAPE
+
+
+   AMSC: T     	NAICS: 336320     	Quantity: 38     
+
+
+Specification, Drawing and Standard Data Mil-Spec
+Amend No.: C DTD: 02-06-2023
+I/A/W SPEC: MIL-DTL-17901C (BASIC)   DTD: 06-18-2026
+
+
+   Type #: CLASS 3
+
+
+
+
+
+
+
+
+
+
+SPE4A626T26WU.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	09-08-2026
+Return By:	09-15-2026
+ 
+
+FOB Point:	Destination
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	Tech Docs
+ 
+
+Document Post/Updated:	2026-09-07 04:26:57
+ 
+
+Purchase Request:	7018134034, 7018134670, 7018134677, 7018134714, 7018147721, 7018147842, 7018147871, 7018147872, 7018147911, 7018148050, 7018148185, 7018148265, 7018148445, 7018148607, 7018148693, 7018148752, 7018148756, 7018149091, 7018149314, 7018149649, 7018150061, 7018151095, 7018151225, 7018151303, 7018151581, 7018152060, 7018152166, 7018152618, 7018153919, 7018153928, 7018154002, 7018155572, 7018155841, 7018155876, 7018156221, 7018156332, 7018156336, 7018156491, 7018156592, 7018157029, 7018169607, 7018170000, 7018170469, 7018170525
+
+	
+
+NSN: 5305-01-055-3816   Nomenclature: SCREW,CLOSE TOLERANCE
+
+
+   AMSC: G     	NAICS: 332722     	Quantity: 393     
+
+
+Specification, Drawing and Standard Data
+Amend No.: 14 DTD: 03-31-2020
+I/A/W: NAS1581 (BASIC)   DTD: 06-18-2026
+
+
+   Type #: NAS1581F3T5
+
+
+
+
+
+
+
+
+
+
+SPE7L726Q2480.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	09-28-2026
+Return By:	10-06-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Origin
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-09-27 05:17:46
+ 
+
+Purchase Request:	7018502767, 7018502769, 7018502782, 7018502784, 7018502786, 7018502788, 7018502790, 7018502792, 7018530538
+
+	
+
+NSN: 6140-01-586-0666   Nomenclature: BATTERY,STORAGE
+
+
+   AMSC: D     	NAICS: 335910     	Quantity: 20     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+063A8	PSH-12180NB-FR	
+
+
+
+
+
+SPE8E926T3898.PDF
+  » Package View
+
+
+
+uote  	 
+
+
+
+Issued:	09-25-2026
+Return By:	10-05-2026
+ 
+
+FOB Point:	Destination
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-09-24 06:52:53
+ 
+
+Purchase Request:	7017951882, 7017956845, 7017966788, 7017991791, 7018473425, 7018490301, 7018492435, 7018493696, 7018493920, 7018493922, 7018493923
+
+	
+
+NSN: 4240-01-558-3253   Nomenclature: FACESHIELD,INDUSTRIAL
+
+
+   AMSC: Z     	NAICS: 339113     	Quantity: 30     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+44NS5	21AGR12AF-C+500	
+44NS5	21ARC12 AF-C+500	
+
+
+
+
+
+SPE7M426T415L.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	09-17-2026
+Return By:	09-28-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-09-16 09:12:12
+ 
+
+Purchase Request:	7018380673
+
+	
+
+NSN: 2010-01-207-3109   Nomenclature: STAVE,BEARING
+
+
+   AMSC: C     	NAICS: 332991     	Quantity: 15     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+1PNP7	80904081390052X2	DURAMAX MARINE, LLC
+
+
+
+
+
+SPE7L726T5304.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	09-17-2026
+Return By:	09-28-2026
+ 
+
+FOB Point:	Destination
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-09-16 06:12:32
+ 
+
+Purchase Request:	7018204187, 7018204286, 7018204289, 7018204391
+
+	
+
+NSN: 6140-01-457-2420   Nomenclature: BATTERY,STORAGE
+
+
+   AMSC: Z     	NAICS: 335910     	Quantity: 4     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+04055	1131PMF	EAST PENN MANUFACTURING CO.
+
+
+
+
+
+SPE7M426Q1020.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	09-04-2026
+Return By:	09-11-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Origin
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-09-03 03:07:11
+ 
+
+Purchase Request:	7008033444
+
+	
+
+NSN: 1660-01-538-2768   Nomenclature: PARTS KIT,SEAL REPLACE
+
+
+   AMSC: D     	NAICS: 336411     	Quantity: 143     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+99251	1601393-1	MISSION SYSTEMS DAVENPORT INC.
+
+
+
+
+
+SPE7M425T223F.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	06-30-2025
+Return By:	07-10-2025
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7010736878
+
+	
+
+NSN: 2010-01-497-4693   Nomenclature: STAVE SET,BEARING,S
+
+
+   AMSC: C     	NAICS: 336415     	Quantity: 98     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+96169	H625-0315B-24	ELECTRIC BOAT CORPORATION
+
+
+
+
+
+SPE7M426T130Z.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	05-22-2026
+Return By:	06-01-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7016885810
+
+	
+
+NSN: 2010-01-497-4693   Nomenclature: STAVE SET,BEARING,S
+
+
+   AMSC: C     	NAICS: 336415     	Quantity: 5     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+96169	H625-0315B-24	ELECTRIC BOAT CORPORATION
+
+
+
+
+
+SPE7L126Q1016.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	04-30-2026
+Return By:	05-14-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	Tech Docs
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7011017585
+
+	
+
+NSN: 2010-01-164-9846   Nomenclature: BEARING,STERN TUBE
+
+
+   AMSC: G     	NAICS: 336612     	Quantity: 1     
+
+
+Specification, Drawing and Standard Data
+Amend No.: G DTD: 12-22-1996
+I/A/W DRW: 80064 4678510 (BASIC)   DTD: 09-14-2006
+
+
+   Type #: 203-4678510 ITEM 1,2,3
+
+
+
+
+
+
+
+
+
+
+SPE7M426T330C.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	08-11-2026
+Return By:	08-21-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7017778557
+
+	
+
+NSN: 2010-01-497-4693   Nomenclature: STAVE SET,BEARING,S
+
+
+   AMSC: C     	NAICS: 336415     	Quantity: 6     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+96169	H625-0315B-24	ELECTRIC BOAT CORPORATION
+
+
+
+
+
+SPE1C126Q0338.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	09-29-2026
+Return By:	10-14-2026
+ 
+
+FOB Point:	Destination
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	Tech Docs
+ 
+
+Document Post/Updated:	2026-09-29 09:00:46
+ 
+
+Purchase Request:	7016927502
+
+	
+
+NSN: 8305-00-782-3224   Nomenclature: WEBBING,TEXTILE
+
+
+   AMSC: G     	NAICS: 313310     	Quantity: 30000     
+
+
+Specification, Drawing and Standard Data Mil-Spec
+Amend No.: R DTD: 02-25-2023
+I/A/W STND: MIL-STD-129R (BASIC)   DTD: 06-18-2026
+
+
+
+
+
+
+
+
+
+
+NSN: 8305-01-655-7755   Nomenclature: WEBBING,TEXTILE
+
+
+   AMSC: G     	NAICS: 313210     	Quantity: 3000     
+
+
+Specification, Drawing and Standard Data Mil-Spec
+Amend No.: R DTD: 02-25-2023
+I/A/W STND: MIL-STD-129R (BASIC)   DTD: 06-18-2026
+
+
+
+
+
+
+
+
+
+
+
+
+SPE7L726Q2481.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	09-28-2026
+Return By:	10-06-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Origin
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-09-27 05:17:46
+ 
+
+Purchase Request:	7018502768, 7018502780, 7018502781, 7018502783, 7018502785, 7018502787, 7018502789, 7018502791
+
+	
+
+NSN: 6140-21-913-9828   Nomenclature: BATTERY,STORAGE
+
+
+   AMSC: R     	NAICS: 335910     	Quantity: 8     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+0WY95	12HX80FR	ENERSYS ENERGY PRODUCTS INC.
+L0504	PE12V18B1	
+
+
+
+
+
+SPE2DH26T6944.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	09-22-2026
+Return By:	09-28-2026
+ 
+
+FOB Point:	Destination
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-09-21 12:48:58
+ 
+
+Purchase Request:	7018421174, 7018421506, 7018421593, 7018421596, 7018421629, 7018421673, 7018422268, 7018428468, 7018434952, 7018434955
+
+	
+
+NSN: 6630-12-189-3126   Nomenclature: MEASURING TUBE,GAS ANA
+
+
+   AMSC: Z     	NAICS: 334516     	Quantity: 30     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+53833	6728521	
+66732	A92D026	
+6L622	6728521	DRAEGER INC
+
+
+
+
+
+SPE7L126T958U.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	08-13-2026
+Return By:	08-28-2026
+ 
+
+FOB Point:	Destination
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-26 01:11:13
+ 
+
+Purchase Request:	7017841121, 7017841122, 7017841149, 7017858624, 7017858630, 7017858635, 7017858636, 7017858690, 7017858724
+
+	
+
+NSN: 5330-01-738-2460   Nomenclature: SEAL,PLAIN
+
+
+   AMSC: Q     	NAICS: 339991     	Quantity: 9     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+0PE50	RDS-KIT	HY-TEK MANUFACTURING CO., INC.
+
+
+
+
+
+SPE7L726Q2113.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	08-05-2026
+Return By:	08-14-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Origin
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7017673562, 7017727103, 7017727104, 7017727105, 7017727106, 7017727107, 7017727108, 7017727109
+
+	
+
+NSN: 6140-01-294-6528   Nomenclature: BATTERY,STORAGE
+
+
+   AMSC: D     	NAICS: 335910     	Quantity: 9     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+56309	PS-12100 F1	
+
+
+
+
+
+SPE1C126Q0400.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	08-05-2026
+Return By:	08-19-2026
+ 
+
+FOB Point:	Destination
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7016514883, 7017457640
+
+	
+
+NSN: 8305-00-445-7825   Nomenclature: CLOTH,DUCK
+
+
+   AMSC: G     	NAICS: 313310     	Quantity: 600     
+
+
+Specification, Drawing and Standard Data Mil-Spec
+Amend No.: F DTD: 04-02-1990
+I/A/W CID: MIL-C-SAE-AMS (BASIC)   DTD: 06-18-2026
+
+
+
+
+
+
+
+
+
+
+
+
+SPE2DH26T1845.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	02-13-2026
+Return By:	02-24-2026
+ 
+
+FOB Point:	Destination
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7015505348, 7015505400, 7015505403, 7015505515, 7015505631, 7015517794, 7015518524, 7015518746, 7015519330, 7015519352
+
+	
+
+NSN: 6520-01-717-7806   Nomenclature: RUBBER DAM
+
+
+   AMSC: Z     	NAICS: 339114     	Quantity: 12     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+7LTG0	H09929	PATTERSON DENTAL SUPPLY, INC.
+
+
+
+
+
+SPE7L726Q1970.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	07-07-2026
+Return By:	07-17-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Origin
+ 
+
+Tech Data:	Tech Docs
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7017399286, 7017399287, 7017399288, 7017399289, 7017399290, 7017399291, 7017399292, 7017399293
+
+	
+
+NSN: 6140-01-616-1853   Nomenclature: BATTERY,STORAGE
+
+
+   AMSC: G     	NAICS: 335910     	Quantity: 8     
+
+
+Specification, Drawing and Standard Data
+Amend No.: DTD: 04-08-2026
+I/A/W DRW: 16236 RE-016161853 (BASIC)   DTD: 06-18-2026
+
+
+
+
+
+
+
+
+
+
+
+
+SPE7L726Q1906.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	06-27-2026
+Return By:	07-07-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Origin
+ 
+
+Tech Data:	Tech Docs
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7017179964, 7017274676, 7017274684, 7017274686, 7017274690, 7017274693, 7017274712, 7017274724
+
+	
+
+NSN: 6140-01-616-1853   Nomenclature: BATTERY,STORAGE
+
+
+   AMSC: G     	NAICS: 335910     	Quantity: 32     
+
+
+Specification, Drawing and Standard Data
+Amend No.: DTD: 04-08-2026
+I/A/W DRW: 16236 RE-016161853 (BASIC)   DTD: 06-18-2026
+
+
+
+
+
+
+
+
+
+
+
+
+SPE8ES26T2908.PDF
+  » Package View
+
+
+
+uote  	 
+
+
+
+Issued:	09-30-2026
+Return By:	10-05-2026
+ 
+
+FOB Point:	Destination
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	Tech Docs
+ 
+
+Document Post/Updated:	2026-09-29 09:03:11
+ 
+
+Purchase Request:	7018560572, 7018577240
+
+	
+
+NSN: 8040-00-526-1910   Nomenclature: ADHESIVE
+
+
+   AMSC: G     	NAICS: 325520     	Quantity: 5     
+
+
+Specification, Drawing and Standard Data Mil-Spec
+Amend No.: A DTD: 06-01-2016
+I/A/W: SAE AMS-A-8576 (BASIC)   DTD: 06-18-2026
+
+
+   Type #: AMS-A-8576 TY2
+
+
+
+
+
+
+
+
+
+
+SPE4A526T474E.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	09-25-2026
+Return By:	10-02-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-09-24 09:35:24
+ 
+
+Purchase Request:	7018458357
+
+	
+
+NSN: 1650-00-775-8392   Nomenclature: PARTS KIT,SERVO VALVE
+
+
+   AMSC: C     	NAICS: 336413     	Quantity: 66     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+81205	35-12088-1	THE BOEING COMPANY
+82918	35-12088-1	THE BOEING COMPANY
+
+
+
+
+
+SPE7L726Q2442.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	09-17-2026
+Return By:	09-23-2026
+ 
+
+FOB Point:	Destination
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-09-16 11:56:55
+ 
+
+Purchase Request:	7016529759, 7016569594, 7016569597, 7016569644, 7016569645, 7016569647, 7016569649
+
+	
+
+NSN: 6140-01-624-9682   Nomenclature: BATTERY,STORAGE
+
+
+   AMSC: C     	NAICS: 335910     	Quantity: 11     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+65WB1	ODS-AGM6M	
+65WB1	PC2250	
+6TUN0	PC2250	
+
+
+
+
+
+SPE4A626T26YJ.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	09-08-2026
+Return By:	09-15-2026
+ 
+
+FOB Point:	Destination
+ 
+
+Inspection Point:	Origin
+ 
+
+Tech Data:	Tech Docs
+ 
+
+Document Post/Updated:	2026-09-07 04:26:58
+ 
+
+Purchase Request:	7018148124, 7018148140, 7018149161, 7018149205, 7018149667, 7018149758, 7018149987, 7018149988, 7018149994, 7018151468, 7018151585, 7018151931, 7018152069, 7018152160, 7018153317, 7018153576, 7018153605, 7018153606, 7018153844, 7018154228, 7018155198, 7018155800, 7018155878, 7018156089, 7018156945, 7018156947
+
+	
+
+NSN: 5320-01-491-0404   Nomenclature: COLLAR,PIN RIVET,TH
+
+
+   AMSC: G     	NAICS: 332722     	Quantity: 2878     
+
+
+Specification, Drawing and Standard Data
+Amend No.: M DTD: 01-06-2011
+I/A/W DRW: 97499 30-296 (BASIC)   DTD: 06-18-2026
+
+
+   Type #: P/N 30-296-W6
+
+
+
+
+
+
+
+
+
+
+SPE7M126T328D.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	09-08-2026
+Return By:	09-18-2026
+ 
+
+FOB Point:	Destination
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-09-07 04:26:57
+ 
+
+Purchase Request:	7018185837, 7018185838, 7018185839, 7018185840, 7018185844, 7018185845, 7018185846, 7018185847
+
+	
+
+NSN: 6625-01-651-4708   Nomenclature: METER,SPECIAL SCALE
+
+
+   AMSC: Z     	NAICS: 334514     	Quantity: 8     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+23371	9400-1-RTD	PATRIOT WORLDWIDE, INC.
+
+
+
+
+
+SPE7L726Q2317.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	08-28-2026
+Return By:	09-08-2026
+ 
+
+FOB Point:	Destination
+ 
+
+Inspection Point:	Origin
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-27 02:55:07
+ 
+
+Purchase Request:	7017286010, 7017416601, 7017416602, 7017416605, 7017416606, 7017518105, 7017518106, 7017518107, 7017613674
+
+	
+
+NSN: 0001S00000061   Nomenclature: PRODUCTION LOT TESTING
+
+
+   AMSC: T     	NAICS: 000000     	Quantity: 1     
+
+
+
+
+
+NSN: 6140-01-474-6576   Nomenclature: BATTERY,STORAGE
+
+
+   AMSC: T     	NAICS: 335910     	Quantity: 9     
+
+
+Specification, Drawing and Standard Data Mil-Spec
+Amend No.: A DTD: 10-18-2021
+I/A/W SPEC: MIL-PRF-8565/1A (BASIC)   DTD: 06-18-2026
+
+
+   Type #: D8565/1-2
+
+
+
+
+
+
+
+
+
+
+SPE7L726Q2114.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	08-05-2026
+Return By:	08-14-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Origin
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7017727120, 7017727121, 7017727122, 7017727123, 7017727124, 7017727125, 7017727126
+
+	
+
+NSN: 6140-01-294-6528   Nomenclature: BATTERY,STORAGE
+
+
+   AMSC: D     	NAICS: 335910     	Quantity: 7     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+56309	PS-12100 F1	
+
+
+
+
+
+SPE8ES26T1586.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	04-17-2026
+Return By:	04-22-2026
+ 
+
+FOB Point:	Destination
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7016364692
+
+	
+
+NSN: 8040-01-259-2428   Nomenclature: ADHESIVE
+
+
+   AMSC: D     	NAICS: 325520     	Quantity: 2     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+30676	931001455/931002455	
+
+
+
+
+
+SPE7L726Q2024.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	07-17-2026
+Return By:	07-27-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Origin
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7017368290, 7017372173, 7017374131, 7017379947, 7017398048, 7017398180, 7017417123, 7017427831, 7017479470, 7017480411
+
+	
+
+NSN: 6140-01-529-8706   Nomenclature: BATTERY,STORAGE
+
+
+   AMSC: Z     	NAICS: 335910     	Quantity: 46     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+1K126	UPS12-215PLP	C&D TECHNOLOGIES, INC.
+
+
+
+
+
+SPE8E724Q0187.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	07-16-2024
+Return By:	07-23-2024
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	1000188356
+
+	
+
+NSN: 6260-01-209-4435   Nomenclature: LIGHT,CHEMILUMINESC
+
+
+   AMSC: Z     	NAICS: 335139     	Quantity: 52500     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+0BY83	9-44350PF	CYALUME TECHNOLOGIES INC
+
+
+
+NSN: 6260-01-230-8596   Nomenclature: LIGHT,CHEMILUMINESC
+
+
+   AMSC: Z     	NAICS: 335139     	Quantity: 7236     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+0BY83	9-85960PF	CYALUME TECHNOLOGIES INC
+
+
+
+NSN: 6260-01-230-8597   Nomenclature: LIGHT,CHEMILUMINESC
+
+
+   AMSC: Z     	NAICS: 335139     	Quantity: 3132     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+0697G	OM 85970	
+0BY83	9-85970PF	CYALUME TECHNOLOGIES INC
+FAK27	9-85970	
+FAK27	9-85970PF	
+
+
+
+NSN: 6260-01-230-8599   Nomenclature: LIGHT,CHEMILUMINESC
+
+
+   AMSC: Z     	NAICS: 335139     	Quantity: 4692     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+0BY83	9-85990PF	CYALUME TECHNOLOGIES INC
+
+
+
+NSN: 6260-01-247-0364   Nomenclature: LIGHT,CHEMILUMINESC
+
+
+   AMSC: Z     	NAICS: 335139     	Quantity: 16050     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+0BY83	9-03640PF	CYALUME TECHNOLOGIES INC
+
+
+
+NSN: 6260-01-247-0365   Nomenclature: LIGHT,CHEMILUMINESC
+
+
+   AMSC: Z     	NAICS: 335139     	Quantity: 2820     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+0BY83	9-03650PF	CYALUME TECHNOLOGIES INC
+
+
+
+NSN: 6260-01-247-0366   Nomenclature: LIGHT,CHEMILUMINESC
+
+
+   AMSC: Z     	NAICS: 335139     	Quantity: 1605     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+FAK27	9-03660	
+
+
+
+NSN: 6260-01-247-2937   Nomenclature: TRIP MECHANISM,LIGH
+
+
+   AMSC: Z     	NAICS: 335139     	Quantity: 253     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+0BY83	9-29370PF	CYALUME TECHNOLOGIES INC
+
+
+
+NSN: 6260-01-311-5085   Nomenclature: LIGHT,CHEMILUMINESC
+
+
+   AMSC: Z     	NAICS: 335139     	Quantity: 440     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+0BY83	9-50850PF	CYALUME TECHNOLOGIES INC
+
+
+
+NSN: 6260-01-334-4270   Nomenclature: LIGHT,CHEMILUMINESC
+
+
+   AMSC: Z     	NAICS: 335139     	Quantity: 3510     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+0BY83	9-42700PF	CYALUME TECHNOLOGIES INC
+
+
+
+NSN: 6260-01-334-4271   Nomenclature: LIGHT,CHEMILUMINESC
+
+
+   AMSC: Z     	NAICS: 335139     	Quantity: 2030     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+0BY83	9-42710PF	CYALUME TECHNOLOGIES INC
+
+
+
+NSN: 6260-01-334-4272   Nomenclature: LIGHT,CHEMILUMINESC
+
+
+   AMSC: Z     	NAICS: 335139     	Quantity: 7070     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+0BY83	9-42720PF	CYALUME TECHNOLOGIES INC
+
+
+
+NSN: 6260-01-334-4273   Nomenclature: LIGHT,CHEMILUMINESC
+
+
+   AMSC: Z     	NAICS: 335139     	Quantity: 1350     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+0BY83	9-42730PF	CYALUME TECHNOLOGIES INC
+
+
+
+NSN: 6260-01-334-6826   Nomenclature: LIGHT,CHEMILUMINESC
+
+
+   AMSC: Z     	NAICS: 335139     	Quantity: 1100     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+0697G	OM 50301	
+0BY83	9-68260PF	CYALUME TECHNOLOGIES INC
+FAK27	9-68260	
+
+
+
+NSN: 6260-01-341-8709   Nomenclature: LIGHT,CHEMILUMINESC
+
+
+   AMSC: Z     	NAICS: 335139     	Quantity: 4900     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+0BY83	9-87090PF	CYALUME TECHNOLOGIES INC
+
+
+
+NSN: 6260-01-341-8710   Nomenclature: LIGHT,CHEMILUMINESC
+
+
+   AMSC: Z     	NAICS: 335139     	Quantity: 1840     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+0BY83	9-87100PF	CYALUME TECHNOLOGIES INC
+
+
+
+NSN: 6260-01-341-8711   Nomenclature: LIGHT,CHEMILUMINESC
+
+
+   AMSC: Z     	NAICS: 335139     	Quantity: 1840     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+0BY83	9-87110PF	CYALUME TECHNOLOGIES INC
+
+
+
+NSN: 6260-01-341-8712   Nomenclature: LIGHT,CHEMILUMINESC
+
+
+   AMSC: Z     	NAICS: 335139     	Quantity: 6220     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+0BY83	9-87120PF	CYALUME TECHNOLOGIES INC
+
+
+
+NSN: 6260-01-341-8713   Nomenclature: LIGHT,CHEMILUMINESC
+
+
+   AMSC: Z     	NAICS: 335139     	Quantity: 2040     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+0BY83	9-87130PF	CYALUME TECHNOLOGIES INC
+
+
+
+NSN: 6260-01-341-8714   Nomenclature: LIGHT,CHEMILUMINESC
+
+
+   AMSC: Z     	NAICS: 335139     	Quantity: 1680     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+0BY83	9-87140PF	CYALUME TECHNOLOGIES INC
+
+
+
+NSN: 6260-01-341-8715   Nomenclature: LIGHT,CHEMILUMINESC
+
+
+   AMSC: Z     	NAICS: 335139     	Quantity: 1720     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+0BY83	9-87150PF	CYALUME TECHNOLOGIES INC
+
+
+
+NSN: 6260-01-396-1704   Nomenclature: LIGHT,CHEMILUMINESC
+
+
+   AMSC: Z     	NAICS: 335139     	Quantity: 265530     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+0BY83	9-17040PF	CYALUME TECHNOLOGIES INC
+30TR5	TICS.29.10368	TRIBALCO LLC
+
+
+
+NSN: 6260-01-396-1705   Nomenclature: LIGHT,CHEMILUMINESC
+
+
+   AMSC: Z     	NAICS: 335139     	Quantity: 4370     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+0BY83	9-17050PF	CYALUME TECHNOLOGIES INC
+
+
+
+NSN: 6260-01-396-1708   Nomenclature: LIGHT,CHEMILUMINESC
+
+
+   AMSC: Z     	NAICS: 335139     	Quantity: 3885     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+0BY83	9-17080PF	CYALUME TECHNOLOGIES INC
+
+
+
+NSN: 6260-01-445-3937   Nomenclature: LIGHT,CHEMILUMINESC
+
+
+   AMSC: Z     	NAICS: 335139     	Quantity: 930     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+0BY83	9-71250PF	CYALUME TECHNOLOGIES INC
+
+
+
+NSN: 6260-01-445-3938   Nomenclature: LIGHT,CHEMILUMINESC
+
+
+   AMSC: Z     	NAICS: 335139     	Quantity: 408     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+0BY83	9-71260PF	CYALUME TECHNOLOGIES INC
+
+
+
+
+
+SPE4A726T643V.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	08-12-2026
+Return By:	08-19-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7017803197
+
+	
+
+NSN: 1680-01-673-9058   Nomenclature: MODIFICATION KIT,AI
+
+
+   AMSC: R     	NAICS: 336413     	Quantity: 104     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+23386	V14671-03-05	THALES DEFENSE & SECURITY INC
+
+
+
+
+
+SPE8ES26T2915.PDF
+  » Package View
+
+
+
+uote  	 
+
+
+
+Issued:	09-30-2026
+Return By:	10-05-2026
+ 
+
+FOB Point:	Destination
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-09-29 09:34:19
+ 
+
+Purchase Request:	7018546481
+
+	
+
+NSN: 8030-01-374-8035   Nomenclature: SEALING COMPOUND
+
+
+   AMSC: D     	NAICS: 325520     	Quantity: 4     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+88444	GC-100	
+88444	GC-100 1/2 GL.	
+
+
+
+
+
+SPE7L726Q2476.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	09-28-2026
+Return By:	10-06-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Origin
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-09-27 04:17:06
+ 
+
+Purchase Request:	7018468430, 7018502762, 7018502763, 7018502764, 7018502829, 7018545859
+
+	
+
+NSN: 6130-01-673-0176   Nomenclature: POWER SUPPLY,UNINTERRU
+
+
+   AMSC: D     	NAICS: 335999     	Quantity: 7     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+78205	DSGXT4-1000RT120	MOTOROLA SOLUTIONS, INC.
+
+
+
+
+
+SPE7L526T5632.PDF
+  » Package View
+
+
+
+uote  	 
+
+
+
+Issued:	09-25-2026
+Return By:	10-05-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-09-24 06:42:59
+ 
+
+Purchase Request:	7018498180
+
+	
+
+NSN: 2920-01-467-7912   Nomenclature: KIT,24V STARTER REP
+
+
+   AMSC: D     	NAICS: 336320     	Quantity: 1     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+41JV4	212130-1	ARTEMIS ELECTRONICS LLC
+
+
+
+
+
+SPE8E526Q0445.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	09-21-2026
+Return By:	10-05-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	Tech Docs
+ 
+
+Document Post/Updated:	2026-09-21 12:14:43
+ 
+
+Purchase Request:	7018084793
+
+	
+
+NSN: 9905-00-196-1068   Nomenclature: TAPE,FLAGGING
+
+
+   AMSC: G     	NAICS: 339950     	Quantity: 400     
+
+
+Specification, Drawing and Standard Data
+Amend No.: A DTD: 05-18-2018
+I/A/W DRW: 14153 NFES2396-IPD-001961068 (BASIC)   DTD: 06-18-2026
+
+
+
+
+
+
+
+
+
+
+
+
+SPE2DS26T431V.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	09-15-2026
+Return By:	09-21-2026
+ 
+
+FOB Point:	Destination
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-09-14 01:38:47
+ 
+
+Purchase Request:	7018303905, 7018303909, 7018303935, 7018303936, 7018303937, 7018303938, 7018303939, 7018305711, 7018307390
+
+	
+
+NSN: 6515-01-538-9276   Nomenclature: SHEARS,TRAUMA
+
+
+   AMSC: Z     	NAICS: 339112     	Quantity: 157     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+06ST7	ZZ-0063	NORTH AMERICAN RESCUE, LLC
+
+
+
+
+
+SPE7M126T351G.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	09-14-2026
+Return By:	09-24-2026
+ 
+
+FOB Point:	Destination
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-09-13 03:47:14
+ 
+
+Purchase Request:	7018097301, 7018121782, 7018121783, 7018121784, 7018121785, 7018121786, 7018121787
+
+	
+
+NSN: 4810-01-455-4998   Nomenclature: VALVE,LINEAR,DIRECTION
+
+
+   AMSC: H     	NAICS: 332911     	Quantity: 8     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+12190	PC50430-500	CURTISS-WRIGHT FLOW CONTROL CORPORA
+
+
+
+
+
+SPE7L726T5233.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	09-14-2026
+Return By:	09-24-2026
+ 
+
+FOB Point:	Destination
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-09-13 03:47:13
+ 
+
+Purchase Request:	7018185921, 7018185922, 7018185923, 7018185924, 7018185925, 7018185926, 7018185936
+
+	
+
+NSN: 6135-01-708-0938   Nomenclature: BATTERY,NONRECHARGEABL
+
+
+   AMSC: D     	NAICS: 335910     	Quantity: 21     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+04055	ABP AE1131XMF	EAST PENN MANUFACTURING CO.
+64678	ABP AE1131XMF	DAIMLER TRUCK NORTH AMERICA LLC
+
+
+
+
+
+SPE7L726Q2382.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	09-09-2026
+Return By:	09-18-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Origin
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-09-08 09:11:44
+ 
+
+Purchase Request:	7018172780, 7018172801, 7018220720, 7018226877, 7018226878, 7018226879
+
+	
+
+NSN: 6130-01-643-4896   Nomenclature: BATTERY POWER SUPPLY
+
+
+   AMSC: D     	NAICS: 335999     	Quantity: 6     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+29019	923800	TECHNOLOGY DYNAMICS, INC.
+
+
+
+
+
+SPE4A626T26XC.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	09-08-2026
+Return By:	09-15-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	Tech Docs
+ 
+
+Document Post/Updated:	2026-09-07 04:26:57
+ 
+
+Purchase Request:	7018147679, 7018148054, 7018148239, 7018148677, 7018148728, 7018148880, 7018148887, 7018149392, 7018149794, 7018150151, 7018150256, 7018150464, 7018150556, 7018151104, 7018153274, 7018153277, 7018154071, 7018154074, 7018154109, 7018154433, 7018155890, 7018156809, 7018156984, 7018157133, 7018170150
+
+	
+
+NSN: 5310-00-943-6567   Nomenclature: NUT ,PLAIN,SLOTTED,H
+
+
+   AMSC: G     	NAICS: 332722     	Quantity: 87     
+
+
+Specification, Drawing and Standard Data
+Amend No.: B DTD: 06-01-2019
+I/A/W: SAE AS9364B (BASIC)   DTD: 06-18-2026
+
+
+   Type #: MS9364-19
+
+
+
+
+
+
+
+
+
+
+SPE8ES26T2592.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	08-18-2026
+Return By:	08-28-2026
+ 
+
+FOB Point:	Destination
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-26 01:10:08
+ 
+
+Purchase Request:	7017899674
+
+	
+
+NSN: 8010-01-505-6679   Nomenclature: POLYURETHANE COATIN
+
+
+   AMSC: T     	NAICS: 325510     	Quantity: 5     
+
+
+Specification, Drawing and Standard Data Mil-Spec
+Amend No.: F DTD: 12-10-2024
+I/A/W SPEC: MIL-PRF-SAE-AMS) (BASIC)   DTD: 06-18-2026
+
+
+   Type #: M85285-1H-SIX 2OZ-17925
+
+
+
+
+
+
+
+
+
+
+SPE7L726Q1932.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	07-01-2026
+Return By:	07-10-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Origin
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7017334259, 7017334333, 7017334335, 7017351552, 7017351556, 7017351589
+
+	
+
+NSN: 6140-01-160-6586   Nomenclature: BATTERY,STORAGE
+
+
+   AMSC: D     	NAICS: 335910     	Quantity: 9     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+56309	PS-12400	
+56309	PS-12400 NB4	
+
+
+
+
+
+SPE7L726Q1892.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	06-26-2026
+Return By:	07-06-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Origin
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7017274727, 7017274891, 7017274892, 7017274915, 7017275031, 7017275123
+
+	
+
+NSN: 6130-01-643-4896   Nomenclature: BATTERY POWER SUPPL
+
+
+   AMSC: D     	NAICS: 335999     	Quantity: 7     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+29019	923800	TECHNOLOGY DYNAMICS, INC.
+
+
+
+
+
+SPE7L726Q1891.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	06-26-2026
+Return By:	07-06-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Origin
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7017274675, 7017274683, 7017274685, 7017274687, 7017274689, 7017274691
+
+	
+
+NSN: 6130-01-643-4896   Nomenclature: BATTERY POWER SUPPL
+
+
+   AMSC: D     	NAICS: 335999     	Quantity: 7     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+29019	923800	TECHNOLOGY DYNAMICS, INC.
+
+
+
+
+
+SPE8ES26T0634.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	12-12-2025
+Return By:	12-17-2025
+ 
+
+FOB Point:	Destination
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7014825226
+
+	
+
+NSN: 8010-01-545-1938   Nomenclature: POLYURETHANE COATIN
+
+
+   AMSC: T     	NAICS: 325510     	Quantity: 40     
+
+
+Specification, Drawing and Standard Data Mil-Spec
+Amend No.: C DTD: 03-24-2022
+I/A/W SPEC: MIL-DTL-64159C (BASIC)   DTD: 10-03-2006
+
+
+   Type #: M64159-2-003P-35044
+
+
+
+
+
+
+
+
+
+
+SPE7L126Q1085.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	05-19-2026
+Return By:	06-03-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Origin
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7015680455
+
+	
+
+NSN: 0001S00000053   Nomenclature: CONTRACTOR FIRST ARTIC
+
+
+   AMSC: C     	NAICS: 000000     	Quantity: 1     
+
+
+
+
+
+NSN: 5340-01-237-3698   Nomenclature: CLEVIS,ROD END
+
+
+   AMSC: C     	NAICS: 332321     	Quantity: 2     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+73030	751141-3	HAMILTON SUNDSTRAND CORPORATION
+99167	751141-3	HAMILTON SUNDSTRAND CORPORATION
+99207	751141-3	GENERAL ELECTRIC COMPANY
+
+
+
+
+
+SPE7L126T547L.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	05-13-2026
+Return By:	05-26-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7016695022, 7016695062
+
+	
+
+NSN: 2530-01-724-2113   Nomenclature: PARTS KIT,CALIPER,D
+
+
+   AMSC: Z     	NAICS: 336330     	Quantity: 2     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+77X56	ET050-KIT-006	EVOLUTION TRAILER TECHNOLOGIES INC.
+
+
+
+
+
+SPE7MC26T047G.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	06-03-2026
+Return By:	06-15-2026
+ 
+
+FOB Point:	Destination
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7016999093, 7016999094, 7016999095, 7016999096, 7016999097, 7016999098, 7016999099
+
+	
+
+NSN: 4810-01-558-6065   Nomenclature: ACTUATOR,ELECTROMEC
+
+
+   AMSC: D     	NAICS: 336413     	Quantity: 7     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+1X5W8	MS5Q	
+63600	0511-25-S704-100	CURTISS-WRIGHT FLOW CONTROL CORPORA
+63600	MODEL MS05	CURTISS-WRIGHT FLOW CONTROL CORPORA
+63600	MS5Q	CURTISS-WRIGHT FLOW CONTROL CORPORA
+
+
+
+
+
+SPE7L726Q1926.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	07-01-2026
+Return By:	07-10-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Origin
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7017351626, 7017351631, 7017351644, 7017351712, 7017351841, 7017351842
+
+	
+
+NSN: 6130-01-643-4896   Nomenclature: BATTERY POWER SUPPL
+
+
+   AMSC: D     	NAICS: 335999     	Quantity: 8     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+29019	923800	TECHNOLOGY DYNAMICS, INC.
+
+
+
+
+
+SPE7L126T476X.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	05-05-2026
+Return By:	05-15-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7014948367, 7016575295
+
+	
+
+NSN: 2815-01-697-8293   Nomenclature: PARTS KIT,OIL PAN
+
+
+   AMSC: D     	NAICS: 333618     	Quantity: 12     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+3B5V9	LC3Z-7A194-B	
+
+
+
+
+
+SPE8ES26T2291.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	07-06-2026
+Return By:	07-16-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Origin
+ 
+
+Tech Data:	Tech Docs
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7017380685
+
+	
+
+NSN: 8040-00-947-5483   Nomenclature: ADHESIVE
+
+
+   AMSC: G     	NAICS: 325520     	Quantity: 3     
+
+
+Specification, Drawing and Standard Data Mil-Spec
+Amend No.: DTD: 08-04-2019
+I/A/W CID: SAE-ASM1931 (BASIC)   DTD: 06-18-2026
+
+
+   Type #: MMM-A-1931 TY1
+
+
+
+
+
+
+
+
+
+
+SPE2DP26T1321.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	01-20-2026
+Return By:	01-26-2026
+ 
+
+FOB Point:	Destination
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7015163594, 7015163595, 7015163596, 7015163658, 7015163808, 7015163809, 7015178418, 7015178419
+
+	
+
+NSN: 6505-01-541-9595   Nomenclature: LEVALBUTEROL TARTRA
+
+
+   AMSC: Z     	NAICS: 325412     	Quantity: 25     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+3V8D7	NDC00591-2927-54	TEVA PHARMACEUTICALS USA, INC.
+673J1	NDC27437-0056-01	
+80ED5	NDC63629-8822-01	BRYANT RANCH PREPACK
+
+
+
+
+
+SPE7M526Q0448.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	04-28-2026
+Return By:	05-12-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Origin
+ 
+
+Tech Data:	Tech Docs
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7015600067
+
+	
+
+NSN: 0001S00000053   Nomenclature: CONTRACTOR FIRST ARTIC
+
+
+   AMSC: G     	NAICS: 000000     	Quantity: 1     
+
+
+
+
+
+NSN: 4820-01-478-7618   Nomenclature: VALVE,STOP-CHECK
+
+
+   AMSC: G     	NAICS: 332911     	Quantity: 2     
+
+
+Specification, Drawing and Standard Data
+Amend No.: B DTD: 11-13-2020
+I/A/W DRW: 53711 6397434 (BASIC)   DTD: 11-27-2024
+
+
+   Type #: 803-6397434-223111
+
+
+
+
+
+
+
+
+
+
+SPE7L726T3084.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	04-29-2026
+Return By:	05-11-2026
+ 
+
+FOB Point:	Destination
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7016442500, 7016442501, 7016442502, 7016442520, 7016442521, 7016442522, 7016489459
+
+	
+
+NSN: 6135-01-624-3719   Nomenclature: BATTERY SET
+
+
+   AMSC: D     	NAICS: 335910     	Quantity: 50     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+65836	RBC69-1U	
+
+
+
+
+
+SPE8E722Q0043.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	04-01-2022
+Return By:	04-16-2022
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	1000141645
+
+	
+
+NSN: 4140-00-944-2557   Nomenclature: FAN,VANEAXIAL
+
+
+   AMSC: Q     	NAICS: 444190     	Quantity: 8     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+73030	114E4041-2	HAMILTON SUNDSTRAND CORPORATION
+73030	500702-5310	HAMILTON SUNDSTRAND CORPORATION
+77272	114E4041-2	THE BOEING COMPANY
+99167	114E4041-2	HAMILTON SUNDSTRAND CORPORATION
+A0126	114E4041-2	
+
+
+
+
+
+SPE8ES26T2889.PDF
+  » Package View
+
+
+
+uote  	 
+
+
+
+Issued:	09-30-2026
+Return By:	10-05-2026
+ 
+
+FOB Point:	Destination
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-09-29 08:16:41
+ 
+
+Purchase Request:	7018561603
+
+	
+
+NSN: 8010-01-285-2490   Nomenclature: POLYURETHANE COATIN
+
+
+   AMSC: T     	NAICS: 325510     	Quantity: 1     
+
+
+Specification, Drawing and Standard Data
+Amend No.: F DTD: 12-10-2024
+I/A/W SPEC: MIL-PRF-SAE-AMS) (BASIC)   DTD: 06-18-2026
+
+
+   Type #: M85285-1-H-34095-GUNSHIP-001P
+
+
+
+
+
+
+
+
+
+
+SPE1C126Q0309.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	09-28-2026
+Return By:	10-14-2026
+ 
+
+FOB Point:	Destination
+ 
+
+Inspection Point:	Origin
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-09-29 08:38:47
+ 
+
+Purchase Request:	7016741136
+
+	
+
+NSN: 8315-00-075-0244   Nomenclature: FASTENER TAPE,HOOK
+
+
+   AMSC: G     	NAICS: 315250     	Quantity: 24000     
+
+
+Specification, Drawing and Standard Data Mil-Spec
+Amend No.: C DTD: 12-21-2016
+I/A/W CID: A-A-55126C (BASIC)   DTD: 06-18-2026
+
+
+
+
+
+
+
+
+
+
+NSN: 8315-00-926-4931   Nomenclature: FASTENER TAPE,HOOK
+
+
+   AMSC: G     	NAICS: 315210     	Quantity: 5000     
+
+
+Specification, Drawing and Standard Data
+      No Basic drawing data available. See Solicitation.
+
+
+
+
+
+SPE8ES26T2812.PDF
+  » Package View
+
+
+
+uote  	 
+
+
+
+Issued:	09-21-2026
+Return By:	10-01-2026
+ 
+
+FOB Point:	Destination
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-09-28 08:05:30
+ 
+
+Purchase Request:	7018395954
+
+	
+
+NSN: 8010-01-583-4811   Nomenclature: POLYURETHANE COATING
+
+
+   AMSC: T     	NAICS: 325510     	Quantity: 1     
+
+
+Specification, Drawing and Standard Data Mil-Spec
+Amend No.: F DTD: 12-10-2024
+I/A/W SPEC: MIL-PRF-SAE-AMS) (BASIC)   DTD: 06-18-2026
+
+
+   Type #: M85285-4H-002G-17925
+
+
+
+
+
+
+
+
+
+
+SPE7L726T5526.PDF
+  » Package View
+
+
+
+uote  	 
+
+
+
+Issued:	09-29-2026
+Return By:	10-09-2026
+ 
+
+FOB Point:	Destination
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-09-28 07:35:27
+ 
+
+Purchase Request:	7018446335, 7018446336, 7018446337
+
+	
+
+NSN: 6140-01-457-2450   Nomenclature: BATTERY,STORAGE
+
+
+   AMSC: D     	NAICS: 335910     	Quantity: 3     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+04055	24M-5	EAST PENN MANUFACTURING CO.
+
+
+
+
+
+SPE7L726Q2477.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	09-28-2026
+Return By:	10-06-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Origin
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-09-27 04:47:37
+ 
+
+Purchase Request:	7018502711, 7018502712, 7018502838, 7018545863, 7018545871
+
+	
+
+NSN: 6130-01-647-5605   Nomenclature: BATTERY POWER SUPPLY
+
+
+   AMSC: D     	NAICS: 335999     	Quantity: 5     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+5YWX2	M359380-2	MILPOWER SOURCE, INC.
+
+
+
+
+
+SPE7L726Q2479.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	09-28-2026
+Return By:	10-06-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Origin
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-09-27 04:47:37
+ 
+
+Purchase Request:	7018446254, 7018446287, 7018468332, 7018543888, 7018545779, 7018545858
+
+	
+
+NSN: 6140-01-576-4249   Nomenclature: BATTERY,STORAGE
+
+
+   AMSC: D     	NAICS: 335910     	Quantity: 7     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+158U6	PSRBC7H	
+
+
+
+
+
+SPE1C126Q0527.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	09-22-2026
+Return By:	10-05-2026
+ 
+
+FOB Point:	Destination
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	Tech Docs
+ 
+
+Document Post/Updated:	2026-09-22 09:36:33
+ 
+
+Purchase Request:	7018195204
+
+	
+
+NSN: 8455-01-525-9747   Nomenclature: BADGE,IDENTIFICATION
+
+
+   AMSC: G     	NAICS: 339910     	Quantity: 500     
+
+
+Specification, Drawing and Standard Data Mil-Spec
+Amend No.: C DTD: 07-30-1993
+I/A/W DRW: 22571 B-13-5 (BASIC)   DTD: 06-18-2026
+
+
+
+
+
+
+
+
+
+
+
+
+SPE4A726T781T.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	09-22-2026
+Return By:	09-29-2026
+ 
+
+FOB Point:	Destination
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-09-21 09:33:37
+ 
+
+Purchase Request:	7018220693, 7018220694, 7018220695, 7018220696, 7018220697, 7018220698, 7018220699
+
+	
+
+NSN: 6695-01-618-5988   Nomenclature: TRANSDUCER,MOTIONAL PI
+
+
+   AMSC: D     	NAICS: 334513     	Quantity: 7     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+82692	IPTE-DDG-1000-S-15D	MACKAY COMMUNICATIONS, INC
+
+
+
+
+
+SPE8E526Q0444.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	09-21-2026
+Return By:	10-05-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	Tech Docs
+ 
+
+Document Post/Updated:	2026-09-21 12:14:42
+ 
+
+Purchase Request:	7017964572
+
+	
+
+NSN: 6660-01-024-2638   Nomenclature: BELT,WEATHER KIT
+
+
+   AMSC: G     	NAICS: 334511     	Quantity: 800     
+
+
+Specification, Drawing and Standard Data
+Amend No.: B DTD: 02-01-1974
+I/A/W: 5100-150B (BASIC)   DTD: 06-18-2026
+
+
+
+
+
+
+
+
+
+
+
+
+SPE2DS26T452F.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	09-18-2026
+Return By:	09-23-2026
+ 
+
+FOB Point:	Destination
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-09-17 07:15:21
+ 
+
+Purchase Request:	7018384600, 7018384602, 7018384603, 7018384605, 7018384606, 7018384608, 7018384609
+
+	
+
+NSN: 6545-01-529-4185   Nomenclature: FIRST AID KIT,UTILITY
+
+
+   AMSC: Z     	NAICS: 339112     	Quantity: 7     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+06ST7	80-0013	NORTH AMERICAN RESCUE, LLC
+
+
+
+
+
+SPE7M126Q1508.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	09-17-2026
+Return By:	09-24-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Origin
+ 
+
+Tech Data:	Tech Docs
+ 
+
+Document Post/Updated:	2026-09-17 10:58:47
+ 
+
+Purchase Request:	7017779405
+
+	
+
+NSN: 0001S00000053   Nomenclature: CONTRACTOR FIRST ARTIC
+
+
+   AMSC: G     	NAICS: 333996     	Quantity: 1     
+
+
+
+
+
+NSN: 0001S00000062   Nomenclature: PRODUCTION LOT TESTING
+
+
+   AMSC: G     	NAICS: 333996     	Quantity: 1     
+
+
+
+
+
+NSN: 4320-01-245-1159   Nomenclature: IMPELLER,PUMP,CENTRIFU
+
+
+   AMSC: G     	NAICS: 333996     	Quantity: 176     
+
+
+Specification, Drawing and Standard Data
+Amend No.: G DTD: 03-14-2018
+I/A/W DRW: 53711 5773203 (BASIC)   DTD: 06-18-2026
+
+
+   Type #: 5773203-2E
+
+
+
+
+
+
+
+
+
+
+SPE7L126T14E5.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	09-18-2026
+Return By:	09-28-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-09-17 07:02:06
+ 
+
+Purchase Request:	7018368337, 7018368338, 7018368339, 7018368340, 7018368341, 7018368342
+
+	
+
+NSN: 5355-01-686-6662   Nomenclature: DIAL,CONTROL
+
+
+   AMSC: Z     	NAICS: 332119     	Quantity: 6     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+1SLF0	S389A2E-1	LIGHTFORCE USA, INCORPORATED
+
+
+
+
+
+SPE8E826T5527.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	09-03-2026
+Return By:	09-21-2026
+ 
+
+FOB Point:	Destination
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	Tech Docs
+ 
+
+Document Post/Updated:	2026-09-16 09:47:22
+ 
+
+Purchase Request:	7017942901, 7017942912, 7017942933, 7017942934, 7017942937, 7017942943, 7017942997
+
+	
+
+NSN: 4610-01-414-2298   Nomenclature: FILTER ASSEMBLY,WAT
+
+
+   AMSC: G     	NAICS: 333310     	Quantity: 7     
+
+
+Specification, Drawing and Standard Data
+Amend No.: J DTD: 02-10-2011
+I/A/W DRW: 53711 6777122 (BASIC)   DTD: 06-18-2026
+
+
+   Type #: 531-6777122 ASSY 97
+
+
+
+
+
+
+
+
+
+
+SPE7L326T255S.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	09-17-2026
+Return By:	09-28-2026
+ 
+
+FOB Point:	Destination
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-09-16 08:15:52
+ 
+
+Purchase Request:	7016869881, 7017274674, 7017334202, 7017554686, 7017659166, 7017784065
+
+	
+
+NSN: 5330-01-674-1415   Nomenclature: GASKET
+
+
+   AMSC: C     	NAICS: 339991     	Quantity: 6     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+0K3M2	20366930	MIRION TECHNOLOGIES (CANBERRA), INC
+
+
+
+
+
+SPE7M826Q0240.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	09-16-2026
+Return By:	09-29-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Origin
+ 
+
+Tech Data:	Tech Docs
+ 
+
+Document Post/Updated:	2026-09-15 07:57:56
+ 
+
+Purchase Request:	7016088124
+
+	
+
+NSN: 0001S00000053   Nomenclature: CONTRACTOR FIRST ARTIC
+
+
+   AMSC: G     	NAICS: 334419     	Quantity: 1     
+
+
+
+
+
+NSN: 5930-01-452-9533   Nomenclature: SWITCH,REED
+
+
+   AMSC: G     	NAICS: 334419     	Quantity: 948     
+
+
+Specification, Drawing and Standard Data
+Amend No.: D DTD: 11-03-2004
+I/A/W DRW: 53711 6557926 (BASIC)   DTD: 06-18-2026
+
+
+   Type #: 6557926
+
+
+
+
+
+
+
+
+
+
+SPE7MC26T273V.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	09-15-2026
+Return By:	09-25-2026
+ 
+
+FOB Point:	Destination
+ 
+
+Inspection Point:	Origin
+ 
+
+Tech Data:	Tech Docs
+ 
+
+Document Post/Updated:	2026-09-14 07:06:57
+ 
+
+Purchase Request:	7018116043, 7018116044, 7018116045, 7018116046, 7018116047, 7018116048
+
+	
+
+NSN: 4820-01-582-3375   Nomenclature: VALVE,BALL
+
+
+   AMSC: G     	NAICS: 332911     	Quantity: 6     
+
+
+Specification, Drawing and Standard Data
+Amend No.: E DTD: 09-30-2013
+I/A/W DRW: 53711 8219247 (BASIC)   DTD: 06-18-2026
+
+
+   Type #: 845-8219247-D1-GGNA
+
+
+
+
+
+
+
+
+
+
+SPE7M526Q1019.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	09-14-2026
+Return By:	09-21-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	Tech Docs
+ 
+
+Document Post/Updated:	2026-09-13 03:45:24
+ 
+
+Purchase Request:	7011636434
+
+	
+
+NSN: 0001S00000053   Nomenclature: CONTRACTOR FIRST ARTIC
+
+
+   AMSC: G     	NAICS: 000000     	Quantity: 1     
+
+
+
+
+
+NSN: 5999-01-593-5730   Nomenclature: HOUSING,ELECTRONIC COM
+
+
+   AMSC: G     	NAICS: 335932     	Quantity: 1     
+
+
+Specification, Drawing and Standard Data
+Amend No.: L DTD: 11-11-2013
+I/A/W DRW: 19200 13015078 (BASIC)   DTD: 06-18-2026
+
+
+
+
+
+
+
+
+
+
+
+
+SPE7L726Q2419.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	09-12-2026
+Return By:	09-21-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Origin
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-09-11 11:42:11
+ 
+
+Purchase Request:	7018220705, 7018288525, 7018288527, 7018288529, 7018288770
+
+	
+
+NSN: 6140-01-294-6528   Nomenclature: BATTERY,STORAGE
+
+
+   AMSC: D     	NAICS: 335910     	Quantity: 5     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+56309	PS-12100 F1	
+
+
+
+
+
+SPE7L726Q2368.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	09-04-2026
+Return By:	09-14-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Origin
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-09-03 03:07:12
+ 
+
+Purchase Request:	7018185675, 7018185938, 7018185939, 7018185940, 7018185941
+
+	
+
+NSN: 6140-01-453-8592   Nomenclature: BATTERY ASSEMBLY
+
+
+   AMSC: Z     	NAICS: 335910     	Quantity: 8     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+5YWX2	M350380	MILPOWER SOURCE, INC.
+
+
+
+
+
+SPE7L726Q2352.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	09-02-2026
+Return By:	09-11-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Origin
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-09-01 08:09:18
+ 
+
+Purchase Request:	7018121802, 7018121803, 7018121804, 7018121805, 7018133652
+
+	
+
+NSN: 6140-01-453-8592   Nomenclature: BATTERY ASSEMBLY
+
+
+   AMSC: Z     	NAICS: 335910     	Quantity: 9     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+5YWX2	M350380	MILPOWER SOURCE, INC.
+
+
+
+
+
+SPE8ES26T2619.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	08-21-2026
+Return By:	08-31-2026
+ 
+
+FOB Point:	Destination
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-26 07:21:39
+ 
+
+Purchase Request:	7017952845
+
+	
+
+NSN: 8010-01-621-3114   Nomenclature: POLYURETHANE COATIN
+
+
+   AMSC: T     	NAICS: 325510     	Quantity: 1     
+
+
+Specification, Drawing and Standard Data
+Amend No.: F DTD: 12-10-2024
+I/A/W SPEC: MIL-PRF-SAE-AMS) (BASIC)   DTD: 06-18-2026
+
+
+   Type #: M85285-4H-002Q-17875
+
+
+
+
+
+
+
+
+
+
+SPE8ES26T2034.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	06-02-2026
+Return By:	06-08-2026
+ 
+
+FOB Point:	Destination
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7016967300
+
+	
+
+NSN: 8010-01-621-3074   Nomenclature: POLYURETHANE COATIN
+
+
+   AMSC: T     	NAICS: 325510     	Quantity: 1     
+
+
+Specification, Drawing and Standard Data Mil-Spec
+Amend No.: F DTD: 12-10-2024
+I/A/W SPEC: MIL-PRF-SAE-AMS) (BASIC)   DTD: 10-02-2006
+
+
+   Type #: M85285-4H-002Q-37875
+
+
+
+
+
+
+
+
+
+
+SPE4A725T5221.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	12-13-2024
+Return By:	12-20-2024
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Origin
+ 
+
+Tech Data:	Tech Docs
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7010334959
+
+	
+
+NSN: 1650-00-451-2063   Nomenclature: PARTS KIT,LINEAR AC
+
+
+   AMSC: G     	NAICS: 336413     	Quantity: 2     
+
+
+Specification, Drawing and Standard Data
+Amend No.: DTD: 09-08-2006
+I/A/W DRW: 98752 200413005 (BASIC)   DTD: 06-21-2023
+
+
+   Type #: 200413005-10
+
+
+
+
+
+
+
+
+
+
+SPE7L526Q0136.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	06-11-2026
+Return By:	06-23-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Origin
+ 
+
+Tech Data:	Tech Docs
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7016685844
+
+	
+
+NSN: 0001S00000053   Nomenclature: CONTRACTOR FIRST ARTIC
+
+
+   AMSC: B     	NAICS: 000000     	Quantity: 1     
+
+
+
+
+
+NSN: 2815-00-150-7406   Nomenclature: VALVE,POPPET,ENGINE
+
+
+   AMSC: B     	NAICS: 333618     	Quantity: 130     
+
+
+Specification, Drawing and Standard Data
+Amend No.: V DTD: 08-01-2015
+I/A/W DRW: 19207 10951239 (BASIC)   DTD: 05-28-2019
+
+
+
+
+
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+D0985	V73064M0	
+
+
+
+
+
+SPE4A626T78Z8.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	06-04-2026
+Return By:	06-11-2026
+ 
+
+FOB Point:	Destination
+ 
+
+Inspection Point:	Origin
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7016972931
+
+	
+
+NSN: 8010-01-467-0156   Nomenclature: EPOXY PRIMER COATIN
+
+
+   AMSC: C     	NAICS: 325510     	Quantity: 2     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+1W025	5659961	NORTHROP GRUMMAN SYSTEMS CORP
+
+
+
+
+
+SPE3SE25Q0676.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	09-11-2025
+Return By:	09-12-2025
+ 
+
+FOB Point:	Destination
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7013492588, 7013530884
+
+	
+
+NSN: 4110-01-655-6920   Nomenclature: HEAD ASSEMBLY,PUMP
+
+
+   AMSC: Q     	NAICS: 333241     	Quantity: 2     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+10855	5MH40-459-2	
+10855	S9516-BX-MMA-010, TBL7-33	
+
+
+
+
+
+SPE8ES26T2099.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	06-05-2026
+Return By:	06-15-2026
+ 
+
+FOB Point:	Destination
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7017040700
+
+	
+
+NSN: 8040-00-062-7873   Nomenclature: ADHESIVE
+
+
+   AMSC: D     	NAICS: 325520     	Quantity: 1     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+80703	29	SAUEREISEN INC
+
+
+
+
+
+SPE8ES26T1803.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	05-07-2026
+Return By:	05-15-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Origin
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7016675193
+
+	
+
+NSN: 8010-01-505-6679   Nomenclature: POLYURETHANE COATIN
+
+
+   AMSC: T     	NAICS: 325510     	Quantity: 5     
+
+
+Specification, Drawing and Standard Data Mil-Spec
+Amend No.: F DTD: 12-10-2024
+I/A/W SPEC: MIL-PRF-SAE-AMS) (BASIC)   DTD: 10-02-2006
+
+
+   Type #: M85285-1H-SIX 2OZ-17925
+
+
+
+
+
+
+
+
+
+
+SPE7L126T408D.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	04-23-2026
+Return By:	05-04-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7016416662, 7016416663
+
+	
+
+NSN: 2530-01-696-2460   Nomenclature: PARTS KIT,AXLE,VEHI
+
+
+   AMSC: C     	NAICS: 336330     	Quantity: 4     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+75Q65	4656434	OSHKOSH DEFENSE LLC
+
+
+
+
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50
+
+
+· RFQ Text Search
+Query String:
+
+
+
+Modified: 
+Any time
+last hour
+last day
+last 7 days
+last 30 days
+last 60 days
+last 90 days
+last 365 days
+	Sort: 
+Best Match
+Newly Posted to Oldest
+Oldest Posted to Newest
+
+Filter:
+  
+Automated Indefinite Delivery Contract (AIDC)
+
+
+  
+Items with Technical Documents
+
+
+  
+Fast Award Candidates
+
+
+  
+Small Business Set-Asides
+
+
+  
+HUBZone Set-Asides
+
+	
+  
+Service Disabled Veteran Owned
+      Small Business Set-Asides
+
+
+Woman Owned Small Business Set-Asides
+
+
+Economically Disadvantaged Women Owned Small Business Set-Asides
+
+
+Unrestricted/Not Set-Asides
+
+
+ 
+
+
+
+
+ 
+Policy Statements · Feedback
+   EOXD8AUZtkHO8wt7m812jA==
+   Ver.6.3.2
+

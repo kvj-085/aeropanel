@@ -1,0 +1,4851 @@
+FAQ/Help · Refs · My Account · Log In
+
+
+   Home       Solicitations       RFQs       RFP/IFB/Other RFQs       Tech Data       Downloads        Awards   
+
+
+Navigation: 
+Navigation/Documents - - - - - -
+Accessibility
+Awards Area
+- Awards by Award DT
+- Awards by Post DT
+- Market Ready Orders ®
+- Post Award Request (PAR)®
+Batch Quoting ®
+Batch Quoting File Format
+BidSets
+Contracts
+Delivery Orders
+FAQs
+Feedback
+Forecast ®
+FSC ~ DLA Managed
+Global Search
+Home Page
+Invitation For Bid (IFB) Area
+Log In Screen
+Master Solicitation (PAC)
+Notices/Message Board
+Post Award Request (PAR)®
+Quoting Help
+Quote Search ®
+Request For Proposal (RFP)Area
+Request For Quote (RFQ) Area
+- RFQs by Issue Date
+- RFQs by Return By Date
+- RFQs Recent
+References
+Registration
+Solicitations
+SRVA ®
+User(s) Profile Update ®
+Vendor Profile Update ®
+Welcome Page ®
+Regs / Supplement Extracts ---
+DFARS 225.502
+DFARS 252.211-7005
+DFARS 252.211-7006
+DFARS 252.223-7001
+DFARS 252.225-7001
+DFARS 252.225-7035
+DFARS 252.225-7036
+DLAD 52.211-9000
+DLAD 52.213-9000
+DLAD 52.217-9002
+DLAD 52.219-9015
+DLAD 52.223-9000
+DLAD 52.233-9001
+FAR 52.209-1
+FAR 52.211-5
+FAR 52.212-3
+FAR 52.219-1
+FAR 52.222-18
+FAR 52.222-22
+FAR 52.222-25
+FAR 52.222-26
+FAR 52.223-3
+ 
+
+Database Search: 
+Choose Search
+RFQs - NSN
+RFQs - Solicitation
+RFQs - PR
+-----------------------
+Awards - Awardee CAGE
+Awards - Award/Basic Number
+Awards - Delivery Order #
+Awards - NSN
+Awards - PR
+-----------------------
+RFP/IFB/Other RFQs - Solicitation
+RFP/IFB/Other RFQs - NSN
+-----------------------
+CAGE Search
+  Value: 
+
+
+Notice:   · Suspension of CMMC Phase II » Read Notice
+
+  Please read notices posted on the Notices page.
+
+
+  Location: Home » Solicitations » RFQs » RFQ Text Search
+[
+RFQ Search
+-
+Recent RFQs
+-
+RFQs by Issue Date
+-
+RFQs by Return By Date
+-
+RFQs by FSC
+]
+[ 273 ] 9/30/2026 12:12:18 PM
+
+
+
+Documents Indexed: 161,967
+
+Additional RFQ Text Search Help
+
+Found 499 records for this search query string.
+Modified: Any time
+
+
+
+1 2 3 4 5
+Solicitation Information	Product Data
+
+SPE7MC26T106A.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	06-29-2026
+Return By:	07-28-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7017316209
+
+	
+
+NSN: 4810-01-392-6652   Nomenclature: ACTUATOR,ELECTRO-ME
+
+
+   AMSC: P     	NAICS: 332911     	Quantity: 1     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+66822	20007 ASSY 1	MORPAC INDUSTRIES, INC
+66822	20007-1	MORPAC INDUSTRIES, INC
+
+
+
+
+
+SPE7MC26T100H.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	06-23-2026
+Return By:	07-06-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7013316916
+
+	
+
+NSN: 4810-01-476-2491   Nomenclature: ACTUATOR,HYDRAULIC-
+
+
+   AMSC: C     	NAICS: 332911     	Quantity: 12     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+96169	H8641401-A3	ELECTRIC BOAT CORPORATION
+
+
+
+
+
+SPE7MC26T092Y.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	06-22-2026
+Return By:	07-02-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7004818679
+
+	
+
+NSN: 4820-01-389-0366   Nomenclature: DIAPHRAGM,ACTUATOR
+
+
+   AMSC: L     	NAICS: 332911     	Quantity: 6     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+35795	N42831	LESLIE CONTROLS, INC.
+
+
+
+
+
+SPE7M426T310G.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	08-07-2026
+Return By:	08-20-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7017776470
+
+	
+
+NSN: 3040-01-152-2942   Nomenclature: HOUSING,CYLINDER,PNEUM
+
+
+   AMSC: C     	NAICS: 333613     	Quantity: 1     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+07270	28914	MOOG INC.
+07270	895-28365 ITEM 1	MOOG INC.
+
+
+
+
+
+SPE7M426T305A.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	08-07-2026
+Return By:	08-17-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7017774354
+
+	
+
+NSN: 2995-00-105-9401   Nomenclature: PLUNGER,ACTUATOR,SWITC
+
+
+   AMSC: C     	NAICS: 336412     	Quantity: 31     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+62983	333664	EATON AEROSPACE, LLC
+
+
+
+
+
+SPE7L326T4755.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	01-21-2026
+Return By:	02-02-2026
+ 
+
+FOB Point:	Destination
+ 
+
+Inspection Point:	Origin
+ 
+
+Tech Data:	Tech Docs
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7015016139
+
+	
+
+NSN: 3040-01-641-5088   Nomenclature: ACTUATOR,MECHANICAL
+
+
+   AMSC: G     	NAICS: 336350     	Quantity: 1     
+
+
+Specification, Drawing and Standard Data
+Amend No.: C DTD: 06-17-2015
+I/A/W DRW: 53711 8278280 (BASIC)   DTD: 09-18-2017
+
+
+   Type #: 167-8278280 ASSY 98
+
+
+
+
+
+
+
+
+
+
+SPE7L326T144S.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	08-03-2026
+Return By:	08-13-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	Tech Docs
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7008308581
+
+	
+
+NSN: 4810-01-616-3849   Nomenclature: ACTUATOR,HYDRAULIC-
+
+
+   AMSC: G     	NAICS: 332919     	Quantity: 2     
+
+
+Specification, Drawing and Standard Data Mil-Spec
+Amend No.: DTD: 03-11-2014
+I/A/W DRW: 53711 8500166 (BASIC)   DTD: 06-18-2026
+
+
+   Type #: 521-8500166 ITEMS V1, F-8
+
+
+
+
+
+
+
+
+
+
+SPE7M426T9213.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	04-03-2026
+Return By:	04-13-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Origin
+ 
+
+Tech Data:	Tech Docs
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7011111798
+
+	
+
+NSN: 0001S00000053   Nomenclature: CONTRACTOR FIRST ARTIC
+
+
+   AMSC: C     	NAICS: ______     	Quantity: 1     
+
+
+
+
+
+NSN: 4810-01-609-8418   Nomenclature: ACTUATOR,ELECTRO-ME
+
+
+   AMSC: C     	NAICS: 336413     	Quantity: 30     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+1HLQ3	GMA126.1U	SIEMENS INDUSTRY INC
+5RQL2	EAS82503-1	DRS ENVIRONMENTAL SYSTEMS INC
+92878	EAS82503-1	HDT EXPEDITIONARY SYSTEMS INC
+
+
+
+
+
+SPE7M426T184Q.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	06-16-2026
+Return By:	07-13-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7017189561
+
+	
+
+NSN: 4320-01-218-6090   Nomenclature: SLEEVE,ACTUATOR PIS
+
+
+   AMSC: D     	NAICS: 333914     	Quantity: 68     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+62983	622750	EATON AEROSPACE, LLC
+
+
+
+
+
+SPE7L126T610T.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	05-27-2026
+Return By:	06-08-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Origin
+ 
+
+Tech Data:	Tech Docs
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7012858461
+
+	
+
+NSN: 3040-01-670-0451   Nomenclature: ACTUATOR,MECHANICAL
+
+
+   AMSC: G     	NAICS: 333613     	Quantity: 2     
+
+
+Specification, Drawing and Standard Data
+Amend No.: A DTD: 06-06-2017
+I/A/W DRW: 01365 12012H4110 (BASIC)   DTD: 02-06-2018
+
+
+
+
+
+
+
+
+
+
+
+
+SPE7L126T574F.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	05-20-2026
+Return By:	06-01-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7016826242
+
+	
+
+NSN: 2530-01-726-1213   Nomenclature: ACTUATOR ASSEMBLY,S
+
+
+   AMSC: Z     	NAICS: 336330     	Quantity: 1     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+88907	8M0191732	BRUNSWICK CORP
+
+
+
+
+
+SPE7M425T419Q.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	09-18-2025
+Return By:	01-06-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Origin
+ 
+
+Tech Data:	Tech Docs
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7011413315
+
+	
+
+NSN: 2010-01-107-1290   Nomenclature: ACTUATOR,DEFLECTOR,
+
+
+   AMSC: G     	NAICS: 336415     	Quantity: 11     
+
+
+Specification, Drawing and Standard Data
+Amend No.: B DTD: 10-22-2007
+I/A/W DRW: 80064 2600089 (BASIC)   DTD: 04-28-2016
+
+
+   Type #: 2600089-2
+
+
+
+
+
+
+
+
+
+
+SPE4A626T14XC.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	08-12-2026
+Return By:	08-19-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Origin
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7017837671
+
+	
+
+NSN: 1650-01-036-6461   Nomenclature: TUBE,ACTUATOR,HYDRA
+
+
+   AMSC: D     	NAICS: 336413     	Quantity: 4     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+78062	1674B1-1	SARGENT AEROSPACE & DEFENSE, LLC
+
+
+
+
+
+SPE4A526T371Z.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	08-19-2026
+Return By:	08-26-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7017940092
+
+	
+
+NSN: 1560-00-759-6895   Nomenclature: RIB,ACTUATOR,INBOARD S
+
+
+   AMSC: P     	NAICS: 336413     	Quantity: 3     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+81205	5-84003-504	THE BOEING COMPANY
+
+
+
+
+
+SPE4A726T568U.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	07-15-2026
+Return By:	07-22-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Origin
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7017487386
+
+	
+
+NSN: 1680-00-332-6388   Nomenclature: YOKE,ACTUATOR
+
+
+   AMSC: P     	NAICS: 336413     	Quantity: 3     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+08BM4	14-18489-00	
+
+
+
+
+
+SPE4A526T6728.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	01-14-2026
+Return By:	01-21-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7015111467
+
+	
+
+NSN: 1680-00-798-9384   Nomenclature: PARTS KIT,ACTUATOR,
+
+
+   AMSC: R     	NAICS: 336413     	Quantity: 3     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+0SML3	590414-3	AERO INTERNATIONAL, LLC
+2N935	590414-3	BOEING DISTRIBUTION SERVICES X, INC
+70210	590414-3	HONEYWELL INTERNATIONAL INC.
+
+
+
+
+
+SPE7MC26T8746.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	04-24-2026
+Return By:	05-04-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7016486754
+
+	
+
+NSN: 4810-01-450-9967   Nomenclature: ACTUATOR,ELECTRO-ME
+
+
+   AMSC: C     	NAICS: 332911     	Quantity: 4     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+35795	S598932102Z	LESLIE CONTROLS, INC.
+
+
+
+
+
+SPE7MC26T8607.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	04-23-2026
+Return By:	05-04-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7016471139
+
+	
+
+NSN: 4810-01-688-5158   Nomenclature: ACTUATOR,ELECTRO-ME
+
+
+   AMSC: Q     	NAICS: 332911     	Quantity: 13     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+34712	F181919-4	LAKE SHORE SYSTEMS, INC.
+
+
+
+
+
+SPE7MC26T6976.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	03-25-2026
+Return By:	04-06-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7015896881
+
+	
+
+NSN: 4810-01-350-0234   Nomenclature: ACTUATOR,ELECTRO-ME
+
+
+   AMSC: D     	NAICS: 332911     	Quantity: 3     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+9K117	17362GB	AUTOMATIC CONTROLS OF VA., INC.
+9K117	7EQ-3 17362GB	AUTOMATIC CONTROLS OF VA., INC.
+
+
+
+
+
+SPE4A526T242E.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	06-17-2026
+Return By:	06-24-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7017200247
+
+	
+
+NSN: 1660-00-968-8623   Nomenclature: BODY,ACTUATOR
+
+
+   AMSC: P     	NAICS: 336411     	Quantity: 3     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+59364	112761-1	HONEYWELL INTERNATIONAL INC.
+
+
+
+
+
+SPE4A526T224K.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	06-11-2026
+Return By:	06-18-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7016523365
+
+	
+
+NSN: 4940-01-528-5930   Nomenclature: ACTUATOR,ALIGNMENT
+
+
+   AMSC: Q     	NAICS: 334419     	Quantity: 2     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+73030	GS24590-1	HAMILTON SUNDSTRAND CORPORATION
+
+
+
+
+
+SPE7MC26T4384.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	01-20-2026
+Return By:	01-30-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7009054409
+
+	
+
+NSN: 4810-01-248-9468   Nomenclature: ACTUATOR,ROTARY PN
+
+
+   AMSC: R     	NAICS: 332911     	Quantity: 3     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+22508	1051K-14B/P4/*SILICONE DIAPHRAGM	
+
+
+
+
+
+SPE7MC26T162R.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	07-31-2026
+Return By:	08-10-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Origin
+ 
+
+Tech Data:	Tech Docs
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7017697685
+
+	
+
+NSN: 0001S00000053   Nomenclature: CONTRACTOR FIRST ARTIC
+
+
+   AMSC: G     	NAICS: ______     	Quantity: 1     
+
+
+
+
+
+NSN: 4810-01-600-7433   Nomenclature: PLUNGER,ACTUATOR
+
+
+   AMSC: G     	NAICS: 332919     	Quantity: 24     
+
+
+Specification, Drawing and Standard Data
+Amend No.: C DTD: 05-14-2020
+I/A/W DRW: 1NUW7 11582543 (BASIC)   DTD: 06-18-2026
+
+
+
+
+
+
+
+
+
+
+
+
+SPE4A526T020K.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	03-20-2026
+Return By:	03-27-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Origin
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7013630644
+
+	
+
+NSN: 1680-00-110-2427   Nomenclature: HOUSING,ACTUATOR
+
+
+   AMSC: C     	NAICS: 336413     	Quantity: 18     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+12511	A5155	SIMMONDS PRECISION PRODUCTS INC
+
+
+
+
+
+SPE7MC26T141Z.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	07-20-2026
+Return By:	07-30-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7017440877
+
+	
+
+NSN: 4810-01-337-7420   Nomenclature: ACTUATOR,ELECTRO-ME
+
+
+   AMSC: D     	NAICS: 336413     	Quantity: 4     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+52374	01-435-0405-4	FLOWSERVE CORP
+
+
+
+
+
+SPE7MC26T0239.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	10-10-2025
+Return By:	10-20-2025
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7014131872
+
+	
+
+NSN: 4820-00-630-9271   Nomenclature: DIAPHRAGM,ACTUATOR
+
+
+   AMSC: C     	NAICS: 332911     	Quantity: 2     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+35795	3780994	LESLIE CONTROLS, INC.
+35795	N3780994	LESLIE CONTROLS, INC.
+
+
+
+
+
+SPE7L526T4796.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	08-07-2026
+Return By:	08-20-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7017778685
+
+	
+
+NSN: 2910-01-268-7471   Nomenclature: ACTUATOR,ELECTROMECHAN
+
+
+   AMSC: R     	NAICS: 333613     	Quantity: 9     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+31361	8256-016	WOODWARD, INC.
+66503	8256-016	WOODWARD, INC.
+
+
+
+
+
+SPE7L426T5959.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	08-04-2026
+Return By:	08-14-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7017707049
+
+	
+
+NSN: 2520-01-379-4810   Nomenclature: ACTUATOR,DIFFERENTIAL
+
+
+   AMSC: D     	NAICS: 336350     	Quantity: 6     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+7X677	26013495	GENERAL MOTORS LLC
+
+
+
+
+
+SPE7M826T1861.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	01-23-2026
+Return By:	02-02-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	Tech Docs
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7015246695
+
+	
+
+NSN: 5930-01-289-4254   Nomenclature: ARM,SWITCH ACTUATOR
+
+
+   AMSC: C     	NAICS: 335313     	Quantity: 15     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+05825	3235023	OTSI, LLC
+
+
+
+
+
+SPE4A626T43T0.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	05-06-2026
+Return By:	05-13-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Origin
+ 
+
+Tech Data:	Tech Docs
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7016645357
+
+	
+
+NSN: 0001S00000052   Nomenclature: GOVERNMENT FIRST ARTIC
+
+
+   AMSC: G     	NAICS: ______     	Quantity: 1     
+
+
+
+
+
+NSN: 1440-01-546-0994   Nomenclature: ACTUATOR,ELECTRO-ME
+
+
+   AMSC: G     	NAICS: 336415     	Quantity: 16     
+
+
+Specification, Drawing and Standard Data
+Amend No.: D DTD: 01-09-2006
+I/A/W DRW: 90598 EAS80226 (BASIC)   DTD: 12-08-2006
+
+
+   Type #: EAS80226-1
+
+
+
+
+
+
+
+
+
+
+SPE7L126T763V.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	06-26-2026
+Return By:	07-06-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7017289938
+
+	
+
+NSN: 3040-01-723-9179   Nomenclature: ACTUATOR,MECHANICAL
+
+
+   AMSC: Q     	NAICS: 333613     	Quantity: 1     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+99517	14032038-1	VACCO INDUSTRIES
+
+
+
+
+
+SPE7L126T383N.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	04-17-2026
+Return By:	04-27-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Origin
+ 
+
+Tech Data:	Tech Docs
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7003232591
+
+	
+
+NSN: 0001S00000052   Nomenclature: GOVERNMENT FIRST ARTIC
+
+
+   AMSC: G     	NAICS: ______     	Quantity: 1     
+
+
+
+
+
+NSN: 4810-01-196-6147   Nomenclature: DIAPHRAGM,ACTUATOR
+
+
+   AMSC: G     	NAICS: 332912     	Quantity: 385     
+
+
+Specification, Drawing and Standard Data
+Amend No.: A DTD: 09-21-1959
+I/A/W DRW: 81982 215468 (BASIC)   DTD: 09-13-2006
+
+
+
+
+
+
+
+
+
+
+
+
+SPE8EF26T0915.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	04-03-2026
+Return By:	07-30-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7016178419
+
+	
+
+NSN: 3910-01-724-7721   Nomenclature: ACTUATOR,ELECTRO-ME
+
+
+   AMSC: D     	NAICS: 333922     	Quantity: 6     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+06RP6	DG-012203-04	DRS NAVAL POWER SYSTEMS INC
+27192	DG-012203-04	DRS NAVAL POWER SYSTEMS INC
+
+
+
+
+
+SPE4A726T8153.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	01-23-2026
+Return By:	01-30-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Origin
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7007980421
+
+	
+
+NSN: 1680-00-632-4815   Nomenclature: PARTS KIT,ACTUATOR,
+
+
+   AMSC: D     	NAICS: 333995     	Quantity: 9     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+45934	125965-01	ONTIC ENGINEERING & MANUFACTURING,
+
+
+
+
+
+SPE4A726T616U.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	08-05-2026
+Return By:	08-12-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	Tech Docs
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7017740860
+
+	
+
+NSN: 1620-01-161-8350   Nomenclature: ADAPTER,ACTUATOR
+
+
+   AMSC: C     	NAICS: 336413     	Quantity: 25     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+45934	2012A76	ONTIC ENGINEERING & MANUFACTURING,
+6K4C8	2012A76	GOODRICH CORPORATION
+
+
+
+
+
+SPE4A726T575T.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	07-17-2026
+Return By:	07-24-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Origin
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7015607246
+
+	
+
+NSN: 1680-01-551-1098   Nomenclature: ACTUATOR,MECHANICAL
+
+
+   AMSC: D     	NAICS: 336413     	Quantity: 10     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+05606	10055308	GENERAL DYNAMICS-OTS, INC.
+
+
+
+
+
+SPE4A726T528R.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	06-24-2026
+Return By:	07-07-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Origin
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7017272042
+
+	
+
+NSN: 1680-00-691-6748   Nomenclature: SHAFT ASSY,ACTUATOR
+
+
+   AMSC: D     	NAICS: 336413     	Quantity: 2     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+08719	3034	DUCOMMUN LABARGE TECHNOLOGIES, INC
+
+
+
+
+
+SPE4A526T217H.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	06-09-2026
+Return By:	06-16-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Origin
+ 
+
+Tech Data:	Tech Docs
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7016846435
+
+	
+
+NSN: 1680-00-075-3638   Nomenclature: POWERNUT,ACTUATOR
+
+
+   AMSC: P     	NAICS: 336413     	Quantity: 24     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+70210	528808	HONEYWELL INTERNATIONAL INC.
+
+
+
+
+
+SPE7MC26T8588.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	04-23-2026
+Return By:	05-04-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7016471480
+
+	
+
+NSN: 4810-01-572-1965   Nomenclature: ACTUATOR,ELECTROMEC
+
+
+   AMSC: H     	NAICS: 332912     	Quantity: 2     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+21013	16-435-AP	METREX VALVE CORP.
+21013	EAOCM-816NF2-3W ITEM 1	METREX VALVE CORP.
+63600	12270-G17-133	CURTISS-WRIGHT FLOW CONTROL CORPORA
+
+
+
+
+
+SPE7MC26T2404.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	11-21-2025
+Return By:	08-04-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7011807185
+
+	
+
+NSN: 4820-01-599-1699   Nomenclature: NRP,ACTUATOR,1P VSV
+
+
+   AMSC: Q     	NAICS: 332911     	Quantity: 2     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+07309	9908-023	BIRD-JOHNSON PROPELLER COMPANY, LLC
+07309	MT3036-88 A1-45-31 FIG01 IT100	BIRD-JOHNSON PROPELLER COMPANY, LLC
+07309	U-1-2-3	BIRD-JOHNSON PROPELLER COMPANY, LLC
+31361	9908-023	WOODWARD, INC.
+
+
+
+
+
+SPE7MC26T2334.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	11-21-2025
+Return By:	12-09-2025
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7014582447
+
+	
+
+NSN: 4810-01-641-9472   Nomenclature: PLUNGER,ACTUATOR
+
+
+   AMSC: D     	NAICS: 336310     	Quantity: 74     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+96487	V44703-329-1	VALCOR ENGINEERING CORPORATION
+
+
+
+
+
+SPE7MC26T189S.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	08-12-2026
+Return By:	08-24-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7017821724
+
+	
+
+NSN: 4810-01-572-3046   Nomenclature: ACTUATOR,ELECTRO-PN
+
+
+   AMSC: D     	NAICS: 332912     	Quantity: 1     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+01029	QP1C/M	
+
+
+
+
+
+SPE7MC26T158C.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	07-29-2026
+Return By:	08-13-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7017603991
+
+	
+
+NSN: 4810-01-393-9887   Nomenclature: ACTUATOR,ELECTROMECHAN
+
+
+   AMSC: C     	NAICS: 332911     	Quantity: 11     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+66822	20003 ASSY 1	MORPAC INDUSTRIES, INC
+66822	20003-1	MORPAC INDUSTRIES, INC
+
+
+
+
+
+SPE7MC26T153L.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	07-24-2026
+Return By:	08-03-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7017438481
+
+	
+
+NSN: 4810-01-110-0999   Nomenclature: ACTUATOR,ELECTROMECHAN
+
+
+   AMSC: C     	NAICS: 333613     	Quantity: 6     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+52374	01-435-0157-5 ASSY LT-130	FLOWSERVE CORP
+
+
+
+
+
+SPE7MC26T106N.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	06-29-2026
+Return By:	07-28-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7017316208
+
+	
+
+NSN: 4810-01-392-6656   Nomenclature: ACTUATOR,ELECTRO-ME
+
+
+   AMSC: D     	NAICS: 332911     	Quantity: 1     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+66822	20007 ASSY 2	MORPAC INDUSTRIES, INC
+66822	20007-2	MORPAC INDUSTRIES, INC
+
+
+
+
+
+SPE7MC26T017L.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	05-21-2026
+Return By:	06-01-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7016879611
+
+	
+
+NSN: 4810-01-143-2897   Nomenclature: ACTUATOR,ELECTRO-ME
+
+
+   AMSC: D     	NAICS: 332911     	Quantity: 2     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+52374	01-435-0314-5	FLOWSERVE CORP
+52374	01-435-0314-5/3D7589F	FLOWSERVE CORP
+
+
+
+
+
+SPE7L326T124A.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	07-21-2026
+Return By:	07-31-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7017440116
+
+	
+
+NSN: 3010-01-084-9596   Nomenclature: BODY,ACTUATOR
+
+
+   AMSC: D     	NAICS: 333612     	Quantity: 3     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+96169	87553-5010 ITEM 3	ELECTRIC BOAT CORPORATION
+
+
+
+
+
+SPE7L326T104Q.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	07-09-2026
+Return By:	07-20-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7015233944
+
+	
+
+NSN: 3040-01-590-2265   Nomenclature: ACTUATOR,MECHANICAL
+
+
+   AMSC: D     	NAICS: 333613     	Quantity: 1     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+1LXX2	DSI-EXL-00001	
+
+
+
+
+
+SPE7M826T3894.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	05-08-2026
+Return By:	05-18-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7016692314
+
+	
+
+NSN: 5930-01-350-7607   Nomenclature: ARM,SWITCH ACTUATOR
+
+
+   AMSC: C     	NAICS: 334413     	Quantity: 17     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+79142	EL060-55530	DYNAPAR CORP
+
+
+
+
+
+SPE7M426T239S.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	07-10-2026
+Return By:	07-20-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7017436942
+
+	
+
+NSN: 4820-01-201-6903   Nomenclature: DIAPHRAGM,ACTUATOR
+
+
+   AMSC: C     	NAICS: 332911     	Quantity: 14     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+04577	2852-0116-1	MISSION SYSTEMS ORCHARD PARK INC
+
+
+
+
+
+SPE7L126T765J.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	06-26-2026
+Return By:	07-09-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7017274883
+
+	
+
+NSN: 5340-01-421-1860   Nomenclature: PLATE,ACTUATOR,MOUN
+
+
+   AMSC: D     	NAICS: 332510     	Quantity: 4     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+98032	300053	TRI-TEC MANUFACTURING LLC
+
+
+
+
+
+SPE7L126T650J.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	06-04-2026
+Return By:	06-15-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7017039258
+
+	
+
+NSN: 3040-01-477-3197   Nomenclature: ACTUATOR,MECHANICAL
+
+
+   AMSC: D     	NAICS: 333613     	Quantity: 1     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+35795	Y008557125K1	LESLIE CONTROLS, INC.
+
+
+
+
+
+SPE4A726T6804.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	12-30-2025
+Return By:	01-14-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Origin
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7014863251
+
+	
+
+NSN: 1680-00-630-2598   Nomenclature: PARTS KIT,ACTUATOR
+
+
+   AMSC: D     	NAICS: 336413     	Quantity: 60     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+79318	50044	MEGGITT NORTH HOLLYWOOD INC
+
+
+
+
+
+SPE7L126Q0925.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	04-01-2026
+Return By:	04-07-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7012534840
+
+	
+
+NSN: 3040-01-419-7079   Nomenclature: ACTUATOR,MECHANICAL
+
+
+   AMSC: D     	NAICS: 333612     	Quantity: 5     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+98523	15261001-009	JERED LLC
+
+
+
+
+
+SPE7L125T03C8.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	09-18-2025
+Return By:	09-29-2025
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7013375130
+
+	
+
+NSN: 3040-01-684-9293   Nomenclature: ACTUATOR,MECHANICAL
+
+
+   AMSC: Q     	NAICS: 333613     	Quantity: 1     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+98032	312005-1-K	TRI-TEC MANUFACTURING LLC
+
+
+
+
+
+SPE4A726T9548.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	02-20-2026
+Return By:	02-27-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Origin
+ 
+
+Tech Data:	Tech Docs
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7009862783
+
+	
+
+NSN: 0001S00000052   Nomenclature: GOVERNMENT FIRST ARTIC
+
+
+   AMSC: G     	NAICS: ______     	Quantity: 1     
+
+
+
+
+
+NSN: 1560-00-394-5801   Nomenclature: ROD,ACTUATOR,FLAP,T
+
+
+   AMSC: G     	NAICS: 336413     	Quantity: 20     
+
+
+Specification, Drawing and Standard Data
+Amend No.: C DTD: 03-01-1989
+I/A/W DRW: 76823 14-26125 (BASIC)   DTD: 09-18-2006
+
+
+   Type #: 14-26125-6
+
+
+
+
+
+
+
+
+
+
+SPE4A726T6670.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	12-23-2025
+Return By:	12-30-2025
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Origin
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7014106016
+
+	
+
+NSN: 2915-00-400-3833   Nomenclature: SHAFT,ACTUATOR OUTP
+
+
+   AMSC: P     	NAICS: 336412     	Quantity: 43     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+73760	9778CB	ITT AEROSPACE CONTROLS LLC
+
+
+
+
+
+SPE4A726T521Z.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	06-22-2026
+Return By:	07-02-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Origin
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7016439179
+
+	
+
+NSN: 1650-01-036-2863   Nomenclature: GUIDE,ACTUATOR,HYDR
+
+
+   AMSC: D     	NAICS: 336413     	Quantity: 23     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+73760	40121A	ITT AEROSPACE CONTROLS LLC
+
+
+
+
+
+SPE4A626T03YZ.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	07-08-2026
+Return By:	07-15-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7017408718
+
+	
+
+NSN: 4920-01-501-6763   Nomenclature: PIN,ACTUATOR,AIRCRA
+
+
+   AMSC: D     	NAICS: 332710     	Quantity: 20     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+5U072	C1510C	MOTION INDUSTRIES, INC.
+
+
+
+
+
+SPE7M126T018B.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	04-30-2026
+Return By:	05-11-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7016416543
+
+	
+
+NSN: 4810-01-727-9270   Nomenclature: ACTUATOR,HYDRAULIC-
+
+
+   AMSC: Q     	NAICS: 332911     	Quantity: 2     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+7PZX0	P99000480	FAIRBANKS MORSE, LLC
+
+
+
+
+
+SPE4A725T073S.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	03-12-2025
+Return By:	03-19-2025
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Origin
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7011369042
+
+	
+
+NSN: 1680-01-173-2159   Nomenclature: SEAL,ACTUATOR ROD
+
+
+   AMSC: D     	NAICS: 336413     	Quantity: 79     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+5F573	7116FT972P3	GREENE TWEED & CO INC
+
+
+
+
+
+SPE4A525T766F.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	09-17-2025
+Return By:	09-24-2025
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7013833275
+
+	
+
+NSN: 1680-00-798-9384   Nomenclature: PARTS KIT,ACTUATOR,
+
+
+   AMSC: R     	NAICS: 336413     	Quantity: 211     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+0SML3	590414-3	AERO INTERNATIONAL, LLC
+2N935	590414-3	BOEING DISTRIBUTION SERVICES X, INC
+70210	590414-3	HONEYWELL INTERNATIONAL INC.
+
+
+
+
+
+SPE7MC26T0718.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	10-15-2025
+Return By:	10-27-2025
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7013984106
+
+	
+
+NSN: 4820-01-389-0366   Nomenclature: DIAPHRAGM,ACTUATOR
+
+
+   AMSC: L     	NAICS: 332911     	Quantity: 4     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+35795	N42831	LESLIE CONTROLS, INC.
+
+
+
+
+
+SPE7MC26T047G.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	06-03-2026
+Return By:	06-15-2026
+ 
+
+FOB Point:	Destination
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7016999093, 7016999094, 7016999095, 7016999096, 7016999097, 7016999098, 7016999099
+
+	
+
+NSN: 4810-01-558-6065   Nomenclature: ACTUATOR,ELECTROMEC
+
+
+   AMSC: D     	NAICS: 336413     	Quantity: 7     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+1X5W8	MS5Q	
+63600	0511-25-S704-100	CURTISS-WRIGHT FLOW CONTROL CORPORA
+63600	MODEL MS05	CURTISS-WRIGHT FLOW CONTROL CORPORA
+63600	MS5Q	CURTISS-WRIGHT FLOW CONTROL CORPORA
+
+
+
+
+
+SPE7MC26T006E.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	05-14-2026
+Return By:	05-26-2026
+ 
+
+FOB Point:	Destination
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7016622103
+
+	
+
+NSN: 4810-01-434-5333   Nomenclature: ACTUATOR,ELECTRO-ME
+
+
+   AMSC: D     	NAICS: 332911     	Quantity: 1     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+04613	121-952-330-777-071	
+
+
+
+
+
+SPE4A126T2057.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	05-11-2026
+Return By:	05-18-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7016646261
+
+	
+
+NSN: 1650-01-013-2883   Nomenclature: SLEEVE,ACTUATOR
+
+
+   AMSC: P     	NAICS: 336413     	Quantity: 31     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+82106	2733579	PARKER-HANNIFIN CORPORATION
+
+
+
+
+
+SPE4A126T1537.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	03-04-2026
+Return By:	03-11-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Origin
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7015679929
+
+	
+
+NSN: 1650-01-182-5076   Nomenclature: TRUNNION ASSY,ACTUATOR
+
+
+   AMSC: P     	NAICS: 336413     	Quantity: 2     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+81873	41006128-101	WOODWARD HRT INC
+
+
+
+
+
+SPE7L326T9520.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	05-06-2026
+Return By:	06-11-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7016627794
+
+	
+
+NSN: 3010-01-533-6275   Nomenclature: ACTUATOR,ELECTRO-ME
+
+
+   AMSC: D     	NAICS: 333612     	Quantity: 2     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+52151	015-9969-010	CONTINENTAL ELECTRONICS CORP
+52151	SPB-3405-6	CONTINENTAL ELECTRONICS CORP
+
+
+
+
+
+SPE7MC26T202M.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	08-20-2026
+Return By:	08-31-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7017942977, 7017960145
+
+	
+
+NSN: 4810-12-400-2159   Nomenclature: ACTUATOR,HYDRAULIC-
+
+
+   AMSC: Z     	NAICS: 332911     	Quantity: 4     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+C7061	EB51SYS60	
+
+
+
+
+
+SPE7M426T311G.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	08-07-2026
+Return By:	08-17-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7017775490
+
+	
+
+NSN: 4810-01-203-5628   Nomenclature: DIAPHRAGM,ACTUATOR
+
+
+   AMSC: C     	NAICS: 332912     	Quantity: 95     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+01170	1A-375-225-DVB	BELLOFRAM CORPORATION
+01170	IA-375-225-DVB	BELLOFRAM CORPORATION
+
+
+
+
+
+SPE7L126T796C.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	07-06-2026
+Return By:	07-16-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7017185108
+
+	
+
+NSN: 3040-01-722-3559   Nomenclature: ACTUATOR,HYDRAULIC-
+
+
+   AMSC: D     	NAICS: 333613     	Quantity: 1     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+07270	170DIM-CC73582	MOOG INC.
+
+
+
+
+
+SPE4A626T16XK.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	08-14-2026
+Return By:	08-21-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	Tech Docs
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7017868082
+
+	
+
+NSN: 1680-01-654-3312   Nomenclature: ACTUATOR,ELECTROMEC
+
+
+   AMSC: C     	NAICS: 336413     	Quantity: 3     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+81205	842-349272-1	THE BOEING COMPANY
+
+
+
+
+
+SPE4A526T368L.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	08-18-2026
+Return By:	08-25-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7017821934
+
+	
+
+NSN: 1680-01-170-5233   Nomenclature: SHAFT,ACTUATOR,SWIT
+
+
+   AMSC: Q     	NAICS: 336413     	Quantity: 3     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+8V613	7-311514084-11	THE BOEING COMPANY
+
+
+
+
+
+SPE7M226T6288.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	08-17-2026
+Return By:	08-27-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7017882142
+
+	
+
+NSN: 4810-01-723-0311   Nomenclature: ACTUATOR,ELECTRO-ME
+
+
+   AMSC: C     	NAICS: 332911     	Quantity: 5     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+018U9	K09275	
+
+
+
+
+
+SPE7M426T056K.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	05-05-2026
+Return By:	05-15-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7014819010
+
+	
+
+NSN: 3040-01-199-7996   Nomenclature: HOUSING,CYLINDER,PN
+
+
+   AMSC: L     	NAICS: 333613     	Quantity: 1     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+07270	28947	MOOG INC.
+07270	70-28490 ITEM 1	MOOG INC.
+
+
+
+
+
+SPE7L126T395L.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	04-21-2026
+Return By:	05-01-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	0090199146
+
+	
+
+NSN: 5330-00-737-5627   Nomenclature: SEAL,ACTUATOR ASSEM
+
+
+   AMSC: L     	NAICS: 339991     	Quantity: 130     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+07060	CEC4-5497	C. E. CONOVER & CO., INC.
+1X015	KEX6232	
+
+
+
+
+
+SPE7LX26U9525.PDF
+  » Package View
+
+
+
+uote  	 
+
+
+
+Issued:	08-11-2026
+Return By:	08-25-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	Tech Docs
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	1000239544
+
+	
+
+NSN: 2530-01-707-7928   Nomenclature: ACTUATOR ASSEMBLY,PARK
+
+
+   AMSC: B     	NAICS: 336330     	Quantity: 13     
+
+
+Specification, Drawing and Standard Data
+Amend No.: NC DTD: 12-20-2020
+I/A/W DRW: 064H2 402-5402 (BASIC)   DTD: 06-18-2026
+
+
+
+
+
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+064H2	402-5402	MARVIN LAND SYSTEMS, INC.
+
+
+
+
+
+SPE4A726T590T.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	07-23-2026
+Return By:	07-30-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7017572998
+
+	
+
+NSN: 1680-00-492-0817   Nomenclature: LINER,ACTUATOR
+
+
+   AMSC: R     	NAICS: 336413     	Quantity: 14     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+0A335	292340	LINEAR MOTION LLC
+3V697	CA67818-001	
+45934	CA67818-001	ONTIC ENGINEERING & MANUFACTURING,
+
+
+
+
+
+SPE4A626Q0894.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	05-05-2026
+Return By:	05-15-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Origin
+ 
+
+Tech Data:	Tech Docs
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7015600138
+
+	
+
+NSN: 3120-01-107-4751   Nomenclature: BEARING,ROTARY ACTUATO
+
+
+   AMSC: D     	NAICS: 333613     	Quantity: 263     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+81873	3151-103	WOODWARD HRT INC
+
+
+
+
+
+SPE7M126T191H.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	07-08-2026
+Return By:	07-23-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7016891935
+
+	
+
+NSN: 1680-01-330-6518   Nomenclature: ACTUATOR,ELECTRO-ME
+
+
+   AMSC: Z     	NAICS: 335313     	Quantity: 3     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+66842	M0J6120L	
+
+
+
+
+
+SPE4A726T3802.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	11-18-2025
+Return By:	11-25-2025
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Origin
+ 
+
+Tech Data:	Tech Docs
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7014494734
+
+	
+
+NSN: 0001S00000053   Nomenclature: CONTRACTOR FIRST ARTIC
+
+
+   AMSC: G     	NAICS: ______     	Quantity: 1     
+
+
+
+
+
+NSN: 1560-00-689-8348   Nomenclature: FITTING,ACTUATOR
+
+
+   AMSC: G     	NAICS: 336413     	Quantity: 1     
+
+
+Specification, Drawing and Standard Data
+Amend No.: E DTD: 01-30-1987
+I/A/W DRW: 98897 4F53293 (BASIC)   DTD: 09-24-2006
+
+
+   Type #: 4F53293-103B
+
+
+
+
+
+
+
+
+
+
+SPE4A726T375L.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	05-20-2026
+Return By:	05-27-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Origin
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7016844576
+
+	
+
+NSN: 1680-00-531-4119   Nomenclature: ACTUATOR,ELECTRO-ME
+
+
+   AMSC: C     	NAICS: 336413     	Quantity: 4     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+62228	321858P1	MEGGITT DEFENSE SYSTEMS, INC.
+62228	H321858P1	MEGGITT DEFENSE SYSTEMS, INC.
+70974	321858P1	NORTHROP GRUMMAN SYSTEMS CORPORATIO
+
+
+
+
+
+SPE7M125T096S.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	05-27-2025
+Return By:	06-06-2025
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7006349679
+
+	
+
+NSN: 4810-01-269-4840   Nomenclature: ACTUATOR,ELECTRO-ME
+
+
+   AMSC: R     	NAICS: 332911     	Quantity: 2     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+52374	3J7553-P	FLOWSERVE CORP
+52374	3K2279-P	FLOWSERVE CORP
+
+
+
+
+
+SPE4A626U2270.PDF
+  » Package View
+
+
+
+uote  	 
+
+
+
+Issued:	02-26-2026
+Return By:	04-01-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	1000224372
+
+	
+
+NSN: 1270-25-160-3168   Nomenclature: ACTUATOR,ELECTRO-ME
+
+
+   AMSC: D     	NAICS: 334511     	Quantity: 6     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+N0013	108674-01	KONGSBERG DEFENCE & AEROSPACE AS
+
+
+
+
+
+SPE4A526T276Q.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	07-08-2026
+Return By:	07-15-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7017408536
+
+	
+
+NSN: 1610-01-528-3358   Nomenclature: ACTUATOR INSTALLATI
+
+
+   AMSC: D     	NAICS: 336413     	Quantity: 1     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+73030	GS24588-1	HAMILTON SUNDSTRAND CORPORATION
+
+
+
+
+
+SPE7MC26T9308.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	05-06-2026
+Return By:	05-18-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7016529631
+
+	
+
+NSN: 4810-01-664-9773   Nomenclature: ACTUATOR,ELECTRO-ME
+
+
+   AMSC: Q     	NAICS: 332911     	Quantity: 1     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+0FCV0	EPI2-51	
+
+
+
+
+
+SPE7MC26T8854.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	04-24-2026
+Return By:	05-04-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7008972124
+
+	
+
+NSN: 4810-01-165-6095   Nomenclature: ACTUATOR,ELECTRO-ME
+
+
+   AMSC: C     	NAICS: 332911     	Quantity: 1     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+52374	3G8283-A/L120-10	FLOWSERVE CORP
+
+
+
+
+
+SPE7MC26T8711.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	04-24-2026
+Return By:	05-04-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7016484016
+
+	
+
+NSN: 4810-01-475-1700   Nomenclature: ACTUATOR,ELECTRO-ME
+
+
+   AMSC: L     	NAICS: 332911     	Quantity: 1     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+66822	20003-3	MORPAC INDUSTRIES, INC
+
+
+
+
+
+SPE7MC26T8569.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	04-23-2026
+Return By:	05-04-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7016471370
+
+	
+
+NSN: 4810-01-417-9374   Nomenclature: ACTUATOR,ELECTRO-ME
+
+
+   AMSC: C     	NAICS: 332911     	Quantity: 2     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+66822	20009 ASSY 3	MORPAC INDUSTRIES, INC
+66822	20009-3	MORPAC INDUSTRIES, INC
+
+
+
+
+
+SPE7MC26T167Y.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	08-05-2026
+Return By:	08-17-2026
+ 
+
+FOB Point:	Destination
+ 
+
+Inspection Point:	Origin
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7017733323
+
+	
+
+NSN: 4810-01-558-6065   Nomenclature: ACTUATOR,ELECTROMEC
+
+
+   AMSC: D     	NAICS: 336413     	Quantity: 1     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+1X5W8	MS5Q	
+63600	0511-25-S704-100	CURTISS-WRIGHT FLOW CONTROL CORPORA
+63600	MODEL MS05	CURTISS-WRIGHT FLOW CONTROL CORPORA
+63600	MS5Q	CURTISS-WRIGHT FLOW CONTROL CORPORA
+
+
+
+
+
+SPE7MC25T7262.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	02-11-2025
+Return By:	02-21-2025
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7008868082
+
+	
+
+NSN: 4810-01-122-3726   Nomenclature: ACTUATOR,ELECTRO-ME
+
+
+   AMSC: C     	NAICS: 332911     	Quantity: 4     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+52374	01-435-0166-5	FLOWSERVE CORP
+
+
+
+
+
+SPE7MC25T252W.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	09-16-2025
+Return By:	10-01-2025
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Origin
+ 
+
+Tech Data:	Tech Docs
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7013627043
+
+	
+
+NSN: 4820-00-761-2242   Nomenclature: DIAPHRAGM,ACTUATOR
+
+
+   AMSC: G     	NAICS: 332911     	Quantity: 5     
+
+
+Specification, Drawing and Standard Data
+Amend No.: R DTD: 08-29-2022
+I/A/W DRW: 53711 2158932 (BASIC)   DTD: 02-27-2024
+
+
+   Type #: 2158932-1
+
+
+
+
+
+
+
+
+
+
+SPE7M826T5123.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	06-30-2026
+Return By:	07-10-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	Tech Docs
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7017048187
+
+	
+
+NSN: 5930-01-289-4254   Nomenclature: ARM,SWITCH ACTUATOR
+
+
+   AMSC: C     	NAICS: 335313     	Quantity: 15     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+05825	3235023	OTSI, LLC
+
+
+
+
+
+SPE7M825T2886.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	02-28-2025
+Return By:	03-10-2025
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7011210380
+
+	
+
+NSN: 3010-01-646-3843   Nomenclature: ACTUATOR,ELECTRO-ME
+
+
+   AMSC: D     	NAICS: 333612     	Quantity: 9     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+6LBC3	6655482-2	THOMSON LINEAR LLC
+
+
+
+
+
+SPE7L326T118L.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	07-16-2026
+Return By:	07-27-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7017493830
+
+	
+
+NSN: 2510-01-062-6186   Nomenclature: ACTUATOR
+
+
+   AMSC: R     	NAICS: 336211     	Quantity: 1     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+11083	9D9746	CATERPILLAR INC
+
+
+
+
+
+SPE7L326T114Z.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	07-10-2026
+Return By:	07-20-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Origin
+ 
+
+Tech Data:	Tech Docs
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7017438782
+
+	
+
+NSN: 2530-01-707-9921   Nomenclature: ACTUATOR ASSEMBLY,PARK
+
+
+   AMSC: G     	NAICS: 333310     	Quantity: 2     
+
+
+Specification, Drawing and Standard Data
+Amend No.: B DTD: 12-19-2024
+I/A/W DRW: 19207 12591982 (BASIC)   DTD: 06-18-2026
+
+
+
+
+
+
+
+
+
+
+
+
+SPE4A626T66G8.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	05-21-2026
+Return By:	05-28-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7013232131
+
+	
+
+NSN: 2530-01-650-1170   Nomenclature: ACTUATOR,STEERING,M
+
+
+   AMSC: D     	NAICS: 336330     	Quantity: 4     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+03956	4800680	NORTHROP GRUMMAN SYSTEMS CORPORATIO
+
+
+
+
+
+SPE4A626T62R0.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	05-20-2026
+Return By:	05-27-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7016846092
+
+	
+
+NSN: 1680-01-379-0507   Nomenclature: ACTUATOR,ELECTRO-ME
+
+
+   AMSC: R     	NAICS: 314910     	Quantity: 25     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+78286	70200-74702-101	SIKORSKY AIRCRAFT CORPORATION
+
+
+
+
+
+SPE7L126T821S.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	07-10-2026
+Return By:	07-27-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Origin
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7017444042
+
+	
+
+NSN: 2530-01-563-6528   Nomenclature: ACTUATOR ASSEMBLY,A
+
+
+   AMSC: D     	NAICS: 336390     	Quantity: 1     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+9R200	K027781	
+
+
+
+
+
+SPE7L126T994A.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	08-20-2026
+Return By:	08-31-2026
+ 
+
+FOB Point:	Destination
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7017924289
+
+	
+
+NSN: 3040-99-372-9419   Nomenclature: ACTUATOR,MECHANICAL
+
+
+   AMSC: D     	NAICS: 333613     	Quantity: 1     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+K0107	P06821400 ITEM 2	MACTAGGART, SCOTT & CO. LTD
+K0107	P06827000	MACTAGGART, SCOTT & CO. LTD
+
+
+
+
+1 2 3 4 5
+
+
+· RFQ Text Search
+Query String:
+
+
+
+Modified: 
+Any time
+last hour
+last day
+last 7 days
+last 30 days
+last 60 days
+last 90 days
+last 365 days
+	Sort: 
+Best Match
+Newly Posted to Oldest
+Oldest Posted to Newest
+
+Filter:
+  
+Automated Indefinite Delivery Contract (AIDC)
+
+
+  
+Items with Technical Documents
+
+
+  
+Fast Award Candidates
+
+
+  
+Small Business Set-Asides
+
+
+  
+HUBZone Set-Asides
+
+	
+  
+Service Disabled Veteran Owned
+      Small Business Set-Asides
+
+
+Woman Owned Small Business Set-Asides
+
+
+Economically Disadvantaged Women Owned Small Business Set-Asides
+
+
+Unrestricted/Not Set-Asides
+
+
+ 
+
+
+
+
+ 
+Policy Statements · Feedback
+   EOXD8AUZtkHO8wt7m812jA==
+   Ver.6.3.2
+

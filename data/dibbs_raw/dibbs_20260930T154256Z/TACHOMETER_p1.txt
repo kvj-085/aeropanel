@@ -1,0 +1,2494 @@
+FAQ/Help · Refs · My Account · Log In
+
+
+   Home       Solicitations       RFQs       RFP/IFB/Other RFQs       Tech Data       Downloads        Awards   
+
+
+Navigation: 
+Navigation/Documents - - - - - -
+Accessibility
+Awards Area
+- Awards by Award DT
+- Awards by Post DT
+- Market Ready Orders ®
+- Post Award Request (PAR)®
+Batch Quoting ®
+Batch Quoting File Format
+BidSets
+Contracts
+Delivery Orders
+FAQs
+Feedback
+Forecast ®
+FSC ~ DLA Managed
+Global Search
+Home Page
+Invitation For Bid (IFB) Area
+Log In Screen
+Master Solicitation (PAC)
+Notices/Message Board
+Post Award Request (PAR)®
+Quoting Help
+Quote Search ®
+Request For Proposal (RFP)Area
+Request For Quote (RFQ) Area
+- RFQs by Issue Date
+- RFQs by Return By Date
+- RFQs Recent
+References
+Registration
+Solicitations
+SRVA ®
+User(s) Profile Update ®
+Vendor Profile Update ®
+Welcome Page ®
+Regs / Supplement Extracts ---
+DFARS 225.502
+DFARS 252.211-7005
+DFARS 252.211-7006
+DFARS 252.223-7001
+DFARS 252.225-7001
+DFARS 252.225-7035
+DFARS 252.225-7036
+DLAD 52.211-9000
+DLAD 52.213-9000
+DLAD 52.217-9002
+DLAD 52.219-9015
+DLAD 52.223-9000
+DLAD 52.233-9001
+FAR 52.209-1
+FAR 52.211-5
+FAR 52.212-3
+FAR 52.219-1
+FAR 52.222-18
+FAR 52.222-22
+FAR 52.222-25
+FAR 52.222-26
+FAR 52.223-3
+ 
+
+Database Search: 
+Choose Search
+RFQs - NSN
+RFQs - Solicitation
+RFQs - PR
+-----------------------
+Awards - Awardee CAGE
+Awards - Award/Basic Number
+Awards - Delivery Order #
+Awards - NSN
+Awards - PR
+-----------------------
+RFP/IFB/Other RFQs - Solicitation
+RFP/IFB/Other RFQs - NSN
+-----------------------
+CAGE Search
+  Value: 
+
+
+Notice:   · Suspension of CMMC Phase II » Read Notice
+
+  Please read notices posted on the Notices page.
+
+
+  Location: Home » Solicitations » RFQs » RFQ Text Search
+[
+RFQ Search
+-
+Recent RFQs
+-
+RFQs by Issue Date
+-
+RFQs by Return By Date
+-
+RFQs by FSC
+]
+[ 273 ] 9/30/2026 12:26:25 PM
+
+
+
+Documents Indexed: 161,967
+
+Additional RFQ Text Search Help
+
+Found 48 records for this search query string.
+Modified: Any time
+
+
+
+1
+Solicitation Information	Product Data
+
+SPE4A526T259B.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	06-24-2026
+Return By:	07-07-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	Tech Docs
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7017271712
+
+	
+
+NSN: 6680-01-625-7645   Nomenclature: GENERATOR,TACHOMETER
+
+
+   AMSC: Q     	NAICS: 334514     	Quantity: 11     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+57322	23059498T	241 HOLDINGS LC
+63005	23059498T	ROLLS-ROYCE CORPORATION
+
+
+
+
+
+SPE4A626Q1037.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	08-04-2026
+Return By:	08-18-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Origin
+ 
+
+Tech Data:	Tech Docs
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7011304261
+
+	
+
+NSN: 6680-00-432-5477   Nomenclature: GENERATOR,TACHOMETE
+
+
+   AMSC: B     	NAICS: 334519     	Quantity: 75     
+
+
+Specification, Drawing and Standard Data
+Amend No.: H DTD: 04-05-1974
+I/A/W DRW: 70210 531495 (BASIC)   DTD: 06-18-2026
+
+
+   Type #: 531495-3
+
+
+
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+02005	08TG873-1	HAYDON KERK MOTION SOLUTIONS, INC.
+14404	08TG873-1	
+
+
+
+
+
+SPE4A626T37ET.PDF
+  » Package View
+
+
+
+uote  	 
+
+
+
+Issued:	09-28-2026
+Return By:	10-05-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-09-27 06:21:43
+ 
+
+Purchase Request:	7011451830
+
+	
+
+NSN: 6680-01-701-8446   Nomenclature: TACHOMETER,ELECTRON
+
+
+   AMSC: D     	NAICS: 334514     	Quantity: 1     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+55588	TEC-R11-DD-TACH	
+
+
+
+
+
+SPE4A526T437T.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	09-17-2026
+Return By:	09-29-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-09-24 06:52:27
+ 
+
+Purchase Request:	7018377173
+
+	
+
+NSN: 6680-01-642-5810   Nomenclature: TACHOMETER,ELECTRONIC
+
+
+   AMSC: Z     	NAICS: 334519     	Quantity: 5     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+66268	20700246	MURPHY SAFETY SWITCH OF CALIFORNIA
+
+
+
+
+
+SPE4A526T456Q.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	09-21-2026
+Return By:	09-28-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-09-21 12:15:48
+ 
+
+Purchase Request:	7018412243
+
+	
+
+NSN: 6680-01-483-1206   Nomenclature: INDICATOR,ELECTRICAL T
+
+
+   AMSC: L     	NAICS: 334519     	Quantity: 1     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+27192	41-2688	DRS NAVAL POWER SYSTEMS INC
+
+
+
+
+
+SPE4A526T458T.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	09-21-2026
+Return By:	09-28-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-09-21 12:15:48
+ 
+
+Purchase Request:	7018414394
+
+	
+
+NSN: 6680-01-508-5909   Nomenclature: TACHOMETER,ELECTRIC,NO
+
+
+   AMSC: Q     	NAICS: 334513     	Quantity: 6     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+16476	103656	MAXIMA TECHNOLOGIES & SYSTEMS LLC
+
+
+
+
+
+SPE4A526T420B.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	09-11-2026
+Return By:	09-23-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-09-18 05:57:47
+ 
+
+Purchase Request:	7018068634
+
+	
+
+NSN: 6680-01-017-8443   Nomenclature: GENERATOR,TACHOMETER
+
+
+   AMSC: D     	NAICS: 334519     	Quantity: 5     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+12763	M1200A3	DYNALEC CORPORATION
+
+
+
+
+
+SPE4A526T402W.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	09-03-2026
+Return By:	09-10-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-09-02 12:39:45
+ 
+
+Purchase Request:	7018161594
+
+	
+
+NSN: 6680-01-469-6040   Nomenclature: TACHOMETER,MECHANICAL,
+
+
+   AMSC: D     	NAICS: 334519     	Quantity: 27     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+0LTF4	461895	
+
+
+
+
+
+SPE4A526T399A.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	09-01-2026
+Return By:	09-08-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Origin
+ 
+
+Tech Data:	Tech Docs
+ 
+
+Document Post/Updated:	2026-08-31 01:52:40
+ 
+
+Purchase Request:	7017732324
+
+	
+
+NSN: 0001S00000053   Nomenclature: CONTRACTOR FIRST ARTIC
+
+
+   AMSC: G     	NAICS: ______     	Quantity: 1     
+
+
+
+
+
+NSN: 6680-01-200-6045   Nomenclature: TACHOMETER,ELECTRONIC
+
+
+   AMSC: G     	NAICS: 334519     	Quantity: 63     
+
+
+Specification, Drawing and Standard Data
+Amend No.: L DTD: 03-27-1996
+I/A/W DRW: 19207 12337045 (BASIC)   DTD: 06-18-2026
+
+
+
+
+
+
+
+
+
+
+
+
+SPE4A626T23PN.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	08-27-2026
+Return By:	09-03-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-26 09:44:38
+ 
+
+Purchase Request:	7018069679
+
+	
+
+NSN: 6680-01-513-4154   Nomenclature: TACHOMETER,MECHANICAL,
+
+
+   AMSC: D     	NAICS: 334514     	Quantity: 11     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+21439	9C00371-1	CURTISS-WRIGHT FLOW CONTROL SERVICE
+
+
+
+
+
+SPE4A526T383V.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	08-24-2026
+Return By:	08-31-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-23 06:51:49
+ 
+
+Purchase Request:	7017943166
+
+	
+
+NSN: 6680-01-589-8438   Nomenclature: TACHOMETER,ELECTRONIC
+
+
+   AMSC: Z     	NAICS: 334513     	Quantity: 1     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+3Z7L8	20700254	WESTERN DIESEL SERVICES, INC.
+
+
+
+
+
+SPE4A526T360G.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	08-17-2026
+Return By:	08-24-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	Tech Docs
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7017915725
+
+	
+
+NSN: 6680-00-920-9213   Nomenclature: GENERATOR,TACHOMETER
+
+
+   AMSC: R     	NAICS: 334519     	Quantity: 9     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+35076	TG255-003	AIRCRAFT APPLIANCES AND EQUIPMENT
+97424	2CM9ABY7	AMETEK INC
+
+
+
+
+
+SPE4A526T6390.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	01-07-2026
+Return By:	01-14-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	Tech Docs
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7014918997
+
+	
+
+NSN: 6680-00-920-9213   Nomenclature: GENERATOR,TACHOMETER
+
+
+   AMSC: R     	NAICS: 334519     	Quantity: 4     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+35076	TG255-003	AIRCRAFT APPLIANCES AND EQUIPMENT
+97424	2CM9ABY7	AMETEK INC
+
+
+
+
+
+SPE4A526T070C.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	04-15-2026
+Return By:	04-22-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7016337286
+
+	
+
+NSN: 6680-01-706-9232   Nomenclature: TACHOMETER SUBASSEM
+
+
+   AMSC: D     	NAICS: 334514     	Quantity: 2     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+97424	1230K71G701	AMETEK INC
+
+
+
+
+
+SPE4A626T594K.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	01-27-2026
+Return By:	02-03-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	Tech Docs
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7013755095
+
+	
+
+NSN: 6680-00-920-9213   Nomenclature: GENERATOR,TACHOMETER
+
+
+   AMSC: R     	NAICS: 334519     	Quantity: 2     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+35076	TG255-003	AIRCRAFT APPLIANCES AND EQUIPMENT
+97424	2CM9ABY7	AMETEK INC
+
+
+
+
+
+SPE4A526T039H.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	03-30-2026
+Return By:	04-06-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7016029376
+
+	
+
+NSN: 6680-01-706-9232   Nomenclature: TACHOMETER SUBASSEM
+
+
+   AMSC: D     	NAICS: 334514     	Quantity: 1     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+97424	1230K71G701	AMETEK INC
+
+
+
+
+
+SPE4A626T5206.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	10-22-2025
+Return By:	10-29-2025
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	Tech Docs
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7014232965
+
+	
+
+NSN: 6680-01-655-8181   Nomenclature: TACHOMETER,ELECTRON
+
+
+   AMSC: Q     	NAICS: 334514     	Quantity: 9     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+Z1DF2	4202836	
+
+
+
+
+
+SPE4A626T11FU.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	08-03-2026
+Return By:	08-10-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	Tech Docs
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7017690778
+
+	
+
+NSN: 6680-00-923-8466   Nomenclature: GENERATOR,TACHOMETER
+
+
+   AMSC: C     	NAICS: 334519     	Quantity: 228     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+35076	TG255-007	AIRCRAFT APPLIANCES AND EQUIPMENT
+97424	2CM9ACF8	AMETEK INC
+
+
+
+
+
+SPE7L125T838U.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	08-01-2025
+Return By:	08-11-2025
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Origin
+ 
+
+Tech Data:	Tech Docs
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7012898103
+
+	
+
+NSN: 0001S00000052   Nomenclature: GOVERNMENT FIRST ARTIC
+
+
+   AMSC: C     	NAICS: ______     	Quantity: 1     
+
+
+
+
+
+NSN: 0001S00000061   Nomenclature: PRODUCTION LOT TESTING
+
+
+   AMSC: C     	NAICS: ______     	Quantity: 1     
+
+
+
+
+
+NSN: 3040-00-169-7696   Nomenclature: GEAR,TACHOMETER,NOS
+
+
+   AMSC: C     	NAICS: 333613     	Quantity: 6     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+No Data found
+
+
+
+
+
+SPE4A626T03JE.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	07-07-2026
+Return By:	07-14-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Origin
+ 
+
+Tech Data:	Tech Docs
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7008784244
+
+	
+
+NSN: 6680-01-313-3450   Nomenclature: TACHOMETER,ELECTRON
+
+
+   AMSC: G     	NAICS: 334519     	Quantity: 18     
+
+
+Specification, Drawing and Standard Data
+Amend No.: DTD: 04-25-1987
+I/A/W DRW: 98750 8446811 (BASIC)   DTD: 06-18-2026
+
+
+   Type #: 8446811
+
+
+
+
+
+
+
+
+
+
+SPE4A626T792A.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	02-24-2026
+Return By:	03-03-2026
+ 
+
+FOB Point:	Destination
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7015573026
+
+	
+
+NSN: 6680-00-526-8865   Nomenclature: TACHOMETER,MECHANIC
+
+
+   AMSC: C     	NAICS: 334519     	Quantity: 1     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+55380	3303478	HATCH & KIRK, INC.
+
+
+
+
+
+SPE4A626T10GU.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	07-30-2026
+Return By:	08-06-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	Tech Docs
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7017562448
+
+	
+
+NSN: 6680-00-923-8466   Nomenclature: GENERATOR,TACHOMETER
+
+
+   AMSC: C     	NAICS: 334519     	Quantity: 229     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+35076	TG255-007	AIRCRAFT APPLIANCES AND EQUIPMENT
+97424	2CM9ACF8	AMETEK INC
+
+
+
+
+
+SPE4A626T05Z5.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	03-25-2026
+Return By:	04-01-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Origin
+ 
+
+Tech Data:	Tech Docs
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7015992505
+
+	
+
+NSN: 6680-01-661-1493   Nomenclature: TACHOMETER,MECHANIC
+
+
+   AMSC: B     	NAICS: 334514     	Quantity: 26     
+
+
+Specification, Drawing and Standard Data
+Amend No.: DTD: 07-24-2017
+I/A/W DRW: 12934 80083224 (BASIC)   DTD: 03-17-2020
+
+
+
+
+
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+61974	DT-2100	ELECTROMATIC EQUIPMENT CO. INC.
+
+
+
+
+
+SPE4A526T7593.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	02-04-2026
+Return By:	02-11-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Origin
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7015270742
+
+	
+
+NSN: 6680-00-833-6128   Nomenclature: TACHOMETER,MECHANIC
+
+
+   AMSC: Z     	NAICS: 334519     	Quantity: 3     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+50309	10802	
+
+
+
+
+
+SPE4A625T29EH.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	08-19-2025
+Return By:	08-26-2025
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Origin
+ 
+
+Tech Data:	Tech Docs
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7013196046
+
+	
+
+NSN: 6680-00-150-6941   Nomenclature: TACHOMETER,MECHANIC
+
+
+   AMSC: D     	NAICS: 334519     	Quantity: 13     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+57733	501-L	
+
+
+
+
+
+SPE4A626T74K9.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	06-01-2026
+Return By:	06-11-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7016961188
+
+	
+
+NSN: 6680-01-391-8589   Nomenclature: TACHOMETER,MECHANIC
+
+
+   AMSC: L     	NAICS: 334519     	Quantity: 60     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+64678	AMA/000100696D3T00BVYO	DAIMLER TRUCK NORTH AMERICA LLC
+
+
+
+
+
+SPE4A526T141Q.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	05-14-2026
+Return By:	05-27-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7016752704
+
+	
+
+NSN: 6680-01-303-4420   Nomenclature: TACHOMETER,ELECTRON
+
+
+   AMSC: D     	NAICS: 334519     	Quantity: 2     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+16951	N-11-ECS/3C	QUANTUM-DYNAMICS CO.
+
+
+
+
+
+SPE4A626T60A7.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	05-19-2026
+Return By:	05-26-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Origin
+ 
+
+Tech Data:	Tech Docs
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7016785431
+
+	
+
+NSN: 6680-01-313-3450   Nomenclature: TACHOMETER,ELECTRON
+
+
+   AMSC: G     	NAICS: 334519     	Quantity: 4     
+
+
+Specification, Drawing and Standard Data
+Amend No.: DTD: 04-25-1987
+I/A/W DRW: 98750 8446811 (BASIC)   DTD: 09-18-2006
+
+
+   Type #: 8446811
+
+
+
+
+
+
+
+
+
+
+SPE4A626T937G.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	03-12-2026
+Return By:	03-19-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Origin
+ 
+
+Tech Data:	Tech Docs
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7011341939
+
+	
+
+NSN: 0001S00000053   Nomenclature: CONTRACTOR FIRST ARTIC
+
+
+   AMSC: Q     	NAICS: ______     	Quantity: 1     
+
+
+
+
+
+NSN: 6680-00-522-2483   Nomenclature: SENSOR,TACHOMETER,D
+
+
+   AMSC: Q     	NAICS: 334519     	Quantity: 4     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+48313	94066-1	B.C. SYSTEMS INC.
+52797	839-00099	AUTOMATION PRODUCTS GROUP, INC.
+
+
+
+
+
+SPE4A626T052X.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	11-18-2025
+Return By:	11-25-2025
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Origin
+ 
+
+Tech Data:	Tech Docs
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7014488661
+
+	
+
+NSN: 6680-01-313-3450   Nomenclature: TACHOMETER,ELECTRON
+
+
+   AMSC: G     	NAICS: 334519     	Quantity: 2     
+
+
+Specification, Drawing and Standard Data
+Amend No.: DTD: 04-25-1987
+I/A/W DRW: 98750 8446811 (BASIC)   DTD: 09-18-2006
+
+
+   Type #: 8446811
+
+
+
+
+
+
+
+
+
+
+SPE4A526T310A.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	07-28-2026
+Return By:	08-11-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7014494637
+
+	
+
+NSN: 6680-01-263-3612   Nomenclature: TACHOMETER,ELECTRIC
+
+
+   AMSC: L     	NAICS: 334519     	Quantity: 2     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+16476	71784-16	MAXIMA TECHNOLOGIES & SYSTEMS LLC
+
+
+
+
+
+SPE4A625T18TP.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	07-28-2025
+Return By:	08-04-2025
+ 
+
+FOB Point:	Destination
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7013067414
+
+	
+
+NSN: 6680-01-177-1469   Nomenclature: TACHOMETER,ELECTRIC
+
+
+   AMSC: Q     	NAICS: 334519     	Quantity: 1     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+30471	B1490	AMERICAN HOFMANN CORP
+
+
+
+
+
+SPE4A626T35WA.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	09-23-2026
+Return By:	09-30-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Origin
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-09-22 06:20:26
+ 
+
+Purchase Request:	7017940145
+
+	
+
+NSN: 6680-00-522-6397   Nomenclature: GENERATOR,TACHOMETE
+
+
+   AMSC: C     	NAICS: 334519     	Quantity: 11     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+05606	139C7804	GENERAL DYNAMICS-OTS, INC.
+
+
+
+
+
+SPE7M126T330Q.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	09-09-2026
+Return By:	09-24-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-09-21 09:12:56
+ 
+
+Purchase Request:	7009697067
+
+	
+
+NSN: 6105-00-463-4909   Nomenclature: MOTOR-TACHOMETER GENER
+
+
+   AMSC: D     	NAICS: 335312     	Quantity: 47     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+54572	ST-8111	
+
+
+
+
+
+SPE4A626T30UR.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	09-17-2026
+Return By:	09-24-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	Tech Docs
+ 
+
+Document Post/Updated:	2026-09-16 12:32:07
+ 
+
+Purchase Request:	7004236080
+
+	
+
+NSN: 6680-00-610-9790   Nomenclature: GENERATOR,TACHOMETE
+
+
+   AMSC: G     	NAICS: 334519     	Quantity: 1     
+
+
+Specification, Drawing and Standard Data
+Amend No.: D DTD: 11-19-1986
+I/A/W DRW: 18876 9053925 (BASIC)   DTD: 06-18-2026
+
+
+
+
+
+
+
+
+
+
+
+
+SPE4A526T9628.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	03-11-2026
+Return By:	03-27-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7015852240
+
+	
+
+NSN: 6680-01-503-9443   Nomenclature: INDICATOR,ELECTRICA
+
+
+   AMSC: G     	NAICS: 334513     	Quantity: 4     
+
+
+Specification, Drawing and Standard Data Mil-Spec
+Amend No.: B DTD: 02-23-2021
+I/A/W SPEC: MIL-DTL-16034B (BASIC)   DTD: 10-03-2006
+
+
+   Type #: MR49W040ATVVH
+
+
+
+
+
+
+
+
+
+
+SPE7M125T303B.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	09-03-2025
+Return By:	09-15-2025
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Origin
+ 
+
+Tech Data:	Tech Docs
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7013453521
+
+	
+
+NSN: 6105-01-227-1194   Nomenclature: MOTOR-TACHOMETER GENER
+
+
+   AMSC: G     	NAICS: 335312     	Quantity: 32     
+
+
+Specification, Drawing and Standard Data
+Amend No.: E DTD: 01-28-1992
+I/A/W DRW: 19200 9359810 (BASIC)   DTD: 09-21-2006
+
+
+
+
+
+
+
+
+
+
+
+
+SPE7MC24T433H.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	09-12-2024
+Return By:	09-26-2024
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	Tech Docs
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7009119547
+
+	
+
+NSN: 4940-01-123-4840   Nomenclature: KIT,ACCESSORY,TOOL
+
+
+   AMSC: G     	NAICS: 333310     	Quantity: 1     
+
+
+Specification, Drawing and Standard Data
+Amend No.: A DTD: 11-14-1986
+I/A/W DRW: 97403 13222E6231 (BASIC)   DTD: 04-01-2011
+
+
+
+
+
+
+
+
+
+
+
+
+SPE7MC24T378E.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	08-16-2024
+Return By:	08-29-2024
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	Tech Docs
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7008712185, 7008712188
+
+	
+
+NSN: 4940-01-123-4840   Nomenclature: KIT,ACCESSORY,TOOL
+
+
+   AMSC: G     	NAICS: 333310     	Quantity: 2     
+
+
+Specification, Drawing and Standard Data
+Amend No.: A DTD: 11-14-1986
+I/A/W DRW: 97403 13222E6231 (BASIC)   DTD: 04-01-2011
+
+
+
+
+
+
+
+
+
+
+
+
+SPE4A625T04T7.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	03-19-2025
+Return By:	03-26-2025
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	Tech Docs
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7004561579
+
+	
+
+NSN: 6680-00-916-6940   Nomenclature: GENERATOR,TACHOMETE
+
+
+   AMSC: C     	NAICS: 334514     	Quantity: 1     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+01170	8-750-9901000	BELLOFRAM CORPORATION
+
+
+
+
+
+SPE4A626T01EN.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	06-26-2026
+Return By:	07-06-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Origin
+ 
+
+Tech Data:	Tech Docs
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7017225180
+
+	
+
+NSN: 6680-00-115-8666   Nomenclature: GENERATOR,TACHOMETE
+
+
+   AMSC: B     	NAICS: 334519     	Quantity: 18     
+
+
+Specification, Drawing and Standard Data
+Amend No.: D DTD: 10-14-1993
+I/A/W DRW: 10001 2805506 (BASIC)   DTD: 06-18-2026
+
+
+   Type #: 2805506P1
+
+
+
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+05088	CR09612001	KEARFOTT CORP
+
+
+
+
+
+SPE4A626T117X.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	11-21-2025
+Return By:	11-28-2025
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Origin
+ 
+
+Tech Data:	Tech Docs
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7011033694
+
+	
+
+NSN: 6680-00-553-8892   Nomenclature: GENERATOR,TACHOMETE
+
+
+   AMSC: T     	NAICS: 333618     	Quantity: 125     
+
+
+Specification, Drawing and Standard Data Mil-Spec
+Amend No.: E DTD: 11-21-2023
+I/A/W SPEC: MS25038E (BASIC)   DTD: 10-03-2006
+
+
+   Type #: MS25038-4
+
+
+
+
+
+
+
+
+
+
+SPE4A626T396Z.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	12-30-2025
+Return By:	01-06-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Origin
+ 
+
+Tech Data:	Tech Docs
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7014902601
+
+	
+
+NSN: 6680-00-553-8892   Nomenclature: GENERATOR,TACHOMETE
+
+
+   AMSC: T     	NAICS: 333618     	Quantity: 37     
+
+
+Specification, Drawing and Standard Data Mil-Spec
+Amend No.: E DTD: 11-21-2023
+I/A/W SPEC: MS25038E (BASIC)   DTD: 10-03-2006
+
+
+   Type #: MS25038-4
+
+
+
+
+
+
+
+
+
+
+SPE4A526T274A.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	07-07-2026
+Return By:	07-14-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	Tech Docs
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7017384063
+
+	
+
+NSN: 6620-01-659-5145   Nomenclature: INDICATOR,ELECTRICAL T
+
+
+   AMSC: D     	NAICS: 334515     	Quantity: 2     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+15434	5367834	CUMMINS INC.
+
+
+
+
+
+SPE4A625T27VP.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	08-15-2025
+Return By:	02-24-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7013368975
+
+	
+
+NSN: 6680-01-490-4443   Nomenclature: INDICATOR,ELECTRICA
+
+
+   AMSC: D     	NAICS: 334513     	Quantity: 4     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+12763	PK420-1	DYNALEC CORPORATION
+
+
+
+
+
+SPE4A526T310Q.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	07-29-2026
+Return By:	08-05-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Origin
+ 
+
+Tech Data:	None
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7017584379
+
+	
+
+NSN: 6680-00-618-5821   Nomenclature: GENERATOR,TACHOMETE
+
+
+   AMSC: C     	NAICS: 334519     	Quantity: 1     
+
+
+Approved Source Data
+
+
+CAGE	Part Number	Company Name
+54374	30A-0262	MOTOR MAGNETICS, INC.
+
+
+
+
+
+SPE7M126T056D.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	05-08-2026
+Return By:	05-18-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Origin
+ 
+
+Tech Data:	Tech Docs
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7008203949
+
+	
+
+NSN: 6105-01-227-1194   Nomenclature: MOTOR-TACHOMETER GENER
+
+
+   AMSC: G     	NAICS: 335312     	Quantity: 20     
+
+
+Specification, Drawing and Standard Data
+Amend No.: E DTD: 01-28-1992
+I/A/W DRW: 19200 9359810 (BASIC)   DTD: 09-21-2006
+
+
+
+
+
+
+
+
+
+
+
+
+SPE4A026T4044.PDF
+  » Package View
+
+
+
+uote  	
+
+
+
+Issued:	07-24-2026
+Return By:	07-31-2026
+ 
+
+FOB Point:	Origin
+ 
+
+Inspection Point:	Destination
+ 
+
+Tech Data:	Tech Docs
+ 
+
+Document Post/Updated:	2026-08-21 02:41:27
+ 
+
+Purchase Request:	7017552658
+
+	
+
+NSN: 6680-00-610-9790   Nomenclature: GENERATOR,TACHOMETE
+
+
+   AMSC: G     	NAICS: 334519     	Quantity: 1     
+
+
+Specification, Drawing and Standard Data
+Amend No.: D DTD: 11-19-1986
+I/A/W DRW: 18876 9053925 (BASIC)   DTD: 06-18-2026
+
+
+
+
+
+
+
+
+
+
+
+1
+
+
+· RFQ Text Search
+Query String:
+
+
+
+Modified: 
+Any time
+last hour
+last day
+last 7 days
+last 30 days
+last 60 days
+last 90 days
+last 365 days
+	Sort: 
+Best Match
+Newly Posted to Oldest
+Oldest Posted to Newest
+
+Filter:
+  
+Automated Indefinite Delivery Contract (AIDC)
+
+
+  
+Items with Technical Documents
+
+
+  
+Fast Award Candidates
+
+
+  
+Small Business Set-Asides
+
+
+  
+HUBZone Set-Asides
+
+	
+  
+Service Disabled Veteran Owned
+      Small Business Set-Asides
+
+
+Woman Owned Small Business Set-Asides
+
+
+Economically Disadvantaged Women Owned Small Business Set-Asides
+
+
+Unrestricted/Not Set-Asides
+
+
+ 
+
+
+
+
+ 
+Policy Statements · Feedback
+   EOXD8AUZtkHO8wt7m812jA==
+   Ver.6.3.2
+

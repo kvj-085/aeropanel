@@ -1,0 +1,13 @@
+[
+  {
+    "snapshot_id": "SAM_active_2026-09-30_v1",
+    "kind": "active",
+    "snapshot_date": "2026-09-30",
+    "snapshot_version": 1,
+    "downloaded_local": "2026-09-30T13:13:28",
+    "ingested_utc": "20260930T171328Z",
+    "original_file": "data\\sam_downloads\\ContractOpportunitiesFullCSV_20260930T171319Z.csv",
+    "stored_as": "data\\sam_snapshots\\SAM_active_2026-09-30_v1.csv",
+    "sha256": "a00217623a4e6072e56b2029c9e498cfff865601485904f92937b4b6cc9632ab"
+  }
+]

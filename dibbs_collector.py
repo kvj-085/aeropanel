@@ -121,7 +121,7 @@ def classify(df: pd.DataFrame, run_id: str) -> dict:
             out["broad_context"].append(rec); continue
         if m["broad_only"]:
             rec["review_flag"] = "broad keyword, but it is the item noun"
-        reason = exclusion(normalize(nom), m)
+        reason = exclusion(normalize(nom), m, fsc=str(rec.get("nsn") or "")[:4])
         if reason:
             rec["reason"] = reason; out["excluded"].append(rec); continue
         amsc = str(rec.get("amsc") or "").strip().upper()
@@ -275,20 +275,35 @@ def click_no_wait(page, locator, what):
     print(f"    {what}", end="", flush=True)
 
 
-def wait_for_results(page, dialogs, raw_dir, name, previous_first_sol=None, limit=600):
-    """Poll every 5 s until 'Found N records' is on the page (and, when paging, the first
-    solicitation has changed). Popups and time-outs become visible errors with a screenshot."""
+CLEAR_FOUND_JS = """
+() => {
+  // Erase the old 'Found N records' text before a click, so the next 'Found' we see is NEW.
+  // (Bug seen 2026-09-30: later searches were read from the stale PANEL page.)
+  const w = document.createTreeWalker(document.body, NodeFilter.SHOW_TEXT);
+  let t, n = 0;
+  while ((t = w.nextNode())) {
+    if (/Found \\d+ records/.test(t.nodeValue)) { t.nodeValue = t.nodeValue.replace(/Found \\d+ records/, 'AERO-WAITING'); n++; }
+  }
+  return n;
+}
+"""
+
+
+def clear_old_results(page):
+    safe_eval(page, CLEAR_FOUND_JS)
+
+
+def wait_for_results(page, dialogs, raw_dir, name, limit=600):
+    """Poll every 5 s until a NEW 'Found N records' is on the page. Popups and time-outs
+    become visible errors with a screenshot."""
     waited = 0
     while True:
         if dialogs:
             debug_dump(page, raw_dir, f"{name}_popup")
             raise RuntimeError(f"DIBBS showed a popup: {dialogs[0]!r}")
         try:
-            body = page.inner_text("body")
-            if re.search(r"Found \d+ records", body):
-                first = SOL_SPLIT.search(body)
-                if previous_first_sol is None or (first and first.group(1) != previous_first_sol):
-                    break
+            if re.search(r"Found \d+ records", page.inner_text("body")):
+                break
         except Exception:
             pass                                          # page is mid-navigation
         if waited >= limit:
@@ -298,15 +313,40 @@ def wait_for_results(page, dialogs, raw_dir, name, previous_first_sol=None, limi
         print(".", end="", flush=True)
     print(f" {waited}s")
     settle(page)
+    time.sleep(1)
+
+
+def safe_content(page, tries=6):
+    for i in range(tries):
+        try:
+            settle(page)
+            return page.content()
+        except Exception as e:
+            if i == tries - 1:
+                raise
+            time.sleep(2)
+
+
+SEARCH_URL = {"url": None}
 
 
 def set_sort_newest(page):
+    """Pick a newest-first sort if DIBBS offers one; always report which options exist."""
     try:
         for sel in page.locator("select").all():
-            opts = sel.locator("option").all_inner_texts()
-            pick = [o for o in opts if o.strip().lower().startswith("newest")]
+            opts = [o.strip() for o in sel.locator("option").all_inner_texts()]
+            if not any("match" in o.lower() for o in opts):      # Text Search sort list has "Best Match";
+                continue                                          # skip the left form's Scope list
+            def newest_first(o):
+                l = o.lower()
+                if "newest" in l and "oldest" in l:
+                    return l.index("newest") < l.index("oldest")
+                return any(k in l for k in ("newest", "most recent", "descending", "latest"))
+            pick = [o for o in opts if newest_first(o)]
             if pick:
-                sel.select_option(label=pick[0]); return pick[0]
+                sel.select_option(label=pick[0])
+                return f"{pick[0]} (options: {' | '.join(opts)})"
+            return f"unchanged (Best Match) (options: {' | '.join(opts)})"
     except Exception:
         pass
     return "unchanged (Best Match)"
@@ -324,7 +364,14 @@ def run_search(page, term, max_pages, delay, raw_dir, run_id):
     safe = re.sub(r"[^A-Za-z0-9]+", "_", term)
     dialogs = []
     page.once("dialog", lambda d: (dialogs.append(d.message), d.dismiss()))
-    found = safe_eval(page, MARK_JS)
+    found = {"box": False, "button": False}
+    for attempt in range(4):
+        found = safe_eval(page, MARK_JS)
+        if found["box"] and found["button"]:
+            break
+        time.sleep(3)
+        if attempt == 2 and SEARCH_URL["url"]:            # page got lost: reload the search page
+            page.goto(SEARCH_URL["url"], timeout=120_000); settle(page)
     if not found["box"]:
         debug_dump(page, raw_dir, f"{safe}_no_box")
         raise RuntimeError("Text Search 'Query String' box not found - are you on the RFQs page with "
@@ -337,8 +384,15 @@ def run_search(page, term, max_pages, delay, raw_dir, run_id):
     if box.input_value().strip() != term:
         raise RuntimeError(f"Typed '{term}' but the box contains '{box.input_value()}'")
     sort_used = set_sort_newest(page)
+    clear_old_results(page)
     click_no_wait(page, page.locator("[data-aero=qbtn]"), "searching")
     wait_for_results(page, dialogs, raw_dir, safe)
+    check = safe_eval(page, MARK_JS)                     # the results page should still show our term
+    if check["box"]:
+        shown = page.locator("[data-aero=qbox]").input_value().strip()
+        if shown and shown.upper() != term.upper():
+            debug_dump(page, raw_dir, f"{safe}_wrong_term")
+            raise RuntimeError(f"Results page shows query '{shown}', expected '{term}' - not saving stale results")
     body = page.inner_text("body")
     reported = int(re.search(r"Found (\d+) records", body).group(1))
     rows, pages, stop_reason = [], 0, "all pages retrieved"
@@ -347,7 +401,7 @@ def run_search(page, term, max_pages, delay, raw_dir, run_id):
         settle(page)
         body = page.inner_text("body")
         links = safe_eval(page, "() => [...document.querySelectorAll('a')].map(e => [e.innerText.trim(), e.href])")
-        (raw_dir / f"{safe}_p{page_no}.html").write_text(page.content(), encoding="utf-8")
+        (raw_dir / f"{safe}_p{page_no}.html").write_text(safe_content(page), encoding="utf-8")
         (raw_dir / f"{safe}_p{page_no}.txt").write_text(body, encoding="utf-8")
         (raw_dir / f"{safe}_p{page_no}.links.json").write_text(json.dumps(links))
         rows += parse_results_text(body, links, term, page_no, fetched)
@@ -364,36 +418,58 @@ def run_search(page, term, max_pages, delay, raw_dir, run_id):
         if page_no == max_pages:
             stop_reason = f"stopped at --max-pages {max_pages}"
             break
-        first_now = SOL_SPLIT.search(body)
+        clear_old_results(page)
         click_no_wait(page, nxt.first, f"page {page_no + 1}")
-        wait_for_results(page, dialogs, raw_dir, f"{safe}_p{page_no + 1}",
-                         previous_first_sol=first_now.group(1) if first_now else None)
+        wait_for_results(page, dialogs, raw_dir, f"{safe}_p{page_no + 1}")
         time.sleep(delay)                                    # be polite to a government server
     retrieved = len({r["solicitation"] for r in rows})
     issued = pd.to_datetime(pd.Series([r.get("issued") for r in rows], dtype=str), format="%m-%d-%Y", errors="coerce")
-    return rows, {"earliest_issued_seen": str(issued.min().date()) if issued.notna().any() else "",
+    first = rows[0]["solicitation"] if rows else ""
+    return rows, {"first_solicitation": first, "earliest_issued_seen": str(issued.min().date()) if issued.notna().any() else "",
                   "latest_issued_seen": str(issued.max().date()) if issued.notna().any() else "","term": term, "records_reported": reported, "pages_fetched": pages,
                   "solicitations_retrieved": retrieved, "lines_parsed": len(rows), "sort": sort_used,
                   "complete": retrieved >= reported, "stop_reason": stop_reason, "status": "SUCCESS"}
 
 
 def download_pdfs(context, candidates_csv: Path, pdf_dir: Path) -> dict:
+    """Download solicitation PDFs with the browser's own session.
+    The PDF server can show its own DoD notice first (seen 2026-09-30: HTTP 200 but an HTML page).
+    In that case the script opens one PDF in a tab, YOU accept the notice, and it retries."""
     df = pd.read_csv(candidates_csv, dtype=str) if candidates_csv.exists() and candidates_csv.stat().st_size > 1 else pd.DataFrame()
     pdf_dir.mkdir(parents=True, exist_ok=True)
     stats = {"requested": 0, "downloaded": 0, "already_had": 0, "failed": []}
-    for _, r in df.drop_duplicates("sol_key").iterrows() if len(df) else []:
+    prompted = False
+    rows = df.drop_duplicates("sol_key").to_dict("records") if len(df) else []
+    for r in rows:
         dest = pdf_dir / f"{r['sol_key']}.PDF"
         stats["requested"] += 1
         if dest.exists():
             stats["already_had"] += 1; continue
-        try:
-            resp = context.request.get(r["pdf_url"], timeout=120_000)
-            if resp.ok and resp.body()[:4] == b"%PDF":
-                dest.write_bytes(resp.body()); stats["downloaded"] += 1
-            else:
-                stats["failed"].append(f"{r['sol_key']}: HTTP {resp.status}")
-        except Exception as e:
-            stats["failed"].append(f"{r['sol_key']}: {e}")
+        url = str(r.get("pdf_url") or "")
+        if not url.startswith("http"):
+            stats["failed"].append(f"{r['sol_key']}: no PDF link"); continue
+        for attempt in (1, 2):
+            try:
+                resp = context.request.get(url, timeout=120_000)
+                body = resp.body()
+            except Exception as e:
+                body, resp = b"", None
+                err = str(e)
+            if body[:4] == b"%PDF":
+                dest.write_bytes(body); stats["downloaded"] += 1; break
+            if attempt == 1 and not prompted:
+                prompted = True
+                (pdf_dir / "_first_non_pdf_response.html").write_bytes(body or b"")
+                tab = context.new_page()
+                try:
+                    tab.goto(url, timeout=120_000)
+                except Exception:
+                    pass                                  # a direct PDF download also lands here
+                input("\nA PDF link returned a web page instead of the PDF (probably a notice banner).\n"
+                      "In the new browser tab: accept the notice if one is shown. Then press Enter here.\n")
+                continue
+            stats["failed"].append(f"{r['sol_key']}: HTTP {resp.status if resp else '?'}, not a PDF")
+            break
         time.sleep(1)
     return stats
 
@@ -406,23 +482,49 @@ def main():
     ap.add_argument("--max-pages", type=int, default=20)
     ap.add_argument("--delay", type=float, default=2.0, help="seconds between page requests")
     ap.add_argument("--pdfs", action="store_true", help="download PDFs for AMSC-G candidates")
-    ap.add_argument("--reparse", help="re-parse a saved data/dibbs_raw/<run_id> folder (no website access)")
+    ap.add_argument("--pdfs-only", help="download PDFs for an existing run folder, e.g. data/runs/dibbs_<id> (no searching)")
+    ap.add_argument("--start-at", help="skip preset terms before this one (resume an interrupted run)")
+    ap.add_argument("--reparse", nargs="+", help="re-parse one or more saved data/dibbs_raw/<run_id> folders "
+                                                  "into ONE combined output (no website access)")
     args = ap.parse_args()
 
     run_id = f"dibbs_{utc_stamp()}"
     counts = {"run_id": run_id, "source": "DIBBS", "cutoff_provisional": CUTOFF}
 
+    if args.pdfs_only:
+        from playwright.sync_api import sync_playwright
+        run_dir = Path(args.pdfs_only)
+        with sync_playwright() as p:
+            browser = p.chromium.launch(headless=False)
+            context = browser.new_context(accept_downloads=True)
+            page = context.new_page()
+            page.goto(DIBBS_HOME, timeout=120_000)
+            input("\nAccept the DoD notice banner in the browser, then press Enter here.\n")
+            stats = download_pdfs(context, run_dir / "g_candidates_main_2026.csv", DATA / "dibbs_pdfs")
+            browser.close()
+        counts.update({"mode": f"pdf download for {run_dir}", "pdfs": stats,
+                       "status": "SUCCESS" if not stats["failed"] else "PARTIAL"})
+        log_run(counts); print(json.dumps(counts, indent=2)); return
+
     if args.reparse:
-        raw_dir = Path(args.reparse)
-        rows = []
-        for txt in sorted(raw_dir.glob("*_p*.txt")):
-            m = re.match(r"(.+)_p(\d+)$", txt.stem)
-            links = json.loads((raw_dir / f"{txt.stem}.links.json").read_text())
-            rows += parse_results_text(txt.read_text(encoding="utf-8"), links, m.group(1), int(m.group(2)),
-                                       f"saved page {txt.name}")
-        counts["mode"] = f"reparse of {raw_dir}"
+        rows, seen_terms = [], set()
+        for folder in args.reparse:                    # later folders win if a term appears twice
+            raw_dir = Path(folder)
+            for txt in sorted(raw_dir.glob("*_p*.txt")):
+                m = re.match(r"(.+)_p(\d+)$", txt.stem)
+                links_file = raw_dir / f"{txt.stem}.links.json"
+                if not m or not links_file.exists():
+                    continue
+                rows = [r for r in rows if not (r["search_term"] == m.group(1) and r.get("_folder") != folder)]
+                for r in parse_results_text(txt.read_text(encoding="utf-8"), json.loads(links_file.read_text()),
+                                            m.group(1), int(m.group(2)), f"saved page {raw_dir.name}/{txt.name}"):
+                    r["_folder"] = folder
+                    rows.append(r)
+        for r in rows:
+            r.pop("_folder", None)
+        counts["mode"] = f"offline reparse of {len(args.reparse)} saved folder(s): {', '.join(args.reparse)}"
         counts = write_outputs(rows, [], run_id, counts)
-        counts["status"] = "SUCCESS (offline reparse - not a live run)"
+        counts["status"] = "SUCCESS (offline reparse of saved live pages)"
         log_run(counts); print(json.dumps(counts, indent=2, default=str)); return
 
     if args.terms_file:
@@ -430,6 +532,11 @@ def main():
     terms = args.terms or (ROOT_TERMS if args.preset == "roots" else FULL_TERMS if args.preset == "full" else [])
     if not terms:
         sys.exit("Give --terms or --preset")
+    if args.start_at:
+        up = [t.upper() for t in terms]
+        if args.start_at.upper() not in up:
+            sys.exit(f"--start-at {args.start_at!r} is not in the term list")
+        terms = terms[up.index(args.start_at.upper()):]
     raw_dir = DATA / "dibbs_raw" / run_id
     raw_dir.mkdir(parents=True, exist_ok=True)
     counts.update({"mode": "live", "terms": len(terms), "max_pages": args.max_pages, "raw_pages": str(raw_dir)})
@@ -449,12 +556,22 @@ def main():
             if page is None:
                 raise RuntimeError("No open tab shows the 'Query String' Text Search form")
             counts["search_page_url"] = page.url
+            SEARCH_URL["url"] = page.url
             print(f"Using tab: {page.url}")
             for i, term in enumerate(terms, 1):
                 print(f"[{i}/{len(terms)}] {term} ...", flush=True)
                 try:
+                    # Always start each term from a fresh search page. (2026-09-30: searching again from a
+                    # results page returned the PREVIOUS term's results.)
+                    page.goto(SEARCH_URL["url"], timeout=120_000)
                     settle(page)
                     rows, info = run_search(page, term, args.max_pages, args.delay, raw_dir, run_id)
+                    prev = next((x for x in reversed(summary) if x.get("status") == "SUCCESS"), None)
+                    if (prev and info["records_reported"] > 0 and info["records_reported"] == prev["records_reported"]
+                            and info["first_solicitation"] == prev["first_solicitation"]):
+                        raise RuntimeError(f"Results identical to previous term '{prev['term']}' "
+                                           f"({info['records_reported']} records, same first solicitation) - "
+                                           "treated as stale, not saved")
                     all_rows += rows
                     print(f"    reported {info['records_reported']}, retrieved {info['solicitations_retrieved']}"
                           f" ({info['stop_reason']})")
