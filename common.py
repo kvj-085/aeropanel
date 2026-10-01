@@ -131,3 +131,18 @@ def log_run(entry: dict):
     entry = {"logged_utc": datetime.now(timezone.utc).isoformat(), **entry}
     with RUN_LOG.open("a", encoding="utf-8") as f:
         f.write(json.dumps(entry) + "\n")
+
+
+def strip_fsc_prefix(title) -> str:
+    """DLA notices on SAM.gov are titled like '59--SWITCH,PUSH' (FSC group prefix). Drop the prefix."""
+    return re.sub(r"^\s*\d{2}\s*-{1,2}\s*", "", str(title or ""))
+
+
+def dla_context_check(item_name: str, m, fsc: str = "") -> str | None:
+    """Same rules for DIBBS nomenclature and DLA-style SAM.gov titles:
+    broad keyword must be the item noun (text before the first comma); then the brief's exclusions."""
+    noun = normalize(str(item_name).split(",")[0])
+    hits = [k for k in m["keyword_tags"].split("; ") if k]
+    if m["broad_only"] and "," in str(item_name) and not any(kw_pattern(k).search(noun) for k in hits):
+        return f"Broad keyword only in modifier, item noun is '{str(item_name).split(',')[0].strip()}'"
+    return exclusion(normalize(item_name), m, fsc)

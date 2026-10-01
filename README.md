@@ -153,6 +153,30 @@ Text Search behaviour we observed (these become rules in the code):
 | 09-30 | 2-term test (PANEL, BEZEL) after the fix: BEZEL **still** returned PANEL's results (1,084 records, same first solicitation SPE8E526T4503), even though it genuinely waited for a new page. So a search submitted **from a results page** re-runs the previous query on DIBBS's side. | Every term now starts from a **freshly loaded search page**. A guard also fails any term whose count and first solicitation are identical to the previous term's, instead of saving it. The sort options DIBBS offers are logged per term (no newest-first option was found, so Best Match is used). |
 | 09-30 | PDF downloads: HTTP 200 but a web page, not a PDF | The PDF server shows its own notice. The script now opens one PDF in a tab, you accept the notice, and it retries. `--pdfs-only <run folder>` downloads PDFs without re-searching. |
 
+### Awards spot-check of the late-route rule (2026-10-01)
+
+DIBBS package status was "Open" for all 1,172 checked solicitations, so "Open after the deadline" was tested before relying on it.
+8 "Late route verified" solicitations (oldest deadlines Jan 16-20, highest values, two mid-range) were searched in
+**DIBBS Awards → Search Categories: Solicitation → Scope: All**:
+
+| Solicitation | Item | Deadline | Awards found |
+|---|---|---|---|
+| SPE4A626T456Z | Wiring harness | 2026-01-16 | 0 |
+| SPE4A626T472Z | Cable assembly | 2026-01-20 | 0 |
+| SPE4A526T6635 | Lens, light | 2026-01-20 | 0 |
+| SPE4A626T10BX | Cable assembly | 2026-08-05 | 0 |
+| SPE7M826T6662 | Switch, reed | 2026-09-25 | 0 |
+| SPE4A626T30ZQ | Wiring harness | 2026-09-24 | 0 |
+| SPE7L126T775V | Window, vehicular | 2026-07-09 | 0 |
+| SPE4A626T22HS | Wiring harness | 2026-09-02 | 0 |
+
+Result: 0 of 8 had an award on file, so the rule (`LATE_ROUTE_FROM_OPEN_STATUS = True`) is kept. Screenshots are in the evidence folder.
+Limit: a sample of 8 supports the rule but doesn't prove it for all 1,006+ items. Awards can also post with a delay.
+
+**Statuses are relative to the run date.** Rebuilding the report on Oct 1 moved some items from "Currently open"
+to "Late route verified" because their return-by dates passed (lines: Sept 30 = 174 open / 1,028 late; Oct 1 = 146 open / 1,056 late).
+The totals didn't change.
+
 ---
 
 ## 4. Where each required field comes from

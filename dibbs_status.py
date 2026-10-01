@@ -6,8 +6,8 @@ For every AMSC-G candidate solicitation from a DIBBS collector run, this script
      (Open / Removed / Awarded / ...), Issue Date and Return By, saving the page as evidence
   2. downloads the solicitation PDF (for quantities per line, price history and gates)
 
-It uses the browser's own session (you accept the DoD notice yourself), but fetches pages
-directly over HTTP, which is much faster than clicking through them.
+It drives the browser like a person would (you accept the DoD notice yourself). PDFs arrive as
+downloads from DIBBS's second server; the script catches each download and saves it to data/dibbs_pdfs.
 
     python dibbs_status.py                              # latest DIBBS run, all G candidates
     python dibbs_status.py --run data/runs/dibbs_<id>   # a specific run
@@ -97,93 +97,122 @@ def main():
 
     from playwright.sync_api import sync_playwright
     rows, pdf_stats = [], {"downloaded": 0, "already_had": 0, "failed": 0}
-    prompted_pkg = prompted_pdf = False
+
+    def save_progress():
+        nonlocal rows
+        if rows:
+            old = pd.read_csv(csv_path, dtype=str) if csv_path.exists() else pd.DataFrame()
+            pd.concat([old, pd.DataFrame(rows)], ignore_index=True).to_csv(csv_path, index=False)
+            rows = []
+
+    def is_notice(h: str) -> bool:
+        t = html_to_text(h).lower()
+        return ("package data" not in t) and any(k in t for k in ("consent", "notice", "i agree", "you are accessing"))
+
     try:
         with sync_playwright() as p:
             browser = p.chromium.launch(headless=False)
-            context = browser.new_context()
+            context = browser.new_context(accept_downloads=True)
             page = context.new_page()
             page.goto(DIBBS_HOME, timeout=120_000)
             input("\nAccept the DoD notice banner in the browser, then press Enter here.\n")
+
+            # ---- PDF handling: DIBBS serves PDFs as downloads from a second server (dibbs2),
+            # which shows its own notice the first time. We catch the download event and save it ourselves.
+            pdf_page = context.new_page()
+            downloads = []
+            pdf_page.on("download", lambda dl: downloads.append(dl))
+
+            def fetch_pdf(url: str, dest: Path) -> str:
+                downloads.clear()
+                resp = None
+                try:
+                    resp = pdf_page.goto(url, timeout=90_000)
+                except Exception:
+                    pass                                   # "Download is starting" is expected here
+                if resp is not None:
+                    try:
+                        body = resp.body()
+                        if body[:4] == b"%PDF":            # PDF shown inline instead of downloaded
+                            dest.write_bytes(body); return "downloaded"
+                    except Exception:
+                        pass
+                for _ in range(60):                        # wait up to 30 s for the download to start
+                    if downloads:
+                        break
+                    pdf_page.wait_for_timeout(500)
+                if downloads:
+                    downloads[-1].save_as(str(dest))
+                    return "downloaded" if dest.exists() and dest.read_bytes()[:4] == b"%PDF" else "failed (download not a PDF)"
+                try:
+                    return "notice" if is_notice(pdf_page.content()) else "failed (no download)"
+                except Exception:
+                    return "failed (no download)"
+
+            prompted_pdf = False
             for i, t in enumerate(targets.itertuples(index=False), 1):
                 if t.sol_key in done:
                     continue
                 url = PKG_URL.format(sol=t.sol_key)
                 checked = utc_stamp()
-                for attempt in (1, 2):
+                h, code = "", ""
+                for attempt in (1, 2):                     # real page navigation (same as a person clicking)
                     try:
-                        resp = context.request.get(url, timeout=120_000)
-                        h, code = resp.text(), resp.status
+                        resp = page.goto(url, timeout=120_000, wait_until="domcontentloaded")
+                        code = resp.status if resp else ""
+                        h = page.content()
                     except Exception as e:
-                        h, code = "", f"error: {e}"
-                    info = parse_package(h)
-                    if info["parse_issue"].startswith("not a package page") and attempt == 1 and not prompted_pkg:
-                        prompted_pkg = True
-                        page.goto(url, timeout=120_000)
-                        input("\nThe package page came back as a notice page. Accept it in the browser, "
-                              "then press Enter.\n")
+                        h, code = "", f"error: {type(e).__name__}"
+                    if attempt == 1 and is_notice(h):
+                        input("\nDIBBS showed its notice again. Accept it in the browser, then press Enter.\n")
                         continue
                     break
                 evid = out_dir / "pages" / f"{t.sol_key}.html"
                 evid.write_text(h, encoding="utf-8")
+                info = parse_package(h)
                 row = {"sol_key": t.sol_key, "package_url": url, "http_status": code, "checked_utc": checked,
-                       "evidence_file": str(evid), **info}
+                       "evidence_file": str(evid), "status": "", "status_raw": "", "issue_date": "", "return_by": "",
+                       **info}
 
-                # ---- PDF
                 pdf = pdf_dir / f"{t.sol_key}.PDF"
                 if args.no_pdfs:
                     row["pdf"] = "skipped"
                 elif pdf.exists():
                     row["pdf"] = "already had"; pdf_stats["already_had"] += 1
                 elif str(t.pdf_url).startswith("http"):
-                    for attempt in (1, 2):
-                        try:
-                            body = context.request.get(t.pdf_url, timeout=120_000).body()
-                        except Exception:
-                            body = b""
-                        if body[:4] == b"%PDF":
-                            pdf.write_bytes(body); row["pdf"] = "downloaded"; pdf_stats["downloaded"] += 1
-                            break
-                        if attempt == 1 and not prompted_pdf:
-                            prompted_pdf = True
-                            (out_dir / "_first_non_pdf_response.html").write_bytes(body)
-                            tab = context.new_page()
-                            try:
-                                tab.goto(t.pdf_url, timeout=120_000)
-                            except Exception:
-                                pass
-                            input("\nA PDF link returned a web page (probably the PDF server's notice). "
-                                  "Accept it in the new tab, then press Enter.\n")
-                            continue
-                        row["pdf"] = "failed (not a PDF)"; pdf_stats["failed"] += 1
-                        break
+                    result = fetch_pdf(t.pdf_url, pdf)
+                    if result == "notice" and not prompted_pdf:
+                        prompted_pdf = True
+                        pdf_page.bring_to_front()
+                        input("\nThe PDF server is showing its own notice (in the 2nd tab). Accept it there, "
+                              "then press Enter.\n")
+                        page.bring_to_front()
+                        result = fetch_pdf(t.pdf_url, pdf)
+                    row["pdf"] = result
+                    pdf_stats["downloaded" if result == "downloaded" else "failed"] += 1
                 else:
                     row["pdf"] = "no link"
                 rows.append(row)
-                if len(rows) % 25 == 0:                # save progress regularly
-                    pd.concat([pd.read_csv(csv_path, dtype=str) if csv_path.exists() else pd.DataFrame(),
-                               pd.DataFrame(rows)]).to_csv(csv_path, index=False)
-                    rows = []
-                    print(f"  {i}/{len(targets)} checked", flush=True)
+                print(f"  [{i}/{len(targets)}] {t.sol_key}: {row['status'] or row['parse_issue']} | pdf: {row['pdf']}",
+                      flush=True)
+                if len(rows) >= 25:
+                    save_progress()
                 time.sleep(args.delay)
+            save_progress()
             browser.close()
     except (Exception, KeyboardInterrupt) as e:
-        if rows:
-            pd.concat([pd.read_csv(csv_path, dtype=str) if csv_path.exists() else pd.DataFrame(),
-                       pd.DataFrame(rows)]).to_csv(csv_path, index=False)
+        save_progress()
         counts.update({"status": "FAILED/INTERRUPTED", "error": f"{type(e).__name__}: {e}",
                        "resume_with": f"python dibbs_status.py --run {run_dir} --resume {out_dir}"})
         log_run(counts)
         print("\n*** STATUS CHECK INTERRUPTED - progress saved. Resume with:\n   " + counts["resume_with"])
         sys.exit(1)
 
-    if rows:
-        pd.concat([pd.read_csv(csv_path, dtype=str) if csv_path.exists() else pd.DataFrame(),
-                   pd.DataFrame(rows)]).to_csv(csv_path, index=False)
-    res = pd.read_csv(csv_path, dtype=str)
-    counts.update({"checked_total": len(res), "status_counts": res["status"].fillna("unparsed").value_counts().to_dict(),
-                   "parse_issues": int((res["parse_issue"].fillna("") != "").sum()), "pdfs": pdf_stats,
-                   "status": "SUCCESS"})
+    res = pd.read_csv(csv_path, dtype=str) if csv_path.exists() else pd.DataFrame(columns=["status", "parse_issue"])
+    st = res.get("status", pd.Series(dtype=str)).fillna("").replace("", "unparsed")
+    counts.update({"checked_total": len(res), "status_counts": st.value_counts().to_dict(),
+                   "parse_issues": int((res.get("parse_issue", pd.Series(dtype=str)).fillna("") != "").sum()),
+                   "pdfs": pdf_stats, "status": "SUCCESS" if (st != "unparsed").any() else "FAILED (no page parsed)"})
     (out_dir / "stage_counts.json").write_text(json.dumps(counts, indent=2))
     log_run(counts)
     print(json.dumps(counts, indent=2))

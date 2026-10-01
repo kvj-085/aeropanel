@@ -1,9 +1,8 @@
 .env
-# data/
-__pycache__/
 .env.example
-.venv/
-
+venv/
+__pycache__/
 data/sam_snapshots/
-data/runs/sam_20260930T171319Z
-data/runs/sam_20260930T171548Z
+data/sam_downloads/
+data/runs/sam_*/
+data/reports/

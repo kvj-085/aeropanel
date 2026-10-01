@@ -1,0 +1,18 @@
+{
+  "run_id": "status_20260930T191011Z",
+  "source": "DIBBS package status",
+  "from_collector_run": "data\\runs\\dibbs_20260930T154256Z",
+  "targets": 1172,
+  "already_done": 20,
+  "checked_total": 1172,
+  "status_counts": {
+    "Open": 1172
+  },
+  "parse_issues": 0,
+  "pdfs": {
+    "downloaded": 1152,
+    "already_had": 0,
+    "failed": 0
+  },
+  "status": "SUCCESS"
+}

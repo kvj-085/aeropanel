@@ -20,6 +20,7 @@ from pathlib import Path
 import pandas as pd
 
 from common import (DATA, START_2026, CUTOFF, normalize, match, exclusion, norm_nsn, norm_sol,
+                    strip_fsc_prefix, dla_context_check,
                     utc_stamp, log_run)
 
 SNAP_DIR = DATA / "sam_snapshots"
@@ -187,7 +188,10 @@ def run_matching(frame: pd.DataFrame, population: str):
                     "nsn_found": norm_nsn(f"{row.get('Title')} {row.get('Description')}"),
                     "amsc": "", "amsc_status": "unverified (SAM.gov has no AMSC field)",
                     "review_flag": "broad keyword only" if m["broad_only"] else ""})
-        reason = exclusion(t_n, m, fsc=row.get("ClassificationCode"))
+        nsn_f = norm_nsn(f"{row.get('Title')} {row.get('Description')}")
+        reason = (dla_context_check(strip_fsc_prefix(row.get("Title")), m,
+                                    fsc=nsn_f[:4] if nsn_f else str(row.get("ClassificationCode") or ""))
+                  if where == "title" else exclusion(t_n, m, fsc=row.get("ClassificationCode")))
         if reason:
             rec["exclusion_reason"] = reason
             excluded.append(rec)

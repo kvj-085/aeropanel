@@ -19,7 +19,8 @@ import json, re, sys
 from datetime import datetime, timezone
 from pathlib import Path
 import pandas as pd
-from common import DATA, CUTOFF, CATEGORY_NAMES, norm_sol, norm_nsn, utc_stamp, log_run
+from common import (DATA, CUTOFF, CATEGORY_NAMES, norm_sol, norm_nsn, utc_stamp, log_run, normalize, match,
+                    strip_fsc_prefix, dla_context_check)
 
 # Treat DIBBS "Open" after the return-by date as a verified late-quotation route.
 # DIBBS defines Open as "RFQs available for quoting". Set to False to downgrade these to Follow-up needed.
@@ -45,7 +46,8 @@ def latest(pattern: str, must_have: str) -> Path | None:
 
 def num(x):
     try:
-        return float(str(x).replace(",", ""))
+        v = float(str(x).replace(",", ""))
+        return None if v != v else v                  # NaN -> None (unpriced, never a fake price)
     except (TypeError, ValueError):
         return None
 
@@ -195,6 +197,15 @@ def build_sam_lines(sam: pd.DataFrame, population: str, amsc: dict, dibbs_sols: 
                                 "title": r.get("Title"), "resolution": "Cross-posted: counted once, under the DIBBS record"})
             continue
         nsn = r.get("nsn_found") or ""
+        # apply the same item-name rules as DIBBS (noun rule, structural FSC, exclusions) to DLA-style titles
+        name = strip_fsc_prefix(r.get("Title"))
+        m = match(normalize(name))
+        fsc = nsn[:4] if nsn else str(r.get("ClassificationCode") or "")[:4]
+        reason = dla_context_check(name, m, fsc) if m else None
+        if reason:
+            crossposted.append({"NoticeId": r.get("NoticeId"), "solicitation": r.get("Sol#"), "sol_key": sk, "nsn": nsn,
+                                "title": r.get("Title"), "resolution": f"SAM.gov item-name rule: {reason}"})
+            continue
         code, src = amsc.get(nsn, ("", ""))
         status, evidence, checked = sam_status(r, sam_awards)
         row = {"population": population, "source": "SAM.gov", "solicitation": r.get("Sol#"), "sol_key": sk,
@@ -472,7 +483,7 @@ def main():
                           dread("first_article_lines.csv").assign(log="first-article / test line"),
                           sread("exclusion_log.csv").assign(log="SAM.gov keyword rule"),
                           excluded_status.assign(log="awarded / cancelled"),
-                          pd.DataFrame(xpost + sp_x).assign(log="cross-post dedupe")], ignore_index=True)
+                          pd.DataFrame(xpost + sp_x).assign(log="SAM.gov cross-post dedupe / item-name rule")], ignore_index=True)
         text_only = dread("text_hit_not_in_nomenclature.csv")
         desc_only = sread("description_only_review.csv")
         terms = dread("term_summary.csv")
